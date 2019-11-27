@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 11:11:10">
+<title><content-text><![CDATA[2.1.2  - Time Division Multiplexing (TDM)]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the concept of Time Division Multiplexing (TDM).<br>In the example shown, a multiplexer (MUX) at the transmission end accepts three separate signals, a video camera, a voice switch, and a router. The MUX breaks each signal into segments and puts each segment into a single channel by inserting each segment into a timeslot. At the receiving end, another MUX separates the single serial transmission stream into the three original ones and sends the output to the appropriate device. There are eight bits per timeslot (TS). Timeslots TS 0 through TS 31 are shown.<br><br>- TDM shares available transmission time on a medium by assigning timeslots to users.<br>- The MUX accepts input from attached devices in a round-robin fashion and transmits the data in a never-ending pattern.<br>- T1/E1 and ISDN telephone lines are common examples of synchronous TDM.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_12_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>Loose cable connections
+
+Improperly installed NIC
+
+Check NIC link lights
+
+Low wireless signal strength
+
+Invalid IP address</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CONTENT 02">
+        <source>•   Company Name</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_PROBLEM SYMPTOM">
+        <source>Gather Data from the Customer</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_SCREEN3_01">
+        <source>Problem Symptom</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_SCREEN3_02">
+        <source>Possible Solution</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_SCREEN3_03">
+        <source>You have a dual-boot system, but you are unable to access the second operating system</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_SCREEN3_04">
+        <source>Make sure the boot .ini is not corrupt and that it is correct</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_SCREEN3_05">
+        <source>A screen goes blank after you install an updated graphics driver</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_SCREEN3_06">
+        <source>If the new driver is bad, boot to VGA mode and use Roll Back Driver to restore the previous driver</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_SCREEN3_07">
+        <source>A customer plans to install Windows XP on 100 computers in a new branch office over a weekend, but is very concerned about how much time it will take</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_SCREEN3_08">
+        <source>Advise the customer that the installation CD will take too long. Consult with the customer about one of the automated installation solutions</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_SCREEN3_09">
+        <source>The customer is receiving warnings about the hard drive becoming too full</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_SCREEN3_10">
+        <source>Run the Disk Cleanup utility to delete temp files</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_SCREEN3_11">
+        <source>A customer receives error messages that an application will not launch because a required service is not running</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_SCREEN3_12">
+        <source>Ask the customer for the name of the service in the error message and restart the service</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_SCREEN3_13">
+        <source>System runs for a few minutes then locks up</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_SCREEN3_14">
+        <source>Check fan power cable, verify fan operation, verify thermal compound properly applied</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_SCREEN4_01">
+        <source>Check that all cables are connected to the proper locations
+
+Unseat and then reconnect cables and connectors
+
+Reboot the computer or network device
+
+Log in as a different user 
+
+Repair or re-enable the network connection
+
+Contact the network administrator</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_SCREEN5_01">
+        <source>          is used to check network connectivity. It sends a packet to the specified address and waits for a reply.
+
+
+                    is used to query Internet domain name servers. It returns a list of hosts in a domain or the information for one host.
+
+               is used to determine the route taken by packets when they travel across the network. It shows where communications between your computer and another computer are having difficulty.
+
+                  is used to display a list of computers in a workgroup. It shows the available shared resources on a network.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_SCREEN6_01">
+        <source>Problem Solving Experience
+
+Other Technicians
+
+Internet Search
+
+News Groups
+
+Manufacturer FAQs
+
+Computer Manuals
+
+Device Manuals
+
+Online Forums
+
+Technical Websites</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_SCREEN7_01">
+        <source>Discuss the solution implemented with customer
+
+Have the customer verify problem has been solved
+
+Provide customer with all paperwork
+
+Document steps taken to solve the problem in the work order and the technician’s journal
+
+Document any components used in the repair
+
+Document the time spent to resolve the problem</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_STEP 01">
+        <source>Gather Data from the Customer</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_STEP 02">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TITLE1">
+        <source>Open-Ended Questions
+</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TITLE2">
+        <source>Closed-Ended Questions
+</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TITLE3">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TITLE4">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TITLE5">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TITLE5A">
+        <source>What type of network connection is the computer using?</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TITLE6">
+        <source>Evaluate the Problem and Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TITLE6A">
+        <source>What problems are you experiencing with your computer or network?</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TITLE7">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TITLE7A">
+        <source>What software has been installed on your computer recently?</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TITLE8">
+        <source>What were you doing when the problem was identified?</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TITLE9">
+        <source>What error messages have you received on your computer?</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TITLE10">
+        <source>Is there a pause, or does the computer restart instantly? </source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TITLE11">
+        <source>Has anyone else used your computer recently?</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TITLE12">
+        <source>Can you see any shared files or printers?</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TITLE13">
+        <source>Have you changed your password recently?</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TITLE14">
+        <source>Can you access the Internet?</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TITLE15">
+        <source>Are you currently logged into the network?</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TITLE16">
+        <source>Is there a wireless NIC in this computer? </source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TITLE16A">
+        <source>Is the computer turned off at night? </source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TITLE16B">
+        <source>Is the computer secured in a locked room at night? </source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TITLE16C">
+        <source>Do you have a Windows XP installation CD on hand?</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>Troubleshooting Process</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TXT_36">
+        <source>•</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_TXT_002">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_TXT_00">
+        <source>Gather Data from the Customer</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_TITLE1SS">
+        <source>Troubleshooting Process</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_TXT_001">
+        <source>•</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_TXT_048">
+        <source>Net View </source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_TXT_047">
+        <source>Ping</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_TXT_046">
+        <source>Nslookup</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_TXT_045">
+        <source>Tracert </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

@@ -1,0 +1,72 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<b>Códigos do campo de opções configuráveis</b>]]></text> 
+</component>
+<component id="ID_1a">
+ <text><![CDATA[<b>Nome da opção</b>]]></text> 
+</component>
+
+<component id="ID_1b">
+ <text><![CDATA[<b>Tipo de opção</b>]]></text> 
+ </component>
+
+<component id="ID_1c">
+ <text><![CDATA[<b>Tamanho da opção</b>]]></text> 
+</component>
+
+<component id="ID_1d">
+ <text><![CDATA[<b>Descrição</b>]]></text> 
+</component>
+
+<component id="tableHTML">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+  <tr>
+
+ </tr>
+  <tr>
+    <td width='150' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Maximum Receive Unit (MRU)</td>
+    <td width='100' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1</td>
+    <td width='120' width='' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>4</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>MRU é o tamanho máximo de um quadro PPP, não podendo exceder 65.535. O padrão é 1.500 e, caso algum túnel esteja alterando o padrão, ele não é negociado.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Asynchronous Control Character Map (ACCM)</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>2</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>6</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Este é um mapa de bits que permite escapes de caractere escapar para links assíncronos. Por padrão, os escapes de caractere são utilizados. </td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Protocolo de autenticação</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>3</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>5 ou 6</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Este campo indica o protocolo de autenticação, PAP ou CHAP. </td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Magic Number</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>5</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>6 </td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Este é um número aleatório escolhido para diferenciar um túnel e detectar linhas com loopback.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Protocolo de compressão</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>7</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>2</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Um flag que indica que a ID do protocolo PPP deve ser comprimida em um único octeto quando a ID do protocolo de 2 bytes está no intervalo entre 0x00-00 e 0x00-FF.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Endereço e compressão do campo de controle</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>8</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>2</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Um flag que indica que o campo Endereço PPP (sempre definido como 0xFF) e o campo Controle PPP (sempre definido como 0x03) devem ser removidos do cabeçalho PPP. </td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Retorno</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>13 ou 0x0D</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>3</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Um indicador de 1 octeto sobre como o retorno deve ser determinado. </td>
+  </tr>
+</table>
+]]></text> 
+  </component>
+</textcomponents>

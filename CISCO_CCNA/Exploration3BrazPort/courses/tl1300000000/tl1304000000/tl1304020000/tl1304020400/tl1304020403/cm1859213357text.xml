@@ -1,0 +1,155 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Modo transparente em ação</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para exibir a animação.</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>O switch S3 em modo Transparente de VTP foi configurado com VLANs<br />O switch S4 foi adicionado à rede</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Nome de domínio VTP = cisco1<br/>Modo de VTP = Servidor<br/>Revisão de configuração = 2<br/>VLANs = 1,2,3</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Nome de domínio VTP = <font color='#FF0000'>cisco1</font><br/>Modo VTP = <font color='#FF0000'>Transparente</font><br/>Revisão de configuração = <font color='#FF0000'>0</font><br/>VLANs = <font color='#FF0000'>1,2,3,4,5,6</font></b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Nome de domínio VTP = cisco1<br/>Modo VTP = Cliente<br/>Revisão de configuração = 2<br/>VLANs = 1,2,3</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Nome de domínio VTP = cisco1<br/>Modo VTP = <font color='#FF0000'>Cliente</font><br/>Revisão de configuração = 0<br/>VLANs = 1</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Servidor</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Transparente</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Cliente</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Cliente</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt10">
+<text><![CDATA[<b>O switch S1 envia um anúncio sumarizado periódico</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Nome de domínio VTP = cisco1<br/>Modo VTP = Servidor<br/>Revisão de configuração = 2<br/>VLANs = 1,2,3</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Nome de domínio VTP = cisco1<br/>Modo VTP = Transparente<br/>Revisão de configuração = 0<br/>VLANs = 1,2,3,4,5,6</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Nome de domínio VTP = cisco1<br/>Modo VTP = Cliente<br/>Revisão de configuração = 2<br/>VLANs = 1,2,3</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Nome de domínio VTP = <font color='#FF0000'>cisco1</font><br/>Modo VTP = Cliente<br/>Revisão de configuração = 0<br/>VLANs = 1</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Resumo</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>O switch S4 solicita as informações de configuração de VLAN</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Solicitação</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>O switch S1 responde com um anúncio sumarizado </b>]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b>O switch S1 responde com um anúncio de subconjunto contendo as configuração de VLAN</b>]]></text>
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[<b>Subconjunto</b>]]></text>
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[<b>Nome de domínio VTP = <font color='#FF0000'>cisco1</font><br/>Modo VTP = Cliente<br/>Revisão de configuração = <font color='#FF0000'>2</font><br/>VLANs = <font color='#FF0000'>1,2,3</font></b>]]></text>
+</component>
+
+<component id="ID_txt22">
+<text><![CDATA[<b>Ao longo desta seqüência, o switch S3 encaminha somente anúncios VTP<br/>Número de revisão e configurações de VLAN estão inalterados</b>]]></text>
+</component>
+
+<component id="ID_txt23">
+<text><![CDATA[<b>Nome de domínio VTP = cisco1<br/>Modo VTP = Transparente<br/>Revisão de configuração = <font color='#FF0000'>0</font><br/>VLANs = <font color='#FF0000'>1,2,3,4,5,6</font></b>]]></text>
+</component>
+
+<component id="ID_txt24">
+<text><![CDATA[<b>Nome de domínio VTP = <font color='#FF0000'>cisco1</font><br/>Modo VTP = Cliente<br/>Revisão de configuração = 2<br/>VLANs = 1,2,3</b>]]></text>
+</component>
+
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<component id="play2">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause2">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind2">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward2">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute2">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute2"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous2"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next2">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript2">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+</textcomponents>

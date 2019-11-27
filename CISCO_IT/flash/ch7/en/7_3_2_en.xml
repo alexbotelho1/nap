@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="7_3_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>All-in-One Advantages and Disadvantages</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>All-in-One Activity</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>All-in-One Activity</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_01">
+        <source> All-In-One Devices</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_02">
+        <source>All devices are built in: Scanner, Fax, Printer</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_03">
+        <source>Low cost</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_04">
+        <source>One place for support-single manufacture</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_05">
+        <source>Upgrades are easier: software is designed for all devices</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_06">
+        <source>Connection and setup is easy, one port</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_07">
+        <source>Not modular: if one device breaks, all devices may not be operational</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_08">
+        <source>Dedicated devices generally have more funtionality</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_09">
+        <source>Generally NOT built to be networked (many users)</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_11">
+        <source>Advantages:</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_12">
+        <source>Disadvantages:</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_13">
+        <source>Advantages:</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_14">
+        <source>Disadvantages:</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_15">
+        <source>All Devices  Built-In</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_16">
+        <source>Not Modular</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_17">
+        <source>Easy Upgrades</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_18">
+        <source>Dedicated Device Functn.</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_19">
+        <source>One Place  Support </source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_20">
+        <source> Less Robust</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_21">
+        <source> Non-Networked </source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_22">
+        <source>Low Cost</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_23">
+        <source>One Port Connection</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_24">
+        <source>Easy Setup  </source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_0034">
+        <source> • </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

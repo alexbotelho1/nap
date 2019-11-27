@@ -1,0 +1,392 @@
+<textcomponents>
+
+<!-- slide buttons-->
+<component id="ID_button_01">
+  <text><![CDATA[<b>Atividade 1</b>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<b>Atividade 2</b>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<b>Atividade 3</b>]]></text> 
+</component>
+
+<component id="ID_button_04">
+  <text><![CDATA[<b>Atividade 4</b>]]></text> 
+</component>
+
+<!-- slide 1 -->
+	<component id="ID_title1">
+	  <text><![CDATA[<b>Arquitetura de camadas PPP</b>]]></text> 
+	</component>
+	
+	<component id="ID_check1">
+	  <text><![CDATA[<b>Verificar</b>]]></text> 
+	</component>
+	
+	<component id="ID_reset1">
+	  <text><![CDATA[<b>Redefinir</b>]]></text> 
+	</component>
+	
+	<component id="ID_instruction1">
+	  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Arraste e solte os rótulos no local apropriado no diagrama. Nem todas as respostas são usadas. Alguns locais no diagrama podem ter mais de uma resposta correta.]]></text> 
+	</component>
+
+	<component id="ID_correctTitle1">
+	  <text><![CDATA[Corrigir]]></text>
+	</component>
+
+	<component id="ID_correctText1">
+	  <text><![CDATA[Parabéns! Você rotulou o diagrama corretamente.]]></text>
+	</component>
+
+	<component id="ID_incorrectTitle1">
+	  <text><![CDATA[Incorreto]]></text>
+	</component>
+
+	<component id="ID_incorrectText1">
+	  <text><![CDATA[Incorreto, tente novamente.]]></text>
+	</component>
+
+	<component id="ID_ppp">
+	  <text><![CDATA[<b>PPP</b>]]></text> 
+	</component>
+	
+	<component id="ID_layer3">
+	  <text><![CDATA[<b>Camada3</b>]]></text> 
+	</component>
+	
+	<component id="ID_protocols">
+	  <text><![CDATA[<b>Protocolos</b>]]></text> 
+	</component>
+	
+	<component id="ID_many">
+	  <text><![CDATA[<b>Muitos outros</b>]]></text> 
+	</component>
+	
+	<component id="ID_ipcp">
+	  <text><![CDATA[<b>IPCP</b>]]></text> 
+	</component>
+	
+	<component id="ID_data">
+	  <text><![CDATA[<b>Cam. enlace de dados</b>]]></text> 
+	</component>
+	
+	<component id="ID_network">
+	  <text><![CDATA[<b>Prot de controle de rede</b>]]></text> 
+	</component>
+	
+	<component id="ID_ipx">
+	  <text><![CDATA[<b>IPX</b>]]></text> 
+	</component>
+	
+	<component id="ID_asynchronous">
+	  <text><![CDATA[<b>Assíncrono</b>]]></text> 
+	</component>
+	
+	<component id="ID_transport">
+	  <text><![CDATA[<b>Camada de transporte</b>]]></text> 
+	</component>
+	
+	<component id="ID_authentication">
+	  <text><![CDATA[<b>Autenticação</b>]]></text> 
+	</component>
+	
+	<component id="ID_synchronous">
+	  <text><![CDATA[<b>Síncrono</b>]]></text> 
+	</component>
+	
+	<component id="ID_multiplexing">
+	  <text><![CDATA[<b>Multiplexação</b>]]></text> 
+	</component>
+	
+	<component id="ID_link">
+	  <text><![CDATA[<b>Prot de controle de link</b>]]></text> 
+	</component>
+	
+	<component id="ID_ip">
+	  <text><![CDATA[<b>IP</b>]]></text> 
+	</component>
+	
+	<component id="ID_nLayer">
+	  <text><![CDATA[<b>Camada de rede</b>]]></text> 
+	</component>
+	
+	<component id="ID_ipxcp">
+	  <text><![CDATA[<b>IPXCP</b>]]></text> 
+	</component>
+	
+	<component id="ID_simultaneous">
+	  <text><![CDATA[<b>Simultâneo</b>]]></text> 
+	</component>
+	
+	<component id="ID_physical">
+	  <text><![CDATA[<b>Camada física</b>]]></text> 
+	</component>
+	
+	<component id="ID_ipx">
+	  <text><![CDATA[<b>IPX</b>]]></text> 
+	</component>
+
+
+<!-- slide 2 -->
+	<component id="ID_title2">
+	  <text><![CDATA[<b>Funções LCP e NCP</b>]]></text> 
+	</component>
+
+	<component id="ID_check2">
+	  <text><![CDATA[<b>Verificar</b>]]></text> 
+	</component>
+	
+	<component id="ID_reset2">
+	  <text><![CDATA[<b>Redefinir</b>]]></text> 
+	</component>
+
+	<component id="ID_instruction2">
+	  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Clique na coluna apropriada na tabela para identificar se a característica descreve uma função do Link Control Protocol (LCP) ou do Network Control Protocol (NCP).]]></text> 
+	</component>
+
+	<component id="ID_correctTitle2">
+	  <text><![CDATA[Corrigir]]></text>
+	</component>
+
+	<component id="ID_correctText2">
+	  <text><![CDATA[Parabéns! Você identificou as características corretamente.]]></text>
+	</component>
+
+	<component id="ID_incorrectTitle2">
+	  <text><![CDATA[Incorreto]]></text>
+	</component>
+
+	<component id="ID_incorrectText2">
+	  <text><![CDATA[Incorreto, tente novamente.]]></text>
+	</component>
+
+   <component id="txt_numrows">
+		<text><![CDATA[7]]></text>
+	</component>
+    <component id="txt_numcols">
+		<text><![CDATA[2]]></text>
+	</component>
+    <component id="txt_col1">
+		<text><![CDATA[LCP]]></text>
+	</component>
+    <component id="txt_col2">
+		<text><![CDATA[NCP]]></text>
+	</component>    
+    <component id="txt_q1">
+		<text><![CDATA[ 1. <textformat blockindent='17'>Negocia e configura opções de controle no enlace de dados WAN</textformat>]]></text>
+	</component>
+    <component id="txt_q2">
+		<text><![CDATA[ 2. <textformat blockindent='17'>Transporta pacotes de vários protocolos da camada de rede</textformat>]]></text>
+	</component>
+    <component id="txt_q3">
+		<text><![CDATA[ 3. <textformat blockindent='17'>A função principal é estabelecer, configurar e testar a conexão do link de dados</textformat>]]></text>
+	</component>
+    <component id="txt_q4">
+		<text><![CDATA[ 4. <textformat blockindent='17'>Encerra o link</textformat>]]></text>
+	</component>
+    <component id="txt_q5">
+		<text><![CDATA[ 5. <textformat blockindent='17'>Sobe e desce os protocolos da camada de rede</textformat>]]></text>
+	</component>
+	<component id="txt_q6">
+		<text><![CDATA[ 6. <textformat blockindent='17'>Determina quando um link está funcionando corretamente ou quando há falha</textformat>]]></text>
+	</component>
+    <component id="txt_q7">
+		<text><![CDATA[ 7. <textformat blockindent='17'>Encapsula e negocia opções para IP e IPX</textformat>]]></text>
+	</component>
+    <component id="txt_a1">
+		<text><![CDATA[1]]></text>
+	</component>
+    <component id="txt_a2">
+		<text><![CDATA[2]]></text>
+	</component>
+    <component id="txt_a3">
+		<text><![CDATA[1]]></text>
+	</component>
+    <component id="txt_a4">
+		<text><![CDATA[1]]></text>
+	</component>
+    <component id="txt_a5">
+		<text><![CDATA[2]]></text>
+	</component>
+	<component id="txt_a6">
+		<text><![CDATA[1]]></text>
+	</component>
+    <component id="txt_a7">
+		<text><![CDATA[2]]></text>
+	</component>
+	
+	
+<!-- slide 3 -->
+	<component id="ID_title3">
+	  <text><![CDATA[<b>Formato de quadro PPP</b>]]></text> 
+	</component>
+	
+	<component id="ID_check3">
+	  <text><![CDATA[<b>Verificar</b>]]></text> 
+	</component>
+	
+	<component id="ID_reset3">
+	  <text><![CDATA[<b>Redefinir</b>]]></text> 
+	</component>
+
+	<component id="ID_instruction3">
+	  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Arraste e solte um rótulo de campo no local correto no quadro. Nem todos os rótulos são utilizados. Alguns rótulos podem ser utilizados mais de uma vez.]]></text> 
+	</component>
+
+	<component id="ID_correctTitle3">
+	  <text><![CDATA[Corrigir]]></text>
+	</component>
+
+	<component id="ID_correctText3">
+	  <text><![CDATA[Parabéns! Você identificou o formato do quadro corretamente.]]></text>
+	</component>
+
+	<component id="ID_incorrectTitle3">
+	  <text><![CDATA[Incorreto]]></text>
+	</component>
+
+	<component id="ID_incorrectText3">
+	  <text><![CDATA[Incorreto, tente novamente.]]></text>
+	</component>
+
+	<component id="ID_flag">
+	  <text><![CDATA[<b>Flag</b>]]></text> 
+	</component>
+	
+	<component id="ID_address">
+	  <text><![CDATA[<b>Endereço</b>]]></text> 
+	</component>
+	
+	<component id="ID_control">
+	  <text><![CDATA[<b>Controle</b>]]></text> 
+	</component>
+	
+	<component id="ID_pid">
+	  <text><![CDATA[<b>ID de protocolo</b>]]></text> 
+	</component>
+	
+	<component id="ID_dataPacket">
+	  <text><![CDATA[<b>Pacote de dados</b>]]></text> 
+	</component>
+	
+	<component id="ID_fcs">
+	  <text><![CDATA[<b>FCS</b>]]></text> 
+	</component>
+	
+	<component id="ID_mac">
+	  <text><![CDATA[<b>MAC</b>]]></text> 
+	</component>
+
+<!-- slide 4 -->
+	<component id="ID_title4">
+	  <text><![CDATA[<b>Conclusão da frase</b>]]></text> 
+	</component>
+
+	<component id="ID_instruction4">
+	  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Arraste e solte a palavra apropriada ou a frase para concluir as sentenças. Nem todas as respostas são usadas.]]></text> 
+	</component>
+
+	<component id="ID_check4">
+	  <text><![CDATA[<b>Verificar</b>]]></text> 
+	</component>
+	
+	<component id="ID_reset4">
+	  <text><![CDATA[<b>Redefinir</b>]]></text> 
+	</component>
+
+	<component id="ID_correctTitle4">
+	  <text><![CDATA[Corrigir]]></text>
+	</component>
+
+	<component id="ID_correctText4">
+	  <text><![CDATA[Parabéns! Você completou as orações corretamente.]]></text>
+	</component>
+
+	<component id="ID_incorrectTitle4">
+	  <text><![CDATA[Incorreto]]></text>
+	</component>
+
+	<component id="ID_incorrectText4">
+	  <text><![CDATA[Incorreto, tente novamente.]]></text>
+	</component>
+
+	<component id="ID_definition1">
+	  <text><![CDATA[<b>PPP utiliza o protocolo ________ como base para encapsulamento de datagramas em links ponto-a-ponto.</b>]]></text> 
+	</component>
+	
+	<component id="ID_definition2">
+	  <text><![CDATA[<b>______ é utilizado por PPP para estabelecer, configurar e testar a conexão do link de dados. </b>]]></text> 
+	</component>
+	
+	<component id="ID_definition3">
+	  <text><![CDATA[<b>_____ é utilizado por PPP para estabelecer e configurar protocolos da camada de rede diferentes.</b>]]></text> 
+	</component>
+	
+	<component id="ID_definition4">
+	  <text><![CDATA[<b>A seqüência binária do campo de endereço em um quadro PPP é ______.</b>]]></text> 
+	</component>
+	
+	<component id="ID_definition5">
+	  <text><![CDATA[<b>A fase de estabelecimento do link é concluída quando um quadro de configuração _________ foi enviado e recebido. </b>]]></text> 
+	</component>
+	
+	<component id="ID_definition6">
+	  <text><![CDATA[<b>IPCP negocia duas opções: compressão e ________ atribuições.</b>]]></text> 
+	</component>
+	
+	<component id="ID_definition7">
+	  <text><![CDATA[<b>Assim que o processo NCP é concluído, o link entra no estado _____ e o LCP reassume.</b>]]></text> 
+	</component>
+	
+	<component id="ID_authentication">
+	  <text><![CDATA[<b>Autenticação</b>]]></text> 
+	</component>
+	
+	<component id="ID_one">
+	  <text><![CDATA[<b>11111111</b>]]></text> 
+	</component>
+	
+	<component id="ID_active">
+	  <text><![CDATA[<b>Ativo</b>]]></text> 
+	</component>
+	
+	<component id="ID_lcp">
+	  <text><![CDATA[<b>LCP</b>]]></text> 
+	</component>
+	
+	<component id="ID_acknowledgement">
+	  <text><![CDATA[<b>Confirmação</b>]]></text> 
+	</component>
+	
+	<component id="ID_hdlc">
+	  <text><![CDATA[<b>HDLC</b>]]></text> 
+	</component>
+	
+	<component id="ID_open">
+	  <text><![CDATA[<b>Abrir</b>]]></text> 
+	</component>
+	
+	<component id="ID_linkQuality">
+	  <text><![CDATA[<b>Qualidade de link</b>]]></text> 
+	</component>
+	
+	<component id="ID_ncp">
+	  <text><![CDATA[<b>NCP</b>]]></text> 
+	</component>
+	<component id="ID_ipAdd">
+	  <text><![CDATA[<b>Endereço IP</b>]]></text> 
+	</component>
+	<component id="ID_sdlc">
+	  <text><![CDATA[<b>SDLC</b>]]></text> 
+	</component>
+	<component id="ID_01">
+	  <text><![CDATA[<b>01111110</b>]]></text> 
+	</component>
+	<component id="ID_request">
+	  <text><![CDATA[<b>Solicitação</b>]]></text> 
+	</component>
+</textcomponents>

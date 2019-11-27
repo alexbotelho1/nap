@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:59">
+<title><content-text><![CDATA[4.5.6  - Troubleshooting Cisco I O S Configurations]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts commands related to the debug command. These include the following:<br><br>R1(config)#service timestamps debug datetime m sec<br>Adds a timestamp to a debug or log message.<br><br>R1#show processes<br>Displays the CPU use for each process.<br><br>R1#no debug all<br>Disables all debug commands.<br><br>R1#terminal monitor<br>Displays debug output and system error messages for the current v t y session. <br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

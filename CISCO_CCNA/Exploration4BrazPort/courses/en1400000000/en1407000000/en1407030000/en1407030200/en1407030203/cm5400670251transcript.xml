@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:10">
+<title><content-text><![CDATA[7.3.2 - IPv6 Addressing]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts IPv6 address assignment methods, which include static assignment and dynamic assignment.<br><br>Assigning IPv6 Addresses<br>Static Assignment:<br>-	Manual interface ID assignment<br>-	EUI-64 interface ID assignment<br><br>Dynamic Assignment:<br>-	Stateless autoconfiguration<br>-	DHCPv6 (stateful)<br><br>Extended Universal Identifier (EUI-64):<br>The diagram shows how EUI inserts the 16-bit hex value FFFE in the middle at the 24th bit of the MAC address to create a 64-bit, unique interface identifier.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

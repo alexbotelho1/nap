@@ -1,0 +1,36 @@
+<textcomponents>
+
+
+<component id="ID_title01">
+<text><![CDATA[<b>Tecnologias de conexão WAN</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>WAN</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Link WAN de alta largura de banda</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Link WAN de baixa largura de banda</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Largura de banda = taxa disponível de transferência de bits<br/>(capacidade da taxa de bits)</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Rápido</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Lento</b>]]></text>
+</component>
+
+</textcomponents>

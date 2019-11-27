@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 08:12:30">
+<title><content-text><![CDATA[5.2.7 - Monitoring and Verifying ACL's]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts monitoring and verifying ACL's using the show access-lists command.<br><br>R1#show access-lists {access-list-number|name}<br><br>R1#show access-lists<br>Standard IP access list SALES<br>	10	deny		10.1.1.0 0.0.0.255<br>	20	permit		10.3.3.1<br>	30	permit		10.4.4.1<br>	40 	permit		10.5.5.1<br>Extended IP access list ENG<br>	10	permit tcp host	192.168.10.2  any e q telnet  (25 matches)<br>	20	permit tcp host	192.168.10.2  any e q ftp<br>	30	permit tcp host	192.168.10.2  any e q ftp-data<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

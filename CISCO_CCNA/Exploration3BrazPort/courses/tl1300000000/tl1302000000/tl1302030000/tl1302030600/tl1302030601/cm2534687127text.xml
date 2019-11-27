@@ -1,0 +1,155 @@
+﻿<textcomponents>
+<component id="ID_title1">
+  <text><![CDATA[<b>Configurar conectividade IP</b>]]></text> 
+  </component>
+  <component id="ID_title2">
+    <text><![CDATA[<b>Configurar conectividade IP</b>]]></text> 
+  </component>
+  <component id="ID_title3">
+    <text><![CDATA[<b>Configurar conectividade IP</b>]]></text> 
+  </component>
+  <component id="ID_title4">
+    <text><![CDATA[<b>Configurar conectividade IP</b>]]></text> 
+  </component>
+<component id="ID_box01">
+  <text><![CDATA[<b>PC1:</b><br/><ul><li>Endereço IP - 172.17.99.12 </li><li>Conectado à porta console</li><li>Conectado à porta F0/18 em S1</li></ul>]]></text> 
+  </component>
+<component id="ID_box02">
+  <text><![CDATA[<b>S1:</b><br/><ul><li>VLAN 99</li><ul><li>a VLAN de gerenciamento</li><li>Endereço IP -172.17.99.11</li></ul><li>Porta F0/18 atribuída à VLAN 99</li></ul>]]></text> 
+  </component>
+<component id="ID_box03">
+  <text><![CDATA[<ul><li>Para o gerenciamento TCP/IP, um endereço da Camada 3 deve ser atribuído ao switch.</li><li>VLAN 1 é a interface de gerenciamento padrão para todos os switches.</li><li>Há riscos à segurança associados ao uso da VLAN 1.</li><li>Crie outra VLAN, por exemplo VLAN 99 ou VLAN 150.</li><li>Atribua essa VLAN a uma porta apropriada, por exemplo F0/18</li></ul>]]></text> 
+  </component>
+  <component id="bubble_text">
+  <text><![CDATA[<b>Gateway padrão</b>]]></text> 
+  </component>
+  
+  <component id="output1_text">
+  <text><![CDATA[<b>VLAN 99 Configurada na Porta F0/18</b>]]></text> 
+  </component>
+  <component id="output2_text">
+  <text><![CDATA[<b>VLAN 99 e Status da Porta F0/18</b>]]></text> 
+  </component>
+  
+  <component id="ID_Manage">
+  <text><![CDATA[<b>Gerenciar interface<br/>Considerações</b>]]></text> 
+  </component>
+  <component id="ID_Config">
+  <text><![CDATA[<b>Configurar<br/>interface de gerenciamento</b>]]></text> 
+  </component>
+  <component id="ID_Gateway">
+  <text><![CDATA[<b>Configurar<br/>gateway padrão</b>]]></text> 
+  </component>
+  <component id="ID_Verify">
+  <text><![CDATA[<b>Verificar<br/>configuração</b>]]></text> 
+  </component>
+  <component id="ID_web">
+  <text><![CDATA[WEB/<br>TFTP<br>Servidor]]></text> 
+  </component>
+  
+  <component id="tableHTML">
+    <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+ 	
+ 	<tr>
+ 		
+ 				<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Sintaxe de comando da CLI do Cisco IOS</b></font></td>
+ 				<td width="300" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter"> </font></td>
+ </tr>			
+	
+  	<tr>
+  		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Alterne do modo EXEC privilegiado para o modo de configuração global.</td>
+  		<td width="300" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1#<b>configure terminal</b></font></td>
+   </tr>
+  	
+  	<tr>
+  			
+  		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Entre no modo de configuração de interface da VLAN 99.</td>
+  		<td width="300" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config)#<b>interface vlan 99 </b></font></td>
+   </tr>
+  	<tr>
+  			
+  		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Configure o endereço IP da interface.</td>
+  		<td width="300" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config-if)#<b>ip address 172.17.99.11 255.255.255.0</b></font></td>
+   </tr>
+  	<tr>
+  			
+  		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Habilite a interface.</td>
+  		<td width="300" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config-if)#<b>no shutdown </b></font></td>
+   </tr>
+  	<tr>
+  			
+  		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Volte a modo EXEC privilegiado.</td>
+  		<td width="300" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config-if)#<b>end</b></font></td>
+   </tr>
+  	<tr>
+  			
+  		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Entre no modo de configuração global. </td>
+  		<td width="300" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1#<b>configure terminal</b></font></td>
+   </tr>
+  	
+  	
+  	<tr>
+  			
+  		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Entre na interface para atribuir a VLAN.</td>
+  		<td width="300" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config)#<b>interface fastethernet 0/18</b></font></td>
+   </tr>
+  	<tr>
+  			
+  		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Defina o modo de associação VLAN para a porta.</td>
+  		<td width="300" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config-if)#<b>switchport mode access</b></font></td>
+   </tr>
+  	<tr>
+  			
+  		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Atribua a porta a uma VLAN.</td>
+  		<td width="300" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config-if)#<b>switchport acces vlan 99</b></font></td>
+   </tr>
+  	<tr>
+  			
+  		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Volte a modo EXEC privilegiado.</td>
+  		<td width="300" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config-if)#<b>end</b></font></td>
+   </tr>
+  	<tr>
+  			
+  		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Salve a configuração de execução na configuração de inicialização do switch.</td>
+  		<td width="300" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1#<b>copy running-config startup-config</b></font></td>		
+   </tr>		
+</table>
+  ]]></text> 
+  </component>
+  
+  <component id="tableHTML1">
+    <text><![CDATA[
+  <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+  	
+  	<tr>
+  		
+  				<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Sintaxe de comando da CLI do Cisco IOS</b></font></td>
+  				<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b></b></font></td>
+  				
+	</tr>
+  	<tr>
+  		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Configura o gateway padrão no switch.</td>
+  		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>S1(config)#<b>ip default-gateway 172.17.99.1</b></font></td>
+  			
+  	</tr>
+  	
+  	<tr>
+  			
+  		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Volte a modo EXEC privilegiado.</td>
+  		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>S1(config)#<b>end</b></font></td>
+  		
+  				
+  	</tr>
+  	<tr>
+  			
+  		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Salve a configuração de execução na configuração de inicialização do switch.</td>
+  		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>S1#<b>copy running-config startup-config</b></font></td>		
+  				
+  	</tr>		
+  	
+  	
+  </table>
+  ]]></text> 
+  </component>
+</textcomponents>

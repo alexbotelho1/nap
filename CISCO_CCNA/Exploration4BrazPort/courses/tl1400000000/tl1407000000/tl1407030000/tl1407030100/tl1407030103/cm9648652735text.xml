@@ -1,0 +1,152 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Clique nos botões para ver os slides.]]></text>
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Recursos avançados do IPv6</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Cabeçalhos de IPv4 e IPv6</b>]]></text>
+</component>
+
+
+<component id="ID_button1">
+  <text><![CDATA[<b>Recursos avançados</b>]]></text> 
+</component>
+
+<component id="ID_button2">
+  <text><![CDATA[<b>Cabeçalho simples</b>]]></text> 
+</component>
+
+
+
+<component id="ID_table01">
+<text><![CDATA[<table bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Endereçamento IP aprimorado:</b><ul><li>Acessibilidade e flexibilidade globais</li><li>Agregação</li><li>Multihoming</li><li>Configuração automática</li><li>Plug-and-play</li><li>Fim-a-fim sem NAT</li><li>Renumeração</li></ul><br/><b>Mobilidade e segurança:</b><ul><li>IP móvel compatível com a RFC</li><li>IPsec obrigatório (ou nativo) para IPv6</li></ul><br/><b>Cabeçalho simples:</b><ul><li>Eficiência de roteamento</li><li>Escalabilidade de desempenho e taxa de encaminhamento</li><li>Nenhum broadcast</li><li>Nenhuma soma de verificação</li><li>Cabeçalhos de extensão</li><li>Rótulos de fluxo</li></ul><br/><b>Riqueza de transição:</b><ul><li>Pilha dupla</li><li>Túneis 6to4 e manuais</li><li>Tradução</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_txt01_02">
+  <text><![CDATA[<b>Cabeçalho de IPv4</b>]]></text> 
+</component>
+
+<component id="ID_txt02_02">
+  <text><![CDATA[<b>Cabeçalho de IPv6</b>]]></text> 
+</component>
+
+<component id="ID_txt03_02">
+  <text><![CDATA[<b>Versão</b>]]></text> 
+</component>
+
+<component id="ID_txt04_02">
+  <text><![CDATA[<b>IHL</b>]]></text> 
+</component>
+
+<component id="ID_txt05_02">
+  <text><![CDATA[<b>Tipo de serviço</b>]]></text> 
+</component>
+
+<component id="ID_txt06_02">
+  <text><![CDATA[<b>Tamanho total</b>]]></text> 
+</component>
+
+<component id="ID_txt07_02">
+  <text><![CDATA[<b>Versão</b>]]></text> 
+</component>
+
+<component id="ID_txt08_02">
+  <text><![CDATA[<b>Classe de tráfego</b>]]></text> 
+</component>
+
+<component id="ID_txt09_02">
+  <text><![CDATA[<b>Rótulo de fluxo</b>]]></text> 
+</component>
+
+<component id="ID_txt10_02">
+  <text><![CDATA[<b>Identificação</b>]]></text> 
+</component>
+
+<component id="ID_txt11_02">
+  <text><![CDATA[<b>Flags</b>]]></text> 
+</component>
+
+<component id="ID_txt12_02">
+  <text><![CDATA[<b>Deslocamento de fragmento</b>]]></text> 
+</component>
+
+<component id="ID_txt13_02">
+  <text><![CDATA[<b>Tempo de vida</b>]]></text> 
+</component>
+
+<component id="ID_txt14_02">
+  <text><![CDATA[<b>Protocolo</b>]]></text> 
+</component>
+
+<component id="ID_txt15_02">
+  <text><![CDATA[<b>Soma de verificação do cabeçalho</b>]]></text> 
+</component>
+
+<component id="ID_txt16_02">
+  <text><![CDATA[<b>Tamanho de payload</b>]]></text> 
+</component>
+
+<component id="ID_txt17_02">
+  <text><![CDATA[<b>Próximo<br/>cabeçalho</b>]]></text>
+</component>
+
+<component id="ID_txt18_02">
+  <text><![CDATA[<b>Limite de<br/>saltos</b>]]></text>
+</component>
+
+<component id="ID_txt19_02">
+  <text><![CDATA[<b>Endereço de origem</b>]]></text>
+</component>
+
+<component id="ID_txt20_02">
+  <text><![CDATA[<b>Endereço de destino</b>]]></text>
+</component>
+
+<component id="ID_txt21_02">
+  <text><![CDATA[<b>Opções</b>]]></text> 
+</component>
+
+<component id="ID_txt22_02">
+  <text><![CDATA[<b>Padding</b>]]></text> 
+</component>
+
+<component id="ID_txt23_02">
+  <text><![CDATA[<b>Endereço de origem</b>]]></text> 
+</component>
+
+<component id="ID_txt28_02">
+  <text><![CDATA[<b>Endereço de destino</b>]]></text> 
+</component>
+
+<component id="ID_txt25_02">
+  <text><![CDATA[<b>- Nomes de campos mantidos do IPv4 para o IPv6</b>]]></text> 
+</component>
+
+<component id="ID_txt26_02">
+  <text><![CDATA[<b>- Campos não mantidos no IPv6</b>]]></text> 
+</component>
+
+<component id="ID_txt27_02">
+  <text><![CDATA[<b>- Nome e posição alterados no IPv6</b>]]></text> 
+</component>
+
+<component id="ID_txt24_02">
+  <text><![CDATA[<b>- Novo campo no IPv6</b>]]></text> 
+</component>
+
+<component id="ID_txt29_02">
+  <text><![CDATA[<b>Legenda</b>]]></text> 
+</component>
+
+
+
+</textcomponents>

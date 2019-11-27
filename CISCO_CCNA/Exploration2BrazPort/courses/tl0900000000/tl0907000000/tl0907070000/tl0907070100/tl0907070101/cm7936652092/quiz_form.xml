@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13258" dateexported="07/12/2009">
+		<name>Teste do Módulo 7</name>
+		<form id="23015" lang="pt"><form-item order="fixed">
+			<ai id="159791" type="mc-ma"><question><![CDATA[Quais são os dois comandos que irão determinar se o resumo automático está em vigor para o protocolo RIP? (Escolha dois.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[<b>show running-config</b>  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>show ip route</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>show ip interface</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>show interface</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[<b>show ip protocols</b>  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159794" type="mc-sa"><question><![CDATA[Que afirmativa sobre o protocolo RIPv2 está correta?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[O protocolo RIP versão 2 irá resumir automaticamente usando a máscara mais eficiente. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O protocolo RIP versão 2 será resumido automaticamente no limite da rede principal.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O protocolo RIP versão 2 exige uma configuração manual para o resumo de rotas. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Por padrão, os protocolos RIP versões 2 e 1 não tratam a compactação de rota da mesma forma. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159795" type="mc-sa"><question><![CDATA[Qual será o comportamento padrão do protocolo de roteamento RIP se não for especificado nenhum tipo de versão?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[apenas enviar e receber atualizações de versão 1 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[apenas enviar atualizações de versão 1, receber atualizações de versões 1 e 2  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[apenas receber atualizações de versão 1, enviar atualizações de versões 1 e 2 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[enviar e receber atualizações de versões 1 e 2 ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159796" type="mc-sa"><question><![CDATA[Que condição permitiria o protocolo RIPv2 que o protocolo RIPv1 não permitiria?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[16 saltos de uma extremidade da rede para outra ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[redistribuição do protocolo EIGRP ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[uma rede 192.168.0.0/16  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[um roteador com mais de 3 interfaces ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="73521" type="mc-sa"><question><![CDATA[Qual a diferença entre RIP v1 e RIP v2?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Somente RIP v1 oferece autenticação em suas atualizações. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Somente RIP v1 usa split-horizon para evitar loops de roteamento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Somente RIP v2 usa 16 saltos como valor de métrica para distância infinita. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Somente RIP v2 envia informações de máscara de sub-rede com suas atualizações de roteamento.  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159792" type="mc-sa"><question><![CDATA[Consulte a exibição. A exibição mostra resultados parciais do comando <b>debug ip rip events</b> no Roteador B. Qual é a provável causa das mensagens de depuração? <br/><img src="i159792n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Os roteadores A e E estão enviando atualizações mal formadas. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A configuração do protocolo RIP no Roteador B não inclui redes conectadas às interfaces seriais. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[As interfaces seriais do Roteador B não estão configuradas corretamente. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O Roteador B está executando uma versão diferente do protocolo RIP dos roteadores A e E.  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159450" type="mc-sa"><question><![CDATA[Consulte a exibição. Se todos os roteadores estiverem executando o protocolo RIP versão 2, por que não há nenhuma rota para a rede 192.168.1.32/27? <br/><img src="i159450n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[O protocolo RIP versão 2 não envia máscaras de sub-rede em suas atualizações. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O Roteador A não está configurado com o protocolo RIP como um protocolo de roteamento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Por padrão, o protocolo RIP versão 2 irá resumir automaticamente as rotas.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O Roteador B não está configurado para anunciar a rede 192.168.1.64/30. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159793" type="mc-sa"><question><![CDATA[Consulte a exibição. O que pode ser determinado a partir dessa saída? <br/><img src="i159793n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Um <b>show ip route</b> em saltos do Roteador 2 irá exibir a rede 192.168.1.32/27 em sua tabela de roteamento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A interface Serial0/0/0 está configurada com o comando <b>passive interface</b>. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O roteador está passando a máscara de sub-rede com a rede em suas atualizações.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Como a rede está usando o protocolo RIP versão 2, todos os roteadores devem ser roteadores Cisco. ]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam> 

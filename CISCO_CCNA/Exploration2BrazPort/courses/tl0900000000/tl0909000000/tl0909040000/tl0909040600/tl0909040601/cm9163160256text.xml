@@ -1,0 +1,64 @@
+<textcomponents>
+
+
+<component id="ID_title">
+<text><![CDATA[<b>Máquina de Estado Finito do DUAL</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Sucessor viável?</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Uma ou mais rotas novas?</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Conectividade perdida para o sucessor</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Promover para sucessor</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Instalar o sucessor na tabela de roteamento</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Selecionar o novo sucessor</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Instalar Sucessor(es) Viável(is), se houver, na Tabela de topologia</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Colocar a rede de destino em estado ativo</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Consultar vizinhos em busca de nova rota</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Remover a rede de destino das tabelas de topologia e roteamento</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>SIM</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>SIM</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>NÃO</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>NÃO</b>]]></text>
+</component>
+
+</textcomponents>

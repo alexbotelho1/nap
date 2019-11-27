@@ -1,0 +1,125 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Quadro padrão do Frame Relay</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Congestionamento</b>]]></text>
+</component>
+
+<component id="ID_title03">
+<text><![CDATA[<b>Controle de largura de banda do FR: fila</b>]]></text>
+</component>
+
+
+
+<component id="ID_Button01">
+<text><![CDATA[Formato de quadro]]></text>
+</component>
+
+<component id="ID_Button02">
+<text><![CDATA[Congestionamento]]></text>
+</component>
+
+<component id="ID_Button03">
+<text><![CDATA[Fila]]></text>
+</component>
+
+<component id="ID_txt03_queue">
+<text><![CDATA[Fila]]></text>
+</component>
+
+<component id="ID_txt01_02">
+  <text><![CDATA[<B>8 bits</B>]]></text> 
+</component>
+
+<component id="ID_txt02_02">
+  <text><![CDATA[<B>16 bits</B>]]></text> 
+</component>
+
+<component id="ID_txt03_02">
+  <text><![CDATA[<B>Variável</B>]]></text> 
+</component>
+
+<component id="ID_txt04_02">
+  <text><![CDATA[<B>16 bits</B>]]></text> 
+</component>
+
+<component id="ID_txt05_02">
+  <text><![CDATA[<B>8 bits</B>]]></text> 
+</component>
+
+<component id="ID_txt06_02">
+  <text><![CDATA[<B>Flag</B>]]></text> 
+</component>
+
+<component id="ID_txt07_02">
+  <text><![CDATA[<B>Endereço</B>]]></text> 
+</component>
+
+<component id="ID_txt08_02">
+  <text><![CDATA[<B>Dados</B>]]></text> 
+</component>
+
+<component id="ID_txt09_02">
+  <text><![CDATA[<B>FCS</B>]]></text> 
+</component>
+
+<component id="ID_txt10_02">
+  <text><![CDATA[<B>Flag</B>]]></text> 
+</component>
+
+<component id="ID_txt11_02">
+  <text><![CDATA[<B>Byte 1</B>]]></text> 
+</component>
+
+<component id="ID_txt12_02">
+  <text><![CDATA[<B>Byte 2</B>]]></text> 
+</component>
+
+<component id="ID_framerelay">
+  <text><![CDATA[<B>Frame Relay</B>]]></text> 
+</component>
+<component id="ID_congestion">
+  <text><![CDATA[<B>Congestionamento</B>]]></text> 
+</component>
+<component id="ID_caption1">
+  <text><![CDATA[Os dispositivos upstream são advertidos sobre a fila definindo o bit FECN.]]></text> 
+</component>
+<component id="ID_caption2">
+  <text><![CDATA[Os dispositivos downstream são advertidos sobre a fila definindo o bit BECN, embora seja possível que eles não tenham contribuído para o congestionamento.]]></text> 
+</component>
+<component id="ID_caption3">
+  <text><![CDATA[Enquanto o switch A coloca um quadro grande na interface 1, os outros quadros dessa interface são enfileirados.]]></text> 
+</component>
+
+   <component id="play">
+      <text>Reproduzir</text>
+   </component>
+   <component id="pause">
+      <text>Pausar</text>
+   </component>
+   <component id="rewind">
+      <text>Retroceder</text>
+   </component>
+   <component id="forward">
+      <text>Avançar</text>
+   </component>
+   <component id="mute">
+      <text>Sem som</text>
+   </component>
+   <component id="unmute">
+      <text>Com som</text>
+   </component>
+   <component id="previous">
+      <text>Reiniciar</text>
+   </component>
+   <component id="next">
+      <text>Encerrar</text>
+   </component>
+   <component id="transcript">
+      <text>Transcrição</text>
+   </component>
+
+</textcomponents>

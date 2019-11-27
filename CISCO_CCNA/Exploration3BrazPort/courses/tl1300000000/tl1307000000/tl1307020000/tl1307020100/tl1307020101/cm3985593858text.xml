@@ -1,0 +1,23 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Acesso não autorizado</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[
+  
+  <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>"War Drivers"                              </b></font></td>
+	  	  	<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>Hackers                      </b></font></td>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Funcionários                        </b></font></td>
+  	             </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Localizam redes "Abertas"; usam-nas para obter acesso livre à Internet                                                                    </td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Exploram medidas frágeis de privacidade para ver informações confidenciais de WLAN e até mesmo invadir WLANs                                                          </td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Conectam APs/gateways da classificação de consumidor em portas Ethernet da empresa para criar as próprias WLANs                                                                         </td>
+                          </tr>
+</table>
+
+]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,43 @@
+<textcomponents>
+
+<component id="btn1">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+<component id="btn2">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+<component id="btn3">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+<component id="btn4">
+<text><![CDATA[<b>4</b>]]></text>
+</component>
+
+<component id="ID_buttonText">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Tabelas de roteamento</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em cada número para ver a saída do roteador.</b>]]></text>
+</component>
+
+<component id="output1cap">
+<text><![CDATA[<b>Origem: Rotas conectadas</b>]]></text>
+</component>
+<component id="output2cap">
+<text><![CDATA[<b>Endereço de rede e máscara de sub-rede</b>]]></text>
+</component>
+<component id="output3cap">
+<text><![CDATA[<b>Interface de saída</b>]]></text>
+</component>
+<component id="output4cap">
+<text><![CDATA[<b>Rota padrão para R1 em 192.168.1.1</b>]]></text>
+</component>
+
+
+
+</textcomponents>

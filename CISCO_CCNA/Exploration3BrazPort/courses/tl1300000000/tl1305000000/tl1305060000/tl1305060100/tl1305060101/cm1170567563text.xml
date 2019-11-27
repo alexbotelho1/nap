@@ -1,0 +1,16 @@
+<textcomponents>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Neste capítulo, você aprendeu:</b></font></td></tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>O STP impede a formação de loops em uma rede hierárquica que implementa links redundantes.</li><li>O STP utiliza diferentes estados de porta e temporizadores para impedir a ocorrência de loops.</li><li>Um switch na rede é designado como a bridge raiz. A bridge raiz é determinada por um processo de eleição onde são trocados quadros de BPDU entre os switches vizinhos em um domínio de broadcast.</li><li>Todos os outros switches na rede utilizam o algoritmo spanning tree para determinar suas funções de porta de switch. As portas de switch mais próximas da bridge raiz se tornam as portas raiz. As portas não-raiz restantes competem para as funções designada ou não-designada.</li><li>Como a convergência do protocolo spanning tree pode durar até 50 segundos para ser concluída, foram criados o RSTP e o rapid PVST+.</li><li>O RSTP reduz o tempo de convergência para pouco menos de 6 segundos.</li><li>O rapid PVST+ adiciona o suporte de VLAN ao RSTP. O rapid PVST+ é a implementação do protocolo spanning tree preferida utilizada em uma rede de switches da Cisco.</li></ul></td>
+  </tr>
+</table>]]></text>
+</component>
+
+<component id="ID_title"><text><![CDATA[<b></b>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,5 @@
+<transcript lastedited="11.21.08 08:11:22">
+<title><content-text><![CDATA[3.4.3  - Troubleshooting Frame Relay Configuration]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts R1 and R2 output for the debug frame-relay lmi command to determine whether the routers and the Frame Relay switch are sending and receiving LMI packets properly. The word "out" after the interface designator, for example, Serial 0/0/1, is an LMI status message sent by the router. The word "in" indicates a message received from the Frame Relay switch. An LMI exchange is a type 1.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

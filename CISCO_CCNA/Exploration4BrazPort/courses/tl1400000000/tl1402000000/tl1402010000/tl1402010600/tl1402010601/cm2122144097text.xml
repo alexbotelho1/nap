@@ -1,0 +1,17 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Configurando o encapsulamento HDLC</b>]]></text>
+</component>
+
+<component id="table1">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>&#8226; Habilitar encapsulamento HDLC<br/>&#8226; HDLC é o encapsulamento padrão nas interfaces seriais síncronas</td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

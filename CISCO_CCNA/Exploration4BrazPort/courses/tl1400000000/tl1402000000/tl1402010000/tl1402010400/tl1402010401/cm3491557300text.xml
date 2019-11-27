@@ -1,0 +1,44 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Conexões WAN DCE e DTE seriais</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>DTE</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>DCE</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>DCE</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>DTE</b>]]></text>
+</component>
+
+
+<component id="mytable1">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color='#FFFFFF'><b>Equipamento de terminal de dados:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Extremidade do dispositivo de usuário no link de WAN</li></ul><br/></td>
+	</tr>
+</table>]]></text>
+</component>
+<component id="mytable2">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color='#FFFFFF'><b>Equipamento de comunicação de dados:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Extremidade do lado do provedor WAN da instalação de comunicação</li><li>Responsável por fornecer sinal de sincronização</li></ul><br/></td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

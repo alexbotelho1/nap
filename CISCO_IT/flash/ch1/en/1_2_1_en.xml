@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="1_2_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_1">
+        <source>Where will the computer be used? 
+
+Is the customer considering a laptop or a desktop?
+
+Is there a need for wireless access and high-speed network connection?
+ 
+What applications are needed? 
+
+Will the computer connect to scanners, printers, or additional monitors? 
+
+Will the computer be standalone or on a network? 
+
+Are there components from older equipment that can be re-used? 
+
+Will the computer be replaced within the next year? 
+
+What is the budget for customization? </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S2_TXT_1">
+        <source>What applications will be used on this computer?</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S2_TXT_2">
+        <source>Yes             No</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S3_TXT_1">
+        <source>Will the computer be upgraded in the foreseeable future?</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S4_TXT_1">
+        <source>Will portability be required?</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S5_TXT_1">
+        <source>Will this computer need wireless, or high speed network connectivity?</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S6_TXT_1">
+        <source>What is the budget?</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S7_TXT_1">
+        <source>Are any special peripherals required, such as a scanner or second monitor?</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S8_TXT_1">
+        <source>Are there any components that can be scavenged from older equipment?</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TITLE1">
+        <source>Customization Questions
+</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TITLE2">
+        <source>File System Selection  </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TITLE3">
+        <source>Possible Losses due to a Virus, Worm, or Trojan Attack
+</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_01">
+        <source>Apple </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_1">
+        <source>Data Threats</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_02">
+        <source>Loss of productivity</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_03">
+        <source>Loss of data </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_04">
+        <source>Damage to an organization’s reputation</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_05">
+        <source>Cost related to repair of computers </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

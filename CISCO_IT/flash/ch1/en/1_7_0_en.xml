@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="1_7_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_7IDS_TXT_124">
+        <source>SXGA</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_7IDS_TXT_127">
+        <source>WSXGA</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_7IDS_TXT_130">
+        <source>UXGA</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_7IDS_TXT_133">
+        <source>HDTV</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_7IDS_TXT_136">
+        <source>WUXGA</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_7IDS_TXT_139">
+        <source>QXGA</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_7IDS_TXT_142">
+        <source>QSXGA</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_7IDS_TXT_145">
+        <source>WQUXGA</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_NETWORK ">
+        <source>Video Connectors</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TITLE1">
+        <source>Types of Monitors</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TITLE2">
+        <source>Display Resolutions</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TITLE3">
+        <source> All- in- One Printer</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TITLE3A">
+        <source>Printer</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TITLE4">
+        <source>Speakers and Headphones</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TITLE5">
+        <source>Display Resolutions</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TITLE7 ">
+        <source>Audio Devices</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TITLE8">
+        <source>Audio</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TITLE9">
+        <source>Video Ports</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TITLE10">
+        <source>Connectors Activity</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_001">
+        <source>MacOs Resolution(72dpi)</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_01">
+        <source>LCD</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_002">
+        <source>Viewable/ &quot;Correct&quot; Size</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_02">
+        <source>Projector</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_03">
+        <source>CRT</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_003">
+        <source>Closest
+&quot;Advertised&quot;size</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_004">
+        <source>Windows Resolution
+(96 dpi)</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_04">
+        <source>Pin80</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_0005">
+        <source>Viewable/ &quot;Perfect&quot; Size</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_05">
+        <source>Pin2</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_005">
+        <source>600x480</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_06">
+        <source>Pin1</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_0006">
+        <source>Closest
+&quot;Advertised&quot;size</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_006">
+        <source>800x600</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_07">
+        <source>68</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_007">
+        <source>832x624</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_008">
+        <source>1024x768</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_009">
+        <source>1152x870</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_09">
+        <source>35</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_10">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_010">
+        <source>1280x960</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_011">
+        <source>1600x1200</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_11">
+        <source>34</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_012">
+        <source>11.1&quot;</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TXT_12">
+        <source>50</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TXT_13">
+        <source>26</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TXT_013">
+        <source>13.9&quot;</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TXT_014">
+        <source>14.4&quot;</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TXT_14">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TXT_15">
+        <source>25</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TXT_015">
+        <source>17.8&quot;</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TXT_016">
+        <source>20&quot;</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TXT_16">
+        <source>PC Speakers</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TXT_17">
+        <source>Microphone In</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TXT_017">
+        <source>22.2&quot;</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TXT_018">
+        <source>27.8&quot;</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TXT_18">
+        <source>Line Out</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TXT_19">
+        <source>Auxiliary In</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_TXT_019">
+        <source>13&quot;</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_TXT_020">
+        <source>15&quot;</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_TXT_20">
+        <source>PC headphones with MIC</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_TXT_021">
+        <source>19&quot;</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_TXT_022">
+        <source>21&quot;</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_TXT_023">
+        <source>21&quot;-24&quot;</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_TXT_24">
+        <source>Huge(24+)&quot;</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_TXT_026">
+        <source>8.3&quot;</source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_TXT_27">
+        <source>10.4&quot;</source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_TXT_028">
+        <source>10.8&quot;</source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_TXT_029">
+        <source>13.3&quot;</source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_TXT_030">
+        <source>15&quot;</source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_TXT_031">
+        <source>16.7&quot;</source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_TXT_032">
+        <source>20.8&quot;</source>
+      </trans-unit>
+      <trans-unit id="072" resname="IDS_TXT_33">
+        <source>12&quot;-13&quot;</source>
+      </trans-unit>
+      <trans-unit id="073" resname="IDS_TXT_34">
+        <source>12&quot;-14&quot;</source>
+      </trans-unit>
+      <trans-unit id="074" resname="IDS_TXT_35">
+        <source>12&quot;-14&quot;</source>
+      </trans-unit>
+      <trans-unit id="075" resname="IDS_TXT_36">
+        <source>15&quot;</source>
+      </trans-unit>
+      <trans-unit id="076" resname="IDS_TXT_37">
+        <source>17&quot;</source>
+      </trans-unit>
+      <trans-unit id="077" resname="IDS_TXT_38">
+        <source>17&quot;-19&quot;</source>
+      </trans-unit>
+      <trans-unit id="078" resname="IDS_TXT_39">
+        <source>21&quot; or 24&quot;</source>
+      </trans-unit>
+      <trans-unit id="079" resname="IDS_TXT_100">
+        <source>Display
+Standard</source>
+      </trans-unit>
+      <trans-unit id="080" resname="IDS_TXT_101">
+        <source>Linear Pixels
+(HXV)</source>
+      </trans-unit>
+      <trans-unit id="081" resname="IDS_TXT_102">
+        <source>Aspect 
+Ratio</source>
+      </trans-unit>
+      <trans-unit id="082" resname="IDS_TXT_103">
+        <source>CGA</source>
+      </trans-unit>
+      <trans-unit id="083" resname="IDS_TXT_104">
+        <source>320x200</source>
+      </trans-unit>
+      <trans-unit id="084" resname="IDS_TXT_105">
+        <source>16:10</source>
+      </trans-unit>
+      <trans-unit id="085" resname="IDS_TXT_106">
+        <source>EGA</source>
+      </trans-unit>
+      <trans-unit id="086" resname="IDS_TXT_107">
+        <source>640x350</source>
+      </trans-unit>
+      <trans-unit id="087" resname="IDS_TXT_108">
+        <source>11:6</source>
+      </trans-unit>
+      <trans-unit id="088" resname="IDS_TXT_109">
+        <source>VGA</source>
+      </trans-unit>
+      <trans-unit id="089" resname="IDS_TXT_110">
+        <source>640x480</source>
+      </trans-unit>
+      <trans-unit id="090" resname="IDS_TXT_111">
+        <source>4:3</source>
+      </trans-unit>
+      <trans-unit id="091" resname="IDS_TXT_112">
+        <source>WVGA</source>
+      </trans-unit>
+      <trans-unit id="092" resname="IDS_TXT_113">
+        <source>854x480</source>
+      </trans-unit>
+      <trans-unit id="093" resname="IDS_TXT_114">
+        <source>16:9</source>
+      </trans-unit>
+      <trans-unit id="094" resname="IDS_TXT_115">
+        <source>SVGA</source>
+      </trans-unit>
+      <trans-unit id="095" resname="IDS_TXT_116">
+        <source>800x600</source>
+      </trans-unit>
+      <trans-unit id="096" resname="IDS_TXT_117">
+        <source>4:3</source>
+      </trans-unit>
+      <trans-unit id="097" resname="IDS_TXT_118">
+        <source>XGA</source>
+      </trans-unit>
+      <trans-unit id="098" resname="IDS_TXT_119">
+        <source>1024x768</source>
+      </trans-unit>
+      <trans-unit id="099" resname="IDS_TXT_120">
+        <source>4:3</source>
+      </trans-unit>
+      <trans-unit id="100" resname="IDS_TXT_121">
+        <source>WXGA</source>
+      </trans-unit>
+      <trans-unit id="101" resname="IDS_TXT_122">
+        <source>1280x800</source>
+      </trans-unit>
+      <trans-unit id="102" resname="IDS_TXT_123">
+        <source>16:10</source>
+      </trans-unit>
+      <trans-unit id="103" resname="IDS_TXT_124">
+        <source>SXGA</source>
+      </trans-unit>
+      <trans-unit id="104" resname="IDS_TXT_125">
+        <source>1280x1024</source>
+      </trans-unit>
+      <trans-unit id="105" resname="IDS_TXT_126">
+        <source>5:4</source>
+      </trans-unit>
+      <trans-unit id="106" resname="IDS_TXT_128">
+        <source>1600x1024</source>
+      </trans-unit>
+      <trans-unit id="107" resname="IDS_TXT_129">
+        <source>25:16</source>
+      </trans-unit>
+      <trans-unit id="108" resname="IDS_TXT_131">
+        <source>1600x1200</source>
+      </trans-unit>
+      <trans-unit id="109" resname="IDS_TXT_132">
+        <source>4:3</source>
+      </trans-unit>
+      <trans-unit id="110" resname="IDS_TXT_134">
+        <source>1920x1080</source>
+      </trans-unit>
+      <trans-unit id="111" resname="IDS_TXT_135">
+        <source>16:9</source>
+      </trans-unit>
+      <trans-unit id="112" resname="IDS_TXT_137">
+        <source>1920x1200</source>
+      </trans-unit>
+      <trans-unit id="113" resname="IDS_TXT_138">
+        <source>16:10</source>
+      </trans-unit>
+      <trans-unit id="114" resname="IDS_TXT_140">
+        <source>2048x1536</source>
+      </trans-unit>
+      <trans-unit id="115" resname="IDS_TXT_141">
+        <source>4:3</source>
+      </trans-unit>
+      <trans-unit id="116" resname="IDS_TXT_143">
+        <source>2560x2048</source>
+      </trans-unit>
+      <trans-unit id="117" resname="IDS_TXT_144">
+        <source>5:4</source>
+      </trans-unit>
+      <trans-unit id="118" resname="IDS_TXT_146">
+        <source>3840x2400</source>
+      </trans-unit>
+      <trans-unit id="119" resname="IDS_TXT_147">
+        <source>16:10</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

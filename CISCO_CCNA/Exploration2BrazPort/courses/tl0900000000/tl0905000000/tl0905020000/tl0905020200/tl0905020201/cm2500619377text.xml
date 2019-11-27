@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Modo de configuração de roteamento de RIP</b>]]></text></component>
+
+<component id="ID_Title01_topology">
+<text><![CDATA[<b>Topologia RIP: Cenário A</b>]]></text></component>
+
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]>
+</text></component>
+
+
+</textcomponents>

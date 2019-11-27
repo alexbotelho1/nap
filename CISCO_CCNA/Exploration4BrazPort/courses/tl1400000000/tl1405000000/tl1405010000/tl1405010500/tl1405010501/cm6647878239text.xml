@@ -1,0 +1,30 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<B>Tipos de ACLs Cisco</B>]]></text> 
+</component>
+
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>ACL padrão</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>ACL estendida</B>]]></text> 
+</component>
+
+
+<component id="ID_txt01_00">
+  <text><![CDATA[<b>As ACLs padrão só filtram pacotes IP com base no endereço de origem.</b>]]></text> 
+</component>
+
+<component id="ID_txt02_00">
+  <text><![CDATA[<b>As ACLs padrão só filtram pacotes IP com base no endereço de origem.</b>]]></text> 
+</component>
+
+<component id="ID_txt03_00">
+  <text><![CDATA[<b>As ACLs estendidas filtram pacotes IP com base em vários atributos, inclusive o seguinte:<b><ul><li>endereços IP de origem e de destino</li><li>portas UDP e TCP de origem e de destino</li><li>tipo de protocolo (IP, ICMP, UDP, TCP ou número do protocolo)</li></ul>]]></text> 
+</component>
+
+
+</textcomponents>

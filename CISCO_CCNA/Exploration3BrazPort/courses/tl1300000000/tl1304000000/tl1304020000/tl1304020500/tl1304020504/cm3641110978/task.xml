@@ -1,0 +1,460 @@
+<avalontask>
+   <r2data taskid='' type='simulation' language='EN' title=''>
+      <!-- raw data -->
+   </r2data>
+   <guitext file='guitext.xml' />
+   <variables />
+   <textcomponents>
+      <!-- Topology Text -->
+	  <component type='text' id='txt_pc1'>
+			<text variable='true' translate='true'><![CDATA[<b>PC1</b>]]></text>
+		</component>
+	  <component type='text' id='txt_pc2'>
+			<text variable='true' translate='true'><![CDATA[<b>PC2</b>]]></text>
+		</component>
+	  <component type='text' id='txt_pc3'>
+			<text variable='true' translate='true'><![CDATA[<b>PC3</b>]]></text>
+		</component>
+	  <component type='text' id='txt_s1'>
+			<text variable='true' translate='true'><![CDATA[<font size="2"><b>S1</b></font>]]></text>
+		</component>
+	  <component type='text' id='txt_s2'>
+			<text variable='true' translate='true'><![CDATA[<font size="2"><b>S2</b></font>]]></text>
+		</component>
+	  <component type='text' id='txt_s3'>
+			<text variable='true' translate='true'><![CDATA[<font size="2"><b>S3</b></font>]]></text>
+		</component>
+	  <component type='text' id='txt_pc1info'>
+			<text variable='true' translate='true'><![CDATA[<b>172.17.10.21<br>VLAN 10</b>]]></text>
+		</component>
+	  <component type='text' id='txt_pc2info'>
+			<text variable='true' translate='true'><![CDATA[<b>172.17.20.22<br>VLAN 20</b>]]></text>
+		</component>
+	  <component type='text' id='txt_pc3info'>
+			<text variable='true' translate='true'><![CDATA[<b>172.17.30.23<br>VLAN 30</b>]]></text>
+		</component>
+	  <component type='text' id='txt_f1'>
+			<text variable='true' translate='true'><![CDATA[<b>F0/1</b>]]></text>
+		</component>
+	  <component type='text' id='txt_f11'>
+			<text variable='true' translate='true'><![CDATA[<b>F0/11</b>]]></text>
+		</component>
+	  <component type='text' id='txt_f18'>
+			<text variable='true' translate='true'><![CDATA[<b>F0/18</b>]]></text>
+		</component>
+	  <component type='text' id='txt_f6'>
+			<text variable='true' translate='true'><![CDATA[<b>F0/6</b>]]></text>
+		</component>
+	  <component type='text' id='txt_msg1'>
+			<text variable='true' translate='true'><![CDATA[<b>S1 está sendo substituído por S3</b>]]></text>
+		</component>
+	  <component type='text' id='txt_msg2'>
+			<text variable='true' translate='true'><![CDATA[<b>Nome de domínio VTP = CCNA<br>Modo VTP = Servidor<br>Revisão de configuração = 4<br>VLANs = 1,10,20,30,99</b>]]></text>
+		</component>
+	  <component type='text' id='txt_msg3'>
+			<text variable='true' translate='true'><![CDATA[<b>Nome de domínio VTP = CCNA<br>Modo VTP = Cliente<br>Revisão de configuração = 4<br>VLANs = 1,10,20,30,99</b>]]></text>
+		</component>
+	  <component type='text' id='txt_msg4'>
+			<text variable='true' translate='true'><![CDATA[<b>Nome de domínio VTP = CCNA<br>Modo VTP = Cliente<br>Revisão de configuração = 6<br>VLANs = 1,99-104</b>]]></text>
+		</component>
+	 
+      <!-- Window Titles -->
+	     <component type='text' id='txt_check'>
+			<text variable='true' translate='true'><![CDATA[Verificar]]></text>
+		</component>
+	     <component type='text' id='txt_close'>
+			<text variable='true' translate='true'><![CDATA[Fechar]]></text>
+		</component>
+         <component type='text' id='txt_question'>
+            <text variable='false' translate='true'><![CDATA[Pergunta]]></text>
+         </component>
+         <component type='text' id='txt_questions'>
+            <text variable='false' translate='true'><![CDATA[Perguntas]]></text>
+         </component>
+         <component type='text' id='txt_next'>
+            <text variable='false' translate='true'><![CDATA[Avançar]]></text>
+         </component>
+         <component type='text' id='txt_previous'>
+            <text variable='false' translate='true'><![CDATA[Anterior]]></text>
+         </component>
+          <component type='text' id='txt_many options'>
+            <text variable='false' translate='true'><![CDATA[Muitas opções selecionadas]]></text>
+         </component>
+          <component type='text' id='txt_few options'>
+            <text variable='false' translate='true'><![CDATA[Poucas opções selecionadas]]></text>
+         </component>
+         <component type='text' id='txt_0% complete'>
+            <text variable='false' translate='true'><![CDATA[0% concluído]]></text>
+         </component>
+         <component type='text' id='txt_nav'>
+            <text variable='false' translate='true'><![CDATA[Clique em Avançar para ir para a próxima pergunta]]></text>
+         </component>
+         <component type='text' id='txt_tscenario'>
+            <text variable='false' translate='true'><![CDATA[Cenário]]></text>
+         </component>
+         <component type='text' id='txt_topology'>
+            <text variable='false' translate='true'><![CDATA[Topologia]]></text>
+         </component>
+		  <component type='text' id='txt_instructions'> 
+            <text variable='true' translate='true'><![CDATA[Instruções]]></text> 
+          </component>
+		  
+		  
+		  <!-- Instructions -->
+		  <component type='text' id='instructiontext123'> 
+            <text variable='true' translate='true'> 
+              <![CDATA[Para começar este teste, leia o cenário com atenção. Em seguida, clique no botão Topologia abaixo para exibir a topologia consultada.<br>Para exibir cada pergunta, clique nas guias numeradas à esquerda. Leia a pergunta e indique sua resposta. Você pode avançar para a próxima pergunta utilizando as guias numeradas ou o botão Avançar.<br>Quando estiver pronto para avaliação, clique no botão Verificar abaixo. Suas respostas serão avaliadas. Você pode voltar a qualquer pergunta e indicar uma nova resposta. O botão Verificar vai reavaliar suas respostas. O painel de comentários não pode ser redimensionado. Clique no botão Fechar para ocultar o painel e continuar trabalhando.<br>Dica útil: aumente a janela de Teste e organize os painéis individuais para atender suas necessidades. Os painéis podem ser arrastados e redimensionados dentro da janela de Teste.
+<br>              ]]> 
+            </text> 
+          </component>
+
+      <!-- Scenario -->
+         <component type='text' id='txt_scenario'>
+            <text variable='false' translate='true'><![CDATA[Na topologia, S2 falhou e estava sendo substituído. O administrador de rede adquiriu o switch S3 de outra área da rede onde ele não estava mais em uso. O administrador apagou a configuração do dispositivo S3 e aplicou a configuração do dispositivo S2 antigo de forma que as definições de porta da VLAN fossem reaplicadas. O administrador também adicionou o nome de domínio VTP e definiu o modo VTP como cliente. Porém, quando o dispositivo S3 foi conectado a S1 e o entroncamento foi restaurado, todas as portas nas VLANs 10, 20 e 30 ficaram no estado inativo. Leia completamente todas as perguntas antes de responder.]]></text>
+         </component>
+
+      <!-- Question 1-->
+         <component type='text' id='txt_q1_stem'>
+            <text variable='false' translate='true'><![CDATA[Depois que o dispositivo S2 foi substituído pelo dispositivo S3 e os links de tronco foram estabelecidos, qual deles representa o número de configuração de revisão e as informações de VLAN para os switches S1 e S3?]]></text>
+         </component>
+         <component type='text' id='txt_q1_op1'>
+            <text variable='false' translate='true'><![CDATA[Revisão de configuração = 4, VLANs = 1, 10, 20, 30, 99-104]]></text>
+         </component>
+         <component type='text' id='txt_q1_op2'>
+            <text variable='false' translate='true'><![CDATA[Revisão de configuração = 6, VLANs = 1, 10, 20, 30, 99-104]]></text>
+         </component>
+         <component type='text' id='txt_q1_op3'>
+            <text variable='false' translate='true'><![CDATA[Revisão de configuração = 4, VLANs = 1, 10, 20, 30, 99]]></text>
+         </component>
+         <component type='text' id='txt_q1_op4'>
+            <text variable='false' translate='true'><![CDATA[Revisão de configuração = 6, VLANs = 1, 10, 20, 30, 99]]></text>
+         </component>
+         <component type='text' id='txt_q1_op5'>
+            <text variable='false' translate='true'><![CDATA[Revisão de configuração = 6, VLANs = 1, 99-104]]></text>
+         </component>
+
+      <!-- Question 2-->
+         <component type='text' id='txt_q2_stem'>
+            <text variable='false' translate='true'><![CDATA[Quais das afirmações a seguir são verdadeiras com relação ao número de revisão de configuração? (Escolha dois.)]]></text>
+         </component>
+         <component type='text' id='txt_q2_op1'>
+            <text variable='false' translate='true'><![CDATA[Somente os anúncios de subconjunto contêm o número de revisão de configuração.]]></text>
+         </component>
+         <component type='text' id='txt_q2_op2'>
+            <text variable='false' translate='true'><![CDATA[Somente os anúncios sumarizados contêm o número de revisão de configuração.]]></text>
+         </component>
+         <component type='text' id='txt_q2_op3'>
+            <text variable='false' translate='true'><![CDATA[Todas as mensagens VTP contêm o número de revisão de configuração.]]></text>
+         </component>
+         <component type='text' id='txt_q2_op4'>
+            <text variable='false' translate='true'><![CDATA[Os números de revisão de configuração mais altos têm prioridade sobre os números de revisão de configuração mais baixos.]]></text>
+         </component>
+         <component type='text' id='txt_q2_op5'>
+            <text variable='false' translate='true'><![CDATA[Os números de revisão de configuração mais baixos têm prioridade sobre os números de revisão de configuração mais altos.]]></text>
+         </component>
+
+      <!-- Question 3-->
+         <component type='text' id='txt_q3_stem'>
+            <text variable='false' translate='true'><![CDATA[Qual solução é apropriada para resolver as discrepâncias de configuração de VLAN para o domínio VTP e restaurar a conectividade para os dispositivos PC1, PC2 e PC3? ]]></text>
+         </component>
+         <component type='text' id='txt_q3_op1'>
+            <text variable='false' translate='true'><![CDATA[Adicionar as VLANs perdidas ao servidor VTP, S1.]]></text>
+         </component>
+         <component type='text' id='txt_q3_op2'>
+            <text variable='false' translate='true'><![CDATA[Excluir as VLANs do novo S3.]]></text>
+         </component>
+         <component type='text' id='txt_q3_op3'>
+            <text variable='false' translate='true'><![CDATA[Excluir todas as possíveis VLANs do servidor VTP, S1.]]></text>
+         </component>
+         <component type='text' id='txt_q3_op4'>
+            <text variable='false' translate='true'><![CDATA[Adicionar as VLANs perdidas aos switches S1 e S3.]]></text>
+         </component>
+
+      <!-- Question 4-->
+         <component type='text' id='txt_q4_stem'>
+            <text variable='false' translate='true'><![CDATA[Quais dois métodos evitam corrupção de banco de dados de VLAN não intencional ao adicionar um novo switch? (Escolha dois.)]]></text>
+         </component>
+         <component type='text' id='txt_q4_op1'>
+            <text variable='false' translate='true'><![CDATA[Redefinir o número de revisão de configuração no novo switch alterando temporariamente o nome de domínio VTP.]]></text>
+         </component>
+         <component type='text' id='txt_q4_op2'>
+            <text variable='false' translate='true'><![CDATA[Aumentar o número de revisão de configuração em um servidor VTP existente de forma que ele seja inferior ao do switch sendo adicionado. ]]></text>
+         </component>
+         <component type='text' id='txt_q4_op3'>
+            <text variable='false' translate='true'><![CDATA[Alterar temporariamente o modo do novo switch para transparente.]]></text>
+         </component>
+         <component type='text' id='txt_q4_op4'>
+            <text variable='false' translate='true'><![CDATA[Excluir o banco de dados de VLAN do servidor VTP antes de conectar o novo dispositivo à rede.]]></text>
+         </component>
+         <component type='text' id='txt_q4_op5'>
+            <text variable='false' translate='true'><![CDATA[Alterar o número de registro de configuração no novo switch utilizando o comando config-reg.]]></text>
+         </component>
+
+      <!-- Feedback for Question 1 -->		 
+         <component type='text' id='txt_q1_desc'>
+            <text variable='true' translate='true'><![CDATA[<b>Pergunta 1</b><br>]]></text>
+         </component>
+         <component type='text' id='txt_q1_correct'>
+            <text variable='true' translate='true'><![CDATA[<font face='_sans' size='12'><textformat blockindent='15'>Correto</textformat></font><br>]]></text>
+         </component>
+         <component type='text' id='txt_q1_incorrect'>
+            <text variable='true' translate='true'><![CDATA[<font face='_sans' size='12'><textformat blockindent='15'>Incorreto</textformat></font><br>]]></text>
+         </component>
+
+      <!-- Feedback for Question 2 -->		 
+         <component type='text' id='txt_q2_desc'>
+            <text variable='true' translate='true'><![CDATA[<b>Pergunta 2</b><br>]]></text>
+         </component>
+         <component type='text' id='txt_q2_correct'>
+            <text variable='true' translate='true'><![CDATA[<font face='_sans' size='12'><textformat blockindent='15'>Correto</textformat></font><br>]]></text>
+         </component>
+         <component type='text' id='txt_q2_incorrect'>
+            <text variable='true' translate='true'><![CDATA[<font face='_sans' size='12'><textformat blockindent='15'>Incorreto</textformat></font><br>]]></text>
+         </component>
+
+      <!-- Feedback for Question 3 -->		 
+         <component type='text' id='txt_q3_desc'>
+            <text variable='true' translate='true'><![CDATA[<b>Pergunta 3</b><br>]]></text>
+         </component>
+         <component type='text' id='txt_q3_correct'>
+            <text variable='true' translate='true'><![CDATA[<font face='_sans' size='12'><textformat blockindent='15'>Correto</textformat></font><br>]]></text>
+         </component>
+         <component type='text' id='txt_q3_incorrect'>
+            <text variable='true' translate='true'><![CDATA[<font face='_sans' size='12'><textformat blockindent='15'>Incorreto</textformat></font><br>]]></text>
+         </component>
+
+      <!-- Feedback for Question 4 -->		 
+         <component type='text' id='txt_q4_desc'>
+            <text variable='true' translate='true'><![CDATA[<b>Pergunta 4</b><br>]]></text>
+         </component>
+         <component type='text' id='txt_q4_correct'>
+            <text variable='true' translate='true'><![CDATA[<font face='_sans' size='12'><textformat blockindent='15'>Correto</textformat></font><br>]]></text>
+         </component>
+         <component type='text' id='txt_q4_incorrect'>
+            <text variable='true' translate='true'><![CDATA[<font face='_sans' size='12'><textformat blockindent='15'>Incorreto</textformat></font><br>]]></text>
+         </component>
+   </textcomponents>
+   
+  
+	
+   <hwcomponents>
+      <component type='questionpool' id='qpool1'>
+         <question questiontype='mc' randomizeoptions='false' id='q1'>
+            <stem id='q1_stem' textsrc='txt_q1_stem' />
+            <option id='q1o1' textsrc='txt_q1_op1' />
+            <option id='q1o2' textsrc='txt_q1_op2' />
+            <option id='q1o3' textsrc='txt_q1_op3' />
+            <option id='q1o4' textsrc='txt_q1_op4' />
+            <option id='q1o5' textsrc='txt_q1_op5' />
+         </question>
+      </component>
+
+      <component type='questionpool' id='qpool2'>
+         <question questiontype='mc' randomizeoptions='false' id='q2'>
+            <stem id='q2_stem' textsrc='txt_q2_stem' />
+            <option id='q201' textsrc='txt_q2_op1' />
+            <option id='q2o2' textsrc='txt_q2_op2' />
+            <option id='q2o3' textsrc='txt_q2_op3' />
+            <option id='q204' textsrc='txt_q2_op4' />
+            <option id='q2o5' textsrc='txt_q2_op5' />
+         </question>
+      </component>
+
+      <component type='questionpool' id='qpool3'>
+         <question questiontype='mc' randomizeoptions='false' id='q3'>
+            <stem id='q3_stem' textsrc='txt_q3_stem' />
+            <option id='q3o1' textsrc='txt_q3_op1' />
+            <option id='q3o2' textsrc='txt_q3_op2' />
+            <option id='q3o3' textsrc='txt_q3_op3' />
+            <option id='q3o4' textsrc='txt_q3_op4' />
+         </question>
+      </component>
+
+      <component type='questionpool' id='qpool4'>
+         <question questiontype='mc' randomizeoptions='false' id='q4'>
+            <stem id='q4_stem' textsrc='txt_q4_stem' />
+            <option id='q4o1' textsrc='txt_q4_op1' />
+            <option id='q4o2' textsrc='txt_q4_op2' />
+            <option id='q4o3' textsrc='txt_q4_op3' />
+            <option id='q4o4' textsrc='txt_q4_op4' />
+            <option id='q4o5' textsrc='txt_q4_op5' />
+         </question>
+      </component>
+
+      <component type='question' id='question1'>
+         <draw questionpool='qpool1' />
+      </component>
+      <component type='question' id='question2'>
+         <draw questionpool='qpool2' />
+      </component>
+      <component type='question' id='question3'>
+         <draw questionpool='qpool3' />
+      </component>
+      <component type='question' id='question4'>
+         <draw questionpool='qpool4' />
+      </component>
+   </hwcomponents>
+
+   <graphiccomponents>
+      <component type='graphic' id='gr_topology'>
+         <icon x='0' y='0' width='516' height='312' id='icon_topology' />
+		 <label src='txt_pc1' x='15' y='75' width='60' height='25' background='false' />
+		 <label src='txt_pc2' x='15' y='155' width='60' height='25' background='false' />
+		 <label src='txt_pc3' x='15' y='235' width='60' height='25' background='false' />
+		 <label src='txt_s1' x='300' y='70' width='60' height='85' background='false' />
+		 <label src='txt_s2' x='185' y='165' width='60' height='85' background='false' />
+		 <label src='txt_s3' x='400' y='165' width='60' height='85' background='false' />
+		 <label src='txt_pc1info' x='5' y='110' width='80' height='25' background='false' />
+		 <label src='txt_pc2info' x='5' y='195' width='80' height='25' background='false' />
+		 <label src='txt_pc3info' x='5' y='275' width='80' height='25' background='false' />
+		 <label src='txt_f1' x='270' y='100' width='60' height='25' background='false' />
+		 <label src='txt_f11' x='135' y='130' width='60' height='25' background='false' />
+		 <label src='txt_f18' x='95' y='140' width='60' height='25' background='false' />
+		 <label src='txt_f6' x='95' y='170' width='60' height='25' background='false' />
+		 <label src='txt_msg1' x='210' y='190' width='200' height='25' background='false' />
+		 <label src='txt_msg2' x='70' y='10' width='200' height='65' background='false' />
+		 <label src='txt_msg3' x='120' y='215' width='200' height='65' background='false' />
+		 <label src='txt_msg4' x='315' y='215' width='200' height='65' background='false' />
+		 
+      </component>
+   </graphiccomponents>
+
+   <presentation>
+      <mainstage bgcolor='#FFFFFF' theme='ccna' historylog='none' tooltips='true' contextmenu='false' />
+      <graphicmap>
+         <map id='icon_topology' src='Topology' location='library' />
+      </graphicmap>       
+	  <window id='none' resize='none' titltetextid='txt_check' width='0' height='0' visible='true' depth='50' x='0' y='0' checkbutton='true' />
+      <window id='win_scenario' resize='all' titletextid='txt_tscenario' minheight='100' minwidth='100' height='560' width='890' depth='200' x='110' y='3' visible='true'>
+         <element src='txt_scenario' container='textClip' width='860' html='true' wordwrap='true' id='ele_scenario' />
+      </window>
+	  <window id='win_instruction' resize='all'  titletextid='txt_instructions'  minheight='100' minwidth='100' height='560' width='890' depth='300' x='110' y='3' visible='true'> 
+            <element id='a1' src='instructiontext123' container='textClip' width='320' html='true' wordwrap='true' /> 
+          </window>
+      <window id='win_topology' resize='all' titletextid='txt_topology' minheight='100' minwidth='100' height='560' width='890' depth='200' x='110' y='3' visible='true'>
+         <element src='gr_topology' id='ele_topology' x='0' y='0' depth='1' />
+      </window>
+      <window id='win_index' resize='none' titletextid='txt_questions' height='350' width='103' depth='100' x='2' y='3' visible='true' minimize='false'>
+         <element src='questionIndex' container='questionIndex' id='ele_questions' forcedsequential='false' gradebtn='false' />
+      </window>
+      <window id='win_q1' titletextid='txt_question' minimize='false' minheight='100' minwidth='100' height='560' width='890' visible='false' depth='1' y='3' x='110' resize='all' navigation='true' navtarget='win_q2' navtext='txt_nav' navbuttonlabel='txt_next'>
+         <element src='question1' container='mc_task' id='ele_q1' />
+      </window>
+      <window id='win_q2' titletextid='txt_question' minimize='false' minheight='100' minwidth='100' height='560' width='890' visible='false' depth='2' y='3' x='110' resize='all' navigation='true' navtarget='win_q3' navtext='txt_nav' navbuttonlabel='txt_next'>
+         <element src='question2' container='mc_task' id='ele_q2' />
+      </window>
+      <window id='win_q3' titletextid='txt_question' minimize='false' minheight='100' minwidth='100' height='560' width='890' visible='false' depth='3' y='3' x='110' resize='all' navigation='true' navtarget='win_q4' navtext='txt_nav' navbuttonlabel='txt_next'>
+         <element src='question3' container='mc_task' id='ele_q3' />
+      </window>
+      <window id='win_q4' titletextid='txt_question' minimize='false' minheight='100' minwidth='100' height='560' width='890' visible='false' depth='4' y='3' x='110' resize='all' >
+         <element src='question4' container='mc_task' id='ele_q4' />
+      </window>
+   </presentation>
+
+   <scoring>
+      <testlet>
+         <subtask ident='q1' tasksrc='q1'>
+            <resprocessing resprociden='rp_1'>
+               <outcomes>
+                  <decvar varname='v1' maxvalue='1'>
+                     <title>valor</title>
+                  </decvar>
+               </outcomes>
+               <respcondition>
+                  <conditionvar>
+                     <varequal respident='ri_1'>
+                        <componentident>q1o5</componentident>
+                     </varequal>
+                  </conditionvar>
+                  <setvar action='Set' varname='v1'>1</setvar>
+               </respcondition>
+               <respcondition>
+                  <conditionvar>
+                     <varequal respident='ri_1'>
+                        <componentident>outros</componentident>
+                     </varequal>
+                  </conditionvar>
+                  <setvar action='Set' varname='v1'>0</setvar>
+               </respcondition>
+            </resprocessing>
+         </subtask>
+         <subtask ident='q2' tasksrc='q2'>
+            <resprocessing resprociden='rp_2'>
+               <outcomes>
+                  <decvar varname='v2' maxvalue='1'>
+                     <title>valor</title>
+                  </decvar>
+               </outcomes>
+               <respcondition>
+                  <conditionvar>
+                     <varequal respident='ri_2'>
+                        <componentident>q2o3</componentident>
+                        <componentident>q204</componentident>
+                     </varequal>
+                  </conditionvar>
+                  <setvar action='Set' varname='v2'>1</setvar>
+               </respcondition>
+               <respcondition>
+                  <conditionvar>
+                     <varequal respident='ri_2'>
+                        <componentident>outros</componentident>
+                     </varequal>
+                  </conditionvar>
+                  <setvar action='Set' varname='v2'>0</setvar>
+               </respcondition>
+            </resprocessing>
+         </subtask>
+         <subtask ident='q3' tasksrc='q3'>
+            <resprocessing resprociden='rp_3'>
+               <outcomes>
+                  <decvar varname='v3' maxvalue='1'>
+                     <title>valor</title>
+                  </decvar>
+               </outcomes>
+               <respcondition>
+                  <conditionvar>
+                     <varequal respident='ri_3'>
+                        <componentident>q3o1</componentident>
+                     </varequal>
+                  </conditionvar>
+                  <setvar action='Set' varname='v3'>1</setvar>
+               </respcondition>
+               <respcondition>
+                  <conditionvar>
+                     <varequal respident='ri_3'>
+                        <componentident>outros</componentident>
+                     </varequal>
+                  </conditionvar>
+                  <setvar action='Set' varname='v3'>0</setvar>
+               </respcondition>
+            </resprocessing>
+         </subtask>
+         <subtask ident='q4' tasksrc='q4'>
+            <resprocessing resprociden='rp_4'>
+               <outcomes>
+                  <decvar varname='v4' maxvalue='1'>
+                     <title>valor</title>
+                  </decvar>
+               </outcomes>
+               <respcondition>
+                  <conditionvar>
+                     <varequal respident='ri_4'>
+                        <componentident>q4o1</componentident>
+                        <componentident>q4o3</componentident>
+                     </varequal>
+                  </conditionvar>
+                  <setvar action='Set' varname='v4'>1</setvar>
+               </respcondition>
+               <respcondition>
+                  <conditionvar>
+                     <varequal respident='ri_4'>
+                        <componentident>outros</componentident>
+                     </varequal>
+                  </conditionvar>
+                  <setvar action='Set' varname='v4'>0</setvar>
+               </respcondition>
+            </resprocessing>
+         </subtask>
+      </testlet>
+   </scoring>
+</avalontask>

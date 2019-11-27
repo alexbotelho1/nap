@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:20">
+<title><content-text><![CDATA[4.5.2  - Managing Cisco I O S Images]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts URL prefixes for Cisco devices. Router R2 is connected to a TFTP server with IP address 192.168.20.254/24. Flash memory, RAM, and NV RAM are associated with the router. The prefix, URL path, and an example is given for each file location.<br><br>TFTP:<br>Prefix - tftp: <br>URL Path: [[[//location] / directory]/filename]<br>Example: tftp://192.168.20.254 /configs/backup-config<br><br>Flash memory:<br>Prefix - flash:<br>URL Path: [[/directory] / filename]<br>Example: flash:configs/backup-config<br><br>RAM:<br>Prefix - system:<br>URL Path: filename]<br>Example: system:running-config<br><br>NV RAM:<br>Prefix - nvram:<br>URL Path: filename]<br>Example: nvram:startup-config]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

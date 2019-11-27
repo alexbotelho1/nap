@@ -1,0 +1,17 @@
+<textcomponents>
+<component id="table1">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+<tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Considerações durante a utilização do comando <font face='_typewriter'>debug</font></b></font></td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li> <font face="_typewriter"><b>debug</b></font> obtém prioridade de CPU. Planejar <font face='_typewriter'><b>debug</b></font> use com cuidado.</li><li> <font face='_typewriter'><b>debug</b></font> pode ajudar a resolver problemas persistentes, exercedendo seu efeito no desempenho da rede.</li><li> <font face="_typewriter"><b>debug</b></font> pode gerar muita saída de comando. Saiba o que você está procurando antes de começar.</li><li> As depurações diferentes geram formatos de saída de comando diferentes. Não seja pego de surpresa.</li><li> Planejar a utilização do <font face="_typewriter"><b>debug</b></font> . Utilize-o com muito cuidado.</li></ul></td>
+</tr>
+</table>]]></text>
+
+</component>
+<component id="title">
+<text><![CDATA[Considerações ao utilizar <font face='_typewriter'><b>debug</b></font>  ]]></text> 
+</component>
+
+</textcomponents>

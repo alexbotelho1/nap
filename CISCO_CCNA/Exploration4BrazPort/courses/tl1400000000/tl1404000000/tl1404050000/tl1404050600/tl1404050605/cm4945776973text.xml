@@ -1,0 +1,18 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<font size='14'><b>Comandos relacionados ao comando <font face ='_typewriter'>debug</font></b>]]></text> 
+ </component>
+<component id="bullet1">
+<text><![CDATA[<b><li>Adiciona um registro de data/hora a uma mensagem de depuração ou log</li></b>]]></text> 
+  </component>
+<component id="bullet2">
+<text><![CDATA[<b><li>Exibe o uso da CPU para cada processo</li></b>]]></text> 
+  </component>
+ <component id="bullet3">
+ <text><![CDATA[<b><li>Desabilita todos os comandos de depuração</li></b>]]></text> 
+</component>
+<component id="bullet4">
+<text><![CDATA[<b><li>Exibe a saída do comando debug na sua sessão vty atual</li></b>]]></text> 
+</component>
+
+</textcomponents>

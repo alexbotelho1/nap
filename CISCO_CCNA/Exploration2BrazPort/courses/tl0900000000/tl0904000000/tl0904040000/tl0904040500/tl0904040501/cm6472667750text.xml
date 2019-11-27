@@ -1,0 +1,155 @@
+<textcomponents>
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para exibir a animação.</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Regra de split horizon para a 10.4.0.0</b>]]></text>
+</component>
+
+<component id="ID_txt02_1">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="ID_txt02_2">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_txt02_3">
+<text><![CDATA[<b>Salto</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt09_1">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="ID_txt09_2">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_txt09_3">
+<text><![CDATA[<b>Salto</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt16_1">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="ID_txt16_2">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_txt16_3">
+<text><![CDATA[<b>Salto</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt55">
+<text><![CDATA[<b>R3 envia uma atualização a R2 que contém a rota 10.4.0.0.</b>]]></text>
+</component>
+
+<component id="ID_txt56_1">
+<text><![CDATA[<b>Atualizar</b>]]></text>
+</component>
+
+<component id="ID_txt56_2">
+<text><![CDATA[<b>Atualizar</b>]]></text>
+</component>
+
+<component id="ID_txt60">
+<text><![CDATA[<b>Pacote para rede 10.4.0.0.</b>]]></text>
+</component>
+
+<component id="ID_txt61">
+<text><![CDATA[<b>R2 envia uma atualização a R3 sem a 10.4.0.0.</b>]]></text>
+</component>
+
+<component id="ID_txt62">
+<text><![CDATA[<b><li>R2 envia uma atualização a R1 sobre a rede 10.4.0.0.</li><li>A rede 10.3.0.0 também está incluída na atualização.</li></b>]]></text>
+</component>
+
+<component id="ID_txt63">
+<text><![CDATA[<b><li>R1 envia uma atualização a R2 sem a 10.4.0.0.</li><li>Além disso, observe que o R1 não envia atualizações sobre a 10.2.0.0 ou a 10.3.0.0 ao R2.</li></b>]]></text></component>
+
+<component id="myTable1">
+<text><![CDATA[<b><li>R3 envia uma atualização a R2 que contém a rota 10.4.0.0</li></b>]]></text>
+</component>
+
+<component id="myTable2">
+<text><![CDATA[<b><li>R2 envia uma atualização a R3 sem a 10.4.0.0</li></b>]]></text>
+</component>
+
+<component id="myTable3">
+<text><![CDATA[<b><li>R2 envia uma atualização a R1 sobre a rede 10.4.0.0.</li><li>A rede 10.3.0.0 também está incluída na atualização.</li></b>]]></text>
+</component>
+
+<component id="myTable4">
+<text><![CDATA[<b><li>R1 envia uma atualização a R2 sem a 10.4.0.0.</li><li>Além disso, observe que o R1 não envia atualizações sobre a 10.2.0.0 ou a 10.3.0.0 ao R2.</li></b>]]></text>
+</component>
+
+<component id="ID_subtitle01">
+<text><![CDATA[<b>O R3 só anuncia a 10.4.0.0 ao R2.</b>]]></text>
+</component>
+
+<component id="ID_subtitle02">
+<text><![CDATA[<b>O R2 só anuncia a 10.3.0.0 e a 10.4.0.0 ao R1.</b>]]></text>
+</component>
+
+<component id="ID_subtitle03">
+<text><![CDATA[<b>O R2 só anuncia a 10.2.0.0 e a 10.1.0.0 ao R3.</b>]]></text>
+</component>
+
+<component id="ID_subtitle04">
+<text><![CDATA[<b>O R1 só anuncia a 10.1.0.0 ao R2.</b>]]></text>
+</component>
+
+<component id="ID_info01">
+<text><![CDATA[<b>Nenhuma informação nova.</b>]]></text>
+</component>
+
+<component id="ID_info02">
+<text><![CDATA[<b>Nenhuma informação nova.</b>]]></text>
+</component>
+
+<component id="ID_info03">
+<text><![CDATA[<b>Nenhuma informação nova.</b>]]></text>
+</component>
+
+<component id="ID_info04">
+<text><![CDATA[<b>Nenhuma informação nova.</b>]]></text>
+</component>
+
+
+
+</textcomponents>

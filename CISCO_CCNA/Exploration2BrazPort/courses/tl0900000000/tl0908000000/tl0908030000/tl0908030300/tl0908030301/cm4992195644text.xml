@@ -1,0 +1,87 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text> 
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver a correspondência de bits.</b>]]></text> 
+</component>
+
+<component id="btnOne">
+<text><![CDATA[<b>Tabela de roteamento de R2</b>]]></text> 
+</component>
+
+<component id="btnTwo">
+<text><![CDATA[<b>Primária</b>]]></text> 
+</component>
+
+<component id="btnThree">
+<text><![CDATA[<b>1</b>]]></text> 
+</component>
+
+<component id="btnFour">
+<text><![CDATA[<b>2</b>]]></text> 
+</component>
+
+<component id="btnFive">
+<text><![CDATA[<b>3</b>]]></text> 
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Exemplo: R2 funcionando com comportamento de roteamento classful</b>]]></text>
+</component>
+
+<component id="ID_Title02">
+<text><![CDATA[<b>Exemplo: Rota primária de nível 1 e rotas secundárias de nível 2</b>]]></text>
+</component>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Destino do pacote IP</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Rota Primária de Nível 1</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Rota Secundária de Nível 2</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Rota Secundária de Nível 2</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Rota Secundária de Nível 2</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Destino corresponde à rota primária. R2 verificará agora as rotas secundárias.</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>22° bit <i>não</i> corresponde. Os 24 bits iniciais devem corresponder. O roteador ignora essa rota e passa para a próxima entrada de rota.</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Correspondência dos 21 bits iniciais.</b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Correspondência</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Rota<br>Padrão</b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Rota<br>Estática</b>]]></text> 
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[***saída do comando omitida***]]></text> 
+</component>
+
+</textcomponents>

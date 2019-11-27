@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Identificação e solução de problemas de aplicativo</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Execute ping no gateway padrão]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Verificar a conectividade fim-a-fim]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Verifique o ACL e a operação NAT]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Identifique e solucione problemas de conectividade de protocolo de camada superior]]></text> 
+</component>
+
+</textcomponents>

@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="1_4_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CLICK_01">
+        <source>Pins</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CLICK_02">
+        <source>Layout</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CLICK_03">
+        <source>Voltage</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_CLICK_04">
+        <source>Supported Processors</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_CLICK_05">
+        <source>Socket 1
+
+
+
+Socket 2
+
+
+
+
+Socket 3
+
+
+
+
+Socket 6
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_CLICK_06">
+        <source>169
+
+
+
+238
+
+
+
+
+237
+
+
+
+
+235
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_CLICK_07">
+        <source>17x17 PGA
+
+
+
+19x19 PGA
+
+
+
+
+19x19 PGA
+
+
+
+
+19x19 PGA
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_CLICK_08">
+        <source>5V
+
+
+
+5V
+
+
+
+
+5V/3.3V
+
+
+
+
+3.3V
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_CLICK_09">
+        <source>486 SX/SX2, DX/DX2, DX4 OD
+
+
+486 SX/SX2, DX/DX2, DX4 OD, 486 Pentium OD
+
+
+486 SX/SX2, DX/DX2, DX4, 486 Pentium OD, AMD 5x86
+
+
+486 DX4, 486 Pentium OD
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_CLICK2_05">
+        <source>Socket 4
+
+
+
+Socket 5
+
+
+
+Socket 7
+
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_CLICK2_06">
+        <source>273
+
+
+
+320
+
+
+
+321
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_CLICK2_07">
+        <source>21x21PGA
+
+
+
+37x37SPGA
+
+
+
+37x37SPGA
+
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_CLICK2_08">
+        <source>5V
+
+
+
+3.3V/
+3.5V
+
+
+VRM
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_CLICK2_09">
+        <source>Pentium 60/66, OD
+
+
+
+Pentium 75-133, OD
+
+
+
+Pentium 75-233+, MMX, OD, AMD K5/K6, Cyrix M1/II
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_CLICK3_05">
+        <source>Socket 8
+
+
+
+Slot 1 (SC242)
+
+
+
+Socket 370
+
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_CLICK3_06">
+        <source>387
+
+
+
+242
+
+
+
+
+370
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_CLICK3_07">
+        <source>Dual-pattern SPGA
+
+
+Slot
+
+
+
+
+37x37SPGA
+
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_CLICK3_08">
+        <source>Auto VRM
+
+
+Auto VRM
+
+
+
+Auto VRM
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_CLICK3_09">
+        <source>Pentium Pro, OD
+
+
+
+Pentium II/III, Celeron SECC
+
+
+
+Celeron/Pentium III PPGA/FC-PGA
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_CLICK4_05">
+        <source>Socket 423
+
+
+Socket 478
+
+
+
+Socket T (LGA775)
+
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_CLICK4_06">
+        <source>423
+
+
+
+478
+
+
+
+
+775
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_CLICK4_07">
+        <source>39x39SPGA
+
+
+
+26x26mPGA
+
+
+
+
+30x33 LGA
+
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_CLICK4_08">
+        <source>Auto VRM
+
+
+Auto VRM
+
+
+
+Auto VRM
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_CLICK4_09">
+        <source>Pentium 4 FC-PGA
+
+
+
+Pentium 4/Celeron FC-PGA2
+
+
+
+Pentium 4/Celeron LGA775
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_CLICK5_05">
+        <source>Slot A 
+
+
+
+Socket A (462)
+
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_CLICK5_06">
+        <source>242
+
+
+
+462
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_CLICK5_07">
+        <source>Slot 
+
+
+
+37x37SPGA
+
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_CLICK5_08">
+        <source>Auto VRM
+
+
+Auto VRM
+
+
+
+
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_CLICK5_09">
+        <source>AMD Athlon SECC 
+
+
+
+AMD Athlon/Athlon XP/Duron PGA/FC-PGA
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_CLICK6_05">
+        <source>Socket 754
+
+
+Socket 939
+
+
+
+Socket 940
+
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_CLICK6_06">
+        <source>754
+
+
+
+939
+
+
+
+
+940
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_CLICK6_07">
+        <source>29x29mPGA
+
+
+
+31x31mPGA
+
+
+
+
+31x31mPGA
+
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_CLICK6_08">
+        <source>Auto VRM
+
+
+Auto VRM
+
+
+
+Auto VRM
+
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_CLICK6_09">
+        <source>AMD Athlon 64,
+
+
+
+AMD Athlon 64 v.2,
+
+
+
+
+AMD Athlon 64FX, Opteron
+
+
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_CLICK7_05">
+        <source>Slot 2 (SC330) 
+
+
+Socket 603
+
+
+PAC418 Socket
+
+
+
+PAC611 Socket 940</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_CLICK7_06">
+        <source>330
+
+
+
+603
+
+
+
+
+611
+
+
+
+
+940
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_CLICK7_07">
+        <source>Slot 
+
+
+
+31x25mPGA
+
+
+
+
+25x28mPGA
+
+
+
+
+31x31mPGA
+</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_CLICK7_08">
+        <source>Auto VRM
+
+
+Auto VRM
+
+
+Auto VRM
+
+
+
+Auto VRM</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_CLICK7_09">
+        <source>Pentium II/III Xeon 
+
+
+
+Xeon (P4)
+
+
+
+Itanium 2
+
+
+
+
+AMD Athlon 64FX, Opteron</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TITLE1">
+        <source>CPU Types and Socket Specifications</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TITLE2">
+        <source>Choosing a Case</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_01">
+        <source>CPU Socket Specifications</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_01A">
+        <source>Rationale</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TXT_02">
+        <source>Intel/AMD 486 class</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TXT_03">
+        <source>Intel/AMD 586 (Pentium) class</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TXT_04">
+        <source>Intel 686 (Pentium II/III) class</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TXT_05">
+        <source>Pentium 4 class</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TXT_06">
+        <source>AMD K7 class</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TXT_07">
+        <source>AMD K8 class[2]
+</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TXT_07A">
+        <source>Intel/AMD Server &amp; Workstation class</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TXT_08">
+        <source>Desktop cases allow space conservation in tight areas because the monitor can be placed on top of unit. Tower cases can be located on or under the desk.
+</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TXT_09">
+        <source>Socket</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TXT_10">
+        <source>If a computer has many components, it will need more room for airflow to keep the system cool.
+</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TXT_11">
+        <source>Desktop cases allow space conservation in tight areas because the monitor can be placed on top of the unit. The design of the desktop case may limit the number and size of the components that can be added.</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TXT_12">
+        <source>You must match the power rating and connection type of the power supply to the type of motherboard you have chosen.
+</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TXT_13">
+        <source>For some people, how the case looks doesn’t matter at all. For others, it is critical. There are many case designs to choose from if it is necessary to have a case that is attractive.</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TXT_14">
+        <source>What is going on inside the case can be very important. LED indicators that are mounted on the front of the case can tell you if the system is receiving power, when the hard drive is being used, and when the computer is on standby or sleeping.</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_TXT_15">
+        <source>All cases have a vent on the power supply, and some have another vent on the back to help draw air into or out of the system. Some cases are designed with more vents in the event that the system needs a way to dissipate an unusual amount of heat. This situation may occur when many devices are installed close together in the case.</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

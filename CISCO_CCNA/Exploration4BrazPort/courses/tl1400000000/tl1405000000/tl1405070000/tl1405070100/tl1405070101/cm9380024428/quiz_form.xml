@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13392" dateexported="10/20/2009">
+		<name>Teste do Módulo 5</name>
+		<form id="23439" lang="pt"><form-item order="fixed">
+			<ai id="165020" type="mc-ma"><question><![CDATA[Quais são as duas afirmativas que descrevem corretamente as listas de controle de acesso da Cisco? (Escolha duas.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[As ACLs estendidas são criadas no modo de configuração de interface. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[As ACLs estendidas filtram o tráfego com base no IP de origem e de destino, no número de porta e no protocolo.  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[As ACLs IP padrão são numeradas de 1 a 99, e as ACLs IP estendidas são numeradas de 100 a 199.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[As ACLs padrão permitem ou negam tráfego a endereços IP específicos. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[As ACLs padrão não permitem o uso de máscaras curinga. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165002" type="mc-sa"><question><![CDATA[Qual é a afirmativa correta em relação à aplicação de uma lista de acesso a uma interface?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[As listas de acesso são aplicadas no modo de configuração global. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[As listas de acesso nomeadas são aplicadas usando o comando <b>ip access-name</b>. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[As listas de acesso padrão devem ser aplicadas a uma interface que esteja o mais próximo possível do destino.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O comando para aplicar a lista de acesso 101 de entrada é <b>ip access-list 101</b>. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165097" type="mc-sa"><question><![CDATA[Que afirmativa é uma diretriz a ser seguida ao criar listas de controle de acesso?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Como os testes de ACL são executados em ordem, eles devem ser organizados da condição mais geral à mais específica. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Como os testes de ACL são executados em ordem, eles devem ser organizados da condição mais específica à mais geral.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Como todas as instruções em uma ACL são avaliadas antes de serem executadas, uma instrução explícita <b>deny any</b> deve ser escrita para que uma ACL funcione corretamente. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Como todas as instruções em uma ACL são avaliadas antes de serem executadas, uma instrução explícita <b>permit any</b> deve ser escrita para que uma ACL funcione corretamente. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165021" type="mc-ma"><question><![CDATA[Quais são as duas soluções que podem ser implementadas com ACLs? (Escolha duas.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Segmentar a rede para aumentar a largura de banda disponível. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Criar um &quot;firewall&quot; em um roteador para filtrar o tráfego de entrada de uma rede externa.  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Controlar o tráfego que entra ou sai de áreas diferentes de uma rede local.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Distribuir o tráfego DHCP para permitir disponibilidade de rede mais fácil. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Permitir ou negar tráfego na rede com base no endereço MAC. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="66171" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="66171" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>ANY</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>show running-config</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>show access-list</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>HOST</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>show ip interface</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>substitui a máscara 0.0.0.0</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>indica se existem ACLs definidas em uma interface</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>exibe o conteúdo de todas as ACLs no roteador</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>representa um conjunto de endereço IP e máscara de 0.0.0.0 255.255.255.255</mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>revela as ACLs e designações de interfaces em um roteador</mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Faça a correspondência dos comandos usados com ACLs descritos abaixo com a sua descrição apropriada:</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-125" targetYspacing="15" yspacing="60" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="135"/><display componentIdent="3" xpos="200" ypos="195"/><display componentIdent="4" xpos="200" ypos="255"/><display componentIdent="5" xpos="200" ypos="315"/></options><targets><display componentIdent="1" xpos="600" ypos="75"/><display componentIdent="2" xpos="600" ypos="127"/><display componentIdent="3" xpos="600" ypos="179"/><display componentIdent="4" xpos="600" ypos="231"/><display componentIdent="5" xpos="600" ypos="283"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident></scoringzone><scoringzone ident ="2"><componentident>2</componentident></scoringzone><scoringzone ident ="3"><componentident>3</componentident></scoringzone><scoringzone ident ="4"><componentident>4</componentident></scoringzone><scoringzone ident ="5"><componentident>5</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="50614" maxvalue ="1"><title>nenhum título</title></decvar><interpretvar varname="50614" view="All">nenhuma descrição dada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="5"><componentident>2</componentident></scoringzonecontains></conditionvar><setvar varname="50614" action="Set">1</setvar><scoringdescription>de cima para baixo: HOST, show ip interface, show access-list, ANY, show running-config</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="88911" type="mc-sa"><question><![CDATA[Qual é o endereço IP e máscara curinga que irá detectar pacotes provenientes de hosts de uma das sub-redes <i>inteira</i> da rede 192.168.12.0, se estiver sendo utilizada a máscara de sub-rede com 29 bits?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[192.168.12.56 0.0.0.15 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[192.168.12.56 0.0.0.8 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[192.168.12.56 0.0.0.31 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[192.168.12.84 0.0.0.7  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[192.168.12.84 0.0.0.3 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[192.168.12.84 0.0.0.255 ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165015" type="mc-sa"><question><![CDATA[Que tipo de lista de acesso é criado com o comando <b>ip access-list standard fastaccess</b>?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[ACL turbo ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[ACL reflexiva ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[ACL nomeada  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[ACL dinâmica ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165022" type="mc-sa"><question><![CDATA[Consulte a figura. A figura mostra uma ACL que já existe no roteador. O administrador de rede deseja inserir o comando <b>access-list 101 deny ip any 192.168.1.0 0.0.0.255 eq ftp</b> como a terceira linha na ACL mostrada. O administrador de rede insere o comando no modo de configuração global no roteador. Qual é o efeito disso? <br/><img src="i165022n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Insere a linha na posição desejada na ACL. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Insere a linha como a primeira instrução na ACL. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Insere a linha como a última instrução na ACL.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Exclui a lista inteira e a substitui somente pela nova linha. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165018" type="mc-sa"><question><![CDATA[Consulte a figura. Qual afirmativa descreve corretamente como o Roteador1 processa pacotes com a configuração mostrada? <br/><img src="i165018n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[O tráfego que sai da interface s0/0/0 é filtrado pela ACL 101 e pela ACL 201. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Se um pacote que entrar na interface s0/0/0 corresponder a uma condição na ACL 101, o roteador continuará comparando o pacote ao resto das instruções na ACL 101 para verificar se nenhuma outra instrução também poderá ser aplicada. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Primeiro, o Roteador1 compara os pacotes que entram na interface s0/0/0 a todas as instruções da ACL 101 para o protocolo IP e, depois, a todas as instruções da ACL 101 para o protocolo ICMP. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Um pacote que entra na interface s0/0/0 é comparado a todas as instruções na ACL 101 até que uma delas corresponda ao pacote. Em seguida, o roteador descarta ou encaminha o pacote sem considerar as instruções restantes na ACL 101.  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165016" type="mc-sa"><question><![CDATA[Um administrador deseja implementar acesso bloqueado (lock-and-key) a um host dentro da rede de uma empresa para usuários específicos que estão se conectando de fora da rede de empresa. Qual é o tipo de ACL mais adequado a essa situação?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[dinâmico  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[reflexivo ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[estendido ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[baseado no tempo ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165017" type="mc-sa"><question><![CDATA[Que tipo de ACL o administrador de rede deve implementar para limitar o tráfego de Internet durante os horários de pico do dia?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[dinâmico ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[baseado em política ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[reflexivo ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[baseado no tempo  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165019" type="mc-sa"><question><![CDATA[Qual afirmativa descreve corretamente uma lista de acesso reflexiva?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[Uma ACL que permite tráfego IP para sessões originadas de dentro da rede e nega tráfego para sessões originadas externamente.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Uma ACL que controla o tráfego com base no tempo. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Uma ACL que usa uma lista estendida para impedir que os usuários atravessem um roteador até que sejam autenticados. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Uma ACL que só identifica a origem do tráfego. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="66121" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="66121" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>verifica só os endereços de origem</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>números 100 a 199 da lista de acesso</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>verifica números de protocolos e de portas</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>só permite ou nega protocolos inteiros com base no endereço da rede</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>números 1 a 99 da lista de acesso</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>verifica endereços de origem e de destino</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>ACL IP padrão </mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>ACL IP estendida</mattext></material></textcomponent></component> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Faça a correspondência das descrições a seguir com o tipo apropriado de ACL.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-137.5" targetYspacing="15" yspacing="60" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="135"/><display componentIdent="3" xpos="200" ypos="195"/><display componentIdent="4" xpos="200" ypos="255"/><display componentIdent="5" xpos="200" ypos="315"/><display componentIdent="6" xpos="200" ypos="375"/></options><labels><display componentIdent="1" xpos="600" ypos="85.5" containsTargets="3" startTarg="1" labelStyle="1"/><display componentIdent="2" xpos="600" ypos="266.5" containsTargets="3" startTarg="4" labelStyle="1"/></labels><targets><display componentIdent="1" xpos="600" ypos="100"/><display componentIdent="2" xpos="600" ypos="152"/><display componentIdent="3" xpos="600" ypos="204"/><display componentIdent="4" xpos="600" ypos="281"/><display componentIdent="5" xpos="600" ypos="333"/><display componentIdent="6" xpos="600" ypos="385"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident></scoringzone><scoringzone ident ="2"><componentident>4</componentident><componentident>5</componentident><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="obs1" maxvalue ="1"><title>nenhum título</title></decvar><interpretvar varname="obs1" view="All">Padrão – só de origem, protocolos inteiros, 1-99 Estendida - 100-199, protocolos e portas, de origem e de destino</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>1</componentident><componentident>5</componentident><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident><componentident>3</componentident><componentident>6</componentident></scoringzonecontains></conditionvar><setvar varname="obs1" action="Set">1</setvar><scoringdescription>Padrão – só de origem, protocolos inteiros, 1-99 Estendida - 100-199, protocolos e portas, de origem e de destino</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="165098" type="mc-ma"><question><![CDATA[<b>access-list 199 deny tcp 178.15.0.0 0.0.255.255 any eq 23<br />access-list 199 permit ip any any</b><br /><br />Supondo que essa ACL esteja corretamente aplicada a uma interface do roteador, quais são as duas afirmativas que descrevem o tráfego na rede? (Escolha duas.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[Todo o tráfego de FTP da rede 178.15.0.0 será permitido.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Todo o tráfego de Telnet destinado à rede 178.15.0.0 será negado. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Telnet e FTP serão permitidos de todos os hosts na rede 178.15.0.0 para qualquer destino. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Telnet não será permitido de qualquer host na rede 178.15.0.0 para qualquer destino.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Telnet não será permitido para qualquer host na rede 178.15.0.0 de qualquer destino. ]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam> 

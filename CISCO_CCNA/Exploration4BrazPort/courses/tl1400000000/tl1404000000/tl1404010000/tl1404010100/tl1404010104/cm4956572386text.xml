@@ -1,0 +1,114 @@
+<textcomponents>
+
+<!-- slide 1 -->
+<component id="ID_title01">
+<text><![CDATA[<b>Redes abertas x fechadas</b>]]></text>
+</component>
+
+<component id="ID_txt01_01">
+<text><![CDATA[<b>Acesso</b>]]></text>
+</component>
+
+<component id="ID_txt02_01">
+<text><![CDATA[<b>Segurança</b>]]></text> 
+</component>
+
+<component id="ID_txt03_01">
+<text><![CDATA[<b>Administradores de rede procuram um equilíbrio entre acesso e segurança.</b>]]></text> 
+</component>
+
+<!-- slide 2 -->
+<component id="ID_txt01_02">
+<text><![CDATA[<b>Acesso transparente do usuário</b>]]></text>
+</component>
+<component id="ID_txt02_02">
+<text><![CDATA[<b>Acesso</b>]]></text> 
+</component>
+<component id="ID_txt03_02">
+<text><![CDATA[<b>Segurança máxima</b>]]></text> 
+</component>
+<component id="ID_txt04_02">
+<text><![CDATA[<b>Segurança</b>]]></text> 
+</component>
+
+<!-- slide 3 -->
+<component id="ID_txt01_03">
+<text><![CDATA[<b>Acesso transparente do usuário</b>]]></text>
+</component>
+<component id="ID_txt02_03">
+<text><![CDATA[<b>Acesso</b>]]></text> 
+</component>
+<component id="ID_txt03_03">
+<text><![CDATA[<b>Segurança máxima</b>]]></text> 
+</component>
+<component id="ID_txt04_03">
+<text><![CDATA[<b>Segurança</b>]]></text> 
+</component>
+
+<!-- slide 4 -->
+<component id="ID_txt01_04">
+<text><![CDATA[<b>Acesso transparente do usuário</b>]]></text>
+</component>
+<component id="ID_txt02_04">
+<text><![CDATA[<b>Acesso</b>]]></text> 
+</component>
+<component id="ID_txt03_04">
+<text><![CDATA[<b>Segurança máxima</b>]]></text> 
+</component>
+<component id="ID_txt04_04">
+<text><![CDATA[<b>Segurança</b>]]></text> 
+</component>
+
+
+<!-- buttons -->
+<component id="ID_button1">
+<text><![CDATA[<b>Equilíbrio</b>]]></text> 
+</component>
+<component id="ID_button2">
+<text><![CDATA[<b>Abrir</b>]]></text> 
+</component>
+<component id="ID_button3">
+<text><![CDATA[<b>Restritivo</b>]]></text> 
+</component>
+<component id="ID_button4">
+<text><![CDATA[<b>Fechada</b>]]></text> 
+</component>
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+<tr>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Permitir tudo o que não for negado explicitamente:</b></font></td>
+</tr>
+<tr>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Fácil de configurar e administrar</li><li>Fácil para usuários finais acessar recursos de rede</li><li>Custo de segurança: mais barato</li></ul></td>
+</tr>
+</table>]]></text>
+</component>
+
+
+<component id="ID_table02">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+<tr>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Combinação de permissões e restrições específicas:</b></font></td>
+</tr>
+<tr>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Mais difícil de configurar e administrar</li><li>Mais difícil para usuários finais acessar recursos</li><li>Custo de segurança: mais caro</li></ul></td>
+</tr>
+</table>]]></text>
+</component>
+
+
+
+<component id="ID_table03">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+<tr>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>O que não é permitido explicitamente é negado:</b></font></td>
+</tr>
+<tr>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Mais difícil de configurar e administrar</li><li>Mais difícil para usuários finais acessar recursos</li><li>Custo de segurança: mais caro</li></ul></td>
+</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,76 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para exibir a animação.</b>]]></text>
+</component> 
+
+<component id="ID_title">
+<text><![CDATA[<b>Qual roteador possui a rota padrão correta?</b>]]></text>
+</component>
+
+<component id="ID_R1">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_R3">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+<component id="ID_R4">
+<text><![CDATA[<b>R4</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>R3 instala ambas as rotas e balanceia a carga do tráfego padrão entre R1 e R4.</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>O tráfego padrão enviado para R4 é descartado porque R4 não possui uma rota padrão para a internet.</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+<component id="bubble1">
+<text><![CDATA[<b>Eu tenho a rota padrão válida para a Internet!</b>]]></text>
+</component>
+
+<component id="bubble2">
+<text><![CDATA[<b>Eu tenho uma rota padrão válida para a Internet!</b>]]></text>
+</component>
+
+<component id="bubble3">
+<text><![CDATA[<b>Qual rota eu devo utilizar?</b>]]></text>
+</component>
+
+<!-- controller -->
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+</textcomponents>

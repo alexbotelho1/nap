@@ -1,0 +1,356 @@
+<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>1</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>2</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>3</B>]]></text> 
+</component>
+
+<component id="ID_button_04">
+  <text><![CDATA[<B>4</B>]]></text> 
+</component>
+
+<component id="ID_button_05">
+  <text><![CDATA[<B>5</B>]]></text> 
+</component>
+<component id="ID_button_06">
+  <text><![CDATA[<B>6</B>]]></text> 
+</component>
+
+<component id="ID_button_07">
+  <text><![CDATA[<B>7</B>]]></text> 
+</component>
+<component id="ID_button_08">
+  <text><![CDATA[<B>8</B>]]></text> 
+</component>
+<component id="ID_button_09">
+  <text><![CDATA[<B>9</B>]]></text> 
+</component>
+
+
+
+<component id="ID_check1">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset1">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+<component id="ID_undo1">
+  <text><![CDATA[<B>Desfazer</B>]]></text> 
+</component>
+<component id="ID_answer1">
+  <text><![CDATA[<B>Responder</B>]]></text> 
+</component>
+<component id="ID_hide1">
+  <text><![CDATA[<B>Ocultar resposta</B>]]></text> 
+</component>
+
+<component id="ID_check2">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset2">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+<component id="ID_undo2">
+  <text><![CDATA[<B>Desfazer</B>]]></text> 
+</component>
+<component id="ID_answer2">
+  <text><![CDATA[<B>Responder</B>]]></text> 
+</component>
+<component id="ID_hide2">
+  <text><![CDATA[<B>Ocultar resposta</B>]]></text> 
+</component>
+
+<component id="ID_check3">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset3">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+<component id="ID_undo3">
+  <text><![CDATA[<B>Desfazer</B>]]></text> 
+</component>
+<component id="ID_answer3">
+  <text><![CDATA[<B>Responder</B>]]></text> 
+</component>
+<component id="ID_hide3">
+  <text><![CDATA[<B>Ocultar resposta</B>]]></text> 
+</component>
+
+<component id="ID_check4">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset4">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+<component id="ID_undo4">
+  <text><![CDATA[<B>Desfazer</B>]]></text> 
+</component>
+<component id="ID_answer4">
+  <text><![CDATA[<B>Responder</B>]]></text> 
+</component>
+<component id="ID_hide4">
+  <text><![CDATA[<B>Ocultar resposta</B>]]></text> 
+</component>
+
+<component id="ID_check5">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset5">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+<component id="ID_undo5">
+  <text><![CDATA[<B>Desfazer</B>]]></text> 
+</component>
+<component id="ID_answer5">
+  <text><![CDATA[<B>Responder</B>]]></text> 
+</component>
+<component id="ID_hide5">
+  <text><![CDATA[<B>Ocultar resposta</B>]]></text> 
+</component>
+
+<component id="ID_check6">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset6">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+<component id="ID_undo6">
+  <text><![CDATA[<B>Desfazer</B>]]></text> 
+</component>
+<component id="ID_answer6">
+  <text><![CDATA[<B>Responder</B>]]></text> 
+</component>
+<component id="ID_hide6">
+  <text><![CDATA[<B>Ocultar resposta</B>]]></text> 
+</component>
+
+<component id="ID_check7">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset7">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+<component id="ID_undo7">
+  <text><![CDATA[<B>Desfazer</B>]]></text> 
+</component>
+<component id="ID_answer7">
+  <text><![CDATA[<B>Responder</B>]]></text> 
+</component>
+<component id="ID_hide7">
+  <text><![CDATA[<B>Ocultar resposta</B>]]></text> 
+</component>
+
+<component id="ID_check8">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset8">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+<component id="ID_undo8">
+  <text><![CDATA[<B>Desfazer</B>]]></text> 
+</component>
+<component id="ID_answer8">
+  <text><![CDATA[<B>Responder</B>]]></text> 
+</component>
+<component id="ID_hide8">
+  <text><![CDATA[<B>Ocultar resposta</B>]]></text> 
+</component>
+
+<component id="ID_check9">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset9">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+<component id="ID_undo9">
+  <text><![CDATA[<B>Desfazer</B>]]></text> 
+</component>
+<component id="ID_answer9">
+  <text><![CDATA[<B>Responder</B>]]></text> 
+</component>
+<component id="ID_hide9">
+  <text><![CDATA[<B>Ocultar resposta</B>]]></text> 
+</component>
+
+
+<component id="ID_activity">
+<text><![CDATA[<B>Atividade</B>]]></text>
+</component>
+
+
+
+<component id="ID_txtInst">
+  <text><![CDATA[<B>Clique nos botões numerados para ver cada problema na atividade.<br/><br/>Nesta atividade, é possível usar o mouse para desenhar uma forma em torno de alguns ou de todos os dispositivos em todos os diagramas apresentados. Desenhar uma forma em torno de um grupo de dispositivos indicará que eles fazem parte de um domínio de broadcast ou de colisão. Para incluir uma interface de dispositivo, mas não todo o dispositivo, circule a parte do dispositivo com a interface que você deseja incluir.<br/><br/>Para desenhar uma forma, passe o mouse sobre o diagrama, segure o botão do mouse e desenhe um círculo ao redor dos dispositivos que você deseja escolher. Durante o desenho, o cursor será exibido como um lápis. A forma resultante não é um círculo perfeito, mas um polígono sombreado cercará os dispositivos que você deseja escolher. É possível praticar usando a ferramenta de desenho. Clique em Redefinir a qualquer momento para limpar a tela.<br/><br/>É possível desenhar mais de uma forma para circular grupos diferentes de dispositivos. Após o desenho, as formas não podem ser alteradas, mas é possível usar Desfazer para remover uma forma por vez, ou redefinir para recomeçar tudo. Quando estiver pronto, clique em Verificar, e a sua solução será avaliada. Clique em Responder para ver a resposta correta desenhada para você.]]></text> 
+</component>
+
+
+
+<component id="ID_txt01_01">
+  <text><![CDATA[<B>Desenhe formas individuais em torno de cada domínio de broadcast. (Dica: Em alguns casos, há mais que um.)</B>]]></text> 
+</component>
+
+<component id="ID_txt01_02">
+  <text><![CDATA[<B>Desenhe formas individuais em torno de cada domínio de broadcast. (Dica: Em alguns casos, há mais que um.)</B>]]></text> 
+</component>
+
+<component id="ID_txt01_03">
+  <text><![CDATA[<B>Desenhe formas individuais em torno de cada domínio de colisão. (Dica: Em alguns casos, há mais que um.)</B>]]></text> 
+</component>
+
+<component id="ID_txt01_04">
+  <text><![CDATA[<B>Desenhe formas individuais em torno de cada domínio de colisão. (Dica: Em alguns casos, há mais que um.)</B>]]></text> 
+</component>
+
+<component id="ID_txt01_05">
+  <text><![CDATA[<B>Desenhe formas individuais em torno de cada domínio de colisão. (Dica: Em alguns casos, há mais que um.)</B>]]></text> 
+</component>
+
+<component id="ID_txt01_06">
+  <text><![CDATA[<B>Desenhe formas individuais em torno de cada domínio de broadcast. (Dica: Em alguns casos, há mais que um.)</B>]]></text> 
+</component>
+
+<component id="ID_txt01_07">
+  <text><![CDATA[<B>Desenhe formas individuais em torno de cada domínio de colisão. (Dica: Em alguns casos, há mais que um.)</B>]]></text> 
+</component>
+
+<component id="ID_txt01_08">
+  <text><![CDATA[<B>Desenhe formas individuais em torno de cada domínio de broadcast. (Dica: Em alguns casos, há mais que um.)</B>]]></text> 
+</component>
+
+<component id="ID_txt01_09">
+  <text><![CDATA[<B>Desenhe formas individuais em torno de cada domínio de colisão. (Dica: Em alguns casos, há mais que um.)</B>]]></text> 
+</component>
+
+
+
+    <component id="ID_Slide1_CorrectTitle">
+      <text><![CDATA[Corrigir]]></text>
+  </component>
+  <component id="ID_Slide1_CorrectText">
+    <text><![CDATA[Bom trabalho. Você identificou o domínio de broadcast corretamente.]]></text>
+    </component>
+    <component id="ID_Slide1_InCorrectTitle">
+      <text><![CDATA[Incorreto]]></text>
+  </component>
+  <component id="ID_Slide1_InCorrectText">
+    <text><![CDATA[Esta atividade não está completa. Tente novamente.]]></text>
+    </component>
+    <component id="ID_Slide2_CorrectTitle">
+      <text><![CDATA[Corrigir]]></text>
+  </component>
+  <component id="ID_Slide2_CorrectText">
+    <text><![CDATA[Bom trabalho. Você identificou o domínio de broadcast corretamente.]]></text>
+    </component>
+    <component id="ID_Slide2_InCorrectTitle">
+      <text><![CDATA[Incorreto]]></text>
+  </component>
+  <component id="ID_Slide2_InCorrectText">
+    <text><![CDATA[Esta atividade não está completa. Tente novamente.]]></text>
+    </component>
+
+    <component id="ID_Slide3_CorrectTitle">
+      <text><![CDATA[Corrigir]]></text>
+  </component>
+  <component id="ID_Slide3_CorrectText">
+    <text><![CDATA[Bom trabalho. Você identificou o domínio de colisão corretamente.]]></text>
+    </component>
+    <component id="ID_Slide3_InCorrectTitle">
+      <text><![CDATA[Incorreto]]></text>
+  </component>
+  <component id="ID_Slide3_InCorrectText">
+    <text><![CDATA[Esta atividade não está completa. Tente novamente.]]></text>
+    </component>
+
+    <component id="ID_Slide4_CorrectTitle">
+      <text><![CDATA[Corrigir]]></text>
+  </component>
+  <component id="ID_Slide4_CorrectText">
+    <text><![CDATA[Bom trabalho. Você identificou os domínios de colisão corretamente.]]></text>
+    </component>
+    <component id="ID_Slide4_InCorrectTitle">
+      <text><![CDATA[Incorreto]]></text>
+  </component>
+  <component id="ID_Slide4_InCorrectText">
+    <text><![CDATA[Esta atividade não está completa. Tente novamente.]]></text>
+    </component>
+
+    <component id="ID_Slide5_CorrectTitle">
+      <text><![CDATA[Corrigir]]></text>
+  </component>
+  <component id="ID_Slide5_CorrectText">
+    <text><![CDATA[Bom trabalho. Você identificou o domínio de colisão corretamente.]]></text>
+    </component>
+    <component id="ID_Slide5_InCorrectTitle">
+      <text><![CDATA[Incorreto]]></text>
+  </component>
+  <component id="ID_Slide5_InCorrectText">
+    <text><![CDATA[Esta atividade não está completa. Tente novamente.]]></text>
+    </component>
+
+    <component id="ID_Slide6_CorrectTitle">
+      <text><![CDATA[Corrigir]]></text>
+  </component>
+  <component id="ID_Slide6_CorrectText">
+    <text><![CDATA[Bom trabalho. Você identificou os domínios de broadcast corretamente.]]></text>
+    </component>
+    <component id="ID_Slide6_InCorrectTitle">
+      <text><![CDATA[Incorreto]]></text>
+  </component>
+  <component id="ID_Slide6_InCorrectText">
+    <text><![CDATA[Esta atividade não está completa. Tente novamente.]]></text>
+    </component>
+
+    <component id="ID_Slide7_CorrectTitle">
+      <text><![CDATA[Corrigir]]></text>
+  </component>
+  <component id="ID_Slide7_CorrectText">
+    <text><![CDATA[Bom trabalho. Você identificou os domínios de colisão corretamente.]]></text>
+    </component>
+    <component id="ID_Slide7_InCorrectTitle">
+      <text><![CDATA[Incorreto]]></text>
+  </component>
+  <component id="ID_Slide7_InCorrectText">
+    <text><![CDATA[Esta atividade não está completa. Tente novamente.]]></text>
+    </component>
+
+    <component id="ID_Slide8_CorrectTitle">
+      <text><![CDATA[Corrigir]]></text>
+  </component>
+  <component id="ID_Slide8_CorrectText">
+    <text><![CDATA[Bom trabalho. Você identificou o domínio de broadcast corretamente.]]></text>
+    </component>
+    <component id="ID_Slide8_InCorrectTitle">
+      <text><![CDATA[Incorreto]]></text>
+  </component>
+  <component id="ID_Slide8_InCorrectText">
+    <text><![CDATA[Esta atividade não está completa. Tente novamente.]]></text>
+    </component>
+
+    <component id="ID_Slide9_CorrectTitle">
+      <text><![CDATA[Corrigir]]></text>
+  </component>
+  <component id="ID_Slide9_CorrectText">
+    <text><![CDATA[Bom trabalho. Você identificou os domínios de colisão corretamente.]]></text>
+    </component>
+    <component id="ID_Slide9_InCorrectTitle">
+      <text><![CDATA[Incorreto]]></text>
+  </component>
+  <component id="ID_Slide9_InCorrectText">
+    <text><![CDATA[Esta atividade não está completa. Tente novamente.]]></text>
+    </component>
+
+
+
+  <component id="ID_Reset">
+    <text><![CDATA[<B>Redefinir</B>]]></text> 
+  </component>
+
+
+</textcomponents>

@@ -1,0 +1,36 @@
+<textcomponents>
+
+<component id="ID_omitted">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Comparando distâncias administrativas</b>]]></text>
+</component>
+
+
+<component id="ID_topologyText">
+<text><![CDATA[<b>R1 e R3 não “falam” o mesmo protocolo de roteamento.</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Saída<br/>do roteador</b>]]></text>
+</component>
+
+
+
+<component id="slide1">
+<text><![CDATA[<font face="_typewriter"><b>show ip route</b></font>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<font face="_typewriter"><b>show ip rip database</b></font>]]></text>
+</component>
+
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Clique para ver as várias saídas do roteador.</b>]]></text> 
+</component>
+
+
+</textcomponents>

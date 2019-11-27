@@ -1,0 +1,25 @@
+<textcomponents>
+<component id="ID_title1">
+  <text><![CDATA[<b>Preparar para configurar o switch</b>]]></text> 
+  </component>
+  <component id="ID_txt02">
+<text><![CDATA[<b>Dispositivo com console</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>RJ-45-a-RJ-45<br/>Cabo de console (rollover)</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Adaptador RJ-45-para-DB-9<br/>rotulado TERMINAL</b>]]></text>
+</component>
+<component id="ID_Connect">
+  <text><![CDATA[<b>Conectar a<br>Switch</b>]]></text> 
+  </component>
+<component id="ID_Config">
+  <text><![CDATA[<b>Configurar<br>Hyperterminal</b>]]></text> 
+  </component>
+<component id="ID_View">
+  <text><![CDATA[<b>Exibir processo de inicialização<br>na console</b>]]></text> 
+  </component>
+</textcomponents>

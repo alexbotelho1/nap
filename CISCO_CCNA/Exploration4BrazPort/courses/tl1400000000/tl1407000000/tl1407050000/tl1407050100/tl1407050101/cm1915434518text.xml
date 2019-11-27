@@ -1,0 +1,14 @@
+<textcomponents>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Nesse capítulo, você aprendeu a:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><br/><ul><li>Configurar o DHCP na rede corporativa de uma filial. Isso inclui a capacidade de explicar os recursos e benefícios do DHCP, as diferenças entre o BOOTP e o DHCP, a operação de DHCP, bem como a configuração, verificação, identificação e solução dos problemas de DHCP.</li><br/><li>Configurar a NAT em um roteador Cisco. Isso inclui explicação dos principais recursos e da operação da NAT e da sobrecarga de NAT, explicação das vantagens e desvantagens da NAT, configuração da NAT e da sobrecarga de NAT para conservar o espaço de endereço IP em uma rede, configuração do encaminhamento de porta, bem como verificação, identificação e solução de problemas das configurações de NAT.</li><br/><li>Configurar o RIP de última geração (RIPng, new generation RIP) para usar o IPv6. Isso inclui explicação de como o IPv6 resolve qualquer problema de exclusão de endereço IP, explicação de como atribuir endereços IPv6, descrição das estratégias de transição para implementar o IPv6, bem como configuração, verificação, identificação e solução de problemas do RIPng para IPv6.</li></ul><br/></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

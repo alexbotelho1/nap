@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:52">
+<title><content-text><![CDATA[7.1.5 - Configuring a DHCP Client]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the steps for configuring a router as a DHCP client. These include using the G U I for a Linksys router and the C L I for a Cisco I O S-based router.<br><br>Linksys Router:<br>The diagram shows the default WAN setup page for a Linksys WRVS 4400N router. The Internet connection type is set to Automatic Configuration - DHCP.<br><br>DHCP Client:<br>The diagram shows a SOHO router with interface FA0/0 connected to a modem that connects to an ISP router, which provides access to a DHCP server. Cisco I O S C L I commands are used to configure the SOHO DHCP client. The show i p int f a 0/0 command verifies that IP address 209.165.201.12/27 was obtained from the ISP.<br><br>Configuration Commands:<br>SOHO(config)#interface f a 0/0<br>SOHO(config-i f)#i p address dhcp<br>SOHO(config-i f)#no shut]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,12 @@
+<textcomponents>
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Nesse capítulo, você aprenderá a:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Descrever os conceitos fundamentais da tecnologia Frame Relay em termos de serviços WAN corporativos, incluindo operação, requisitos de implementação, mapas e operação da LMI (Local Management Interface, Interface de gerenciamento local).</li><li>Configurar um circuito virtual permanente (PVC) Frame Relay básico, incluindo configuração e solução de problemas do Frame Relay em uma interface serial de roteador e configuração de um mapaestático Frame Relay.</li><li>Descrever conceitos avançados da tecnologia Frame Relay em termos de serviços WAN corporativos, incluindo subinterfaces, largura de banda e controle de fluxo.</li><li>Configurar um PVC Frame Relay avançado, incluindo solução de problemas de acessibilidade, configuração de subinterfaces e verificação e solução de problemas de uma configuração de Frame Relay.</li></ul><BR/></td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

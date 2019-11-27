@@ -1,0 +1,77 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>O desafio do gerenciamento de VLANs</b>]]></text>
+</component>
+
+<component id="ID_inst01">
+<text><![CDATA[<b>Clique em Reproduzir para exibir a animação.</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Selecione o Exemplo Encaminhamento da Camada 3 e, em seguida, clique em Reproduzir para exibir a animação.</b>]]></text>
+</component>
+
+<component id="ID_button_01">
+<text><![CDATA[<b>Rede pequena</b>]]></text>
+</component>
+
+<component id="ID_button_02">
+<text><![CDATA[<b>Rede maior</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>VLANs existentes:10, 20, 99<br/><br/>Tarefa de gerenciamento de VLAN: Adicionar a VLAN 30</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>VLANs existentes:<br/>•<TEXTFORMAT BLOCKINDENT='13'>  VLAN 10 – corpo docente/administração</textformat><br/>•<TEXTFORMAT BLOCKINDENT='13'>  VLAN 20 - alunos</textformat><br/>•<TEXTFORMAT BLOCKINDENT='13'>  VLAN 99 – VLAN de gerenciamento</textformat><br/>Tarefa de Gerenciamento de VLAN:<br/>•<TEXTFORMAT BLOCKINDENT='13'>  Adicionar VLAN 30 - convidado</b>]]></text>
+</component>
+
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<component id="play2">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause2">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind2">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward2">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute2">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute2"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous2"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next2">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript2">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+</textcomponents>

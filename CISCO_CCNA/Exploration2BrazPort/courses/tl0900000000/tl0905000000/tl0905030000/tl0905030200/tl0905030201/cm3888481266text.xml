@@ -1,0 +1,98 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Interpretando a saída de <font face="_typewriter">show ip protocols</font></b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Topologia RIP: Cenário A</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+
+<component id="ID_caption01">
+<text><![CDATA[- Mostra quais processos de roteamento estão habilitados]]></text>
+</component>
+
+<component id="ID_caption02">
+<text><![CDATA[- Os temporizadores atualmente em uso, incluindo quando a próxima atualização será enviada por este roteador (23 segundos)
+]]></text>
+</component>
+
+
+<component id="ID_caption03">
+<text><![CDATA[<b>Os tópicos do nível de CCNP incluem:</b><br>- Filtrando as atualizações que este roteador enviará e receberá<br>- <b><font face="_typewriter">Redistribuindo: rip</font></b> significa que este roteador está enviando e recebendo somente o RIP ]]></text>
+</component>
+
+<component id="ID_caption04">
+<text><![CDATA[- Mostra quais interfaces estão atualmente enviando e recebendo atualizações RIP e também qual é a versão de RIP
+]]></text>
+</component>
+
+<component id="ID_caption05">
+<text><![CDATA[- Sumarização automática em vigor significa que esse roteador está sumarizando para o limite de rede classful.<br>- O número máximo de caminhos especifica quantas rotas de custo iguais o RIP usará para enviar tráfego ao mesmo destino.
+]]></text>
+</component>
+
+<component id="ID_caption06">
+<text><![CDATA[- Routing for Networks exibe o endereço de rede classful configurado no modo de configuração do roteador RIP.
+]]></text>
+</component>
+
+<component id="ID_caption07">
+<text><![CDATA[- Routing Information Sources são os vizinhos RIP dos quais este roteador está atualmente recebendo atualizações.<br>- Inclui endereço IP do próximo salto, o AD e quando a última atualização foi recebida.<br>- A última linha mostra o AD deste roteador.
+]]></text>
+</component>
+
+<component id="ID_body02">
+<text><![CDATA[<b>teste2</b>]]></text>
+</component>
+
+<component id="ID_body03">
+<text><![CDATA[<b>teste3</b>]]></text>
+</component>
+
+<component id="ID_body04">
+<text><![CDATA[<b>teste4</b>]]></text>
+</component>
+
+<component id="ID_body05">
+<text><![CDATA[<b>teste5</b>]]></text>
+</component>
+
+<component id="ID_body06">
+<text><![CDATA[<b>teste6</b>]]></text>
+</component>
+
+<component id="ID_popup01">
+<text><![CDATA[<b>teste</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Interpretando a saída de show ip protocols</b>]]></text>
+</component>
+
+<component id="slide1">
+<text><![CDATA[<b>R1 ip route</b>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<b>R2 ip route</b>]]></text>
+</component>
+
+<component id="slide3">
+<text><![CDATA[<b>R3 ip route</b>]]></text>
+</component>
+
+
+<component id="routerIcon">
+<text><![CDATA[<b>Saída do<BR>roteador</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver uma explicação da saída de comando.</b>]]></text>
+</component>
+
+</textcomponents>

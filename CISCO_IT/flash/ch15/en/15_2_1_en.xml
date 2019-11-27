@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="15_2_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Types of Network Topologies</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Types of Network Topologies</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_01">
+        <source>Checklist of Customer Needs</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_02">
+        <source>Wired or wireless?</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_03">
+        <source>Expansion needs?</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_04">
+        <source>Number of people?</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_05">
+        <source>Number of offices?</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_06">
+        <source>Number of floors?</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_07">
+        <source>What other network devices? (printers, scanners, etc.)</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_08">
+        <source>Bus Topology</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_09">
+        <source>Star Topology</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_10">
+        <source>Extended Star 
+Topology</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_11">
+        <source>Ring Topology</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_12">
+        <source>Hierarchical
+Topology</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_13">
+        <source>Mesh 
+Topology</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

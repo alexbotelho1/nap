@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="5_6_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Windows Task Scheduler
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Automatic Updates</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Windows System Restore</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

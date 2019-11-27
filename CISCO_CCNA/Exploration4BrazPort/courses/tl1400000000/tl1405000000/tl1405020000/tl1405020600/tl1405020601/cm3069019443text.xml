@@ -1,0 +1,114 @@
+<textcomponents>
+<component id="title">
+  <text><![CDATA[<B>Exemplo de ACL nomeada</B>]]></text> 
+</component>
+<component id="ID_button_01">
+  <text><![CDATA[<B>Sintaxe</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Exemplo</B>]]></text> 
+</component>
+
+
+<component id="ID_txt01_00">
+  <text><![CDATA[<ul><li>A string de nome alfanumérica deve ser exclusiva, não podendo começar com um número</li></ul>]]></text> 
+</component>
+
+<component id="ID_txt02_00">
+  <text><![CDATA[<ul><li>Se não for configurada, os números de sequência serão gerados automaticamente começando em 10 e sendo incrementada em 10</li><li><b>no</b> <i>número de sequência</i> remove o teste específico da ACL nomeada</li></ul>]]></text> 
+</component>
+<component id="ID_txt03_00">
+  <text><![CDATA[<ul><li>Ativa a ACL IP nomeada em uma interface</li></ul>]]></text> 
+</component>
+
+
+
+
+
+
+
+
+<component id="ID_table1">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+
+<tr>
+<td width='150' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color='#FFFFFF'><b>Palavra-chave</b></font></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color='#FFFFFF'><b>Descrição</b></font></td>
+</tr>
+
+
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Standart</td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>(Opcional) para definir uma ACL padrão utilizando um nome e digitar access-list no modo de configuração.</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Extended</td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>(Opcional) para definir uma ACL estendida utilizando um nome e digitar access-list no modo de configuração.</td>
+</tr>
+</table>]]></text>
+</component>
+
+
+
+
+
+
+
+
+
+
+<component id="ID_table2">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+
+<tr>
+<td width='150' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color='#FFFFFF'><b>Palavra-chave</b></font></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color='#FFFFFF'><b>Descrição</b></font></td>
+</tr>
+
+
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'></td>
+</tr>
+</table>]]></text>
+</component>
+
+
+
+
+
+
+
+
+
+
+<component id="ID_table3">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+
+<tr>
+<td width='150' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color='#FFFFFF'><b>Palavra-chave</b></font></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color='#FFFFFF'><b>Descrição</b></font></td>
+</tr>
+
+
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'></td>
+</tr>
+</table>]]></text>
+</component>
+
+
+
+
+
+</textcomponents>

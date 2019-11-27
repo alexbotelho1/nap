@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="12_2_4.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Hard Drive Management Tools</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Virtual Memory</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Services</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE4">
+        <source>Windows Startup Menu</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE5">
+        <source>Windows Startup Menu</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_01">
+        <source>(Information on various modes displayed here.)</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

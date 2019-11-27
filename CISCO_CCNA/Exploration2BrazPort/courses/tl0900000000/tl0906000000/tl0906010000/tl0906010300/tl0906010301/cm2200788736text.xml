@@ -1,0 +1,11 @@
+<textcomponents>
+
+<component id="ID_header1">
+<text><![CDATA[<b>O CIDR (RFC 1519) permitia:</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<li>o uso mais eficiente do espaço de endereço IPv4</li><li>a agregação de prefixos, que reduziu o tamanho das tabelas de roteamento</li>]]></text> 
+</component>
+
+</textcomponents>

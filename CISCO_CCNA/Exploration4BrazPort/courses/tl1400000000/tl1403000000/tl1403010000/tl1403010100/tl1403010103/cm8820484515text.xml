@@ -1,0 +1,63 @@
+<textcomponents> 
+ 
+<component id="ID_inst">
+  <text><![CDATA[<b>Clique em Reproduzir para exibir o caminho do quadro do DTE ao DTE.</b>]]></text> 
+</component>
+
+<component id="ID_title01">
+  <text><![CDATA[<b>Operação do Frame Relay</b>]]></text> 
+</component>
+
+<component id="ID_capt01">
+  <text><![CDATA[<b><ul><li>O DTE envia quadros ao switch DCE na extremidade da WAN</li><li>Os quadros se movem de um switch a outro na WAN para o switch DCE de destino na extremidade da WAN</li><li>O DCE de destino entrega os quadros ao DTE de destino</li></ul></b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>DCE na extremidade da WAN</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>DCE na extremidade da WAN</b>]]></text> 
+</component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>ETTD</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>ETTD</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<b>ETTD</b>]]></text> 
+</component>
+
+  
+   <component id="play">
+      <text>Reproduzir</text>
+   </component>
+   <component id="pause">
+      <text>Pausar</text>
+   </component>
+   <component id="rewind">
+      <text>Retroceder</text>
+   </component>
+   <component id="forward">
+      <text>Avançar</text>
+   </component>
+   <component id="mute">
+      <text>Sem som</text>
+   </component>
+   <component id="unmute">
+      <text>Com som</text>
+   </component>
+   <component id="previous">
+      <text>Reiniciar</text>
+   </component>
+   <component id="next">
+      <text>Encerrar</text>
+   </component>
+   <component id="transcript">
+      <text>Transcrição</text>
+   </component>
+
+</textcomponents>

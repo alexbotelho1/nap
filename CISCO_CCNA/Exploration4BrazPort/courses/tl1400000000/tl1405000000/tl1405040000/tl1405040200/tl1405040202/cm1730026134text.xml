@@ -1,0 +1,53 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>ACLs dinâmicas</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique nos botões para ver as etapas de configuração da senha.</b>]]></text>
+</component>
+
+<component id="bubble1">
+<text><![CDATA[1. PC1 utiliza Telnet para conectar R3 e se autenticar.]]></text>
+</component>
+
+<component id="bubble2">
+<text><![CDATA[2. <textformat blockindent='17'>Em um determinado tempo, PC1 pode utilizar FTP, HTTP na conexão com R3.</textformat>]]></text> 
+</component>
+
+<!-- slide 1-->
+<component id="ID_S1_config">
+<text><![CDATA[<b>Config</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Etapa 1</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Etapa 2</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Etapa 3</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Etapa 4</b>]]></text> 
+  </component>
+
+<component id="rollover1">
+  <text><![CDATA[Cria um nome de login e senha para autenticação.]]></text> 
+  </component>
+<component id="rollover2">
+  <text><![CDATA[Permite ao usuário abrir uma conexão Telnet com o roteador. A entrada da ACL dinâmica é ignorada até lock-and-key ser disparado. A janela será aberta durante 15 minutos e será fechada automaticamente independentemente de estar sendo utilizada ou não.]]></text> 
+  </component>
+<component id="rollover3">
+  <text><![CDATA[Aplica ACL 101 à interface S0/0/1.]]></text> 
+  </component>
+<component id="rollover4">
+  <text><![CDATA[Quando o usuário é autenticado utilizando Telnet, o <font face="_typewriter"><b>autocommand</b></font> é executado, e a sessão Telnet é encerrada. O usuário agora pode acessar a rede 192.168.30.0. Se houver até 5 minutos de inatividade, a janela será fechada.]]></text> 
+  </component>
+<component id="instruction">
+  <text><![CDATA[Passe o mouse sobre uma etapa para ver uma explicação.]]></text> 
+  </component>
+
+</textcomponents>

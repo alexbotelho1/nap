@@ -1,0 +1,38 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>ACLs baseadas em tempo</b>]]></text>
+</component>
+
+<component id="ID_txt01_01">
+<text><![CDATA[<b>ACLs baseadas em tempo:</b><BR/>Permitem o controle de acesso baseado na hora do dia e da semana]]></text>
+</component>
+
+<!-- slide 1-->
+<component id="ID_S1_config">
+<text><![CDATA[<b>Config</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Etapa 1</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Etapa 2</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Etapa 3</b>]]></text> 
+  </component>
+<component id="rollover1">
+  <text><![CDATA[Primeiro, defina o intervalo para implementar a ACL e dar a ela um nome EVERYOTHERDAY, neste caso.]]></text> 
+  </component>
+<component id="rollover2">
+  <text><![CDATA[Aplique o intervalo à ACL.]]></text> 
+  </component>
+<component id="rollover3">
+  <text><![CDATA[Aplicar a ACL à interface.]]></text> 
+  </component>
+<component id="instruction">
+  <text><![CDATA[Passe o mouse sobre uma etapa para ver uma explicação.]]></text> 
+  </component>
+
+</textcomponents>

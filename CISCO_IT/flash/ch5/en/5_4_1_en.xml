@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="5_4_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Hard Drive Access </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>Synchronization Information
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_02">
+        <source>Error Correcting
+Code (ECC)</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_03">
+        <source>Intertrack Gap</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_04">
+        <source>Platter/ Disks</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_05">
+        <source>Intersector Gap</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_06">
+        <source>Sector</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_07">
+        <source>Track</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

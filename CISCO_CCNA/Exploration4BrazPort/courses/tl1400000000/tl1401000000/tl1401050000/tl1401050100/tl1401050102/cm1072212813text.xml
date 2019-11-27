@@ -1,0 +1,121 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para visualizar a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para avançar para a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) Descreva as três camadas do modelo de rede hierárquico.]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 1.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Camada de acesso:</b><ul><li>Concede acesso ao usuário a dispositivos de rede.</li><li>Em uma rede de campus, a camada de acesso costuma incorporar dispositivos de rede local comutados com portas que fornecem conectividade a estações de trabalho e servidores.</li><li>No ambiente WAN, ele pode fornecer a funcionários remotos ou sites remotos o acesso à rede corporativa utilizando tecnologia WAN.</li></ul><b>Camada de distribuição:</b><ul><li>Agrega os wiring closets, utilizando switches para segmentar grupos de trabalho e isolar problemas de rede em um ambiente de campus.</li><li>Da mesma forma, a camada de distribuição agrega conexões WAN na borda do campus e fornece conectividade baseada na política.</li></ul><b>Camada do núcleo (também chamada de backbone):</b><ul><li>Um backbone de alta velocidade projetado para comutar pacotes o mais rápido possível.</li><li>Como o núcleo é essencial para conectividade, ele deve fornecer um alto nível de disponibilidade e se adaptar a alterações muito rapidamente. Ele também fornece escalabilidade e convergência rápida.</li></ul>]]></text>
+</component>
+
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2) Descreva os cinco módulos da Arquitetura corporativa Cisco.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 1.1)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Arquitetura de campus corporativa:</b><ul><li>Uma rede de campus corporativa é um edifício ou um grupo de edifícios conectados a uma rede que consiste em muitas redes locais.</li><li>Ela costuma estar limitada a uma área geográfica fixa, embora possa abranger vários edifícios vizinhos.</li><li>A arquitetura é modular e escalável, podendo ser facilmente expandida para incluir edifícios ou andares de adicionais conforme necessário.</li></ul><b>Arquitetura da filial corporativa:</b><ul><li>Este módulo permite às empresas estender os aplicativos e os serviços encontrados no campus corporativa a milhares de locais remotos e usuários ou a um grupo pequeno de filiais.</li></ul><b>Arquitetura da central de dados corporativa:</b><ul><li>As centrais de dados são responsáveis por gerenciar e manter os muitos sistemas de dados vitais para operações comerciais modernas.</li><li>Este módulo armazena de maneira centralizada os dados e os recursos para permitir aos usuários criar, colaborar e interagir de maneira efetiva.</li></ul><b>Arquitetura de funcionário remoto corporativa:</b><ul><li>Este módulo aproveita os recursos domésticos de rede corporativa utilizando serviços de banda larga, como modem a cabo ou DSL na conexão com a rede corporativa.</li><li>Normalmente implementado utilizando-se VPNs de acesso.</li></ul><b>Arquitetura de borda corporativa</b><ul><li>Este módulo normalmente funciona como uma ligação entre o módulo de campus e os demais módulos na arquitetura corporativa.</li></ul>]]></text>
+</component>
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) Compare os seguintes termos WAN: CPE, CO, loop local, DCE, DTE e ponto de demarcação.]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 1.2)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Equipamento local do cliente (CPE):</b><ul><li>Os dispositivos e a fiação interna localizados no local do assinante e conectados ao canal de telecomunicação de uma operadora.</li><li>O assinante tem o CPE ou aluga o CPE da operadora.</li></ul><b>Central da Operadora(CO):</b><ul><li>Uma instalação ou prédio da operadora local onde os cabos telefônicos locais são vinculados a linhas de comunicação de longa distância, totalmente digitais de fibra óptica por meio de um sistema de switches e outro equipamento.</li></ul><b>Loop local:</b><ul><li>Normalmente conhecido como a “última milha”, este é o cabo telefônico de cobre ou fibra que conecta o CPE no local do assinante ao CO da operadora.</li></ul><b>Equipamento de comunicação de dados (DCE):</b><ul><li>Também chamado de equipamento de comunicação de dados, o DCE consiste em dispositivos que colocam dados no loop local.</li><li>O DCE fornece principalmente uma interface para conectar assinantes a um link de comunicação na nuvem WAN. </li></ul><b>Equipamento de terminal de dados (DTE):</b><ul><li>Os dispositivos de cliente que transmitem os dados de uma rede do cliente ou computador host para transmissão pela WAN.</li><li>O DTE se conecta ao loop local por meio do DCE.</li></ul><b>Ponto de demarcação:</b><ul><li>Fisicamente, o ponto de demarcação é a caixa de junção do cabeamento, localizado no local do cliente, que conecta a fiação CPE ao loop local e separa oficialmente o equipamento do cliente do equipamento da operadora.</li><li>Esse é o local onde a responsabilidade da conexão passa do usuário para a operadora.</li></ul>]]></text>
+</component>
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) Compare os seguintes dispositivos WAN: modem, CSU/DSU, servidor de acesso, switch WAN e roteador.]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 1.2)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Modem:</b><ul><li>Um modem de banda de voz converte e reconverte os sinais digitais produzidos por um computador em freqüências de voz que podem ser transmitidas pelas linhas analógicas da rede telefônica pública.</li><li>Modems mais rápidos, como modems a cabo e modems DSL, transmitem utilizando freqüências de banda larga mais altas.</li></ul><b>CSU/DSU:</b><ul><li>Linhas digitais, como linhas de operadora T1 ou T3, exigem uma unidade de serviço do canal (CSU) e uma unidade de serviço dos dados (DSU).</li><li>As duas costumam ser integradas em um único equipamento, chamado CSU/DSU.</li><li>A CSU fornece a terminação do sinal digital e assegura a integridade de conexão por meio da correção de erros e da monitoração de linha e a DSU converte os quadros da linha da operadora T em quadros que a rede local pode interpretar.</li></ul><b>Servidor de acesso:</b><ul><li>Concentra comunicação de usuário de dial-in e dial-out, podendo ter um misto de interfaces analógicas e digitais, além de suportar centenas de usuários simultâneos.</li></ul><b>Switch WAN:</b><ul><li>Um dispositivo de inter-rede de várias portas utilizado em redes de operadora para suportar Frame Relay, ATM ou X.25.</li></ul><b>Roteador:</b><ul><li>Fornece portas de interface de acesso de inter-rede e WAN utilizadas na conexão com a rede da operadora.</li><li>Essas interfaces podem ser conexões seriais ou outras interfaces WAN, podendo exigir um dispositivo externo, como uma DSU/CSU ou modem (analógico, a cabo ou DSL) para se conectar à operadora.</li></ul>]]></text>
+</component>
+
+<!-- LAST QUESTION -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[5) Compare X.25, Frame Relay e ATM.]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[(de 1.3)]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>X.25:</b><ul><li>Antiga tecnologia WAN de capacidade reduzida com uma velocidade máxima de 48 kb/s, normalmente utilizada no modo dialup em leitores de cartão em pontos de venda para validar transações em um computador central.</li><li>Para essas aplicações, a pouca largura de banda e a latência alta não são uma preocupação, e o baixo custo torna o X.25 acessível.</li><li>Frame Relay substituiu X.25 em muitos locais da operadora.</li></ul><b>Frame Relay:</b><ul><li>Protocolo WAN da Camada 2 que normalmente oferece taxas de dados de 4 Mb/s ou superior.</li><li>Ele fornece conectividade permanente, compartilhada, de largura de banda média que utiliza circuitos virtuais capazes de transportar tráfego de voz e de dados.</li><li>Os VCs são identificados exclusivamente por uma DLCI, que assegura uma comunicação bidirecional de um dispositivo DTE com outro.</li></ul><b>ATM:</b><ul><li>A tecnologia do modo de transferência assíncrona (ATM) se baseia em uma arquitetura formada por células, e não uma arquitetura baseada em quadros, utilizando células de comprimento fixo de 53 bytes.</li><li>Essas células de tamanho fixo, menores, são mais apropriadas ao transporte de tráfego de voz e vídeo sensível a atrasos.</li></ul>]]></text>
+</component>
+<component id="ID_conclusion">
+<text><![CDATA[<b>Assim são concluídas as perguntas da seção “Verifique a sua compreensão” deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<component id="ID_Q2_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<component id="ID_Q3_txt08">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<component id="ID_Q4_txt09">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+
+
+
+
+
+
+</textcomponents>

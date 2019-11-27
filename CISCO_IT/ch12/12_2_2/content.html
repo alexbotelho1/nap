@@ -1,0 +1,110 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="pt-br">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Conte&uacute;do</title>
+<base target="_self"> <link href="../../css/content.css" rel="stylesheet" type="text/css">
+</head>
+
+<body onLoad="window.focus();">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<!--  Start top title Lesson Bar -->
+	  <tr>
+	    <td width="18" class="toptitle01_white_bold" valign="top"> <img border="0" src="../../images/content_lines.gif" width="16" height="25"> <img border="0" src="../../images/transdot.gif" width="2" height="1"></td>
+
+    <td width="18" class="toptitle01_white_bold">12.2</td>
+	    <td class="toptitle01_white_bold"><img border="0" src="../../images/transdot.gif" width="10" height="1"></td>
+
+    <td width="100%" class="toptitle01_white_bold">Instalar, configurar e otimizar um sistema operacional</td>
+	    <td width="9" class="toptitle01_white_bold_margin">&nbsp;</td>
+	  </tr>
+	  <!--  End top title Lesson Bar -->
+	  <!--  Start top title Topic Bar -->
+ 	 <tr>
+	    <td width="18" height="25" class="toptitle02_white_bold">&nbsp;</td>
+
+    <td height="25"  class="toptitle02_white_bold">12.2.2</td>
+	    <td class="toptitle02_white_bold"><img border="0" src="../../images/transdot.gif" width="10" height="1"></td>
+
+    <td width="100%" height="25" class="toptitle02_white_bold">Instalar o Windows XP Professional usando uma instala&ccedil;&atilde;o personalizada</td>
+	    <td height="25" width="9" class="toptitle02_white_bold_margin">&nbsp;</td>
+  </tr>
+	 <!--  End top title Topic Bar -->
+</table>
+
+	<!-- CONTENT -->
+	<table border="0" cellpadding="0" cellspacing="0" width="95%" >
+		<tr>
+			<td width="20"></td>
+			<td>
+        <table border="0" cellpadding="0" cellspacing="0"  width="95%">
+
+        <tr>
+          <td width="100%">
+            <p>A instala&ccedil;&atilde;o padr&atilde;o do Windows XP Professional &eacute; suficiente para a maioria dos computadores usados em uma rede pequena de escrit&oacute;rio ou residencial. Uma instala&ccedil;&atilde;o personalizada do Windows XP Professional pode economizar tempo e fornecer uma configura&ccedil;&atilde;o consistente do sistema operacional atrav&eacute;s de computadores em uma rede grande.</p>
+			<ul>
+				  <li>Instala&ccedil;&atilde;o aut&ocirc;noma de um ponto de distribui&ccedil;&atilde;o de rede usando um arquivo de resposta.</li>
+				  <li>Instala&ccedil;&atilde;o baseada na imagem usando Sysprep e um programa de imagens de disco, que copia uma imagem de um sistema operacional diretamente para o disco r&iacute;gido, sem nenhuma interven&ccedil;&atilde;o do usu&aacute;rio.</li>
+				  <li>Instala&ccedil;&atilde;o remota usando RIS (remote installation services, servi&ccedil;os de instala&ccedil;&atilde;o remota) que pode fazer download da instala&ccedil;&atilde;o atrav&eacute;s da rede. Essa instala&ccedil;&atilde;o pode ser solicitada pelo usu&aacute;rio ou pode ser for&ccedil;ada dentro do computador pelo administrador.</li>
+				  <li>O Pacote de recursos de implanta&ccedil;&atilde;o do SO usando o SMS (Systems Management Server, Servidor de gerenciamento de sistemas) da Microsoft, pode simplificar significantemente a implanta&ccedil;&atilde;o de um sistema operacional pela organiza&ccedil;&atilde;o.</li>
+			</ul>
+
+            <p><span class="bold">Instala&ccedil;&atilde;o aut&ocirc;noma </span><br> A instala&ccedil;&atilde;o aut&ocirc;noma usando um arquivo de resposta unattend.txt &eacute; o m&eacute;todo de instala&ccedil;&atilde;o personalizada mais f&aacute;cil de se executar em uma rede. Um arquivo de resposta pode ser criado usando um aplicativo chamado setupmgr.exe localizado no arquivo deploy.cab no CD do Windows XP Professional. <br>
+              <span class="bold"> </span></p>
+
+            <p>A Figura 1 mostra um exemplo de um arquivo de resposta. Depois que voc&ecirc; responder todas as perguntas, o arquivo unattend.txt &eacute; copiado para a pasta de distribui&ccedil;&atilde;o compartilhada em um servidor. Neste momento, voc&ecirc; pode executar uma das tarefas a seguir:</p>
+
+				<ul>
+				  <li>Executar o arquivo unattended.bat na m&aacute;quina do cliente.  Isso prepara o disco r&iacute;gido e instala automaticamente o sistema operacional do servidor para a rede. </li>
+				  <li>Criar um disco de inicializa&ccedil;&atilde;o que inicializa o computador e conecta &agrave; distribui&ccedil;&atilde;o compartilhada no servidor.  Execute o arquivo batch para instalar o sistema operacional na rede. </li>
+				</ul>
+
+            <p><span class="bold">Instala&ccedil;&atilde;o baseada na imagem</span><br> Ao executar instala&ccedil;&otilde;es baseadas na imagem, voc&ecirc; deve iniciar configurando completamente um computador para um estado operacional. Em seguida, execute o Sysprep para preparar o sistema para imagens. Um aplicativo de imagens da unidade de terceiros prepara uma imagem conclu&iacute;da do computador, que pode ser gravada em um CD ou DVD. Esta imagem pode ser copiada para os computadores com HALs compat&iacute;veis para concluir a instala&ccedil;&atilde;o dos v&aacute;rios computadores. Depois que a imagem for copiada, voc&ecirc; pode inicializar o computador, mas pode ser necess&aacute;rio estabelecer algumas configura&ccedil;&otilde;es, como nome do computador e membro de dom&iacute;nio.</p>
+
+            <p><span class="bold">Instala&ccedil;&atilde;o remota</span><br> Com RIS, o processo &eacute; muito mais que uma instala&ccedil;&atilde;o baseada em imagens, exceto pelo fato de voc&ecirc; n&atilde;o usar o utilit&aacute;rio de imagens da unidade. Voc&ecirc; pode usar o RIS para configurar remotamente novos computadores do Microsoft Windows usando uma pasta compartilhada de rede RIS como a origem dos arquivos do sistema operacional Windows. Voc&ecirc; pode instalar os sistemas operacionais nos computadores remotos do cliente ativados por inicializa&ccedil;&atilde;o. Os computadores do usu&aacute;rio que estiverem conectados &agrave; rede podem ser iniciados usando um adaptador de rede ou disco de inicializa&ccedil;&atilde;o remoto com recursos de PXE (Pre-Boot eXecution Environment). Em seguida, o cliente efetua login com as credenciais v&aacute;lidas da conta do usu&aacute;rio.</p>
+
+            <p>O RIS &eacute; projetado para ser usado em uma rede relativamente pequena e n&atilde;o deve ser usado em links de baixa velocidade de uma WAN (wide area network, rede de longa dist&acirc;ncia). O SMS (System Management Server, Servidor de gerenciamento de sistemas) da Microsoft permite que um administrador de rede gerencie um grande n&uacute;mero de computadores em uma rede. O SMS pode ser usado para gerenciar atualiza&ccedil;&otilde;es, fornecer controle remoto e executar gerenciamento de invent&aacute;rio. Um recurso opcional &eacute; a implanta&ccedil;&atilde;o do sistema operacional que exibe a instala&ccedil;&atilde;o do Pacote de recursos de implanta&ccedil;&atilde;o de SO do SMS no Windows 2003 server. O SMS permite a instala&ccedil;&atilde;o de um grande n&uacute;mero de computadores cliente em toda a rede, como uma LAN ou WAN.</p>
+
+            <!-- Start Activity box   -->
+            <p></p>
+            <table  width="95%" border="0" cellspacing="0" cellpadding="0" id="activity">
+              <tr>
+                <td valign="top">
+                  <table  width="100%" cellspacing="0" cellpadding="0" border="0" >
+                    <tr>
+                      <td width="5" class="activity_topbar"> <img border="0" src="../../images/lab_toplft.gif" width="116" height="23"></td>
+                      <td class="activity_topbar"><img alt="" height="1" width="3" src="../../images/s.gif"></td>
+                      <td align="right" valign="top" class="activity_topbar"> <img alt="" src="../../images/corner_ur_7.gif" width="7" height="7"></td>
+                    </tr>
+                  </table>
+                  <table width="100%" cellspacing="0" cellpadding="0" border="0" id="table3">
+                    <tr>
+                      <td>
+                        <table width="100%" cellpadding="2" cellspacing="0" border="0"  id="table4">
+                          <tr>
+                            <td width="15" class="activity_text">&nbsp;</td>
+                            <td class="activity_text"><img border="0" src="../../images/lab_icon.gif" width="36" height="30"> <a target="_blank" href="../lab12_2_2/12.2.2_Lab_Advanced_XP_Install.pdf">Laborat&oacute;rio</a>
+<p> <span class="activity_bold">Instala&ccedil;&atilde;o Avan&ccedil;ada do Windows XP</span><br> Executar instala&ccedil;&atilde;o personalizada do Windows XP<br> <br>
+                              </p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <!-- END Activity box   -->
+            <p>&nbsp; </p>
+          </td>
+          </tr>
+         </table>
+       </td>
+     </tr>
+	</table>
+
+</body>
+
+</html>

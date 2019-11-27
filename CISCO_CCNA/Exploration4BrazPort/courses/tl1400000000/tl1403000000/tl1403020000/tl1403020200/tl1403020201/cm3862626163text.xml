@@ -1,0 +1,62 @@
+<textcomponents>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br/>roteador</b>]]></text>
+</component>
+
+<component id="ID_Button01">
+<text><![CDATA[Mapas estáticos]]></text>
+</component>
+
+<component id="ID_Button02">
+<text><![CDATA[Parâmetros]]></text>
+</component>
+
+<component id="ID_Button03">
+<text><![CDATA[Verificar]]></text>
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Configurando um mapa Frame Relay estático</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Parâmetros de comando</b>]]></text>
+</component>
+
+<component id="ID_title03">
+<text><![CDATA[<b>Verificando um mapa Frame Relay estático</b>]]></text>
+</component>
+
+<component id="ID_S1_txt01">
+<text><![CDATA[<b>Configuração do R1</b>]]></text>
+</component>
+
+<component id="ID_topology01">
+<text><![CDATA[<b>Switch FR</b>]]></text>
+</component>
+
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width="150" bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF">Parâmetros de comando</font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF">Descrição</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">protocolo </font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Define o protocolo suportado, o bridging ou o controle de enlace lógico: appletalk, decnet, dlsw, ip, ipx, llc2, rsrb, vines e xns.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">protocol-address </font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Define o endereço da camada de rede da interface do roteador de destino.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">dlci </font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Define o DLCI local usado para conectar-se ao endereço de protocolo remoto.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">broadcast </font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>(Opcional) Permite broadcasts e multicasts no VC. Isso permite o uso de protocolos de roteamento  no VC.</td></tr></table>]]></text>
+</component>
+
+</textcomponents>

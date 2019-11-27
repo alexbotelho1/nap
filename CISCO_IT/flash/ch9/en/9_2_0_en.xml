@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="9_2_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Security Threats</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_1">
+        <source>Data Threats</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_2">
+        <source>Careless or malicious insider</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_3">
+        <source>Unskilled vandalism                </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_4">
+        <source>Outsider must gain access</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_5">
+        <source>Team effort to gain access and do harm</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_6">
+        <source>Physical Threats</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

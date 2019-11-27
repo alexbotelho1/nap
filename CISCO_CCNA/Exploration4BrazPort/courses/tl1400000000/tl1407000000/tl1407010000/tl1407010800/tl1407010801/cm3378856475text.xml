@@ -1,0 +1,43 @@
+<textcomponents>
+<component id="title">
+<text><![CDATA[<b>Identificação e solução de problemas de configurações de DHCP</b>]]></text>
+</component>
+<component id="tableHTML">
+  <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	
+	<tr>
+		<td colspan="2" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>Identificação e solução de problemas do DHCP</b></font><font  color="#FFFFFF"><b></b></font></td>
+    </tr>
+	<tr>
+		
+		<td width='200' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Identificação e solução de problemas - Tarefa 1:</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Solucionar conflitos de endereços IP<font face='_typewriter'><b></b></font></td>
+	</tr>
+	
+	
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Identificação e solução de problemas -Tarefa 2:</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Verificar conectividade física</td>
+	</tr>
+	<tr>
+		
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Identificação e solução de problemas - Tarefa 3:</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Testar a conectividade de rede configurando uma estação de trabalho do cliente com um endereço IP estático</td>
+	</tr>
+	
+	<tr>
+		
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Identificação e solução de problemas - Tarefa 4:</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Verificar configurações de porta do switch (Portfast STP e outros comandos)</td>
+	</tr>
+		<tr>
+		
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Identificação e solução de problemas - Tarefa 5:</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Distinguir se os clientes DHCP obtêm o endereço IP na mesma sub-rede ou VLAN que o servidor DHCP</td>
+	</tr>
+	
+</table>
+]]></text> 
+  </component>
+</textcomponents>

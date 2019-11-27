@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="16_1_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Physical Security</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>A USB Security Dongle</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Confidentiality Requirements</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE4">
+        <source>User Access</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_01">
+        <source>Network
+State network layout and  what will be done to prevent the unauthorized additions of network devices, modems, or access points.</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_02">
+        <source>ACCESS
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_03">
+        <source>DATA
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_04">
+        <source>INFRA-
+STRUCTURE
+</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_05">
+        <source>COMPUTERS
+</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

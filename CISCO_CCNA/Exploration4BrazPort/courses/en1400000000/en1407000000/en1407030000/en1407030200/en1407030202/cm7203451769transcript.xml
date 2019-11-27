@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:54">
+<title><content-text><![CDATA[7.3.2 - IPv6 Addressing]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the IPv6 global unicast address format. The 128-bit address is initially divided into two 64-bit sections. The first section is assigned by the Internet Assigned Numbers Authority (IANA) and contains the registry portion, the first 23 bits (/23), and other potential prefixes. The remaining bits of the first 64 can be subdivided into:<br>-	ISP Prefix (/32)<br>-	Site Prefix (/48)<br>-	Subnet Prefix (/64)<br><br>The second 64-bit section is the device interface ID.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

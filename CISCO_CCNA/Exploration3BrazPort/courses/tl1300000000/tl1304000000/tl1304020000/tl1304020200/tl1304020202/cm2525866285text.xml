@@ -1,0 +1,105 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Propagação do nome de domínio de VTP</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para exibir a animação.</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Domínio = nulo</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Domínio = nulo</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Domínio = nulo</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Servidor de VTP</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Servidor de VTP</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Servidor de VTP</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>O administrador define o nome de domínio de VTP no Switch S1.</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Domínio = <font color="#FF0000">cisco1</font></b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>S1 envia o novo nome de domínio a S2 e S3.</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Agora todos os switches habilitados por VTP estão configurados com o nome de domínio cisco1.</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Domínio = <font color="#FF0000">cisco1</font></b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Domínio = <font color="#FF0000">cisco1</font></b>]]></text>
+</component>
+
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<component id="play2">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause2">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind2">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward2">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute2">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute2"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous2"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next2">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript2">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,65 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="pt-br">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Conte&uacute;do</title>
+<base target="_self"> <link href="../../css/content.css" rel="stylesheet" type="text/css">
+</head>
+
+<body onLoad="window.focus();">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<!--  Start top title Lesson Bar -->
+	  <tr>
+	    <td width="18" class="toptitle01_white_bold" valign="top"> <img border="0" src="../../images/content_lines.gif" width="16" height="25"> <img border="0" src="../../images/transdot.gif" width="2" height="1"></td>
+
+    <td width="18" class="toptitle01_white_bold">8.5</td>
+	    <td class="toptitle01_white_bold"><img border="0" src="../../images/transdot.gif" width="10" height="1"></td>
+	    <td width="100%" class="toptitle01_white_bold">Descrever as topologias e arquiteturas da LAN</td>
+	    <td width="9" class="toptitle01_white_bold_margin">&nbsp;</td>
+	  </tr>
+	  <!--  End top title Lesson Bar -->
+	  <!--  Start top title Topic Bar -->
+	 <tr>
+	    <td width="18" height="25" class="toptitle02_white_bold">&nbsp;</td>
+
+    <td height="25"  class="toptitle02_white_bold">8.5.2</td>
+	    <td class="toptitle02_white_bold"><img border="0" src="../../images/transdot.gif" width="10" height="1"></td>
+	    <td width="100%" height="25" class="toptitle02_white_bold">Descrever as arquiteturas da LAN</td>
+	    <td height="25" width="9" class="toptitle02_white_bold_margin">&nbsp;</td>
+	  </tr>
+	 <!--  End top title Topic Bar -->
+</table>
+
+	<!-- CONTENT -->
+	<table border="0" cellpadding="0" cellspacing="0" width="95%" bordercolor="#111111">
+		<tr>
+			<td width="20"></td>
+			<td>
+        <table border="0" cellpadding="0" cellspacing="0" bordercolor="#111111" width="95%">
+
+        <tr>
+          <td width="100%">
+            <p>A arquitetura da LAN descreve as topologias f&iacute;sica e l&oacute;gica usadas em uma rede. A Figura 1 mostra as tr&ecirc;s arquiteturas de LAN mais comuns. </p>
+
+            <p><span class="bold">Ethernet</span><br>A arquitetura Ethernet &eacute; baseada no padr&atilde;o IEEE 802.3. O padr&atilde;o IEEE 802.3 especifica que uma rede use o m&eacute;todo de controle de acesso CSMA/CD (Carrier Sense Multiple Access with Collision, acesso m&uacute;ltiplo de detec&ccedil;&atilde;o de portadora com detec&ccedil;&atilde;o de colis&atilde;o). No CSMA/CD, os hosts acessam a rede usando o m&eacute;todo de topologia de transmiss&atilde;o "primeiro a chegar, primeiro a ser servido" para transmitir dados.</p>
+
+            <p>A Ethernet usa uma topologia l&oacute;gica de transmiss&atilde;o ou de barramento e uma topologia f&iacute;sica de barramento ou estrela.  Conforme as redes se expandem, a maioria das redes de Ethernet &eacute; implementada usando uma topologia estrela hier&aacute;rquica ou estrela estendida, conforme mostrado na Figura 1. As taxas de transfer&ecirc;ncia padr&atilde;o s&atilde;o de 10 Mbps e 100 Mbps, mas os novos padr&otilde;es esbo&ccedil;am o Gigabit Ethernet, que &eacute; capaz de atingir velocidades de at&eacute; 1.000 Mbps (1 Gbps).</p>
+
+            <p><span class="bold">Token Ring</span><br> Originalmente, a IBM desenvolveu o Token Ring como uma arquitetura de rede confi&aacute;vel baseada no m&eacute;todo de controle de acesso de passagem de token. O Token Ring &eacute;, geralmente, integrado aos sistemas de mainframe da IBM. O Token Ring &eacute; usado com computadores e mainframes. </p>
+            <p>O Token Ring &eacute; um exemplo de uma arquitetura na qual a topologia f&iacute;sica &eacute; diferente de sua topologia l&oacute;gica. A topologia Token Ring &eacute; referida como um anel conectado em estrela, pois a apar&ecirc;ncia externa do projeto da rede &eacute; de uma estrela. Os computadores se conectam a um hub central, chamado de unidade de acesso multiesta&ccedil;&atilde;o (MSAU, multistation access unit). Dentro do dispositivo, no entanto, a fia&ccedil;&atilde;o forma um caminho de dados circular, criando um anel l&oacute;gico. O anel l&oacute;gico &eacute; criado pelo token viajando de uma porta MSAU para um computador. Se o computador n&atilde;o tiver qualquer dado para enviar, o token &eacute; devolvido para a porta MSAU e, depois, sai para a pr&oacute;xima porta para o computador seguinte. Esse processo continua em todos os computadores e, dessa forma, assemelha-se a um anel f&iacute;sico.</p>
+            <p><span class="bold">FDDI</span><br>O FDDI &eacute; um tipo de rede de Token Ring. A implementa&ccedil;&atilde;o e a topologia do FDDI diferem da arquitetura de LAN Token Ring da IBM. O FDDI &eacute;, geralmente, usado para conectar v&aacute;rias constru&ccedil;&otilde;es em um complexo de escrit&oacute;rios ou em um campus universit&aacute;rio.</p>
+            <p>O FDDI &eacute; executado em fibra &oacute;ptica. O FDDI combina desempenho de alta velocidade com as vantagens da topologia em anel de passagem de token. O FDDI &eacute; executado a 100 Mbps em uma topologia de anel duplo. O anel externo &eacute; chamado de anel prim&aacute;rio, e o anel interno &eacute; chamado de anel secund&aacute;rio. </p>
+            <p>Normalmente, o tr&aacute;fego flui somente no anel prim&aacute;rio. Se o anel prim&aacute;rio falhar, os dados automaticamente fluir&atilde;o no anel secund&aacute;rio na dire&ccedil;&atilde;o oposta. </p>
+            <p>Uma rede FDDI de anel duplo suporta um m&aacute;ximo de 500 computadores por anel. A dist&acirc;ncia total de cada extens&atilde;o do anel do cabo &eacute; de 100 km (62 milhas). Um repetidor, que &eacute; um dispositivo que gera novamente os sinais, &eacute; necess&aacute;rio a cada 2 km (1,2 milhas). Recentemente, muitas redes de token ring foram substitu&iacute;das por redes Ethernet mais r&aacute;pidas.</p>
+
+          </td>
+          </tr>
+         </table>
+       </td>
+     </tr>
+	</table>
+
+</body>
+
+</html>

@@ -1,0 +1,91 @@
+<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Exemplo: Rota Primária de Nível 1 e Rotas Secundárias de Nível 2</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver o comportamento de roteamento classful.</b>]]></text> 
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text> 
+</component>
+
+<component id="btnOne">
+<text><![CDATA[<b>Nenhuma correspondência</b>]]></text> 
+</component>
+
+<component id="btnTwo">
+<text><![CDATA[<b>Descartar o pacote</b>]]></text> 
+</component>
+
+<!-- topology -->  
+<component id="ID_txt01">
+<text><![CDATA[<b>Rota<br>Padrão</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Rota<br>Estática</b>]]></text> 
+</component>
+
+<!-- OutPut1 -->  
+<component id="ID_txt03">
+<text><![CDATA[<b>Correspondência!</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Nenhuma correspond.</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Nenhuma correspond.</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Nenhuma correspond.</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Descartar o pacote</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>A rota padrão <i>não</i> é utilizada.</b>]]></text> 
+</component>
+
+
+<!--OutPut2 -->
+<component id="ID_txt09">
+<text><![CDATA[Segundo a Etapa 3a, R2 NÃO continuará procurando rotas de nível 1 na tabela de roteamento. R2 descarta o pacote.]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Destino do pacote IP</b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Rota Primária de Nível 1</b>]]></text> 
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Rota Secundária de Nível 2</b>]]></text> 
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Rota Secundária de Nível 2</b>]]></text> 
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Rota Secundária de Nível 2</b>]]></text> 
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Os primeiros 24 bits iniciais precisam corresponder.</b>]]></text> 
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[***saída do comando omitida***]]></text> 
+</component>
+
+</textcomponents>

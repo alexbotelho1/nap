@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13256" dateexported="07/12/2009">
+		<name>Teste do Módulo 4</name>
+		<form id="23013" lang="pt"><form-item order="fixed">
+			<ai id="159774" type="mc-ma"><question><![CDATA[Quais são as quatro afirmativas verdadeiras sobre protocolos de roteamento do vetor de distância? (Escolha quatro.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[As contagens de saltos podem ser usadas na seleção do caminho.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A sua escala é boa. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[As atualizações de roteamento são difundidas em intervalos.  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O protocolo EIGRP pode fazer o balanceamento de carga de custo desigual.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O protocolo RIPv1 transmite suas atualizações de roteamento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O protocolo RIP envia toda a sua tabela de roteamento para vizinhos conectados diretamente.  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159828" type="mc-ma"><question><![CDATA[Que condições fazem com que protocolos de roteamento do vetor enviem atualizações da tabela de roteamento? (Escolha três.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[quando o temporizador de hold-down expira ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[quando ocorre uma alteração na topologia da rede  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[quando o temporizador de atualização expira  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[quando uma atualização disparada é recebida de outro roteador  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[quando o destino de um pacote recebido é uma rede desconhecida ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[quando não há alterações na tabela de roteamento durante 30 minutos ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159773" type="mc-ma"><question><![CDATA[Quais são as duas características das atualizações EIGRP? (Escolha duas.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[incluem todas as rotas EIGRP ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[incluem a tabela de roteamento completa ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[independem da arquitetura ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[só são disparadas para alterações feitas na topologia de rota  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[são difundidas para vizinhos afetados ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[limitadas aos roteadores do próximo salto afetados  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159782" type="mc-sa"><question><![CDATA[Qual foi o recurso adicionado ao protocolo RIP para ajudar em erros de sincronização?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Temporizador de hold-down ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[RIP_JITTER  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[RIP_DELAY ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Controle de atraso do sincronismo ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159781" type="mc-ma"><question><![CDATA[Dos timers a seguir, quais são os dois usados no protocolo RIP?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[Inválido  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Atualização ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Descarga  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Enlace desativado ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Hello ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159780" type="mc-sa"><question><![CDATA[Qual é a afirmativa verdadeira sobre as vantagens de um protocolo do vetor de distância?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[atualizações periódicas agilizam a convergência ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[os tempos de convergência impossibilitam loops de roteamento ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[a facilidade de implementação simplifica a configuração  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[elas funcionam bem em redes complexas ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[os seus tempos de convergência são menores do que os protocolos de roteamento link-state ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159776" type="mc-sa"><question><![CDATA[Que mecanismo pode ser usado para evitar que uma contagem permaneça em loop até o infinito?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[split horizon ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[route poisoning ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[temporizadores de hold-down  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[atualizações disparadas ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[split horizon com poison reverse ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159777" type="mc-sa"><question><![CDATA[Consulte a exibição. A rede mostrada está executando o protocolo de roteamento RIP. Que mecanismo irá impedir o Roteador4 de reenviar atualizações sobre a rede 10.0.0.0 para o Roteador5? <br/><img src="i159777n1v1.jpg" /> ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[split horizon  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[poison reverse ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[route poisoning ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[temporizadores de hold-down ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[contagem de saltos máxima ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159778" type="mc-sa"><question><![CDATA[O que permite a protocolos do vetor de distância evitar loops de roteamento, anunciando uma métrica de infinidade?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[split horizon ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[route poisoning  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[temporizadores de hold-down ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[contagem de saltos máxima ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[campo TTL (Time To Live, tempo de vida) do cabeçalho IP ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="159775" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="159775" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>split horizon</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>route poisoning</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>temporizadores de hold-down</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>atualizações disparadas</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>as rotas aprendidas por meio de uma interface não são anunciadas nessa mesma interface</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>as rotas aprendidas por meio de uma interface são novamente anunciadas nessa mesma interface como inalcançáveis</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>as alterações feitas na topologia são imediatamente enviadas para roteadores adjacentes</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>dá tempo para que as alterações feitas na topologia percorram toda a rede</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste o loop que impede os mecanismos na coluna à esquerda até a função correspondente na coluna à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-125" targetYspacing="16" yspacing="65" targetH="47"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="155" /><display componentIdent="3" xpos="200" ypos="235" /><display componentIdent="4" xpos="200" ypos="315" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="142" /><display componentIdent="3" xpos="600" ypos="209" /><display componentIdent="4" xpos="600" ypos="276" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="192552" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="192552" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>3</componentident></scoringzonecontains></conditionvar><setvar varname="192552" action="Set">1</setvar><scoringdescription>De cima para baixo.  (1) as rotas aprendidas por meio de uma interface não são anunciadas nessa mesma interface (2) as rotas aprendidas por meio de uma interface são novamente anunciadas nessa mesma interface como inalcançáveis (3) as alterações feitas na topologia são imediatamente enviadas para roteadores adjacentes (4) dá tempo para que as alterações feitas na topologia percorram toda a rede</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item></form></exam> 

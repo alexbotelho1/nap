@@ -1,0 +1,35 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Rota definitiva de Nível 1 de 192.168.1.0/24</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Destino do pacote IP</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Rota de<br> Nível 1</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>O roteador encaminha o pacote para a Serial 0/0/0.</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Os 24 bits iniciais CORRESPONDEM.</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Esses 6 bits também correspondem.</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Nós observamos endereços decimais pontuados.</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>O roteador observa os bits e os verifica para saber se há correspondência a partir da esquerda.</b>]]></text>
+</component>
+
+</textcomponents>

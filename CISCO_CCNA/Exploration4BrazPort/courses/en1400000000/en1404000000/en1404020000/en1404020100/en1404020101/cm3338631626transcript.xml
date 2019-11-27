@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:26">
+<title><content-text><![CDATA[4.2.1  - Router Security Issues]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the role of routers in network security. <br><br>Network Topology:<br>Two inside networks are connected by a router. The inside network 192.168.10.0/24 consists of PC1 connected to switch S1, which is connected to router R1. The inside network 192.168.30.0 /24 consists of PC3 connected to switch S3, which is connected to router R3. Routers R1 and R3 connect to router R2. Router R2 routes between the two inside local networks and is the gateway to the Internet and an external TFTP server. Router R1 provides access for hosts in the 192,168.10.0 network to the other networks. <br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

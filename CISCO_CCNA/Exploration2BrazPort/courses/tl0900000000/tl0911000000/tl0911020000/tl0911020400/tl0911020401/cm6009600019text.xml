@@ -1,0 +1,39 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Clique nos botões para obter mais informações.</b>]]></text>
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Regras de ID de roteador</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Determinando a ID do roteador</b>]]></text>
+</component>
+
+<component id="ID_Title02">
+<text><![CDATA[<b>Topologia</b>]]></text>
+</component>
+
+<component id="ID_header01">
+<text><![CDATA[<b>A ID do roteador é determinada na seguinte ordem:</b>]]></text>
+</component>
+
+<component id="ID_list01">
+<text><![CDATA[1. <textformat blockindent='14'>Utilize o endereço IP configurado com o comando router-id de OSPF.</textformat><br>2. <textformat blockindent='14'>Se o router-id não estiver configurado, o roteador escolherá o endereço IP mais alto de de suas interfaces de loopback.</textformat><br>3. <textformat blockindent='14'>Se nenhuma interface de loopback estiver configurada, o roteador escolherá o endereço IP ativo mais alto de suas interfaces físicas.</textformat>]]></text>
+</component>
+
+<component id="ID_top01">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_top02">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_top03">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+</textcomponents>

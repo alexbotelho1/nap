@@ -1,0 +1,13 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Configurar prioridade de porta</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[Porta raiz]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[Bridge de raiz]]></text> 
+  </component>
+
+
+</textcomponents>

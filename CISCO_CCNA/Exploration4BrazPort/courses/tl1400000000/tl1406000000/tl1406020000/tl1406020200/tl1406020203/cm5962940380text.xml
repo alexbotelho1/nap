@@ -1,0 +1,20 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>DOCSIS</b>]]></text>
+</component>
+
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>DOCSIS</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>O DOCSIS é um padrão para certificação de dispositivos de fornecedores de equipamentos a cabo (modem a cabo e sistema de terminação de modem a cabo).</li><li>O DOCSIS especifica as camadas físicas e MAC.</li><li>Ele define os requisitos de interface RF para um sistema de dados por cabo.</li><li>Os fornecedores de equipamentos a cabo devem passar pela certificação realizada pela CableLabs.</li><li>O Euro-DOCSIS é uma variação adaptada para ser utilizada na Europa.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

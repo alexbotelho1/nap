@@ -1,0 +1,16 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Editando ACLs numeradas</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Etapa 1</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Etapa 2</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Etapa 3</b>]]></text> 
+  </component>
+</textcomponents>

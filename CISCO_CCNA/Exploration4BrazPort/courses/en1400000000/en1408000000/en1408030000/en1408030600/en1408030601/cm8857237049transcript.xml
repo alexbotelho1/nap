@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 13:12:41">
+<title><content-text><![CDATA[8.3.6 - Common WAN Implementation issues]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts common WAN implementation issues. These include the following:<br><br>Reliability? Our branch depends on the WAN. Reliability is essential.<br><br>Private or Public? Which infrastructure should I use?<br><br>Latency? Delays can be a problem for real-time traffic.<br><br>Confidentiality? We need to send sensitive company information to our branches across the WAN.<br><br>Security? How do we protect ourselves from security threats over the WAN?<br><br>Q o S? End-to-end Quality of Service (Q o S) may be hard to obtain across the Internet.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="6_8_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_01">
+        <source>1979 - The Grid Compass was used by Nasa on the space shuttle program in the early 1980&apos;s.
+
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_02">
+        <source>1981 - The Osborne 1 weighed 24lbs and cost $1795.  It came with a five-inch screen, a modem port, two 5 1/4 floppy drives, and software applications.
+
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_03">
+        <source>1983 - The TRS 80 weighed 4lbs and was powered by AA batteries.  
+ 
+
+</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_04">
+        <source>1988 - The Compaq SLT/286 was the first laptop with VGA graphics and cost approximately $5399. 
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_05">
+        <source>1991 - The Macintosh Powerbook 100 series established the form factor for all modern laptops.
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_06">
+        <source>2006 - Laptops are designed with built-in wireless functionality, long battery life, compact design, and comparable desktop performance.
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_07">
+        <source>2006 – IBM T-series Thinkpad designed for highly mobile users with outstanding functionality and long battery life in an easily portable, thin and light design. 
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_08">
+        <source>Click each year for more information.
+
+</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TITLE1">
+        <source>Laptop Evolution</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

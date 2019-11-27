@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 08:11:58">
+<title><content-text><![CDATA[1.3.1  - WAN Link Connection Options]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts WAN link connection options using a hierarchical organizational chart. At the top of the chart is the WAN block, which splits into two categories: public and private.<br><br>Beneath the public section of the chart is Internet. Under Internet is broadband VPN. Examples include DSL, cable, and broadband wireless.<br><br>The private section of the chart is split into two sub-categories, dedicated and switched. Leased lines in under the dedicated sub-category. An example of a leased line is a T1.<br><br>The switched sub-category is split into two more sub-categories, circuit-switched and packet-switched. Examples under circuit-switched include PSTN and ISDN. Examples under packet-switched include Frame Relay, X.25, and ATM.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

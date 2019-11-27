@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_3_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>IP Address Classes</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Default Subnet Masks</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_01">
+        <source>Network</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_02">
+        <source>Subnet </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_03">
+        <source>Host</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_04">
+        <source>datacenter routing table</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_05">
+        <source>Interface</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_006">
+        <source>173.21.1.0</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_06">
+        <source>173.21 . 1 . 0</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_07">
+        <source>173.21.3.0</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_08">
+        <source>173.21.5.0</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_09">
+        <source>FE0</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_10">
+        <source>TR1</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_11">
+        <source>Class A</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_11B">
+        <source>Class B</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_11C">
+        <source>Class C</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_12">
+        <source>Network</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_13">
+        <source>Host</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_14">
+        <source>Octet</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_15">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_16">
+        <source>2</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_17">
+        <source>3</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_18">
+        <source>4</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_19">
+        <source>FE1</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_20">
+        <source>Class D addresses are used for multicast groups. There is no need to allocate octet or bits to separate network and host addresses. Class E addresses are reserved for research use only.
+</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_21">
+        <source>manfloor routing table</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

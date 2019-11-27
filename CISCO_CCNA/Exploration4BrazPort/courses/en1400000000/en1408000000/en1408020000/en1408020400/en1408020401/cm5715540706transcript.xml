@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 13:12:53">
+<title><content-text><![CDATA[8.2.4 - Troubleshooting Methods]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the three main methods for troubleshooting networks, which are based on the O S I model:<br><br>Bottom up - Starts at the O S I Physical Layer<br><br>Top down - Starts at the O S I Application Layer<br><br>Divide and conquer - Can start at either the O S I Data Link, Network, or Transport Layer.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

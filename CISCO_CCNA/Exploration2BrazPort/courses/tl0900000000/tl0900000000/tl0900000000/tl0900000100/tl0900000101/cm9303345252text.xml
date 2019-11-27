@@ -1,0 +1,92 @@
+<textcomponents>
+
+<component id="ID_title">
+         <text><![CDATA[<b>Mensagem para estudantes</b>]]></text>
+</component>
+   
+<component id="ID_page1">
+         <text><![CDATA[página 1 de 9]]></text>
+</component>
+<component id="ID_page2">
+         <text><![CDATA[página 2 de 9]]></text>
+</component>
+<component id="ID_page3">
+         <text><![CDATA[página 3 de 9]]></text>
+</component>
+<component id="ID_page4">
+         <text><![CDATA[página 4 de 9]]></text>
+</component>
+<component id="ID_page5">
+         <text><![CDATA[página 5 de 9]]></text>
+</component>
+<component id="ID_page6">
+         <text><![CDATA[página 6 de 9]]></text>
+</component>
+<component id="ID_page7">
+         <text><![CDATA[página 7 de 9]]></text>
+</component>
+<component id="ID_page8">
+         <text><![CDATA[página 8 de 9]]></text>
+</component>
+<component id="ID_page9">
+         <text><![CDATA[página 9 de 9]]></text>
+</component>
+   
+
+<component id="ID_txt01">
+         <text><![CDATA[<b>Bem-vindo</b><br/>Bem-vindo ao curso Protocolos e conceitos de roteamento do CCNA Exploration. A meta é desenvolver uma compreensão de como um roteador aprende redes remotas e determina o melhor caminho para essas redes. Este curso inclui o roteamento estático e os protocolos de roteamento dinâmico. As habilidades específicas explicadas em cada capítulo são descritas no início de cada um deles.]]></text>
+</component>
+   
+<component id="ID_txt02">
+         <text><![CDATA[<b>Mais do que apenas informações</b><br/>Este ambiente de aprendizagem com base em computadores é uma parte importante da experiência geral do curso para os alunos e instrutores do Networking Academy. Esses materiais de curso on-line foram criados para serem usados em conjunto com várias outras atividades e ferramentas instrutivas. São alguns deles:<br/><br/><ul><li>Apresentação de classe, discussão e prática com seu instrutor </li><li>Laboratórios práticos que usam equipamento de rede dentro da sala de aula do Networking Academy</li><li>Avaliações com nota on-line e um histórico escolar (gradebook) associado</li><li>Ferramenta de simulação do Packet Tracer</li><li>Software adicional para atividades em sala de aula</li></ul>]]></text>
+</component>
+
+<component id="ID_txt03">
+         <text><![CDATA[<b>Uma comunidade global</b><br/>Ao participar do Networking Academy, você estará entrando em uma comunidade global conectada por objetivos e tecnologias comuns. Mais de 160 escolas, faculdades, universidades e outras entidades participam do programa. Uma visualização da comunidade global do Networking Academy em <a href="javascript:openExternal('http://www.academynetspace.com');"><font color="#0000FF">http://www.academynetspace.com</font></a>. <br/><br/>O material deste curso abrange uma ampla variedade de tecnologias que facilitam o trabalho, a vida e o aprendizado das pessoas através da comunicação por voz, vídeo etc. Rede e Internet afetam as pessoas de maneira diferente em partes diferentes do mundo. Embora tenhamos trabalhado com instrutores de todo o mundo para criar estes materiais, é importante que você trabalhe com o seu instrutor e colegas para tornar o material deste curso aplicável à sua situação local.<br/><br/><b>Mantenha contato</b><br/>Esses materiais instrutivos on-line, bem como o restante das ferramentas do curso, fazem parte do grande Networking Academy. O portal do aluno, do instrutor e do administrador do programa estão localizados em <a href="javascript:openExternal('http://www.cisco.com/web/learning/netacad/index.html');"><font color="#0000FF">http://www.cisco.com/web/learning/netacad/index.html</font></a>. Lá você terá acesso às demais ferramentas no programa, como o servidor de avaliação e o histórico escolar do aluno, bem como atualizações informativas e outros links relevantes.]]></text>
+</component>
+
+<component id="ID_txt04">
+         <text><![CDATA[<b>Mantenha a sua mente bem aberta™</b><br/>Uma meta importante do ensino é enriquecer você, aluno, ampliando o que você sabe e o que você pode fazer. No entanto, é importante perceber que os materiais instrutivos e o instrutor podem apenas <i>facilitar</i> o processo. <i>Você</i> deve se comprometer em aprender as novas habilidades. Aqui estão algumas sugestões para ajudar você a aprender e a crescer.<br/><br/>1.<TEXTFORMAT BLOCKINDENT='15'><b> Faça anotações.</b> Profissionais do campo de rede normalmente mantêm diários nos quais anotam as coisas que observam e aprendem. As anotações são importantes para ajudar a compreender o crescimento com o passar do tempo.</textformat><br/><br/>2.<TEXTFORMAT BLOCKINDENT='15'><b> Pense nisso.</b> O curso fornece informações para alterar o que você sabe e o que você pode fazer. Na medida em que completar o curso, pergunte-se o que faz sentido e o que não faz. Pare e faça perguntas quando você estiver confuso. Procure saber mais sobre os tópicos nos quais tem interesse. Se você não tiver certeza do porquê algo está sendo ensinado, pergunte ao seu instrutor ou a um amigo. Veja como as diferentes partes do curso se encaixam.</textformat>]]></text>
+</component>
+
+<component id="ID_txt05">
+         <text><![CDATA[3.<TEXTFORMAT BLOCKINDENT='15'><b> Pratique.</b> Aprender novas habilidades exige prática. Acreditamos que isto é tão importante para o e-learning (aprendizado eletrônico) que temos um nome especial para ela. Nós a chamamos de e-Doing. É muito importante que você conclua as atividades nos materiais instrutivos on-line e os laboratórios práticos e as atividades do Packet Tracer. </textformat><br/><br/>4.<TEXTFORMAT BLOCKINDENT='15'><b> Tente novamente.</b> Você já pensou que sabia como fazer algo e, quando chegou o momento de mostrar em um teste ou no trabalho, descobriu que, na verdade, não dominava o assunto em questão? Assim como aprender uma nova habilidade em um esporte, jogo ou idioma, aprender habilidades profissionais requer paciência e uma prática repetida para que você diga que realmente aprendeu. Os materiais didáticos on-line constituem uma oportunidade de prática repetida para muitas habilidades. Aproveite-os ao máximo. Você também pode trabalhar com seu instrutor para estender o Packet Tracer e outras ferramentas para a prática adicional, conforme o necessário.</textformat>]]></text>
+</component>
+
+<component id="ID_txt06">
+         <text><![CDATA[5.<TEXTFORMAT BLOCKINDENT='15'><b> Ensine.</b> Ensinar um amigo ou um colega costuma ser uma boa forma de reforçar sua própria aprendizagem. Para ser um bom instrutor, é necessário examinar os detalhes que podem não ter sido percebidos em sua primeira leitura. Conversas sobre o material de curso com alunos, colegas e com o instrutor podem ajudar a solidificar a sua compreensão dos conceitos de networking.</textformat><br/><br/>6.<TEXTFORMAT BLOCKINDENT='15'><b> Faça alterações sempre.</b> O curso foi projetado para que se fizessem comentários por meio de atividades e testes interativos, do sistema de avaliação on-line e das interações estruturadas com seu instrutor. Você pode utilizar estes comentários para entender melhor onde suas forças e fraquezas estão. Se houver uma área com a qual você esteja enfrentando dificuldades, concentre-se em como estudar ou praticar mais nessa área. Procure comentários adicionais do seu instrutor e de outros alunos.</textformat>]]></text>
+</component>
+
+<component id="ID_txt07">
+         <text><![CDATA[<b>Explore o mundo de rede</b><br/>Esta versão do curso inclui uma ferramenta especial chamada Packet Tracer 4.1. O Packet Tracer é uma ferramenta de aprendizagem de rede que oferece suporte a uma ampla gama de simulações físicas e lógicas. Ele também fornece ferramentas de visualização para ajudar você a compreender o funcionamento interno de uma rede.<br/><br/>As atividades parcialmente prontas do Packet Tracer consistem em simulações de rede, jogos, atividades e desafios que fornecem uma ampla variedade de experiências de aprendizagem. <br/><br/><b>Crie mundos próprios</b><br/>Você também pode utilizar o Packet Tracer para criar suas próprias experiências e cenários de rede. Esperamos que, com o passar do tempo, você considere usar o Packet Tracer não apenas para experimentar as atividades criadas previamente, mas também para se tornar um autor, explorador e experimentador.<br/><br/>Os materiais do curso on-line compreendem atividades de Packet Tracer que serão executadas em computadores com sistemas operacionais Windows®, se o Packet Tracer estiver instalado. Esta integração também pode funcionar em outros sistemas operacionais que usam emulação do Windows.]]></text>
+</component>
+ 
+<component id="ID_txt08">
+         <text><![CDATA[<b>Visão geral do curso</b><br/><br/>O foco principal deste curso está no roteamento e nos protocolos de roteamento. A meta é desenvolver uma compreensão de como um roteador aprende redes remotas e determina o melhor caminho para essas redes. Este curso inclui o roteamento estático e os protocolos de roteamento dinâmico. Examinando vários protocolos de roteamento, você terá uma melhor compreensão de cada um dos protocolos de roteamento individuais, além de uma perspectiva melhor do roteamento em geral. Aprender a configuração dos protocolos de roteamento é bastante simples. Desenvolver uma compreensão dos conceitos de roteamento propriamente ditos é mais difícil, embora seja essencial para implementar, verificar, identificar e solucionar problemas das operações de roteamento. <br/><br/>Cada capítulo de protocolo de roteamento estático e de roteamento dinâmico usa uma única topologia em todo o capítulo. Você usará essa topologia para configurar, verificar, identificar e solucionar problemas das operações de roteamento abordadas no capítulo.<br/><br/>Os laboratórios e as atividades do Packet Tracer usadas neste curso foram criadas para ajudar a desenvolver uma compreensão de como configurar operações de roteamento, ao mesmo tempo em que reforçam os conceitos aprendidos em cada capítulo.<br/><br/><b>Capítulo 1 Introdução ao roteamento e encaminhamento de pacotes</b> – no Capítulo 1, você será apresentado ao roteador, sua função nas redes, seus componentes de hardware e de software, além do processo de encaminhamento de pacotes. Você também terá uma visão geral das redes conectadas diretamente, dos protocolos de roteamento estático e dinâmico, além de uma breve introdução à tabela de roteamento. Todos esses comandos são abordados com mais detalhes em capítulos posteriores. O Capítulo 1 também inclui uma revisão dos comandos básicos do Cisco IOS. <br/><br/><b>Capítulo 2 Roteamento estático</b> – o Capítulo 2 se concentra na função e na configuração das rotas estáticas. O processo da tabela de roteamento é apresentado, e você verá como verificar entradas de rota quando elas são adicionadas e excluídas da tabela de roteamento. Esse capítulo também aborda o Cisco Discovery Protocol, uma ferramenta que você pode usar para ajudar a verificar operações de rede.<br/><br/><b>Capítulo 3 Introdução aos protocolos de roteamento dinâmico</b> – o Capítulo 3 fornece uma visão geral dos conceitos de protocolo de roteamento e os vários protocolos de roteamento dinâmico disponíveis para o roteamento em redes IP. Nesse capítulo, você examinará a função dos protocolos de roteamento. Há uma visão geral da classificação dos protocolos de roteamento dinâmico. Essa visão geral é útil para comparar os protocolos diferentes. A maior parte das informações deste capítulo é examinada com mais detalhes nos capítulos posteriores. <br/><br/><b>Capítulo 4 Protocolos de roteamento do vetor de distância</b> – o Capítulo 4 apresenta dois tipos de protocolos de roteamento diferentes: vetor de distância e link-state. Você examinará conceitos do vetor de distância e operações, inclusive detecção de rede, manutenção da tabela de roteamento e o problema dos loops de roteamento. Neste capítulo, você será apresentado aos conceitos usados em RIPv1, RIPv2 e nos protocolos de roteamento EIGRP. Esses protocolos de roteamento são abordados com mais detalhes em capítulos posteriores.<br/><br/><b>Capítulo 5 RIPv1</b> – o Capítulo 5 é o primeiro capítulo que se concentra em um protocolo de roteamento dinâmico específico. Neste capítulo, você aprenderá o RIP (Routing Information Protocol) versão 1. O RIPv1, um protocolo de roteamento do vetor de distância classful, foi um dos primeiros protocolos de roteamento IP. Você examinará as características, as operações e as limitações de RIPv1. Você também aprenderá técnicas de configuração de RIPv1, verificação, identificação e de solução de problemas.]]></text>
+</component>
+
+<component id="ID_txt09">
+         <text><![CDATA[<b>Visão geral do curso (continuação)</b><br/><br/><b>Capítulo 6 VLSM e CIDR</b> – o Capítulo 6 revisa os conceitos de VLSM (Variable Length Subnet Mask) e CIDR (Classless Inter-Domain Routing) que foram apresentados no curso Network Fundamentals. Você explorará os benefícios de VLSM, além da função e dos benefícios de CIDR nas redes atuais. Em seguida, você será apresentado à função dos protocolos de roteamento classless. Os protocolos de roteamento RIPv2 classless, EIGRP e OSPF são examinados em capítulos posteriores.<br/><br/><b>Capítulo 7 RIPv2</b> – o Capítulo 7 examina o próximo protocolo de roteamento apresentado neste curso, RIPv2. RIPv2 é um protocolo de roteamento do vetor de distância classless. Você verá como RIPv2 demonstra as vantagens e as operações de um protocolo de roteamento classless. O capítulo começa com uma discussão das limitações do protocolo de roteamento classful, RIPv1. Em seguida, o RIPv2 é apresentado, para mostrar como um protocolo de roteamento classless pode ser usado para superar essas limitações. Nesse capítulo, você também aprenderá os comandos necessários para configurar e verificar RIPv2.<br/><br/><b>Capítulo 8 A tabela de roteamento: Um exame mais detalhado</b> – o Capítulo 8 examina a tabela de roteamento de IPv4 com mais detalhes. O capítulo começa com uma discussão da estrutura da tabela de roteamento. Examinando a tabela de roteamento, você aprenderá o processo de pesquisa, como o processo da tabela de roteamento determina a melhor correspondência com o endereço IP de destino de um pacote e como inserir uma rota na tabela de roteamento. O capítulo termina com uma discussão sobre as diferenças entre comportamentos de roteamento classful e classless. <br/><br/><b>Capítulo 9 EIGRP</b> – o Capítulo 9 se concentra no Cisco EIGRP (Enhanced Interior Gateway Routing Protocol). EIGRP é um protocolo de roteamento do vetor de distância classless aprimorado. Você examinará as vantagens e as operações do DUAL (Diffusing Update Algorithm) EIGRP. Em seguida, você saberá sobre a configuração de EIGRP, inclusive os comandos de verificação, identificação e de solução de problemas.<br/><br/><b>Capítulo 10 Protocolos de roteamento link-state</b> – o Capítulo 10 examina conceitos do protocolo de roteamento link-state (estado de enlace). Você será apresentado à terminologia de link-state e ao processo de roteamento link-state. O capítulo aborda os benefícios e as vantagens de um protocolo de roteamento link-state em comparação com um protocolo de roteamento do vetor de distância. Em seguida, você examinará o algoritmo SPF (Shortest Path First) e a forma como ele é usado para criar um mapa de topologia da rede. O protocolo de roteamento link-state OSPF é abordado no capítulo seguinte.<br/><br/><b>Capítulo 11 OSPF</b> – o capítulo final deste curso é um exame do protocolo de roteamento classless link-state OSPF (Open Shortest Path First). Neste capítulo, você examinará operações OSPF e configuração, inclusive os comandos de verificação, identificação e de solução de problemas. Ao final deste curso, você deve se sentir confiante quanto ao seu conhecimento de roteamento e dos protocolos de roteamento. Com estudo e prática contínuos, você poderá colocar suas novas habilidades para trabalhar.]]></text>
+</component>
+
+<component id="ID_page1_text">
+         <text><![CDATA[<b>Bem-vindo a Protocolos e conceitos de roteamento do CCNA Exploration</b>]]></text>
+</component>
+
+<component id="ID_page2_text">
+         <text><![CDATA[<b>Mantenha a mente bem aberta ™<br/><br/>Use o material do curso sempre. Fale sobre os conceitos para aprofundar a sua compreensão.</b>]]></text>
+</component>
+
+<component id="ID_page3_text">
+         <text><![CDATA[<b>Mind Wide Open®</b><br/><br/>Bem-vindo a Protocolos e conceitos de roteamento do CCNA Exploration</b>]]></text>
+</component>
+
+<component id="ID_page4_text">
+         <text><![CDATA[<b>Bem-vindo aos Fundamentos da Rede do CCNA Exploration</b>]]></text>
+</component>
+
+<component id="ID_page5_text">
+         <text><![CDATA[<b>Bem-vindo aos Fundamentos da Rede do CCNA Exploration</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,29 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Benefícios do VPN</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Filial</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Usuário móvel</b>]]></text> 
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Escritório em casa</b>]]></text> 
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>WAN de Camada 2<br />Tradicional</b>]]></text> 
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>X</b>]]></text> 
+</component>
+<component id="ID_txt06">
+<text>Internet</text>
+</component>
+<component id="ID_txt07">
+<text>Local central</text>
+</component>
+<component id="ID_txt08">
+<text>Comparados às opções de linha alugada, os benefícios da VPN incluem economia de custo, maior segurança e maior escalabilidade.</text>
+</component>
+</textcomponents>

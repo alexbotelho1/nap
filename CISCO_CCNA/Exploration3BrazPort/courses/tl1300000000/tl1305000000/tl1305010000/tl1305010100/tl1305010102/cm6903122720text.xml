@@ -1,0 +1,70 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Examinar um design redundante</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Núcleo</b>]]></text>
+</component>
+<component id="ID_txt02b">
+<text><![CDATA[<b>Núcleo</b>]]></text>
+</component>
+<component id="ID_txt02c">
+<text><![CDATA[<b>Núcleo</b>]]></text>
+</component>
+<component id="ID_txt02d">
+<text><![CDATA[<b>Núcleo</b>]]></text>
+</component>
+<component id="ID_txt02e">
+<text><![CDATA[<b>Núcleo</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Distribuição</b>]]></text>
+</component>
+<component id="ID_txt03b">
+<text><![CDATA[<b>Distribuição</b>]]></text>
+</component>
+<component id="ID_txt03c">
+<text><![CDATA[<b>Distribuição</b>]]></text>
+</component>
+<component id="ID_txt03d">
+<text><![CDATA[<b>Distribuição</b>]]></text>
+</component>
+<component id="ID_txt03e">
+<text><![CDATA[<b>Distribuição</b>]]></text>
+</component>
+
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Acesso</b>]]></text>
+</component>
+<component id="ID_txt04b">
+<text><![CDATA[<b>Acesso</b>]]></text>
+</component>
+<component id="ID_txt04c">
+<text><![CDATA[<b>Acesso</b>]]></text>
+</component>
+<component id="ID_txt04d">
+<text><![CDATA[<b>Acesso</b>]]></text>
+</component>
+<component id="ID_txt04e">
+<text><![CDATA[<b>Acesso</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<font size="12"><b>Início - <br/> Acesso para camada de distribuição</b></font>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<font size="12"><b>Falha de caminho - <br/> Acesso para camada de distribuição</b></font>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<font size="12"><b>Falha de caminho - <br/> Distribuição para camada de núcleo</b></font>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<font size="12"><b>Falha de switch - <br/>Camada de distribuição</b></font>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<font size="12"><b>Falha de switch - <br/>Camada de núcleo</b></font>]]></text>
+</component>
+
+</textcomponents>

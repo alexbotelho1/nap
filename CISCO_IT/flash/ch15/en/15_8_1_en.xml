@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="15_8_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Open-Ended Questions</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Closed-Ended Questions</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE4">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE5">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TITLE6">
+        <source>Evaluate the Problem and Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TITLE7">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_01">
+        <source>List of open-ended questions about network errors. 
+(This list is NOT comprehensive.)</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_02">
+        <source>When did the problem start?</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_03">
+        <source>What problems are you experiencing?</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_04">
+        <source>Is there anything else you can tell me about the problem?
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_05">
+        <source>What other users are having the problem? </source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_006">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_06">
+        <source>What type of equipment is having the problem?</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_06A">
+        <source>What are the effects of the problem?</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_06B">
+        <source>Describe your work environment?</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_06C">
+        <source>When did you last back up your computer?</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_06D">
+        <source>What type of backup was performed?</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_06E">
+        <source>What group are you a member of?</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_07">
+        <source>List of closed-ended questions about network errors. 
+(This list is NOT comprehensive.)</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_08">
+        <source>Has any equipment changed?</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_09">
+        <source>Have any peripherals been added?</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_10">
+        <source>Have any other computers been added to the network?</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_12">
+        <source>Is there a wireless NIC in this computer?</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_13">
+        <source>Is the computer turned off at night?</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_14">
+        <source>Is the computer secured in a locked 
+room at night?</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_15">
+        <source>Do you have a Windows XP 
+installation CD on hand?</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_16">
+        <source>Troubleshooting Process </source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_17">
+        <source>Gather Data from the Customer </source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_18">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_19">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_20">
+        <source>Gather Data from the Computer </source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_21">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_22">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_23">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_24">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_25">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_26">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_27">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_28">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_29">
+        <source>What is your IP information?</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_30">
+        <source>Are the settings on the network equipment correct?</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_31">
+        <source>Is there activity on the wireless router?</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TXT_32">
+        <source>Is there activity on the modem?</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TXT_33">
+        <source>Is your wireless client configured correctly?</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TXT_34">
+        <source>Has your network connection been disabled?</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TXT_35">
+        <source>Restart the equipment.</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TXT_36">
+        <source>Renew the IP address.</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TXT_37">
+        <source>Flush DNS.</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TXT_38">
+        <source>Roll back a driver.</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TXT_39">
+        <source>Return to previous saved restore point.</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TXT_40">
+        <source>Device Manager
+</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TXT_41">
+        <source>Event Viewer </source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TXT_42">
+        <source>ipconfig </source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TXT_43">
+        <source>Ping the localhost</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TXT_44">
+        <source>Ping the default gateway </source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TXT_45">
+        <source>Ping a popular website</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_TXT_46">
+        <source>Verify wireless router configuration</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_TXT_47">
+        <source>Verify e-mail client configuration</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_TXT_48">
+        <source>Hardware Diagnostic Software</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_TXT_49">
+        <source>Problem solving experience</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_TXT_50">
+        <source>Other technicians</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_TXT_51">
+        <source>Internet search</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_TXT_52">
+        <source>News groups</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_TXT_53">
+        <source>Manufacturer FAQs</source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_TXT_54">
+        <source>Computer manuals</source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_TXT_55">
+        <source>Device manuals</source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_TXT_56">
+        <source>Online forums</source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_TXT_57">
+        <source>Technical websites</source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_TXT_58">
+        <source>Discuss the solution 
+implemented with customer</source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_TXT_59">
+        <source>Have the customer verify 
+problem has been solved</source>
+      </trans-unit>
+      <trans-unit id="072" resname="IDS_TXT_60">
+        <source>Provide customer with all
+paperwork</source>
+      </trans-unit>
+      <trans-unit id="073" resname="IDS_TXT_61">
+        <source>Document steps taken to solve
+the problem in the work order 
+and the technician’s journal</source>
+      </trans-unit>
+      <trans-unit id="074" resname="IDS_TXT_62">
+        <source>Document any components 
+used in the repair</source>
+      </trans-unit>
+      <trans-unit id="075" resname="IDS_TXT_63">
+        <source>Document the time spent to
+resolve the problem</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

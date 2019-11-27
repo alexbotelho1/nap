@@ -1,0 +1,93 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Visão geral da autenticação do protocolo de roteamento</b>]]></text>
+</component>
+<component id="ID_s1_txt01">
+  <text><![CDATA[Informar a R1:<BR/>192.168.10.10/32 é alcançável por meio de R3]]></text> 
+  </component>
+<component id="ID_s1_txt02">
+  <text><![CDATA[<b>R1 deve encaminhar aqui...</b>]]></text> 
+  </component>
+<component id="ID_s1_txt03">
+  <text><![CDATA[<b>...mas o atacante manipulou as informações de roteamento de R1, logo R1 encaminha para R3</b>]]></text> 
+  </component>
+<component id="ID_s1_txt04">
+  <text><![CDATA[<b>... mas R3 conhece mais e envia pacote para R1 que cria um loop</b>]]></text> 
+  </component>
+<component id="ID_s1_txt05">
+  <text><![CDATA[<b>Melhor caminho normal</b>]]></text> 
+  </component>
+<component id="ID_s1_txt06">
+  <text><![CDATA[<b>R1 atualiza sua tabela de roteamento.</b>]]></text> 
+  </component>
+<component id="ID_button1">
+  <text><![CDATA[<b>Ataque</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Proteger atualização</b>]]></text> 
+</component>
+<component id="ID_button3">
+  <text><![CDATA[<b>Operação</b>]]></text> 
+</component>
+<component id="play"><text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute"><text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+<component id="ID_to">
+<text><![CDATA[para: 192.168.10.10/24]]></text>
+</component>
+<component id="ID_s2_txt01">
+<text><![CDATA[Algoritmo de criptografia]]></text>
+</component>
+<component id="ID_s2_txt02">
+<text><![CDATA[Chave (por exemplo, "cisco")]]></text>
+</component>
+<component id="ID_s2_txt03">
+<text><![CDATA[Roteando dados]]></text>
+</component>
+<component id="ID_s2_txt04">
+<text><![CDATA[Assinatura]]></text>
+</component>
+<component id="ID_s3_txt01">
+<text><![CDATA[<ul><li>Enviar atualização</li><li>Computar assinatura</li></ul>]]></text>
+</component>
+<component id="ID_s3_txt02">
+<text><![CDATA[<ul><li>Receber atualização</li><li>Computar assinatura</li></ul>]]></text>
+</component>
+<component id="ID_s3_txt03">
+<text><![CDATA[Comparar assinatura]]></text>
+</component>
+<component id="ID_s3_txt04">
+<text><![CDATA[Atualizações de roteamento autenticadas]]></text>
+</component>
+<component id="ID_s3_txt05">
+<text><![CDATA[Chave]]></text>
+</component>
+<component id="ID_s3_txt06">
+<text><![CDATA[Dados]]></text>
+</component>
+<component id="ID_s3_txt07">
+<text><![CDATA[Assinatura]]></text>
+</component>
+</textcomponents>

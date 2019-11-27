@@ -1,0 +1,67 @@
+<textcomponents>
+
+<component id="ID_title01">
+	<text><![CDATA[<b>Latência de rede</b>]]></text>
+</component>
+
+<component id="ID_title02">
+	<text><![CDATA[<b>Cada dispositivo no caminho acrescenta latência.</b>]]></text>
+</component>
+
+<component id="ID_instr">
+	<text><![CDATA[<b>Clique em Reproduzir para iniciar a animação.</b>]]></text>
+</component>
+
+<component id="ID_call01">
+	<text><![CDATA[<b>A placa de rede coloca<br/>pulsos de tensão no<br/>fio</b>]]></text>
+</component>
+
+<component id="ID_call02">
+	<text><![CDATA[<b>O sinal<br/>se propaga<br/>pelo cabo</b>]]></text>
+</component>
+
+<component id="ID_call03">
+	<text><![CDATA[<b>O sinal<br/>atravessa um<br/>dispositivo de rede</b>]]></text>
+</component>
+
+<component id="ID_call04">
+	<text><![CDATA[<b>A placa de rede de destino<br/>interpreta<br/>os pulsos</b>]]></text>
+</component>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Switch 1</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Switch 1</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Switch 2</b>]]></text>
+</component>
+
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+</textcomponents>

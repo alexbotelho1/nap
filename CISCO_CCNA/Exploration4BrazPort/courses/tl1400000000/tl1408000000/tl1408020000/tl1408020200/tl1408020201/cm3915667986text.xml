@@ -1,0 +1,146 @@
+<textcomponents>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Modelo de camadas</b>]]></text> 
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Dispositivos nas camadas de OSI</b>]]></text> 
+</component>
+
+<!-- slide 1 -->
+<component id="ID_title01">
+<text><![CDATA[<b>OSI em comparação com modelos de camadas de TCP/IP</b>]]></text> 
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Corresponde dispositivos à camada OSI</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt01">
+<text><![CDATA[<b>OSI</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[<b>7 Aplicativo</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[<b>6 Apresentação</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt04">
+<text><![CDATA[<b>5 Sessão</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt05">
+<text><![CDATA[<b>4 Transporte</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt06">
+<text><![CDATA[<b>3 Rede</b>]]></text>
+</component>
+
+<component id="ID_S1_txt07">
+<text><![CDATA[<b>2 Enlace de dados</b>]]></text>
+</component>
+
+<component id="ID_S1_txt08">
+<text><![CDATA[<b>1 Física</b>]]></text>
+</component>
+
+<component id="ID_S1_txt09">
+<text><![CDATA[<b>TCP</b>]]></text>
+</component>
+
+<component id="ID_S1_txt10">
+<text><![CDATA[<b>IP</b>]]></text>
+</component>
+
+<component id="ID_S1_txt11">
+<text><![CDATA[<b>TCP/IP</b>]]></text>
+</component>
+
+<component id="ID_S1_txt12">
+<text><![CDATA[<b>Aplicação</b>]]></text>
+</component>
+
+<component id="ID_S1_txt13">
+<text><![CDATA[<b>Transporte</b>]]></text>
+</component>
+
+<component id="ID_S1_txt14">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_S1_txt15">
+<text><![CDATA[<b>Rede<br/>Acesso</b>]]></text>
+</component>
+
+<component id="ID_S1_txt14">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_S1_txt15">
+<text><![CDATA[<b>Acesso à rede</b>]]></text>
+</component>
+
+
+<component id="ID_inst02">
+<text><![CDATA[Passe com o mouse por cada dispositivo para ver quais camadas podem necessitar de solução de problemas.]]></text> 
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[<b>7 Aplicativo</b>]]></text> 
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[<b>6 Apresentação</b>]]></text> 
+</component>
+
+<component id="ID_S2_txt04">
+<text><![CDATA[<b>5 Sessão</b>]]></text> 
+</component>
+
+<component id="ID_S2_txt05">
+<text><![CDATA[<b>4 Transporte</b>]]></text> 
+</component>
+
+<component id="ID_S2_txt06">
+<text><![CDATA[<b>3 Rede</b>]]></text>
+</component>
+
+<component id="ID_S2_txt07">
+<text><![CDATA[<b>2 Enlaces de dados</b>]]></text>
+</component>
+
+<component id="ID_S2_txt08">
+<text><![CDATA[<b>1 Físico</b>]]></text>
+</component>
+
+<component id="ID_S2_txt09">
+<text><![CDATA[<b>Roteador</b>]]></text> 
+</component>
+
+<component id="ID_S2_txt10">
+<text><![CDATA[<b>Firewall</b>]]></text> 
+</component>
+
+<component id="ID_S2_txt11">
+<text><![CDATA[<b>Switch multicamada</b>]]></text> 
+</component>
+
+<component id="ID_S2_txt12">
+<text><![CDATA[<b>Switch padrão</b>]]></text>
+</component>
+
+<component id="ID_S2_txt13">
+<text><![CDATA[<b>Hub</b>]]></text>
+</component>
+
+<component id="ID_S2_txt14">
+<text><![CDATA[<b>End System</b>]]></text>
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 11:11:26">
+<title><content-text><![CDATA[2.2.5  - Establishing a Link with LCP]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts LCP operation, which includes provisions for link establishment, link maintenance, and link termination. Functions and arrows show the sequence and interaction of LCP messages, NCP messages, and data as they are exchanged.<br><br>The link negotiation process is illustrated by an elaborate flowchart with decision points. The process starts when the initiator sends a configure-request message and ends when the link is established. NCP then establishes Layer 3 parameters.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

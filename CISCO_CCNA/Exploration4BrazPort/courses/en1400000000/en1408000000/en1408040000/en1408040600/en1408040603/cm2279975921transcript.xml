@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 13:12:28">
+<title><content-text><![CDATA[8.4.6 - Application Layer Troubleshooting]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the process of troubleshooting Application Layer problems. A series of checks is provided.<br><br>Step 1. Ping the default gateway. <br>Step 2. Verify end-to-end connectivity. <br>Step 3. Verify access list and NAT operation.<br>Step 4. Troubleshoot upper layer protocol connectivity.]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

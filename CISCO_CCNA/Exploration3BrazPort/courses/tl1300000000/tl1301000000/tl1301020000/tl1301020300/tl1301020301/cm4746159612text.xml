@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>Recursos do switch da camada de acesso</B>]]></text> 
+</component>
+
+
+
+
+
+<component id="ID_bubble01">
+<text><![CDATA[<b><font size='12'>Camada de acesso</font></b>]]></text>
+</component>
+<component id="ID_txt01">
+  <text><![CDATA[<b><ul><li>Segurança de porta</li><li>VLANs</li><li>Fast Ethernet/Gigabit Ethernet</li><li>Power over Ethernet (PoE)</li><li>Agregação de link</li><li>Qualidade de Serviço (QoS)</li></ul></b>]]></text> 
+  </component>
+
+
+
+
+
+
+</textcomponents>

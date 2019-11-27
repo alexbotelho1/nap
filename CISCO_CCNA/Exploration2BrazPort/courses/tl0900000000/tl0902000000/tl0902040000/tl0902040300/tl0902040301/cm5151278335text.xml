@@ -1,0 +1,17 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Princípio 1:</b><br/>"Todos os roteadores tomam suas decisões sozinhos com base nas informações presentes em sua própria tabela de roteamento."<br/><br/><b>Princípio 2:</b><br/>"O fato de um roteador ter determinadas informações em sua tabela de roteamento não significa que todos os roteadores tenham as mesmas informações."<br/><br/><b>Princípio 3:</b><br/>"As informações de roteamento sobre um caminho de uma rede para outra não fornecem informações de roteamento sobre o caminho inverso ou de retorno."]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Princípios de roteamento de Alex Zinin</b>]]></text>
+</component>
+
+<component id="ID_buttonText">
+<text><![CDATA[<b>Roteamento<br>Princípios</b>]]></text>
+</component>
+
+
+
+</textcomponents>

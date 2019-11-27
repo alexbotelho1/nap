@@ -1,0 +1,12 @@
+<textcomponents>
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Neste capítulo, você aprendeu a:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Explicar como as ACLs são utilizada para proteger a rede corporativa de uma filial de médio porte, inclusive o conceito da filtragem de pacote, a finalidade de ACLs, como as ACLs são utilizadas para controlar acesso e os tipos de ACLs Cisco.</li><li>Configurar as ACLs na rede corporativa de uma filial de médio porte, inclusive definindo critérios de filtragem, configurando as ACLs padrão para filtrar tráfego e aplicando as ACLs padrão a interfaces de roteador.</li><li>Configurar as ACLs estendidas na rede corporativa de uma filial de médio porte, incluindo configurar as ACLs estendidas e as ACLs nomeadas, configurando filtros, verificando e monitorando as ACLs e identificando e solucionando problemas de ACL estendida.</li><li>Descrever as ACLs complexas na rede corporativa de uma filial de médio porte, incluindo configurar as ACLs dinâmicas, reflexivas e temporizadas, verificando e solucionando problemas de ACLs complexas, além de explicar advertências.</li></ul><BR/></td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

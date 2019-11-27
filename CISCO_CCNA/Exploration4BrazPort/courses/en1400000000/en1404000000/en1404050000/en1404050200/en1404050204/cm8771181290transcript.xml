@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:56">
+<title><content-text><![CDATA[4.5.2  - Managing Cisco I O S Images]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts Cisco I O S file naming conventions:<br><br>An example Cisco I O S filename is given and the parts are explained.<br><br>Example: C1841-i p base-mz.123-14.T7.bin<br><br>Parts of the filename:<br><br>C1841: Platform - Cisco 1841 ISR<br>i p base: Feature set - IP Base<br>mz: File format - m (runs in RAM), z (compressed or zipped)<br>123-14.T7: Version number - 12.3(14)T7<br>dot bin: File extension - binary executable]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

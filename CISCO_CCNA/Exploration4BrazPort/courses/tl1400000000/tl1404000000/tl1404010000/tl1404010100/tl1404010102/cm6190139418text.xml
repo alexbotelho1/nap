@@ -1,0 +1,164 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>A crescente ameaça dos ataques</b>]]></text>
+</component>
+<component id="ID_t1">
+<text><![CDATA[<b>Adivinhação de senha, código auto-replicado</b>]]></text>
+</component>
+<component id="ID_t2">
+<text><![CDATA[<b>Quebra de senha, guerra de discagem</b>]]></text>
+</component>
+<component id="ID_t3">
+<text><![CDATA[<b>Exemplos de vírus: Nimda, Code Red</b>]]></text>
+</component>
+<component id="ID_t4">
+<text><![CDATA[<b>Exemplo de cavalo-de-Troia: Back Orifice</b>]]></text>
+</component>
+<component id="ID_t5">
+<text><![CDATA[<b>Exemplos de worm: Blaster, MyDoom, Slammer</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Alto</b>]]></text>
+</component>
+
+<component id="ID_text1">
+<text><![CDATA[<b>_5</b>]]></text>
+</component>
+<component id="ID_text2">
+<text><![CDATA[<b>_55</b>]]></text>
+</component>
+<component id="ID_text3">
+<text><![CDATA[<b>_555</b>]]></text>
+</component>
+<component id="ID_text4">
+<text><![CDATA[<b>_555-</b>]]></text>
+</component>
+<component id="ID_text5">
+<text><![CDATA[<b>_555-5</b>]]></text>
+</component>
+<component id="ID_text6">
+<text><![CDATA[<b>_555-55</b>]]></text>
+</component>
+<component id="ID_text7">
+<text><![CDATA[<b>_555-555</b>]]></text>
+</component>
+<component id="ID_text8">
+<text><![CDATA[<b>_555-5555</b>]]></text>
+</component>
+<component id="ID_text9">
+<text><![CDATA[<b>_555-5555 
+Discando
+</b>]]></text>
+</component>
+<component id="ID_text10">
+<text><![CDATA[<b>_555-5555 
+Discando.
+</b>]]></text>
+</component>
+<component id="ID_text11">
+<text><![CDATA[<b>_555-5555 
+Discando..
+</b>]]></text>
+</component>
+<component id="ID_text12">
+<text><![CDATA[<b>_555-5555
+ Discando...
+</b>]]></text>
+</component>
+<component id="ID_text13">
+<text><![CDATA[<b>_555-5555 
+Discando....
+</b>]]></text>
+</component>
+<component id="ID_text14">
+<text><![CDATA[<b>_555-5555 
+Discando
+</b>]]></text>
+</component>
+<component id="ID_text15">
+<text><![CDATA[<b>_555-5555 
+Discando.
+</b>]]></text>
+</component>
+<component id="ID_text16">
+<text><![CDATA[<b>_555-5555 
+Discando..
+</b>]]></text>
+</component>
+<component id="ID_text17">
+<text><![CDATA[<b>_555-5555
+ Discando...
+</b>]]></text>
+</component>
+<component id="ID_text18">
+<text><![CDATA[<b>_555-5555 
+Discando....
+</b>]]></text>
+</component>
+<component id="ID_text19">
+<text><![CDATA[<b>_555-5555
+ Discando
+</b>]]></text>
+</component>
+<component id="ID_text20">
+<text><![CDATA[<b>_555-5555 
+Discando.
+</b>]]></text>
+</component>
+<component id="ID_text21">
+<text><![CDATA[<b>_555-5555
+ Discando..
+</b>]]></text>
+</component>
+<component id="ID_text22">
+<text><![CDATA[<b>_555-5555 
+Discando...
+</b>]]></text>
+</component>
+<component id="ID_text23">
+<text><![CDATA[<b>_555-5555 
+Discando....
+</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Médio</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Baixo</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Sofisticação das ferramentas para atacantes</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Conhecimento técnico necessário</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[Volume]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>As ameaças estão tornando-se cada vez mais sofisticadas à medida que o conhecimento técnico necessário para implementar ataques diminui. </b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Arraste o atacante ao longo da cronologia.</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Adivinhação de senha, código auto-replicado</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Quebra de senha, guerra de discagem</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>Exemplos de vírus: Nimda, Code Red</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Exemplo de cavalo-de-Troia: Back Orifice</b>]]></text>
+</component>
+<component id="ID_txt14">
+<text><![CDATA[<b>Exemplos de worm: Blaster, MyDoom, Slammer</b>]]></text>
+</component>
+<component id="ID_txt15">
+<text><![CDATA[<b>Adivinhação de senha, código auto-replicado</b>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,47 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Componentes de uma política de segurança</b>]]></text>
+</component>
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='170' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff" size='13'><b>Procedimento</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff" size='13'><b>Descrição</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font size='13'>Instrução de autoridade e escopo</font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font size='13'>Esta seção especifica quem patrocina a política de segurança e que áreas a política abrange.</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font size='13'>Política de utilização aceitável</font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font size='13'>Esta seção especifica que tecnologias, equipamento ou a combinação dos dois a empresa irá e não irá permitir em relação à infraestrutura de informações.</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font size='13'>Identificação e política de autenticação</font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font size='13'>Esta seção só especifica indivíduos autorizados com acesso a seus dados.</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font size='13'>Política de acesso à Internet</font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font size='13'>Esta seção especifica o que a empresa considera ético e a utilização apropriada dos recursos de acesso à Internet.</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font size='13'>Política de acesso ao campus</font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font size='13'>Esta seção especifica como usuários do campus utilizarão a infraestrutura de dados da empresa.</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font size='13'>Política de acesso remoto</font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font size='13'>Esta seção especifica como usuários remotos acessarão a infraestrutura de dados da empresa.</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font size='13'>Procedimento de manipulação de incidentes</font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font size='13'>Esta seção especifica como a empresa irá criar uma equipe de resposta a incidentes e os procedimentos a serem utilizados durante e depois do incidente.</font></td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+
+</textcomponents>

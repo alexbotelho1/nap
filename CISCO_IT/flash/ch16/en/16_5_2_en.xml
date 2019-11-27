@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="16_5_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>Advise the customer to implement a different type of backup that saves time.</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_STEP 03">
+        <source>A user refuses your request to
+ e-mail you their student ID number and password.</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_STEP 04">
+        <source> A user cannot connect to the network using a wireless router even after the proper security key has been installed.</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_STEP 05">
+        <source> A user can locate a file on the server but cannot download it.</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_STEP 06">
+        <source>Grant access to the files for the duration of the visit. When the consultant leaves, disable the account.</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TITLE1">
+        <source>Common Problems and Solutions
+</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TITLE1SS">
+        <source>Problem Symptom</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TITLE2">
+        <source>Work Order
+</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TITLE2N">
+        <source>Possible Solution</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TITLE3">
+        <source>Open-Ended Questions</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TITLE3N">
+        <source> Inform the user that there was no such request. Gather information and warn others against this phishing attack.</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TITLE4">
+        <source>Closed-Ended Questions</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TITLE4N">
+        <source>Change the user permissions on this file from read to read and execute.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TITLE5N">
+        <source> Verify that the user&apos;s MAC address is listed in the MAC address filter table.</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TITLE6">
+        <source>What problems are you experiencing with your computer or network?</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TITLE7">
+        <source>What software has been installed on your computer recently?</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TITLE8">
+        <source>What were you doing when the problem was identified?</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TITLE9">
+        <source>What operating system do you have installed on your computer?</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TITLE10">
+        <source>What updates or patches have been installed on your computer?</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TITLE12">
+        <source>Has anyone else used your computer recently?</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TITLE13">
+        <source>Does the computer boot up successfully? </source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TITLE14">
+        <source>Have you changed your password recently?</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TITLE15">
+        <source>Have you received any error messages on your computer?</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TITLE16">
+        <source>Are you currently logged into the network?</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_00">
+        <source>A customer reports that a backup that was started the night before is still going.</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_002">
+        <source>A visiting consultant using a guest account cannot access needed files.</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_10">
+        <source>Client unable to connect via wireless while at office</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

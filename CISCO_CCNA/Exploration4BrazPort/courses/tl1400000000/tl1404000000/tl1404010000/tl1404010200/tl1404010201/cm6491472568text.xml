@@ -1,0 +1,99 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Vulnerabilidades</b>]]></text>
+</component>
+
+
+<component id="ID_button1">
+  <text><![CDATA[<b>Tecnologia</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Configuração</b>]]></text> 
+</component>
+<component id="ID_button3">
+  <text><![CDATA[<b>Política</b>]]></text> 
+</component>
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Falhas na segurança de rede:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Vulnerabilidades no protocolo TCP/IP</b><ul><li>Protocolo de Transporte de Hipertexto (HTTP), protocolo de transferência de arquivos (FTP) e Internet Control Message Protocol (ICMP) são inseguros inerentemente.</li><li>O protocolo de gerenciamento de rede comum (SNMP), o Simple Mail Transfer Protocol (SMTP) e os envios Syn são relacionados à estrutura insegura inerente que o TCP foi projetado.</li></ul><b>Vulnerabilidades do sistema operacional</b><ul><li>Cada sistema operacional tem problemas de segurança que devem ser resolvidos.<br/>UNIX, Linux, Mac OS, Mac OS X, Windows NT, 9x, 2K, XP e Vista.<br/>Eles são documentados nos arquivos Computer Emergency Response Team (CERT) em http://www.cert.org.</li></ul><b>Vulnerabilidades no equipamento de rede</b><ul><li>Vários tipos de equipamento de rede, como roteadores, firewalls e switches têm vulnerabilidades na segurança que devem ser reconhecidas e se evitar. Entre as suas vulnerabilidades estão proteção de senha, falta de autenticação, protocolos de roteamento e falhas no firewall.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+
+<component id="ID_table02">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='200' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Falha da configuração</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Como a vulnerabilidade é explorada</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Contas de usuário não seguras</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>As informações da conta do usuário podem ser transmitidas através da rede de maneira insegura, expondo nomes de usuário e senhas a curiosos.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Contas do sistema com senhas facilmente adivinháveis</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Esse problema comum é o resultado mau escolhido e as senhas do usuário facilmente adivinháveis.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Serviços na Internet configurados incorretamente</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Um problema comum é ativar o JavaScript em navegadores Web, habilitando ataques por meio do JavaScript hostil durante o acesso aos sites não confiáveis. IIS, FTP e Terminal Services também oferecem problemas.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Configurações padrão inseguras dentro de produtos</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Muitos produtos têm configurações padrão que habilitam falhas na segurança.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Equipamento de rede configurado incorretamente</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Configurações incorretas do próprio equipamento podem causar problemas de segurança significativas. Por exemplo, listas de acesso configuradas incorretamente, protocolos de roteamento ou community strings SNMP podem criar grandes aberturas na segurança.</td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+<component id="ID_table03">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='200' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Falhas na política</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Como a vulnerabilidade é explorada</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Falta de política de segurança documentada</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Uma política não documentada não pode ser aplicada de maneira consistente.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Políticas</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Batalhas políticas e guerras podem dificultar a implementação de uma política de segurança consistente.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Falta de continuidade da autenticação</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Senhas mal escolhidas, facilmente quebráveis, ou padrão podem permitir o acesso não autorizado à rede.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Controles de acesso lógico não aplicados</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>A monitoração e a auditoria incorretas permitem ataques e uso não autorizado, desperdiçando recursos da empresa. Isso poderia resultar em ação legal ou rescisão contra técnicos de TI, gerenciamento de TI ou até mesmo a liderança da empresa, que permite a persistência dessas condições sem segurança.</td>
+	</tr>
+
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Instalação de software e hardware e alterações que não seguem a política</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Alterações não autorizadas feitas na topologia de rede ou na instalação de aplicativos não aprovados criam aberturas na segurança.</td>
+	</tr>
+
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>O plano de recuperação de desastres não existe</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>A falta de um plano de recuperação de desastres permite caos, pânico e confusão quando alguém ataca a empresa.</td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+
+</textcomponents>

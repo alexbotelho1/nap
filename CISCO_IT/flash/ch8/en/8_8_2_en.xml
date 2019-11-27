@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_8_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TEXT_1">
+        <source>OSI Model </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TEXT_2">
+        <source>Layer</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE1">
+        <source>OSI Model
+</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_03">
+        <source>Description</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_04">
+        <source>Application</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_05">
+        <source>7</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_06">
+        <source>Responsible for network services to applications</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_07">
+        <source>Presentation</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_08">
+        <source>6</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_09">
+        <source>Transforms data formats to provide a standard interface for the Application layer</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_10">
+        <source>Session</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_11">
+        <source>5</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_12">
+        <source>Establishes, manages and terminates the connections between the local and remote application</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_13">
+        <source>Transport</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_14">
+        <source>4</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_15">
+        <source>Provides reliable transport and flow control across a network</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_16">
+        <source>Network</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_17">
+        <source>3</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_18">
+        <source>Responsible for logical addressing and the domain of routing</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_19">
+        <source>Data Link</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_20">
+        <source>2</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_21">
+        <source>Provides physical addressing and media access procedures</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_22">
+        <source>Physical</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_23">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_24">
+        <source>Defines all the electrical and physical specifications for devices</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

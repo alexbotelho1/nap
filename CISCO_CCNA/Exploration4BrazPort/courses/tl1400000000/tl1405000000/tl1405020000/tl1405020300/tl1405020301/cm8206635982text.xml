@@ -1,0 +1,175 @@
+<textcomponents>
+
+<component id="ID_title00">
+  <text><![CDATA[<B>Mascaramento curinga</B>]]></text> 
+</component>
+
+<component id="ID_title01">
+  <text><![CDATA[<B>Exemplo de máscara curinga</B>]]></text> 
+</component>
+
+<component id="ID_title02">
+  <text><![CDATA[<B>Aplicativo de máscara curinga</B>]]></text> 
+</component>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Mascaramento curinga</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Exemplo de máscara curinga</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Aplicativo</B>]]></text> 
+</component>
+
+
+<component id="ID_txt01_00">
+  <text><![CDATA[<B>Posição do bit do octeto e valor de endereço do bit</B>]]></text> 
+</component>
+
+<component id="ID_txt02_00">
+  <text><![CDATA[<B>Exemplos</B>]]></text> 
+</component>
+
+<component id="ID_txt03_00">
+  <text><![CDATA[<B>Corresponder a todos os bits de endereço (Corresponder a Todos)</B>]]></text> 
+</component>
+
+<component id="ID_txt04_00">
+  <text><![CDATA[<B>Ignorar últimos 6 bits de endereço</B>]]></text> 
+</component>
+
+<component id="ID_txt05_00">
+  <text><![CDATA[<B>Ignorar últimos 4 bits de endereço</B>]]></text> 
+</component>
+
+<component id="ID_txt06_00">
+  <text><![CDATA[<B>Ignorar primeiros 6 bits de endereço</B>]]></text> 
+</component>
+
+<component id="ID_txt07_00">
+  <text><![CDATA[<B>Não verificar endereço (ignorar bits no octeto)</B>]]></text> 
+</component>
+
+
+
+<component id="ID_table1">
+<text><![CDATA[<table header='top' bordercolor='#CCCCCC' borderwidth='1' headerstyle='black' glow='true' glowcolor='#808080' cellpadding='2'>
+<tr>
+<td width='200' bgcolor='#DDDDDD'><font color='#FFFFFF'><b> </b></font></td>
+<td width='150' bgcolor='#DDDDDD'><font color='#FFFFFF'><b>Endereço decimal</b></font></td>
+<td bgcolor='#DDDDDD'><font color='#FFFFFF'><b>Endereço binário</b></font></td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD'>Endereço IP a ser processado</td>
+<td bgcolor='#DDDDDD'>192.168.10.0</td>
+<td bgcolor='#DDDDDD'>11000000.10101000.00001010.00000000</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2'>máscara curinga</td>
+<td bgcolor='#F2F2F2'>0.0.255.255</td>
+<td bgcolor='#F2F2F2'>00000000.00000000.11111111.11111111</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD'>Endereço IP resultante</td>
+<td bgcolor='#DDDDDD'>192.168.0.0</td>
+<td bgcolor='#DDDDDD'>11000000.10101000.00000000.00000000</td>
+</tr>
+</table>]]></text>
+</component>
+
+
+
+<component id="ID_txt01_02">
+  <text><![CDATA[<B>Access-list 1 permit</B>]]></text> 
+</component>
+
+<component id="ID_txt02_02">
+  <text><![CDATA[<B>Pacote recebido</B>]]></text> 
+</component>
+
+<component id="ID_txt03_02">
+  <text><![CDATA[<B>Compara-se a</B>]]></text> 
+</component>
+
+<component id="ID_txt04_02">
+  <text><![CDATA[<B>Endereço IP</B>]]></text> 
+</component>
+
+<component id="ID_txt05_02">
+  <text><![CDATA[<B>Máscara curinga</B>]]></text> 
+</component>
+
+<component id="ID_txt06_02">
+  <text><![CDATA[<B>Corresponda o valor</B>]]></text> 
+</component>
+
+<component id="ID_txt07_02">
+  <text><![CDATA[<B>Endereço IP</B>]]></text> 
+</component>
+
+<component id="ID_txt08_02">
+  <text><![CDATA[<B>Máscara curinga</B>]]></text> 
+</component>
+
+<component id="ID_txt09_02">
+  <text><![CDATA[<B>Corresponda o valor</B>]]></text> 
+</component>
+
+<component id="ID_txt10_02">
+  <text><![CDATA[<B>Corresponda o valor</B>]]></text> 
+</component>
+
+<component id="play"><text><![CDATA[Reproduzir]]></text>
+
+	</component>
+
+    <component id="pause">
+
+		<text><![CDATA[Pausar]]></text>
+
+	</component>
+
+    <component id="rewind">
+
+		<text><![CDATA[Retroceder]]></text>
+
+	</component>
+	<component id="forward">
+
+		<text><![CDATA[Avançar]]></text>
+
+	</component>
+
+    <component id="mute"><text><![CDATA[Sem som]]></text>
+
+	</component>
+
+    <component id="unmute">
+		<text><![CDATA[Com som]]></text>
+
+	</component>
+
+    <component id="previous">
+
+		<text><![CDATA[Reiniciar]]></text>
+	</component>
+
+    <component id="next">
+
+		<text><![CDATA[Encerrar]]></text>
+	</component>
+
+<component id="transcript">
+		<text><![CDATA[Transcrição]]></text>
+	</component>
+<component id="caption">
+		<text><![CDATA[Clique em Reproduzir para ver a animação.]]></text>
+	</component>
+<component id="ID_txt08_00">
+		<text><![CDATA[0 significa comparar o valor do bit de endereço correspondente<BR/>1 significa ignorar o valor do bit de endereço correspondente]]></text>
+	</component>
+
+</textcomponents>

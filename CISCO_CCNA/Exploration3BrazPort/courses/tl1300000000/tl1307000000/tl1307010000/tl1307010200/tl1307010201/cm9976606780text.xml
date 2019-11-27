@@ -1,0 +1,140 @@
+<textcomponents>
+
+  <component id="ID_title1">
+  <text><![CDATA[<b>Padrões de redes locais sem fio</b>]]></text> 
+  </component>
+
+
+<component id="tableHTML">
+	    <text><![CDATA[
+	   <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	
+	    	<tr>
+	  	  		
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' width='80' type='dynamic'>            </td>
+	  	  	<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>802.11a   </b></font></td>
+			<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>802.11b   </b></font></td>
+			<td colspan="2" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>802.11g   </b></font></td>
+	   	    <td width="210" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><font color="#FFFFFF">802.11n     </font></b></td>
+    	</tr>
+	<tr>
+		<td bgcolor='#292929' glow='false' glowcolor='#FCA92E' valign='top' width='80' type='dynamic'><font color="#FFFFFF"><b>Faixa              </b></font></td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>5.7 GHz                </td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>2.4 GHz                </td>
+		<td colspan="2" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>2.4 GHz          </td>
+	    <td width="210" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Não confirmado<br />Possivelmente, faixas de 2.4 e 5 GHz                                     </td>
+	                                                         </tr>
+	
+	<tr>
+			
+		<td bgcolor='#3E3E3E' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Canais*               </b></font></td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Até 23               </td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>3      </td>
+		<td colspan="2" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>3    </td>
+      <td width="210" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>            </td>
+	                                          </tr>
+	<tr>
+		<td bgcolor='#292929' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Modulação                   </b></font></td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>OFDM                  </td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>DSSS                   </td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>DSSS                   </td>
+        <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>OFDM                      </td>
+      <td width="210" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>MIMO-OFDM               </td>
+	                                       </tr>
+	
+	<tr>
+			
+		<td bgcolor='#3E3E3E' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Taxas de dados                        </b></font></td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Até 54 Mbps                   </td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Até 54 Mbps                  </td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Até 11 Mbps                   </td>
+      <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Até 54 Mbps                       </td>
+      <td width="210" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Especula-se que sejam 248 Mbps para dois fluxos de MIMO                                                    </td>
+	                                                                        </tr>
+	<tr>
+		<td bgcolor='#292929' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Intervalo             </b></font></td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Aproximadamente 150 pés ou 35 metros             </td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Aproximadamente 150 pés ou 35 metros              </td>
+		<td colspan="2" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Aproximadamente 150 pés ou 35 metros                                      </td>
+      <td width="210" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Aproximadamente 230 pés ou 70 metros          </td>
+	                                             </tr>
+	
+	<tr>
+			
+		<td bgcolor='#3E3E3E' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Data de lançamento          </b></font></td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Outubro de 1999                </td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Outubro de 1999                </td>
+		<td colspan="2" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Junho de 2003                </td>
+      <td width="210" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Previsto para 2008                </td>
+	                                              </tr>
+	<tr>
+	  <td bgcolor='#292929' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b><font color="#FFFFFF">Prós        </font></b></td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Rápido, menos propenso a interferência                  </td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Baixo custo, intervalo satisfatório                   </td>
+	  <td colspan="2" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Rápido, intervalo satisfatório, de difícil obstrução                                                        </td>
+      <td width="210" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Taxas de dados muito boas, intervalo aprimorado                                             </td>
+                                                          </tr>
+	<tr>
+	  <td bgcolor='#3E3E3E' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b><font color="#FFFFFF">Contras        </font></b></td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Custo mais elevado, intervalo mais curto                  </td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Lento, propenso a interferência            </td>
+	  <td colspan="2" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Propenso a interferência de eletrodomésticos que funcionam na faixa de 2,4 GHz                                                        </td>
+      <td width="210" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>           </td>
+                                                                 </tr>
+</table>
+
+]]></text> 
+  </component>
+
+  <component id="ID_caption01">
+  <text><![CDATA[<b>* Canais não sobrepostos.</b>]]></text> 
+  </component>
+  <component id="btn1">
+  <text><![CDATA[Gráfico]]></text> 
+  </component>
+  <component id="btn2">
+  <text><![CDATA[Tabela]]></text> 
+  </component>
+
+  <component id="ID_txt01">
+  <text><![CDATA[Taxa de dados]]></text> 
+  </component>
+  <component id="ID_txt02">
+  <text><![CDATA[200+ Mbps]]></text> 
+  </component>
+  <component id="ID_txt03">
+  <text><![CDATA[54 Mbps]]></text> 
+  </component>
+  <component id="ID_txt04">
+  <text><![CDATA[5,5 – 11 Mbps]]></text> 
+  </component>
+  <component id="ID_txt05">
+  <text><![CDATA[1 – 2 Mbps]]></text> 
+  </component>
+  <component id="ID_txt06">
+  <text><![CDATA[<b>802.11n em fase de testes</b>]]></text> 
+  </component>
+  <component id="ID_txt07">
+  <text><![CDATA[<b>802.11a/g</b>]]></text> 
+  </component>
+  <component id="ID_txt08">
+  <text><![CDATA[<b>802.11b</b>]]></text> 
+  </component>
+  <component id="ID_txt09">
+  <text><![CDATA[<b>802.11</b>]]></text> 
+  </component>
+  <component id="ID_txt10">
+  <text><![CDATA[100 ft/30 m]]></text> 
+  </component>
+  <component id="ID_txt11">
+  <text><![CDATA[200 ft/60 m]]></text> 
+  </component>
+  <component id="ID_txt12">
+  <text><![CDATA[Intervalo]]></text> 
+  </component>
+
+
+
+
+
+</textcomponents>

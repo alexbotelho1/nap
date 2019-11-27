@@ -1,0 +1,9 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[Entre os recursos comuns de uma ferramenta de segurança da rede moderna estão:<br/> -<TEXTFORMAT BLOCKINDENT='8'>Identificação de serviço</textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Suporte de serviços SSL</textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Testes destrutivos e não destrutivos</textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Banco de dados de vulnerabilidades</textformat><br/><br/>É possível usar ferramentas de segurança de rede para:<br/> -<TEXTFORMAT BLOCKINDENT='8'>Capturar mensagens de bate-papo </textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Capturar arquivos do tráfego NFS</textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Capturar solicitações HTTP no Formato de Log Comum </textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Capturar mensagens de email no formato Berkeley mbox</textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Capturar senhas</textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Exibir URLs capturados em tempo real no Netscape ou outro navegador</textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Inundar uma rede local comutada com endereços MAC aleatórios</textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Forjar respostas para consultas de endereço e apontador DNS </textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Interceptar pacotes em uma rede local comutada </textformat>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Recursos das ferramentas de segurança da rede</b>]]></text> 
+  </component>
+
+</textcomponents>

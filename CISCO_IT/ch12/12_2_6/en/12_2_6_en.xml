@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="12_2_6.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ISLQ3-QCORRECT_TEXT">
+        <source>&lt;b&gt;Correto!&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ISLQ3-QOPTION_TEXT1">
+        <source>Usado para enviar e-mail contendo somente texto ASCII</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ISLQ3-QOPTION_TEXT2">
+        <source>Usado para enviar e-mail contendo texto, imagens e documentos</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ISLQ3-QOPTION_TEXT3">
+        <source>Usa o Protocolo de correio para fazer download de e-mails.</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ISLQ3-QOPTION_TEXT4">
+        <source>Usado para fazer download de e-mails e sincronizar pastas de e-mail</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ISLQ3-QQUESTION_TEXT">
+        <source>Selecione sua resposta arrastando as opções para a posição desejada e clique em Verificar.</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_ISLQ3-QSLOTLABEL_TEXT1">
+        <source>&lt;b&gt;SMTP&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_ISLQ3-QSLOTLABEL_TEXT2">
+        <source>&lt;b&gt;MIME&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_ISLQ3-QSLOTLABEL_TEXT3">
+        <source>&lt;b&gt;POP3&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_ISLQ3-QSLOTLABEL_TEXT4">
+        <source>&lt;b&gt;IMAP&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_ISLQ3-QTITLE_TEXT">
+        <source>Atividade do protocolo de e-mail
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_ISLQ3-QTRYAGAIN_TEXT">
+        <source>&lt;b&gt;Tente novamente.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TITLE1">
+        <source>Configuração de e-mail</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TITLE2">
+        <source>Protocolos de e-mail</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_01">
+        <source>SMTP</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_02">
+        <source>MIME</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_03">
+        <source>POP3</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_04">
+        <source>IMAP</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_05">
+        <source>Usa o Protocolo de correio para fazer download de e-mails.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_06">
+        <source>Usado para enviar e-mail contendo texto ASCII, imagens e outros tipos de documentos</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_07">
+        <source>Usado para fazer download de e-mails e sincronizar pastas de e-mail</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_08">
+        <source>Usado para fazer download de e-mail a partir do navegador, como por exemplo, servidores Hotmail</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

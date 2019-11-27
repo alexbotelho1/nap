@@ -1,0 +1,18 @@
+<textcomponents>
+<component id="ID_Title01">
+<text><![CDATA[<b>Comandos de verificação</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Problema de roteador</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Problema de endereçamento IP do PC</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>O PC1 deve estar na sub-rede da VLAN 10<br/>Logo, isto deve ser: <font face = "Courier New Dynamic">172.17.10.21</font> com uma máscara de sub-rede de <font face = "Courier New Dynamic">255.255.255.0</font></b>]]></text>
+</component>
+
+</textcomponents>

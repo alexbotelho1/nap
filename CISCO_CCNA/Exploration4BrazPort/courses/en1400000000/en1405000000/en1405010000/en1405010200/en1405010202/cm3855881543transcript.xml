@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 07:12:00">
+<title><content-text><![CDATA[5.1.2  - Packet Filtering]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts a packet filtering example using a flowchart. A frame with an IP packet encapsulated inside is shown. The packet filter looks at each packet. If the packet is from network A using port 80, it is allowed to pass. All other access is denied to those users. If the packet is from network B using port 80, it is blocked. However, all other access is permitted.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

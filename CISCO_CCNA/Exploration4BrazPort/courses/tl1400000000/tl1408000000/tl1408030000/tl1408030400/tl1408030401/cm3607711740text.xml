@@ -1,0 +1,121 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Clique para exibir exemplos de Topologias WAN.]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Estrela</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Malha completa</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Malha parcial</b>]]></text>
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<b>Hierárquico</b>]]></text>
+</component>
+
+
+<component id="ID_title01">
+<text><![CDATA[<b>Topologias WAN</b>]]></text>
+</component>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Bruxelas</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Berlim</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Viena</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Roma</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Paris</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Topologia em estrela</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>Bruxelas</b>]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>Berlim</b>]]></text>
+</component>
+
+<component id="ID_txt03_02">
+<text><![CDATA[<b>Viena</b>]]></text>
+</component>
+
+<component id="ID_txt04_02">
+<text><![CDATA[<b>Roma</b>]]></text>
+</component>
+
+<component id="ID_txt05_02">
+<text><![CDATA[<b>Paris</b>]]></text>
+</component>
+
+<component id="ID_txt06_02">
+<text><![CDATA[<b>Topologia de malha completa</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_03">
+<text><![CDATA[<b>Bruxelas</b>]]></text>
+</component>
+
+<component id="ID_txt02_03">
+<text><![CDATA[<b>Berlim</b>]]></text>
+</component>
+
+<component id="ID_txt03_03">
+<text><![CDATA[<b>Viena</b>]]></text>
+</component>
+
+<component id="ID_txt04_03">
+<text><![CDATA[<b>Roma</b>]]></text>
+</component>
+
+<component id="ID_txt05_03">
+<text><![CDATA[<b>Paris</b>]]></text>
+</component>
+
+<component id="ID_txt06_03">
+<text><![CDATA[<b>Topologia de malha parcial</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_04">
+<text><![CDATA[<b>Hierárquica<br/>Topologia</b>]]></text>
+</component>
+
+<component id="ID_txt02_04">
+<text><![CDATA[<b>Região</b>]]></text>
+</component>
+
+<component id="ID_txt03_04">
+<text><![CDATA[<b>Para WAN<br/>Backbone</b>]]></text>
+</component>
+
+<component id="ID_txt04_04">
+<text><![CDATA[<b>Áreas</b>]]></text>
+</component>
+
+
+</textcomponents>

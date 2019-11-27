@@ -1,0 +1,225 @@
+﻿<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Atividade 1</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Atividade 2</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Atividade 3</B>]]></text> 
+</component>
+
+<component id="ID_activity">
+  <text><![CDATA[<B>Atividade</B>]]></text> 
+</component>
+
+<component id="ID_activity1">
+  <text><![CDATA[<B>DA = endereço de destino</B>]]></text> 
+</component>
+
+<component id="ID_activity2">
+  <text><![CDATA[<B>SA = endereço de origem</B>]]></text> 
+</component>
+
+<component id="ID_title_00">
+  <text><![CDATA[<B>Identificar métodos de encaminhamento de quadro</B>]]></text> 
+</component>
+
+<component id="ID_txt01_00">
+  <text><![CDATA[<B>DA</B>]]></text> 
+</component>
+
+<component id="ID_txt02_00">
+  <text><![CDATA[<B>SA</B>]]></text> 
+</component>
+
+<component id="ID_txt03_00">
+  <text><![CDATA[<B>Restante do quadro</B>]]></text> 
+</component>
+
+<component id="ID_txt04_00">
+  <text><![CDATA[<B>6 bytes</B>]]></text> 
+</component>
+
+<component id="ID_txt05_00">
+  <text><![CDATA[<B>64 bytes</B>]]></text> 
+</component>
+
+<component id="ID_txt06_00">
+  <text><![CDATA[<B>Todos os bytes</B>]]></text> 
+</component>
+
+
+<component id="ID_txt08_00">
+  <text><![CDATA[<B>Fast forward</B>]]></text> 
+</component>
+
+<component id="ID_txt07_00">
+  <text><![CDATA[<B>Armazenar e encaminhar</B>]]></text> 
+</component>
+
+<component id="ID_txt09_00">
+  <text><![CDATA[<B>Sem fragmentos</B>]]></text> 
+</component>
+
+<component id="ID_check_00">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+
+<component id="ID_reset_00">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+
+
+
+<component id="ID_title_01">
+  <text><![CDATA[<B>Identificar switches simétricos e assimétricos</B>]]></text> 
+</component>
+
+<component id="ID_txt01_01">
+  <text><![CDATA[<B>Topologia A</B>]]></text> 
+</component>
+
+<component id="ID_txt02_01">
+  <text><![CDATA[<B>Topologia B</B>]]></text> 
+</component>
+
+<component id="ID_step1">
+  <text><![CDATA[Arraste e solte o método de encaminhamento correto para concluir o gráfico.]]></text> 
+</component>
+
+<component id="ID_step2">
+  <text><![CDATA[Arraste e solte a palavra apropriada ou a frase para concluir as frases.]]></text> 
+</component>
+
+<component id="ID_step3">
+  <text><![CDATA[Arraste e solte a palavra apropriada ou a frase para concluir as frases. Nem todas as respostas são usadas. Alguns locais nas frases podem ter mais de uma resposta correta.]]></text> 
+</component>
+
+<component id="ID_txt04_01">
+  <text><![CDATA[<B>_______ é um exemplo de um _______ switch que fornece conexões entre portas com a mesma largura de banda. _______ é um _______ switch de rede local, que fornece conexões comutadas entre portas de larguras de banda diferentes.</B>]]></text> 
+</component>
+
+<component id="ID_ta">
+  <text><![CDATA[<B>Topologia A</B>]]></text> 
+</component>
+
+<component id="ID_tb">
+  <text><![CDATA[<B>Topologia B</B>]]></text> 
+</component>
+
+<component id="ID_syt">
+  <text><![CDATA[<B>simétrico</B>]]></text> 
+</component>
+
+<component id="ID_ast">
+  <text><![CDATA[<B>assimétrico</B>]]></text> 
+</component>
+
+<component id="ID_check_01">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+
+<component id="ID_reset_01">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+
+
+<component id="ID_title_02">
+  <text><![CDATA[<B>Conclusão da frase</B>]]></text> 
+</component>
+
+
+
+<component id="ID_txt02_02">
+  <text><![CDATA[<B>Por causa da baixa latência da maioria dos switches modernos, ________é mais apropriado para a maioria dos ambientes de switch.</B>]]></text> 
+</component>
+
+<component id="ID_txt03_02">
+  <text><![CDATA[<B>Um gerente de rede deve avaliar a quantidade necessária da largura de banda para conexões entre os dispositivos para acomodar o fluxo de dados dos aplicativos baseados na rede ao decidir o tipo de switch a ser escolhido. No entanto, os switches mais atuais são ________ porque eles oferecem a maior flexibilidade.</B>]]></text> 
+</component>
+
+<component id="ID_txt04_02">
+  <text><![CDATA[<B>No armazenamento em buffer de memória ______, os quadros são armazenados em filas vinculadas as interfaces de entrada e de saída específicas. </B>]]></text> 
+</component>
+
+<component id="ID_txt05_02">
+  <text><![CDATA[<B>No armazenamento em buffer de memória ________, todos os quadros são depositados em um buffer de memória comum usado por todas as portas no switch.</B>]]></text> 
+</component>
+
+<component id="ID_txt06_02">
+  <text><![CDATA[<B>Um switch de rede local de Camada 2 executa a comutação e a filtragem com base no endereço de camada OSI ________.</B>]]></text> 
+</component>
+
+<component id="ID_txt07_02">
+  <text><![CDATA[<B>Um switch de Camada 3 funciona na camada ________ e usa informações de endereço ________ para obter decisões de encaminhamento do switch.</B>]]></text> 
+</component>
+
+<component id="ID_phy">
+  <text><![CDATA[<B><font size='10'>física</font></B>]]></text> 
+</component>
+
+<component id="ID_data">
+  <text><![CDATA[<B><font size='10'>Enlace de dados</font></B>]]></text> 
+</component>
+
+<component id="ID_ip">
+  <text><![CDATA[<B><font size='10'>IP</font></B>]]></text> 
+</component>
+
+<component id="ID_share">
+  <text><![CDATA[<B><font size='10'>compartilhado</font></B>]]></text> 
+</component>
+
+<component id="ID_multi">
+  <text><![CDATA[<B><font size='10'>multicast</font></B>]]></text> 
+</component>
+
+<component id="ID_a1t">
+  <text><![CDATA[<B><font size='10'>assimétrico</font></B>]]></text> 
+</component>
+
+<component id="ID_cut">
+  <text><![CDATA[<B><font size='10'>Cut-through</font></B>]]></text> 
+</component>
+
+<component id="ID_net">
+  <text><![CDATA[<B><font size='10'>rede</font></B>]]></text> 
+</component>
+
+<component id="ID_store">
+  <text><![CDATA[<B><font size='10'>store-and-forward (armazenar e encaminhar)</font></B>]]></text> 
+</component>
+
+<component id="ID_port">
+  <text><![CDATA[<B><font size='10'>baseado em porta</font></B>]]></text> 
+</component>
+
+<component id="ID_broad">
+  <text><![CDATA[<B><font size='10'>broadcast</font></B>]]></text> 
+</component>
+
+<component id="ID_sym">
+  <text><![CDATA[<B><font size='10'>simétrico</font></B>]]></text> 
+</component>
+
+<component id="ID_ma">
+  <text><![CDATA[<B><font size='10'>MAC</font></B>]]></text> 
+</component>
+
+<component id="ID_uni">
+  <text><![CDATA[<B><font size='10'>unicast</font></B>]]></text> 
+</component>
+
+<component id="ID_check_02">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+
+<component id="ID_reset_02">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+
+</textcomponents>

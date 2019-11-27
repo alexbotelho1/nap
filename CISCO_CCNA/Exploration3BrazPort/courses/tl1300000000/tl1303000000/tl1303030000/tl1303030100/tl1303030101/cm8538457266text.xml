@@ -1,0 +1,16 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Use as seguintes etapas para configurar e verificar VLANs e troncos em uma rede comutada:</b>
+    1. Crie as VLANs.</br>
+    2. Atribua portas de switch a VLANs estaticamente.</br>
+    3. Verifique a configuração da VLAN.</br>
+    4. Habilite o entroncamento nas conexões inter-switch.</br>
+    5. Verifique a configuração do tronco.</br>]]></text>
+</component>
+
+<component id="ID_title"><text><![CDATA[<b>Configurando VLANs e visão geral dos troncos</b>]]></text>
+</component>
+
+
+</textcomponents>

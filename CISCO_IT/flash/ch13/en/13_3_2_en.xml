@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="13_3_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S2_TXT_1">
+        <source>Docking Station</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S2_TXT_2">
+        <source>Docking Port</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S2_TXT_3">
+        <source>Laptop Bottom                                                                          </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S2_TXT8">
+        <source>Networked computers
+share resources</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE1">
+        <source>Docking Stations and Port Replicators</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TITLE2">
+        <source>Docking Station Connector</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

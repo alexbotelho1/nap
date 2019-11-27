@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="12_4_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Scheduling Automated Tasks</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Automatic Updates</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_01">
+        <source>If conditions are:</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_09">
+        <source>ESD probability =
+</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_02">
+        <source>Cool and Dry
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_03">
+        <source>Warm and Humid</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_08">
+        <source>HIGH
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_07">
+        <source>Low
+</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

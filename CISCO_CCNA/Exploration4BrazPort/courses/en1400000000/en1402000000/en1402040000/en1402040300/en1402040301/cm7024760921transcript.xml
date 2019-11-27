@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 11:11:54">
+<title><content-text><![CDATA[2.4.3  - Challenge Handshake Authentication Protocol (CHAP)]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the CHAP initiation, response, and completion process. In this example, the central-site router R1 is communicating with the remote router R3 using P P P and CHAP. <br><br>R3 initiates the three-way handshake by sending a challenge message to router R1. R1 responds to the challenge by sending its CHAP username and password to R3. The username is R1, and the password is cisco 1 2 3. Router R3 evaluates R1's username and password against its local database. If it matches, it accepts the connection. If not, it rejects the connection.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

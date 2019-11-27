@@ -1,0 +1,88 @@
+﻿<textcomponents>
+<component id="ID_title1">
+  <text><![CDATA[<b>Usando os comandos <font face='_typewriter'> show </font></b>]]></text>
+  </component>
+<component id="ID_box01">
+  <text><![CDATA[<b>PC1:</b><br/><ul><li>Endereço IP - 172.17.99.11</li><li>Conectado à porta console</li><li>Conectado à porta F0/18 em S1</li></ul>]]></text> 
+  </component>
+<component id="ID_box02">
+  <text><![CDATA[<b>S1:</b><br/><ul><li>VLAN 99</li><ul><li>a VLAN de gerenciamento</li><li>Endereço IP -172.17.99.11</li></ul><li>Porta F0/18 atribuída à VLAN 99</li></ul>]]></text> 
+  </component>
+<component id="ID_box03">
+  <text><![CDATA[<font size='16'><ul><li>Para o gerenciamento TCP/IP, um endereço da Camada 3 deve ser atribuído ao switch.</li><li>VLAN 1 é a interface de gerenciamento padrão para todos os switches</li><li>Há riscos à segurança associados ao uso da VLAN 1</li><li>Crie outra VLAN, por exemplo VLAN 99 ou VLAN 150</li><li>Atribuir essa VLAN a uma porta apropriada, por exemplo F0/18</li></ul>]]></text> 
+  </component>
+  
+  <component id="output1_text">
+  <text><![CDATA[<b>VLAN 99 Configurada na Porta F0/18</b>]]></text> 
+  </component>
+  <component id="output2_text">
+  <text><![CDATA[<b>VLAN 99 e Status da Porta F0/18</b>]]></text> 
+  </component>
+  
+  <component id="ID_Manage">
+  <text><![CDATA[<b>Comandos show</b>]]></text> 
+  </component>
+  <component id="ID_Config">
+  <text><![CDATA[<b>show running-config</b>]]></text> 
+  </component>
+  <component id="ID_Gateway">
+  <text><![CDATA[<b>show interfaces</b>]]></text> 
+  </component>
+  <component id="ID_Verify">
+  <text><![CDATA[<b>Verificar<br/>Configuração</b>]]></text> 
+  </component>
+  
+  <component id="tableHTML">
+    <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+ 	
+ 	<tr>
+ 		
+ 				<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Sintaxe de comando da CLI do Cisco IOS</b></font></td>
+ 				<td width="250" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+ 	</tr>		
+  	<tr>
+  		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Exibe o status da interface e a configuração para uma ou todas as interfaces do switch.</td>
+  		<td width="250" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter"><b>show interfaces [interface-id] </b></font></td>
+  	</tr>
+  	
+  	<tr>
+  			
+  		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Exibe o conteúdo da configuração de inicialização.</td>
+  		<td width="250" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter"><b>show startup-config</b></font></td>
+  	</tr>
+  	<tr>
+  			
+  		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Exibe a configuração operacional atual.</td>
+  		<td width="250" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter"><b>show running-config</b></font></td>
+  	</tr>
+  	<tr>
+  			
+  		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Exibe informações sobre a memória flash: sistema de arquivos. </td>
+  		<td width="250" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter"><b>show flash:</b></font></td>
+  	</tr>
+  	
+  	<tr>
+  			
+  		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Exibe o hardware do sistema e o status do software.</td>
+  		<td width="250" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter"><b>show version</b></font></td>
+  	</tr>
+  	<tr>
+  			
+  		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Exiba o histórico de comandos da sessão. </td>
+  		<td width="250" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter"><b>show history</b></font></td>
+  	</tr>
+  	<tr>
+  				
+  		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Exibe informações IP.<br/>A opção de interface exibe o status da interface IP e a configuração.<br/>A opção http exibe informações HTTP sobre o gerenciador de dispositivos em execução no switch.<br/>A opção arp exibe a tabela ARP IP.</td>
+  		<td width="250" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter"><b>show ip {interface | http | arp}</b></font></td>
+  	</tr>
+  	<tr>
+  				
+  		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Exibe a tabela de encaminhamento MAC.</td>
+  		<td width="250" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter"><b>show mac-address-table</b></font></td>
+  	</tr>
+</table>
+  ]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_header1">
+  <text><![CDATA[<b>Parâmetro</b>]]></text> 
+</component>
+
+<component id="ID_header2">
+  <text><![CDATA[<b>Descrição</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[Endereço da rede de destino da rede remota a ser adicionado à tabela de roteamento.]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[Máscara de sub-rede da rede remota a ser adicionada à tabela de roteamento.  A máscara de sub-rede pode ser modificada para sumarizar um grupo de redes.]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[Normalmente conhecido como o endereço IP do roteador do próximo salto.]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[Interface de saída usada no encaminhamento de pacotes para a rede de destino.]]></text> 
+</component>
+
+</textcomponents>

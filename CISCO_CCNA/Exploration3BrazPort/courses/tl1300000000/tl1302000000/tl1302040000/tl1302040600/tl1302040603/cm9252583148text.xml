@@ -1,0 +1,12 @@
+<textcomponents>
+<component id="ID_title1">
+  <text><![CDATA[<b>Verificar segurança de porta</b>]]></text> 
+  </component>
+  
+  <component id="ID_Manage">
+  <text><![CDATA[<b>Verificar configurações de segurança de porta</b>]]></text> 
+  </component>
+  <component id="ID_Config">
+  <text><![CDATA[<b>Verificar endereços MAC seguros</b>]]></text> 
+  </component>
+</textcomponents>

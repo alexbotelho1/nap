@@ -1,0 +1,118 @@
+<textcomponents>
+<component id="ID_title1">
+<text><![CDATA[<b>Configurando a segurança da porta </b>]]></text>
+</component>
+<component id="ID_title2">
+<text><![CDATA[<b>Configurando a segurança da porta </b>]]></text>
+</component>
+<component id="ID_title3">
+<text><![CDATA[<b>Configurando a segurança da porta</b>]]></text>
+</component>
+<component id="ID_para1">
+<text><![CDATA[<b>Ocorrem violações de segurança nestas situações:</b>]]></text>
+</component>
+<component id="ID_para2">
+<text><![CDATA[ <ul><li>Uma estação cujo endereço MAC não está na tabela de endereços tenta acessar a interface quando a tabela está cheia.</li><li>Um endereço está sendo usado em duas interfaces seguras na mesma VLAN.</li></ul><br/>Entre os modos de violação de segurança estão proteger (protect), restringir (restrict) e desabilitar (shutdown). ]]></text>
+</component>
+
+<component id="ID_para4">
+<text><![CDATA[<b></b>]]></text>
+</component>
+<component id="ID_txt1">
+<text><![CDATA[<b>Segurança de porta</b>]]></text>
+</component>
+<component id="ID_txt2">
+<text><![CDATA[<b>Tipos de endereço MAC seguro</b>]]></text>
+</component>
+<component id="ID_txt3">
+<text><![CDATA[<b>Modos de violação da segurança</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Implemente a segurança em todas as portas de switch:</b><br/><ul><li>Especifique um grupo de endereços MAC válidos permitidos em uma porta.</li><li>Permita apenas a um endereço MAC acessar a porta.</li><li>Especifique que a porta será desativada automaticamente se forem detectados endereços MAC não autorizados.</li></ul>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Os endereços MAC seguros são dos seguintes tipos:</b><ul><li>Endereços MAC seguros estáticos.</li><li>Endereços MAC seguros dinâmicos.</li><li>Endereços MAC seguros fixos (sticky).</li></ul><br/><b>Endereços MAC fixos (sticky) seguros têm estas características:</b><ul><li>Endereços MAC aprendidos dinamicamente, convertidos em seguros fixos (sticky), armazenados na configuração de execução.</li><li>Desabilitar a aprendizagem fixa remove endereços MAC da tabela MAC, mas não da configuração de execução.</li><li>Os endereços MAC seguros fixos são perdidos quando o switch é reiniciado.</li><li>Salvar endereços MAC seguros fixos na configuração de inicialização os manterá para quando o switch for reiniciado.</li><li>Desabilitar a aprendizagem fixa converte endereços MAC fixos em endereços seguros dinâmicos e os remove da configuração de execução.</li></ul>]]></text>
+</component>
+
+<component id="ID_caption02">
+<text><![CDATA[Ocorrem violações de segurança nestas situações:]]></text>
+</component>
+<component id="ID_caption03">
+<text><![CDATA[ - Uma estação cujo endereço MAC não está na tabela de endereços tenta acessar a interface quando a tabela está cheia.<br/> - Um endereço está sendo usado em duas interfaces seguras na mesma VLAN.
+]]></text>
+</component>
+<component id="ID_caption04">
+<text><![CDATA[Entre os modos de violação de segurança estão proteger (protect), restringir (restrict) e desabilitar (shutdown). ]]></text>
+</component>
+
+<component id="ID_SLD2_txt01">
+<text><![CDATA[<b>Os endereços MAC seguros são dos seguintes tipos:</b>]]></text>
+</component>
+<component id="ID_SLD2_txt02">
+<text><![CDATA[<li>Endereços MAC seguros estáticos</li><li>Endereços MAC seguros dinâmicos</li><li>Endereços MAC seguros fixos (sticky)</li>]]></text>
+</component>
+<component id="ID_SLD2_txt03">
+<text><![CDATA[<b>Endereços MAC fixos (sticky) seguros têm estas características:</b>]]></text>
+</component>
+<component id="ID_SLD2_txt04">
+<text><![CDATA[<li>Endereços MAC aprendidos dinamicamente, convertidos em seguros fixos (sticky), armazenados na configuração de execução.</li><li>Desabilitar a aprendizagem fixa remove endereços MAC da configuração de execução, mas não da tabela MAC.</li><li>Os endereços MAC seguros fixos (sticky) são perdidos quando o switch é reiniciado.<li><li>Salvar endereços MAC seguros fixos (sticky) no arquivo de configuração de inicialização para que o switch os tenha quando for reiniciado.</li><li>Desabilitar a aprendizagem fixa converte endereços MAC fixos em endereços seguros dinâmicos e os remove da configuração de execução.</li>]]></text>
+</component>
+
+<component id="tableHTML">
+  <text><![CDATA[
+ <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>	
+		  
+	
+	
+	
+	<tr>
+		<td width= "70" bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Modo de violação</b></font></td>
+		<td width= "70" bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Encaminha tráfego</b></font></td>
+		<td  bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Envia trap SNMP</b></font></td>
+		<td  width= "70" bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Envia mensagem Syslog</b></font></td>
+		<td width= "70" bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Exibe mensagem de erro</b></font></td>
+		<td width= "70" bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Aumenta o contador de violação</b></font> </td>
+		<td width= "70" bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Desativa a porta</b></font> </td>
+			
+	</tr>
+	<tr>
+		
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Proteger (protect)</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Não</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Não</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Não</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Não</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Não</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Não</td>
+			
+	</tr>
+	<tr>
+		
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Restringir (restrict)</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Não</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Sim</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Sim</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Não</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Sim</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Não</td>
+			
+	</tr>	
+	<tr>
+		
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Desabilitar (shutdown)</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Não</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Sim</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Sim</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Não</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Sim</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Sim</td>
+			
+	</tr>	
+	
+		
+	
+</table>
+]]></text> 
+  </component>
+</textcomponents>

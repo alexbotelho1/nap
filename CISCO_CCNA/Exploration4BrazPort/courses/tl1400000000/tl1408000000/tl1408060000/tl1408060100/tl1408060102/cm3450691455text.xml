@@ -1,0 +1,145 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para visualizar a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para avançar para a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) <textformat blockindent='17'>Explique a função e o conteúdo da documentação de rede, inclusive roteador, switch e documentação de usuário final, e também diagramas de topologia de rede.</textformat>]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 8.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Documentação do roteador:</b><ul><li>A documentação do roteador deve incluir os nomes do roteador, designação do modelo, localização na empresa (edifício, andar, sala, rack, painel), interfaces configuradas, endereços de camada de enlace, endereços de camada de rede, protocolos de roteamento configurados, e outras informações importantes sobre o dispositivo.</li></ul><b>Documentação do switch:</b><ul><li>A documentação do switch deve incluir os nomes do switch, designação do modelo, localização na empresa (edifício, andar, sala, rack, painel), endereço IP de gerenciamento, os nomes e o status das portas, velocidade, duplex, estado de STP, configuração de PortFast, status de tronco, EtherChannel L2 ou L3, IDs de VLAN e outras informações importantes sobre o dispositivo.</li></ul><b>Documentação do usuário final:</b><ul><li>A documentação de usuário final deve incluir os nomes e a função do servidor, a versão do SO, o endereço IP, os gateways, o servidor DNS, a aplicação de rede e outras informações importantes sobre o dispositivo.</li></ul><b>Diagrama lógico de topologia da rede:</b><ul><li>Representação gráfica que usa símbolos para identificar cada dispositivo de rede e como ela é interconectada.</li><li>Também detalha a arquitetura lógica, incluindo tipos de interface e números, endereços IP, máscaras de sub-rede, protocolos de roteamento, domínios AS, e outras informações importantes, como números de DLCI e protocolo de Camada 2.</li></ul>]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2) <textformat blockindent='17'>Explique as etapas recomendadas para planejar a primeira linha de base de rede.</textformat>]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 8.1)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Etapa 1: Determine os tipos de dados que devem ser coletados</b><ul><li>Inicie simplesmente selecionando algumas variáveis que representam as políticas definidas e depois ajuste um pouco mais.</li><li>Geralmente, algumas medidas iniciais recomendadas são utilização de interface e utilização de CPU.</li></ul><b>Etapa 2: Identifique dispositivos e portas de interesse</b><ul><li>Devem ser identificados dispositivos e portas de interesse, como portas de dispositivo de rede que conectam-se a outros dispositivos de rede, servidores, principais usuários, e qualquer outra coisa considerada crítica à operação.</li></ul><b>Etapa 3: Determine a duração da linha de base</b><ul><li>Este período deve ser de pelo menos sete dias para capturar tendências diárias ou semanais, e deve durar de duas a quatro semanas.</li><li>Não realize uma medição de linha de base durante situações de padrões de tráfego incomuns. </li><li>Essa medição deve ser realizada regularmente, como uma análise anual da rede inteira ou seções diferentes de linha de base da rede de uma maneira rotativa.</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) <textformat blockindent='17'>Explique as três fases do processo geral de identificação e solução de problemas.</textformat>]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 8.2)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Fase 1: Coletar sintomas:</b><ul><li>Sintomas podem aparecer em muitos formulários diferentes, inclusive alertas do sistema de gerenciamento de rede, mensagens de console e reclamações de usuário.</li><li>Colete e documente sintomas da rede, de sistemas finais e de usuários.</li><li>Além disso, determine quais componentes de rede foram afetados e como a funcionalidade da rede foi alterada em comparação com a linha de base.</li></ul><b>Fase 2: Isole o problema:</b><ul><li>O problema não é de fato isolado até que um único problema, ou um conjunto de problemas relacionados, seja identificado.</li><li>Examine as características de problemas nas camadas lógicas da rede de forma que a causa mais provável possa ser selecionada.</li><li>Dependendo das características do problema identificado, colete e documente mais sintomas.</li></ul><b>Fase 3: Corrija o problema:</b><ul><li>Trabalhe para corrigir o problema implementando, testando e documentando uma solução.</li></ul>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) <textformat blockindent='17'>Explique os três métodos principais para identificar e solucionar problemas.</textformat>]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 8.2)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Método de identificação e solução de problemas De baixo para cima:</b><ul><li>Inicie com os componentes físicos da rede e, em seguida, analise as camadas acima do modelo OSI até que a causa do problema seja identificada.</li><li>É uma abordagem interessante quando desconfia-se que o problema seja físico.</li></ul><b>Método de identificação e solução de problemas De cima para baixo:</b><ul><li>Examine primeiro a aplicação do usuário final.</li><li>A análise continua para baixo das camadas superiores do modelo OSI até que a causa do problema seja identificada.</li></ul><b>Método de identificação e solução de problemas Dividir e conquistar:</b><ul><li>Selecione uma camada e teste em ambas as direções da camada inicial.</li><li>Se você verificar que uma camada está funcionando corretamente, é geralmente seguro presumir que as camadas abaixo dela estejam funcionando.</li><li>Se uma camada não estiver funcionando corretamente, colete sintomas do problema daquela camada e analise de cima para baixo.</li></ul>]]></text>
+</component>
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[5) <textformat blockindent='17'>Explique as seis etapas para criar ou modificar uma WAN.</textformat>]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[(de 8.3)]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Etapa 1 - Localize as LANs:</b><ul><li>Estabeleça os pontos de extremidade de origem e destino que se conectarão pela WAN.</li></ul><b>Etapa 2 - Analise o tráfego:</b><ul><li>Descubra qual tráfego de dados deve ser transportado, sua origem, seu destino, requisitos de largura de banda, latência, tolerância a atraso.</li></ul><b>Etapa 3 - Planeje a topologia:</b><ul><li>Identifique os vários pontos de extremidade, as considerações geográficas e os requisitos para disponibilidade.</li></ul><b>Etapa 4 - Estime a largura de banda exigida:</b><ul><li>Em atenção aos pontos de extremidade e aos links escolhidos, a largura de banda necessária pode ser estimada.</li></ul><b>Etapa 5 - Escolha a tecnologia WAN:</b><ul><li>Quando a disponibilidade de largura de banda é determinada, devem ser selecionadas tecnologias de link adequadas.</li></ul><b>Etapa 6 - Avalie custos:</b><ul><li>Determine os custos de instalação e operacionais para a WAN e compare com a necessidade comercial que orienta a implementação de WAN.</li></ul>]]></text>
+</component>
+<component id="ID_Q5_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[6) <textformat blockindent='17'>Liste três coisas para verificar ao identificar e solucionar problemas de Camada 1.</textformat>]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[(de 8.4)]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<b>Verifique se há cabos ou conexões com defeito:</b><ul><li>Use um testador de cabo para verificar se o cabo da interface de origem está conectado e se está em boas condições.</li><li>Para testar a integridade de um cabo, alterne os cabos suspeitos com um cabo que esteja funcionando com certeza.</li></ul><b>Verifique se o padrão de cabeamento correto é consistente ao longo da rede:</b><ul><li>Verifique se o cabo correto está sendo utilizado para a conexão.</li></ul><b>Verifique se os dispositivos estão cabeados corretamente:</b><ul><li>Verifique se todos os cabos estão conectados às portas ou interfaces corretas.</li></ul><b>Verifique se as configurações de interface estão corretas:</b><ul><li>Verifique se todas as portas de switch estão definidas na VLAN correta e se estão configurados corretamente o spanning tree, a velocidade e as configurações bidirecionais.</li><li>Confirme se as portas ou interfaces ativa não estão desligadas.</li></ul><b>Verifique as estatísticas de funcionamento e as taxas de erros de dados:</b><ul><li>Use os comandos show da Cisco para verificar estatísticas como colisões, erros de entrada e saída.</li><li>As características destas estatísticas variam, dependendo dos protocolos usados na rede.</li></ul>]]></text>
+</component>
+<component id="ID_Q6_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- LAST QUESTION -->
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[7) <textformat blockindent='17'>Liste três causas de problemas de Camada 2.</textformat>]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[(de 8.4)]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Causas de problemas de Camada 2:</b><ul><li>Erros de mapeamento de endereço</li><li>Erros de enquadramento</li><li>Falhas ou loops de STP</li></ul>]]></text>
+</component>
+<component id="ID_conclusion">
+<text><![CDATA[<font size='14'><b>Assim são concluídas as perguntas da seção “Verifique a sua compreensão” deste capítulo.</b></font>]]></text>
+</component>
+</textcomponents>

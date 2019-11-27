@@ -1,0 +1,80 @@
+<textcomponents>
+<!-- animation -->
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para ver a animação.</b>]]></text> 
+</component>	
+
+<component id="ID_title">
+<text><![CDATA[<b>Cenário de envio de LSA</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>R3</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>R4</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>R5</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>LSA de R1</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>LSA de R2</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>LSA de R3</b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>LSA de R4</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>LSA de R5</b>]]></text> 
+</component>
+
+<!-- controller -->
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+</textcomponents>

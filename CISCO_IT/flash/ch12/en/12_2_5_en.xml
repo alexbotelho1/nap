@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="12_2_5.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Internet Explorer Options</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>Server Types</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_02">
+        <source>Applications Server</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_03">
+        <source>Communications Server</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_04">
+        <source>Database Server</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_05">
+        <source>File Server</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_006">
+        <source>Game Server</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_06">
+        <source>Web Server</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_07">
+        <source>Used to set Home page, view and delete Temporary Internet Files, and change the browser appearance settings.</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_08">
+        <source>Used to select Internet Zones and Trusted Sites</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_09">
+        <source>Used for privacy settings to block Third-party cookies and Pop-ups
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_10">
+        <source>Used to block unwanted web site content and set identification and personal information</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_11">
+        <source>Used to set up the Internet Connection settings for the browser
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_12">
+        <source>Used to enable and disable operation settings of the browser</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_13">
+        <source>Used to set up which program Windows automatically uses for each Internet service</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

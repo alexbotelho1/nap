@@ -1,0 +1,31 @@
+<textcomponents>
+
+<component id="ID_omitted">
+<text><![CDATA[<b><font face="_typewriter">***saída do comando omitida***</font></b>]]></text>
+</component>
+
+<component id="ID_omitted2">
+<text><![CDATA[<b><font face="_typewriter">***saída do comando omitida***</font></b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Clique para exibir as várias saídas de comandos do roteador.</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Verificando temporizadores</b>]]></text>
+</component>
+
+<component id="ID_buttonText">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<font face="_typewriter"><b>show ip route</b></font>]]></text>
+</component>
+
+<component id="slide3">
+<text><![CDATA[<font face="_typewriter"><b>show ip protocols</b></font>]]></text>
+</component>
+
+</textcomponents>

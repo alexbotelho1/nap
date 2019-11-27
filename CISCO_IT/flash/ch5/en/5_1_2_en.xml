@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="5_1_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_NEW1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE1">
+        <source>Memory Management</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE2">
+        <source>Common DOS Commands</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE3">
+        <source>Virtual Real Mode</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE4">
+        <source>Operating Modes</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_01">
+        <source>Memory Type</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_02">
+        <source>Logical Memory Allocation</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_03">
+        <source>Conventional
+</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_04">
+        <source>0 to 640 KB </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_05">
+        <source>Upper
+</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_06">
+        <source>640 KB to 1 MB </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_07">
+        <source>Extended</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_8">
+        <source>1MB to the maximum amount of RAM installed.
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT2_01">
+        <source>COMMAND</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT2_02">
+        <source>FUNCTION</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT2_03">
+        <source>HELP</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT2_04">
+        <source>DIR</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT2_05">
+        <source>ATTRIB</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT2_06">
+        <source>EDIT</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT2_07">
+        <source>COPY</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT2_08">
+        <source>XCOPY</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT2_09">
+        <source>FORMAT</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT2_10">
+        <source>MD</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT2_11">
+        <source>CD</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT2_12">
+        <source>RD</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT2_13">
+        <source>Provides command line help</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT2_14">
+        <source>Displays the contents of a directory</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT2_15">
+        <source>Changes the attributes of a file to indicate a read-only, archive, system, or hidden file</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT2_16">
+        <source>Opens a file for editing</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT2_17">
+        <source>Copies a file</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT2_18">
+        <source>Copies files and subdirectories</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT2_19">
+        <source>Formats a disk</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT2_20">
+        <source>Makes a new directory</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT2_21">
+        <source>Changes to a specified directory</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT2_22">
+        <source>Removes a directory</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

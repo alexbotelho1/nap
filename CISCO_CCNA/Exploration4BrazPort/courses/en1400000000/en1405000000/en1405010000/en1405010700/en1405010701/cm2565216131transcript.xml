@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 07:12:44">
+<title><content-text><![CDATA[5.1.7 - Numbering and Naming ACL's]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts information regarding numbered and named ACL's.<br><br>Numbered ACL:<br>You assign a number based on which protocol you want filtered:<br>- (1 to 99) and (1300 to 1999): Standard IP ACL<br>- (100 to 199) and (2000 to 2699): Extended IP ACL<br><br>Named ACL:<br>You assign a name by providing the name of the ACL:<br>- Names can contain alphanumeric characters.<br>- It is suggested that the name be written in capital letters.<br>- Names cannot contain spaces or punctuation and must begin with a letter.<br>- You can add or delete entries within the ACL.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

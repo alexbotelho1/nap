@@ -1,0 +1,47 @@
+<textcomponents>
+
+
+<component id="ID_title01">
+<text>
+<![CDATA[<b>Abreviações da máscara de bit curinga</b>]]>
+</text>
+</component>
+
+
+<component id="ID_txt01">
+<text>
+<![CDATA[<b>Exemplo 1:</b><ul><li>192.168.10.10 0.0.0.0 corresponde a todos os bits de endereço</li><li>Abrevie esta máscara curinga utilizando o endereço IP precedido pela palavra-chave <b>host</b> (host 192.168.10.10)</li></ul>]]>
+</text>
+</component>
+
+<component id="ID_txt02">
+<text>
+<![CDATA[<b>Máscara curinga:</b>]]>
+</text>
+</component>
+
+<component id="ID_txt03">
+<text>
+<![CDATA[<b>(Corresponder a todos os bits)</b>]]>
+</text>
+</component>
+
+<component id="ID_txt04">
+<text>
+<![CDATA[<b>Exemplo 2:</b><ul><li>0.0.0.0 255.255.255.255 ignora todos os bits de endereço</li><li>Abreviar expressão com a palavra-chave <b>any</b></li></ul>]]>
+</text>
+</component>
+
+<component id="ID_txt05">
+<text>
+<![CDATA[<b>Máscara curinga:</b>]]>
+</text>
+</component>
+
+<component id="ID_txt06">
+<text>
+<![CDATA[<b>(Ignora todos os bits)</b>]]>
+</text>
+</component>
+
+</textcomponents>

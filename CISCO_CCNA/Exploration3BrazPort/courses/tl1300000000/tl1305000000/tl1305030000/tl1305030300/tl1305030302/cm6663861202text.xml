@@ -1,0 +1,43 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saídas do switch</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Verificar a porta raiz</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Saída de dados do Switch S1</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Saída de comando do switch S2</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Saída de comando do switch S3</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Bridge raiz</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Tronco3</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Tronco2</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Tronco1</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Sem portas raiz</b>]]></text>
+</component>
+
+
+</textcomponents>

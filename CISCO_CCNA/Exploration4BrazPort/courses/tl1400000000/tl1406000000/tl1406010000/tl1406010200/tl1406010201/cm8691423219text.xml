@@ -1,0 +1,123 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<b>Opções de conexão remota </b>]]></text> 
+</component>
+
+<component id="ID_inst01">
+  <text><![CDATA[<b>Clique nos botões acima para exibir os exemplos de conexão remota.</b>]]></text> 
+</component>
+
+<component id="ID_txt01_01">
+  <text><![CDATA[<b>Farm de servidores</b>]]></text> 
+</component>
+
+<component id="ID_txt02_01">
+  <text><![CDATA[<b>Campus da empresa</b>]]></text> 
+</component>
+
+<component id="ID_txt03_01">
+  <text><![CDATA[<b>Extremidade da empresa</b>]]></text> 
+</component>
+
+<component id="ID_txt04_01">
+  <text><![CDATA[<b>Sede<br/>(Campus, Central de Dados)</b>]]></text> 
+</component>
+
+<component id="ID_txt05_01">
+  <text><![CDATA[<b>Filial (is)</b>]]></text> 
+</component>
+
+<component id="ID_txt06_01">
+  <text><![CDATA[<b>WAN</b>]]></text> 
+</component>
+
+<component id="ID_txt07_01">
+  <text><![CDATA[<b>Funcionários remotos</b>]]></text> 
+</component>
+
+<component id="ID_txt08_01">
+  <text><![CDATA[<b>Parceiros e fornecedores</b>]]></text> 
+</component>
+
+<component id="ID_txt09_01">
+  <text><![CDATA[<b>Funcionário móvel</b>]]></text> 
+</component>
+
+<component id="ID_txt10_01">
+  <text><![CDATA[<b>Individual</b>]]></text> 
+</component>
+
+<component id="ID_txt11_01">
+  <text><![CDATA[<b>Escritório em casa</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_02">
+  <text><![CDATA[<b>Farm de servidores</b>]]></text> 
+</component>
+
+<component id="ID_txt02_02">
+  <text><![CDATA[<b>Campus da empresa</b>]]></text> 
+</component>
+
+<component id="ID_txt03_02">
+  <text><![CDATA[<b>Extremidade da empresa</b>]]></text> 
+</component>
+
+<component id="ID_txt04_02">
+  <text><![CDATA[<b>Sede<br/>(Campus, Central de Dados)</b>]]></text> 
+</component>
+
+<component id="ID_txt05_02">
+  <text><![CDATA[<b>Filial (is)</b>]]></text> 
+</component>
+
+<component id="ID_txt06_02">
+  <text><![CDATA[<b>WAN</b>]]></text> 
+</component>
+
+<component id="ID_txt07_02">
+  <text><![CDATA[<b>Funcionários remotos</b>]]></text> 
+</component>
+
+<component id="ID_txt08_02">
+  <text><![CDATA[<b>Parceiros e fornecedores</b>]]></text> 
+</component>
+
+<component id="ID_txt09_02">
+  <text><![CDATA[<b>Funcionário móvel</b>]]></text> 
+</component>
+
+<component id="ID_txt10_02">
+  <text><![CDATA[<b>Individual</b>]]></text> 
+</component>
+
+<component id="ID_txt11_02">
+  <text><![CDATA[<b>Escritório em casa</b>]]></text> 
+</component>
+
+<component id="ID_txt12_02">
+  <text><![CDATA[<b>Redes de banda larga,<br/>ISPs</b>]]></text> 
+</component>
+
+<component id="ID_txt13_02">
+  <text><![CDATA[<b>IPsec VPN</b>]]></text> 
+</component>
+
+<component id="ID_txt14_02">
+  <text><![CDATA[<b>VPN de Camada 2<br/>(Frame Relay, ATM, etc.)</b>]]></text> 
+</component>
+
+
+
+
+<component id="ID_button1">
+  <text><![CDATA[<b>Topologias</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Opções</b>]]></text> 
+</component>
+
+
+</textcomponents>

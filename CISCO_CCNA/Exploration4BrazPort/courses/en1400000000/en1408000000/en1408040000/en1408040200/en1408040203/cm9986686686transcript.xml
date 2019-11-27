@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 13:12:28">
+<title><content-text><![CDATA[8.4.2 - Physical Layer Troubleshooting]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the process of troubleshooting Layer 1 problems. A series of checks is provided and screenshots of the Fluke Networks CableIQ Qualification Tester is shown. One screenshot shows an Ethernet cable with wires 7 and 8 improperly connected, and the other screenshot shows failure of the 1000 Base-T test. The 100 Base-TX, 10 Base-T, and V o IP tests are successful.<br><br>Checks to perform:<br>-	Check for bad cables or connections.<br>-	Check if the correct cabling standard has been used.<br>-	Check if devices are cabled incorrectly.<br>-	Verify proper interface configurations.<br>-	Check operational statistics and data error rates.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

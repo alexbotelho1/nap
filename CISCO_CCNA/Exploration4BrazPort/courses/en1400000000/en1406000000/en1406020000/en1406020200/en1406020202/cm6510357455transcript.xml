@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 11:12:47">
+<title><content-text><![CDATA[6.2.2  - Cable]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts sending digital signal over radio waves. The portion of the electromagnetic spectrum used by cable modems for upstream and downstream transmission is illustrated.<br>- Cable uses a part of the RF electromagnetic frequencies.<br>- Cable can transmit signal simultaneously in either direction.<br>- The RF portion used is subdivided for the two paths:<br>- Downstream: Headend to subscriber has 810 megahertz of RF bandwidth.<br>- Upstream: Subscriber to headend has 37 megahertz of RF bandwidth.<br><br>Downstream - Source (headend) to the destination (subscribers). Downstream frequencies are in the range of 50 to 860 megahertz.<br><br>Upstream - Subscriber to the cable operator headend. Upstream frequencies are in the frequency range of 5 to 42 megahertz.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

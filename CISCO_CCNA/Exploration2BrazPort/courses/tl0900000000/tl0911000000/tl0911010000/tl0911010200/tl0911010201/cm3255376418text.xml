@@ -1,0 +1,42 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Cabeçalho do Quadro de Enlace de Dados</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Cabeçalho do Pacote IP</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Cabeçalho do Pacote OSPF</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Dados Específicos do Tipo de Pacote OSPF</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Quadro de Enlace de Dados (Campos Ethernet mostrados aqui)</b><br/>Endereço de destino MAC = Multicast: 01-00-5E-00-00-05 ou 01-00-5E-00-00-06<br/>Endereço de origem MAC = endereço da interface de envio]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Pacote IP</b><br/>Endereço de origem IP = endereço da interface de envio<br/>Endereço de destino IP = Multicast: 224.0.0.5 ou 224.0.0.6<br/>Campo de protocolo = 89 para OSPF]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Cabeçalho do Pacote OSPF</b><br/>Digite código para tipo de pacote OSPF <br/>ID de roteador e ID de área]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Tipos de Pacote OSPF</b><br/>Hello 0x01<br/>Descrição de banco de dados (DBD) 0x02<br/>Requisição Link-State 0x03<br/>Atualização Link-State 0x04<br/>Confirmação Link-State 0x05]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Mensagem OSPF encapsulada</b>]]></text>
+</component>
+
+<component id="ID_insta">
+<text><![CDATA[<b>Passe o mouse sobre os campos para ver o conteúdo do campo.</b>]]></text>
+</component>
+
+</textcomponents>

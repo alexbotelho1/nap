@@ -1,0 +1,14 @@
+<textcomponents>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Neste capítulo, você aprenderá a:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Identificar ameaças à segurança de redes corporativas</li><li>Descrever métodos para atenuar ameaças à segurança de redes corporativas</li><li>Configurar a segurança básica de roteador</li><li>Desabilitar os serviços e as interfaces do roteador não utilizados.</li><li>Utilizar o recurso de bloqueio em uma etapa do Cisco SDM</li><li>Gerenciar arquivos e imagens do software com o Cisco IOS Integrated File System (IFS)</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

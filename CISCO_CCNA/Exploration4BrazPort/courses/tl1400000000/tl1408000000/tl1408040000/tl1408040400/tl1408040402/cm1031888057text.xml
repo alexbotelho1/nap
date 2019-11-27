@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_title">
+<text>Solução de problemas da camada 3</text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Verifique se há rede<br />Alterações de Topologia]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[Verifique se há problemas de equipamento e conectividade]]></text> 
+</component>
+<component id="ID_txt03">
+<text><![CDATA[Verifique relacionamentos de vizinhos de roteamento]]></text> 
+</component>
+<component id="ID_txt04">
+<text><![CDATA[Verifique a topologia<br />Problemas de banco de dados]]></text> 
+</component>
+<component id="ID_txt05">
+<text><![CDATA[Verifique o roteamento<br />Problemas de tabela]]></text> 
+</component>
+
+</textcomponents>

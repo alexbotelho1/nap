@@ -1,0 +1,244 @@
+<textcomponents>
+
+<component id="ID_button01">
+<text><![CDATA[<B>Atividade 1</B>]]></text> 
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<B>Atividade 2</B>]]></text> 
+</component>
+
+<!-- slide 1 -->
+<component id="ID_title1">
+  <text><![CDATA[<b>Atacantes de rede</b>]]></text> 
+</component>
+
+<component id="ID_instruction1">
+<text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Arraste e solte a palavra ou expressão apropriada para completar as frases.]]></text> 
+</component>
+
+<component id="ID_check1">
+<text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset1">
+<text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+
+<component id="ID_correctTitle1">
+<text><![CDATA[Corrigir]]></text>
+</component>
+
+<component id="ID_correctText1">
+<text><![CDATA[Parabéns, você concluiu as sentenças corretamente.]]></text>
+</component>
+
+<component id="ID_incorrectTitle1">
+<text><![CDATA[Incorreto]]></text>
+</component>
+
+<component id="ID_incorrectText1">
+<text><![CDATA[Incorreto, tente novamente.]]></text>
+</component>
+
+<component id="ID_activity">
+<text><![CDATA[<B>Atividade</B>]]></text>
+</component>
+
+<component id="ID_txt01_01">
+<text><![CDATA[<B>_____ é um termo geral historicamente utilizado para descrever um especialista em programação de computador. </B>]]></text> 
+</component>
+
+<component id="ID_txt02_01">
+<text><![CDATA[<B>_____ é um termo normalmente considerado mais preciso para descrever alguém mal intencionado que tenta obter acesso não autorizado a recursos de rede.</B>]]></text> 
+</component>
+
+<component id="ID_txt03_01">
+<text><![CDATA[<B> _____ é um termo utilizado para descrever um indivíduo que manipula a rede telefônica para que ela execute uma função normalmente não permitida. </B>]]></text> 
+</component>
+
+<component id="ID_txt04_01">
+<text><![CDATA[<B>_____ é um termo utilizado para descrever um indivíduo que envia grandes quantidades de mensagens de email não solicitadas.</B>]]></text> 
+</component>
+
+<component id="ID_txt05_01">
+<text><![CDATA[<B>_____ é um termo utilizado para descrever um indivíduo que utiliza email ou outros meios em uma tentativa de levar outras pessoas a fornecer informações confidenciais, como números de cartão de crédito ou senhas.</B>]]></text> 
+</component>
+
+<component id="ID_txt06_01">
+<text><![CDATA[<B>_____ é um termo utilizado para descrever indivíduos que utilizam suas habilidades para procurar vulnerabilidades em sistemas ou redes e, em seguida, informam essas vulnerabilidade aos proprietários do sistema para que elas possam ser corrigidas.</B>]]></text> 
+</component>
+
+<component id="ID_txt07_01">
+<text><![CDATA[<B>_____ é um outro termo para indivíduos que utilizam seu conhecimento de sistemas de computadores para invadir sistemas ou redes para os quais não têm autorização.</B>]]></text> 
+</component>
+
+<component id="ID_a_1">
+<text><![CDATA[<B>Hacker</B>]]></text> 
+</component>
+
+<component id="ID_b_1">
+<text><![CDATA[<B>Cracker</B>]]></text> 
+</component>
+
+<component id="ID_c_1">
+<text><![CDATA[<B>Phreaker</B>]]></text> 
+</component>
+
+<component id="ID_d_1">
+<text><![CDATA[<B>Spammer</B>]]></text> 
+</component>
+
+<component id="ID_e_1">
+<text><![CDATA[<B>Phisher</B>]]></text> 
+</component>
+
+<component id="ID_f_1">
+<text><![CDATA[<B>White hat</B>]]></text> 
+</component>
+
+<component id="ID_g_1">
+<text><![CDATA[<B>Black hat</B>]]></text> 
+</component>
+
+
+<!-- Slide 2 -->
+<component id="ID_title2">
+<text><![CDATA[<b>Tipos de ataques a redes</b>]]></text> 
+</component>
+
+<component id="ID_instruction2">
+<text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Clique na coluna apropriada na tabela para identificar o tipo de cada ataque à rede.]]></text> 
+</component>
+
+<component id="ID_check2">
+<text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset2">
+<text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+
+<component id="ID_correctTitle2">
+<text><![CDATA[Corrigir]]></text>
+</component>
+
+<component id="ID_correctText2">
+<text><![CDATA[Parabéns, você identificou os tipos de ataques à rede corretamente.]]></text>
+</component>
+
+<component id="ID_incorrectTitle2">
+<text><![CDATA[Incorreto]]></text>
+</component>
+
+<component id="ID_incorrectText2">
+<text><![CDATA[Incorreto, tente novamente.]]></text>
+</component>
+
+<component id="slide2_txt_numrows">
+<text><![CDATA[13]]></text> 
+</component>
+<component id="slide2_txt_numcols">
+<text><![CDATA[3]]></text> 
+</component>
+<component id="slide2_txt_col1">
+<text><![CDATA[Ataques de reconhecimento]]></text> 
+</component>
+<component id="slide2_txt_col2">
+<text><![CDATA[Ataques de acesso]]></text> 
+</component>
+<component id="slide2_txt_col3">
+<text><![CDATA[Ataques DoS e DDoS]]></text> 
+</component>
+
+<component id="slide2_txt_q1">
+<text><![CDATA[<B>Bombardeamento de email</B>]]></text> 
+</component>
+
+<component id="slide2_txt_q2">
+<text><![CDATA[<B>Consultas de informações de Internet</B>]]></text> 
+</component>
+
+<component id="slide2_txt_q3">
+<text><![CDATA[<B>Ataque de interceptação</B>]]></text> 
+</component>
+
+<component id="slide2_txt_q4">
+<text><![CDATA[<B>Sniffers de pacote</B>]]></text> 
+</component>
+
+<component id="slide2_txt_q5">
+<text><![CDATA[<B>Ataques de senha</B>]]></text> 
+</component>
+
+<component id="slide2_txt_q6">
+<text><![CDATA[<B>Ping da morte</B>]]></text> 
+</component>
+
+<component id="slide2_txt_q7">
+<text><![CDATA[<B>Varreduras de ping</B>]]></text> 
+</component>
+
+<component id="slide2_txt_q8">
+<text><![CDATA[<B>Verificações de porta</B>]]></text> 
+</component>
+
+<component id="slide2_txt_q9">
+<text><![CDATA[<B>Engenharia social</B>]]></text> 
+</component>
+
+<component id="slide2_txt_q10">
+<text><![CDATA[<B>Ataque Stacheldraht</B>]]></text> 
+</component>
+
+<component id="slide2_txt_q11">
+<text><![CDATA[<B>Ataque de envio SYN</B>]]></text> 
+</component>
+
+<component id="slide2_txt_q12">
+<text><![CDATA[<B>Tribe Flood Network</B>]]></text> 
+</component>
+
+<component id="slide2_txt_q13">
+<text><![CDATA[<B>Exploração de confiança</B>]]></text> 
+</component>
+
+<component id="slide2_txt_a1">
+<text><![CDATA[3]]></text> 
+</component>
+<component id="slide2_txt_a2">
+<text><![CDATA[1]]></text> 
+</component>
+<component id="slide2_txt_a3">
+<text><![CDATA[2]]></text> 
+</component>
+<component id="slide2_txt_a4">
+<text><![CDATA[1]]></text> 
+</component>
+<component id="slide2_txt_a5">
+<text><![CDATA[2]]></text> 
+</component>
+<component id="slide2_txt_a6">
+<text><![CDATA[3]]></text> 
+</component>
+<component id="slide2_txt_a7">
+<text><![CDATA[1]]></text> 
+</component>
+<component id="slide2_txt_a8">
+<text><![CDATA[1]]></text> 
+</component>
+<component id="slide2_txt_a9">
+<text><![CDATA[2]]></text> 
+</component>
+<component id="slide2_txt_a10">
+<text><![CDATA[3]]></text> 
+</component>
+<component id="slide2_txt_a11">
+<text><![CDATA[3]]></text> 
+</component>
+<component id="slide2_txt_a12">
+<text><![CDATA[3]]></text> 
+</component>
+<component id="slide2_txt_a13">
+<text><![CDATA[2]]></text> 
+</component>
+
+</textcomponents>

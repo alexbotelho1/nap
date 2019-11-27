@@ -1,0 +1,80 @@
+<textcomponents>
+
+  <component id="ID_title1">
+  <text><![CDATA[<b>Atribuir uma porta de switch </b>]]></text> 
+  </component>
+
+  <component id="ID_txt01">
+  <text><![CDATA[<b>F0/1</b>]]></text> 
+  </component>
+
+  <component id="ID_txt02">
+  <text><![CDATA[<b>F0/18</b>]]></text> 
+  </component>
+
+  <component id="ID_txt03">
+  <text><![CDATA[<b>F0/1</b>]]></text> 
+  </component>
+  
+  <component id="ID_box">
+  <text><![CDATA[<b>Switch S1:<br>Porta F0/18<br>VLAN 20</b>]]></text> 
+  </component>
+
+  <component id="ID_box2">
+  <text><![CDATA[<font face='_typewriter'>S1#<b>configure terminal</b><br>S1(config)#<b>interface F0/18</b><br>S1(config-if)#<b>switchport mode access</b><br>S1(config-if)#<b>switchport access vlan 20</b><br>S1(config-if)#<b>end</b></font>]]></text> 
+  </component>
+
+  <component id="ID_box3">
+  <text><![CDATA[<b>PC do aluno<br>172.17.20.22</b>]]></text> 
+  </component>
+
+  <component id="ID_CS">
+  <text><![CDATA[<b>Sintaxe de comando</b>]]></text> 
+  </component>
+  <component id="ID_example">
+  <text><![CDATA[<b>Exemplo</b>]]></text> 
+  </component>
+  <component id="ID_Gateway">
+  <text><![CDATA[<b>Verificação</b>]]></text> 
+  </component>
+
+<component id="tableHTML">
+	    <text><![CDATA[
+	   <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	
+	    	<tr>
+	  	  		
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Sintaxe de comando da CLI do Cisco IOS</b></font></td>
+	  	  	<td width="280" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter"> </font></td>
+	   	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Entre no modo de configuração global.</td>
+		<td width="280" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1#<b>configure terminal</b></font></td>
+	</tr>
+	
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Entre na interface para atribuir à VLAN.</td>
+		<td width="280" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config)#<b>interface </b><i>interface id</i></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Defina o modo de associação VLAN para a porta.</td>
+		<td width="280" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config-if)#<b>switchport mode access</b></font></td>
+	</tr>
+	
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Atribua a porta a uma VLAN.</td>
+		<td width="280" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config-if)#<b>switchport access vlan </b><i>vlan id</i></font></td>
+	</tr>
+	
+	<tr>
+				
+			<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Volte ao modo EXEC privilegiado.</td>
+			<td width="280" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config-if)#<b>end</b></font></td>
+	</tr>
+</table>
+]]></text> 
+  </component>
+
+</textcomponents>

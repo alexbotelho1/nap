@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:21">
+<title><content-text><![CDATA[7.3.6 - Routing Configurations with IPv6]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the RIP n g routing protocol.<br><br>Similar IPv4 features:<br>-	Distance vector, radius of 15 hops, split horizon, and poison reverse.<br>-	Based on RIP v2.<br><br>Updated features for IPv6:<br>-	IPv6 prefix, next-hop IPv6 address.<br>-	Uses the multicast group FF02::9, the all-rip-routers multicast group, as the destination address for RIP updates.<br>-	Uses IPv6 for transport.<br>-	Named RIP n g.]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

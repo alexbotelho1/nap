@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="16_2_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Hardware and Software Firewalls</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_04">
+        <source>Available as third-party software and cost varies
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_05">
+        <source>Initial cost for hardware and software updates can be costly</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_06">
+        <source>Windows XP operating system provides software firewall 
+</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_07">
+        <source>Multiple computers can be protected
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_08">
+        <source>Typically protects only the
+computer it is installed on
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_09">
+        <source>Little impact on computer performance
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_10">
+        <source>Uses the CPU, potentially
+slowing the computer
+</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_01">
+        <source>Hardware Firewall</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_02">
+        <source>Software Firewall </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_03">
+        <source>Free standing and uses
+dedicated hardware</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

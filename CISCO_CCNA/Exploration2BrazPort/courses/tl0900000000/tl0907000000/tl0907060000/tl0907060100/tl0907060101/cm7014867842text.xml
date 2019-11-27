@@ -1,0 +1,44 @@
+<textcomponents>
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Neste capítulo você aprendeu a:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Encontrar e descrever as limitações do RIPv1.</li><li>Aplicar os comandos básicos de configuração do Protocolo de Informações de Roteamento Versão 2 (RIPv2) e avaliar as atualizações de roteamento classless do RIPv2.</li><li>Analisar a saída do comando do roteador para ver o suporte do RIPv2 para VLSM e Roteamento Entre Domínios com Endereços Classless (CIDR).</li><li>Identificar os comandos de verificação e problemas comuns de RIPv2.</li><li>Configurar, verificar, identificar e solucionar problemas de RIPv2 em exercícios práticos em laboratórios.</li></ul><BR/></td></tr></table>]]></text>
+</component>
+  
+<component id="ID_txt03">
+<text><![CDATA[<b>Protocolos IGP</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Protocolos EGP</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[Protocolos de Roteamento<br/>do Vetor de Distância]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[Protocolos de Roteamento<br/>Link-state]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<br/>Vetor de caminho]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[Classful]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[Classless]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[IPv6]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>EIGRP para IPv6</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>IS-IS para IPv6</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>BGPv4 para IPv6</b>]]></text>
+</component>
+</textcomponents>

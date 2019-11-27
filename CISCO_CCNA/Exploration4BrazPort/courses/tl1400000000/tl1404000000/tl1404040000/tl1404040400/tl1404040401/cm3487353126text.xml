@@ -1,0 +1,24 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Visão geral da página inicial do Cisco SDM</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Barra de menus</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Barra de ferramentas</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Informações do roteador</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Visão geral da configuração</b>]]></text>
+</component>
+
+
+</textcomponents>

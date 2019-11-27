@@ -1,0 +1,51 @@
+<textcomponents>
+
+<component id="output1cap">
+<text><![CDATA[<b>Antes de sumarizar rotas</b>]]></text>
+</component>
+<component id="output2cap">
+<text><![CDATA[<b>Depois de sumarizar rotas</b>]]></text>
+</component>
+
+<component id="ID_txt01b">
+<text><![CDATA[<b>Rede stub</b>]]></text>
+</component>
+<component id="ID_txt02b">
+<text><![CDATA[<b>BRANCH</b>]]></text>
+</component>
+<component id="ID_txt03b">
+<text><![CDATA[<b>Roteador stub</b>]]></text>
+</component>
+<component id="ID_txt04b">
+<text><![CDATA[Rota estática]]></text>
+</component>
+<component id="ID_txt05b">
+<text><![CDATA[Rota padrão]]></text>
+</component>
+<component id="ID_txt06b">
+<text><![CDATA[<b>HQ</b>]]></text>
+</component>
+<component id="ID_txt07b">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[***saída de comando omitida***]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Efeito de uma rota de sumarização</b>]]></text>
+</component>
+
+<component id="slide1">
+<text><![CDATA[<b>Antes</b>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<b>Depois</b>]]></text>
+</component>
+
+<component id="ID_buttonText">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+
+</textcomponents>

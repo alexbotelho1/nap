@@ -1,0 +1,45 @@
+<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Equipamento legado</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Tecnologia avançada</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Novas opções</B>]]></text> 
+</component>
+
+
+<component id="ID_title">
+  <text><![CDATA[<B>Convergência</B>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Grandes switches de telefonia</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Pequenos sistemas de PABX</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Infraestrutura do wiring closet</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt04">
+  <text><![CDATA[<b>Médio para grandes empresas</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt05">
+  <text><![CDATA[<b>Pequenas para médias empresas</b>]]></text> 
+  </component>
+
+
+
+
+
+
+</textcomponents>

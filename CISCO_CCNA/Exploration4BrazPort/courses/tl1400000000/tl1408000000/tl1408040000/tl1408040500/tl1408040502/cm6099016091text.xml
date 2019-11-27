@@ -1,0 +1,38 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Problemas NAT comuns</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<font size='14pt'><b>Problemas NAT comuns</b></font><ul><li>Problemas de interoperabilidade</li><li>NAT estático incorreto</li><li>Temporizadores NAT configurados incorretamente</li></ul>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>7 Aplicativo</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>6 Apresentação</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>5 Sessão</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>4 Transporte</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>3 Rede</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>2 Enlaces de dados</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>1 Física</b>]]></text>
+</component>
+
+</textcomponents>

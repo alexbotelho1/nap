@@ -1,0 +1,107 @@
+<textcomponents>
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para exibir a animação.</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Detecção de rede - Próxima atualização</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Tabela de roteamento</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Salto</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="ID_txt06a">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_txt07a">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Salto</b>]]></text>
+</component>
+
+<component id="ID_txt08a">
+<text><![CDATA[<b>Salto</b>]]></text>
+</component>
+
+
+
+<component id="ID_update01">
+<text><![CDATA[<b>Atualizar</b>]]></text>
+</component>
+
+<component id="ID_update02">
+<text><![CDATA[<b>Atualizar</b>]]></text>
+</component>
+
+<component id="ID_update03">
+<text><![CDATA[<b>Atualizar</b>]]></text>
+</component>
+
+<component id="ID_update04">
+<text><![CDATA[<b>Atualizar</b>]]></text>
+</component>
+
+<component id="ID_update05">
+<text><![CDATA[<b>Atualizar</b>]]></text>
+</component>
+
+<component id="ID_update06">
+<text><![CDATA[<b>Atualizar</b>]]></text>
+</component>
+
+<component id="ID_subtitle01">
+<text><![CDATA[<b>Nenhuma informação nova</b>]]></text>
+</component>
+
+
+</textcomponents>

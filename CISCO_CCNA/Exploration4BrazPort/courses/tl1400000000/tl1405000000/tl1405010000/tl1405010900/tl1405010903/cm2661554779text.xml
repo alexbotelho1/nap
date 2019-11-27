@@ -1,0 +1,253 @@
+<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Atividade 1</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Atividade 2</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Atividade 3</B>]]></text> 
+</component>
+
+<component id="ID_activity">
+  <text><![CDATA[<B>Atividade</B>]]></text> 
+</component>
+
+<component id="ID_activity1">
+  <text><![CDATA[<B>Operação ACL</B>]]></text> 
+</component>
+
+<component id="ID_activity2">
+  <text><![CDATA[<B>Colocando ACLs</B>]]></text> 
+</component>
+
+<component id="ID_activity4">
+  <text><![CDATA[<B>ACLs padrão e estendidas</B>]]></text> 
+</component>
+
+<component id="ID_check1">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset1">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+
+<component id="ID_check2">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset2">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+
+<component id="ID_check3">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset3">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+
+<component id="ID_check4">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset4">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+
+<component id="ID_check5">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_reset5">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+
+
+<component id="ID_step1">
+  <text><![CDATA[Arraste e solte a palavra ou expressão apropriada para completar as orações. Nem todas as respostas são usadas. Algumas instruções exigem 2 palavras que podem ser incluídas em qualquer ordem.]]></text> 
+</component>
+
+<component id="ID_step2">
+  <text><![CDATA[Clique na coluna apropriada na tabela para identificar se a característica descreve ACLs padrão, estendidas ou ambas.]]></text> 
+</component>
+
+<component id="ID_step3">
+  <text><![CDATA[Avalie as políticas de rede e determine a melhor colocação para as ACLs. Arraste e solte o rótulo ACL no local apropriado no gráfico.]]></text> 
+</component>
+
+
+<component id="ID_txt01_01">
+  <text><![CDATA[<B>Lista de controle de acesso (ACL) é um script de configuração de roteador que controla se um roteador irá _____ ou _____ a passagem a pacotes com base nos critérios encontrados no cabeçalho de pacote.</B>]]></text> 
+</component>
+
+<component id="ID_txt02_01">
+  <text><![CDATA[<B>As ACLs costumam ser utilizada em roteadores de  _____  colocados entre as suas redes interna e externa, como a Internet.</B>]]></text> 
+</component>
+
+<component id="ID_txt03_01">
+  <text><![CDATA[<B>Um roteador com três interfaces ativas e dois protocolos de rede (IP e IPX) pode ter _____ ACLs ativas.</B>]]></text> 
+</component>
+
+<component id="ID_txt04_01">
+  <text><![CDATA[<B>Para ACLs de entrada, os pacotes de entrada são processados  _____ de serem roteados para uma interface de saída.</B>]]></text> 
+</component>
+
+<component id="ID_txt05_01">
+  <text><![CDATA[<B>Para ACLs de saída, os pacotes de entrada são processados  _____ de serem roteados para uma interface de saída.</B>]]></text> 
+</component>
+
+<component id="ID_txt06_01">
+  <text><![CDATA[<B>Ao final de toda lista de acesso, há uma instrução implícita do critério _____. Por isso, se um pacote não corresponder a nenhuma das suas instruções de critérios, ele será _____ </B>]]></text> 
+</component>
+
+<component id="ID_txt07_01">
+  <text><![CDATA[<B>permit</B>]]></text> 
+</component>
+
+<component id="ID_txt08_01">
+  <text><![CDATA[<B>negação</B>]]></text> 
+</component>
+
+<component id="ID_txt09_01">
+  <text><![CDATA[<B>firewall</B>]]></text> 
+</component>
+
+<component id="ID_txt10_01">
+  <text><![CDATA[<B>seis</B>]]></text> 
+</component>
+
+<component id="ID_txt11_01">
+  <text><![CDATA[<B>antes</B>]]></text> 
+</component>
+
+<component id="ID_txt12_01">
+  <text><![CDATA[<B>depois</B>]]></text> 
+</component>
+
+<component id="ID_txt13_01">
+  <text><![CDATA[<B>três</B>]]></text> 
+</component>
+
+<component id="ID_txt14_01">
+  <text><![CDATA[<B>bloqueado</B>]]></text> 
+</component>
+
+<component id="ID_txt15_01">
+  <text><![CDATA[<B>permitido</B>]]></text> 
+</component>
+
+<component id="ID_txt16_01">
+  <text><![CDATA[<B>enquanto</B>]]></text> 
+</component>
+
+<component id="ID_txt17_01">
+  <text><![CDATA[<B>doze</B>]]></text> 
+</component>
+
+
+
+
+<component id="txt_numrows">
+		<text><![CDATA[7]]></text>
+	</component>
+    <component id="txt_numcols">
+		<text><![CDATA[2]]></text>
+	</component>
+    <component id="txt_col1">
+		<text><![CDATA[Padrão]]></text>
+	</component>
+    <component id="txt_col2">
+		<text><![CDATA[Estendido]]></text>
+	</component>
+    
+    <component id="txt_q1">
+		<text><![CDATA[Podem filtrar tráfego com base no endereço IP de origem]]></text>
+	</component>
+    <component id="txt_q2">
+		<text><![CDATA[Podem filtrar tráfego com base no endereço IP de destino]]></text>
+	</component>
+    <component id="txt_q3">
+		<text><![CDATA[Podem filtrar tráfego com base no tipo de protocolo]]></text>
+	</component>
+    <component id="txt_q4">
+		<text><![CDATA[Utiliza números de 1 a 99]]></text>
+	</component>
+    <component id="txt_q5">
+		<text><![CDATA[Usa números de 100 a 199]]></text>
+	</component>
+    <component id="txt_q6">
+		<text><![CDATA[Usa números de 1300 a 1999]]></text>
+	</component>
+    <component id="txt_q7">
+		<text><![CDATA[Podem utilizar um nome, e não um número]]></text>
+	</component>
+
+
+   <component id="txt_a1">
+		<text><![CDATA[1,2]]></text>
+	</component>
+    <component id="txt_a2">
+		<text><![CDATA[2]]></text>
+	</component>
+    <component id="txt_a3">
+		<text><![CDATA[2]]></text>
+	</component>
+    <component id="txt_a4">
+		<text><![CDATA[1]]></text>
+	</component>
+    <component id="txt_a5">
+		<text><![CDATA[2]]></text>
+	</component>
+    <component id="txt_a6">
+		<text><![CDATA[1]]></text>
+	</component>
+    <component id="txt_a7">
+		<text><![CDATA[1,2]]></text>
+	</component>
+    
+
+<component id="ID_txt01_03">
+  <text><![CDATA[Política de rede Nº 1: utilize uma ACL padrão para parar a rede 192.168.10.0/24 de acessar a Internet por meio do ISP.<br>Política de rede Nº 2: utilize uma ACL estendida para parar a rede 192.168.30.0/24 de acessar o servidor TFTP/Web.]]></text> 
+</component>
+
+
+<component id="ID_txt02_03">
+  <text><![CDATA[<B>Servidor WEB/TFTP</B>]]></text> 
+</component>
+
+<component id="ID_txt03_03">
+  <text><![CDATA[<B>ACL padrão</B>]]></text> 
+</component>
+
+<component id="ID_txt04_03">
+  <text><![CDATA[<B>ACL estendida</B>]]></text> 
+</component>
+
+
+
+
+<component id="ID_checkBtn">
+  <text><![CDATA[<B>Verificar</B>]]></text> 
+</component>
+<component id="ID_resetBtn">
+  <text><![CDATA[<B>Redefinir</B>]]></text> 
+</component>
+
+<!-- Correct Feedback -->
+<component id="ID_titleCorrect">
+<text><![CDATA[Corrigir]]></text>
+</component>
+
+<component id="ID_correctText">
+<text><![CDATA[Parabéns! Você concluiu esta atividade com êxito.]]></text></component>
+
+<!-- Incorrect Feedback -->
+<component id="ID_titleIncorrect">
+<text><![CDATA[Incorreto]]></text>
+</component>
+
+<component id="ID_IncorrectText">
+<text><![CDATA[Esta atividade está incompleta, tente novamente.]]></text></component>
+
+</textcomponents>

@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 11:11:34">
+<title><content-text><![CDATA[2.3.2  - P P P Configuration Commands]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts P P P option configuration commands as follows: <br><br>Router (config-i f)#compress [predictor | stac]<br><br>Keyword: predictor.<br>Description: (Optional) Specifies to use a predictor compression algorithm.<br><br>Keyword: stac.<br>Description: (Optional) Specifies to use a Stacker (LZS) compression algorithm.<br><br>Router (config-i f)#p p p quality percentage<br><br>Keyword: percentage.<br>Description: Specifies the link quality threshold. Range is 1 to 100.]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

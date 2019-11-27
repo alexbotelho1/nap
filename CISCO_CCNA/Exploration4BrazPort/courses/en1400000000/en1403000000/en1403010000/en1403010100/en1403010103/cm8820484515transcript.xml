@@ -1,0 +1,5 @@
+<transcript lastedited="11.21.08 08:11:23">
+<title><content-text><![CDATA[3.1.1  - Introducing Frame Relay]]></content-text></title>
+<brief><content-text><![CDATA[The animation depicts Frame Relay operation. <br><br>Network Topology:<br>A group of switches is interconnected in a Frame Relay cloud. Three routers are labeled as D T E. Each router is connected to one of the switches at the edge of the cloud. The switches to which the routers connect on the WAN edge are DCE. <br><br>This animation depicts the path a frame takes from D T E to D T E.<br>As the animation progresses, a frame passes from the leftmost router (D T E) to a WAN edge switch (DCE), through two switches within the cloud, to another WAN edge switch (DCE), and finally to the rightmost router (D T E). <br><br>- The D T E sends frames to the DCE switch on the WAN edge.<br>- The frames move from switch to switch across the WAN to the destination DCE switch on the WAN edge.<br>- The destination DCE delivers the frames to the destination D T E.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

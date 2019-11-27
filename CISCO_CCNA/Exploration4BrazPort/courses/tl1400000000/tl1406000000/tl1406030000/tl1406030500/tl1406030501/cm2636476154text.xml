@@ -1,0 +1,135 @@
+<textcomponents>
+<component id="ID_inst">
+<text><![CDATA[Clique para exibir os slides.]]></text>
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[Protocolos de tunelamento]]></text>
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[Encapsulamento]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_title">
+<text><![CDATA[<b>Segurança de VPN</b>]]></text>
+</component>
+
+<component id="ID_S1_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Protocolos de Tunelamento</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Protocolo de operadora: </b><ul><li>O protocolo sobre o qual as informações estão passando (Frame Relay, ATM, MPLS).</li></ul><b>Protocolo de encapsulamento: </b><ul><li>O protocolo que envolve os dados originais (GRE, IPSec, L2F, PPTP, L2TP). </li></ul><b>Protocolo de passageiro: </b><ul><li>O protocolo pelo qual os dados originais estavam sendo levados (IPX, AppleTalk, IPv4, IPv6).</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_S2_title">
+<text><![CDATA[<b>Encapsulamento de Pacote</b>]]></text>
+</component>
+
+<component id="ID_S2_txt01">
+<text><![CDATA[<b>Pacote do computador do cliente</b>]]></text>
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[<b>Pacote em transmissão pela Internet</b>]]></text>
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[<b>Pacote do VPN</b>]]></text>
+</component>
+
+<component id="ID_S2_txt04">
+<text><![CDATA[<b>SMTP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt05">
+<text><![CDATA[<b>TCP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt06">
+<text><![CDATA[<b>IP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt07">
+<text><![CDATA[<b>PPP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt08">
+<text><![CDATA[<b>SMTP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt09">
+<text><![CDATA[<b>TCP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt10">
+<text><![CDATA[<b>IP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt11">
+<text><![CDATA[<b>PPP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt12">
+<text><![CDATA[<b>GRE</b>]]></text>
+</component>
+
+<component id="ID_S2_txt13">
+<text><![CDATA[<b>IP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt14">
+<text><![CDATA[<b>IPsec</b>]]></text>
+</component>
+
+<component id="ID_S2_txt15">
+<text><![CDATA[<b>SMTP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt16">
+<text><![CDATA[<b>TCP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt17">
+<text><![CDATA[<b>IP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt18">
+<text><![CDATA[<b>PPP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt19">
+<text><![CDATA[<b>Remetente</b>]]></text>
+</component>
+
+<component id="ID_S2_txt20">
+<text><![CDATA[<b>Dispositivo de VPN</b>]]></text>
+</component>
+
+<component id="ID_S2_txt21">
+<text><![CDATA[<b>Túnel de VPN</b>]]></text>
+</component>
+
+<component id="ID_S2_txt22">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_S2_txt23">
+<text><![CDATA[<b>Dispositivo de VPN</b>]]></text>
+</component>
+
+<component id="ID_S2_txt24">
+<text><![CDATA[<b>Servidor de<br />Acesso</b>]]></text>
+</component>
+
+<component id="ID_S2_txt25">
+<text><![CDATA[<b>Receptor</b>]]></text>
+</component>
+
+</textcomponents>

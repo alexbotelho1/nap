@@ -1,0 +1,19 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>ACLs reflexivas</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Rede desconhecida</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Rede confiável Segura</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Iniciado em</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Iniciado fora de</b>]]></text>
+</component>
+</textcomponents>

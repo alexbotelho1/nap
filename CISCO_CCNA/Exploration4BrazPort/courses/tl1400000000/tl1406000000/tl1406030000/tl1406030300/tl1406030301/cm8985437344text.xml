@@ -1,0 +1,38 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Componentes da VPN</b>]]></text> 
+ </component>
+<component id="txt01">
+<text><![CDATA[<b>Parceiro de negócios com roteador</b>]]></text> 
+ </component>
+<component id="txt02">
+<text><![CDATA[<b>Escritório remoto com roteador</b>]]></text> 
+ </component>
+<component id="txt03">
+<text><![CDATA[<b>Escritório regional com firewall</b>]]></text> 
+ </component>
+<component id="txt04">
+<text><![CDATA[<b>Internet</b>]]></text> 
+ </component>
+<component id="txt05">
+<text><![CDATA[<b>Pop</b>]]></text> 
+ </component>
+<component id="txt06">
+<text><![CDATA[<b>Escritório em casa com Conexão Banda Larga</b>]]></text> 
+ </component>
+<component id="txt07">
+<text><![CDATA[<b>Funcionário remoto com cliente de VPN em um laptop</b>]]></text> 
+ </component>
+<component id="txt08">
+<text><![CDATA[<b>Roteador de perímetro</b>]]></text> 
+ </component>
+<component id="txt09">
+<text><![CDATA[<b>Rede Corporativa</b>]]></text> 
+ </component>
+<component id="txt10">
+<text><![CDATA[<b>Firewall</b>]]></text> 
+ </component>
+<component id="txt11">
+<text><![CDATA[<b>Concentrador de VPN</b>]]></text> 
+ </component>
+</textcomponents>

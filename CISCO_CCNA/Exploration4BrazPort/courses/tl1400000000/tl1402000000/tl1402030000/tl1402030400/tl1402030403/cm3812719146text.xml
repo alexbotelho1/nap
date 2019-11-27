@@ -1,0 +1,16 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<B>Saída de dados do comando <font face='_typewriter'>debug ppp negotiation</font></B>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<B>Operadora</B>]]></text> 
+</component>
+<component id="ID_routerIcon">
+  <text><![CDATA[<B>Saída do roteador</B>]]></text> 
+  </component>
+<component id="ID_routerCallOut1">
+  <text><![CDATA[Essa saída de dados exibe trocas de pacotes entre os roteadores R1 e R3 durante a negociação PPP inicial.]]></text> 
+  </component>
+</textcomponents>

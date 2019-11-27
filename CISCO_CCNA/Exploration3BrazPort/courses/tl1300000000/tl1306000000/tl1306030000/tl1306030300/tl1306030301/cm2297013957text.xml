@@ -1,0 +1,28 @@
+<textcomponents>
+<component id="ID_Title01">
+<text><![CDATA[<b>Problemas de endereçamento IP</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Topologia 1</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Topologia 2</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Topologia 3</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>VLAN10</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>VLAN30</b>]]></text>
+</component>
+
+
+
+</textcomponents>

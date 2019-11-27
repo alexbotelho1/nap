@@ -1,0 +1,16 @@
+<textcomponents>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Neste capítulo, você aprendeu:</b></font></td></tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Que o roteamento entre VLANs é realizado com o uso de um roteador dedicado ou de um switch multicamada. Que o roteamento entre VLANs facilita a comunicação entre dispositivos isolados por limites de VLAN.</li><br/><li>Que o roteamento entre VLANs tradicional exige que um roteador seja configurado com interfaces físicas múltiplas, cada uma conectada fisicamente para separar VLANs em um switch.</li><br/><li>Que o modelo de roteador fixo oferece funcionalidade semelhante à do roteamento entre VLANs tradicional a custo reduzido, mas obtém desempenho inferior em redes congestionadas.</li><br/><li>Que o roteamento entre VLANs tradicional utiliza as interfaces físicas do roteador, enquanto o roteamento entre VLANs de Router-on-a-stick utiliza subinterfaces lógicas da interface física.</li><br/><li>A configurar portas de switch conectadas ao roteador para as VLANs apropriadas. A configurar cada interface de roteador com a sub-rede associada a cada VLAN.</li><br/><li>A configurar cada subinterface em um Router-on-a-stick com uma ID de VLAN exclusiva e um endereço IP correspondente para corresponder à sub-rede associada à VLAN.</li><br/><li>E a verificar a configuração de cada dispositivo para reduzir o risco de problemas de configuração de switch, roteador ou endereço IP.</li><br/></ul></td>
+  </tr>
+</table>]]></text>
+</component>
+
+<component id="ID_title"><text><![CDATA[<b></b>]]></text>
+</component>
+</textcomponents>

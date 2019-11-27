@@ -1,0 +1,128 @@
+<textcomponents>
+
+<!-- -->
+<component id="id_instruct">
+	<text><![CDATA[<font size="14"><b>Activity</b></font><br/><br/>Click the appropriate column in the table to identify whether the corresponding statement about frame relay is true or false.]]></text>
+</component>
+
+<!-- -->
+<component id="id_title">
+	<text><![CDATA[<font size="16"><b>WAN Connection Option: Frame Relay</b></font>]]></text>
+</component>
+
+<component id="id_header">
+	<text><![CDATA[<font size="14"><b>Statement: Frame Relay</b></font>]]></text>
+</component>
+
+<component id="ID_Button01">
+	<text><![CDATA[<b>Check</b>]]></text>
+</component>
+
+<component id="ID_Button02">
+	<text><![CDATA[<b>Reset</b>]]></text>
+</component>
+
+<!--Number of rows in the table-->
+<component id="txt_numrows">
+	<text><![CDATA[9]]></text>
+</component>
+
+<!--Number of columns for the answers in the table. Do not count the question column-->
+<component id="txt_numcols">
+	<text><![CDATA[2]]></text>
+</component>
+
+<!--Answer column headers-->
+<component id="txt_col1">
+	<text><![CDATA[<b>True</b>]]></text>
+</component>
+
+<component id="txt_col2">
+	<text><![CDATA[<b>False</b>]]></text>
+</component>
+
+<!--Question text - blockindent code moves the text away from the left edge a bit-->
+<!--Question text - If questions are numbered, use blockindent for hanging indents-->
+<component id="txt_q1">
+<text><![CDATA[1. <textformat blockindent='13'>is considered a connection oriented digital WAN link.</textformat>]]></text>
+</component>
+
+<component id="txt_q2">
+<text><![CDATA[2. <textformat blockindent='13'>is based on packet switching technology.</textformat>]]></text>
+</component>
+
+<component id="txt_q3">
+<text><![CDATA[3. <textformat blockindent='13'>has less overhead and latency than X.25.</textformat>]]></text>
+</component>
+
+<component id="txt_q4">
+<text><![CDATA[4. <textformat blockindent='13'>may be used to interconnect LANs.</textformat>]]></text>
+</component>
+
+<component id="txt_q5">
+<text><![CDATA[5. <textformat blockindent='13'>is mostly implemented using permanent virtual circuits.</textformat>]]></text>
+</component>
+
+<component id="txt_q6">
+<text><![CDATA[6. <textformat blockindent='13'>is used on circuits ranging from 56 kb/s up to 45 Mb/s.</textformat>]]></text>
+</component>
+
+<component id="txt_q7">
+<text><![CDATA[7. <textformat blockindent='13'>Costs are based solely on the distance the packets travel.</textformat>]]></text>
+</component>
+
+<component id="txt_q8">
+<text><![CDATA[8. <textformat blockindent='13'>is not flexible and will not handle bursts of data.</textformat>]]></text>
+</component>
+
+<component id="txt_q9">
+<text><![CDATA[9. <textformat blockindent='13'>can use one physical interface for multiple connections.</textformat>]]></text>
+</component>
+
+<!--Answers - Give the column number(s), column numbering start with 1 not 0-->
+<!--Answers - For MCMA separate the correct answers with commas [2, 4, 5] -->
+<component id="txt_a1">
+<text><![CDATA[1]]></text>
+</component>
+<component id="txt_a2">
+<text><![CDATA[1]]></text>
+</component>
+<component id="txt_a3">
+<text><![CDATA[1]]></text>
+</component>
+<component id="txt_a4">
+<text><![CDATA[1]]></text>
+</component>
+<component id="txt_a5">
+<text><![CDATA[1]]></text>
+</component>
+<component id="txt_a6">
+<text><![CDATA[1]]></text>
+</component>
+<component id="txt_a7">
+<text><![CDATA[2]]></text>
+</component>
+<component id="txt_a8">
+<text><![CDATA[2]]></text>
+</component>
+<component id="txt_a9">
+<text><![CDATA[1]]></text>
+</component>
+
+<!-- Correct Feedback -->
+<component id="ID_correctTitle">
+<text><![CDATA[Correct]]></text>
+</component>
+
+<component id="ID_correctText">
+<text><![CDATA[Correct, you successfully identified the correct type of computer for each scenario. Click Next to continue.]]></text></component>
+
+<!-- Incorrect Feedback -->
+<component id="ID_incorrectTitle">
+<text><![CDATA[Incorrect]]></text>
+</component>
+
+<component id="ID_incorrectText">
+<text><![CDATA[Incorrect, review the purpose of the server, workstation and desktop computers and try again.]]></text></component>
+
+</textcomponents>

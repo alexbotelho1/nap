@@ -1,0 +1,134 @@
+<textcomponents>
+<!-- popups -->
+<component id="popup1title">
+	<text><![CDATA[Aux]]></text>
+</component>
+<component id="popup1">
+	<text><![CDATA[A porta AUX é uma porta de gerenciamento usada na configuração remota do dispositivo.  Ela é mais usada na conexão de um modem para gerenciar o dispositivo quando há falha no caminho de rede.  Nem todos os roteadores têm uma porta AUX.]]></text>
+</component>
+
+<component id="popup2title">
+	<text><![CDATA[Console]]></text>
+</component>
+<component id="popup2">
+	<text><![CDATA[A porta de console permite a configuração local do dispositivo. Trata-se de uma porta de gerenciamento, não sendo projetada como uma porta de networking.]]></text>
+</component>
+
+<component id="popup3title">
+	<text><![CDATA[DUAL UART da interface do usuário]]></text>
+</component>
+<component id="popup3">
+	<text><![CDATA[UART (Universal Asynchronous Receiver/Transmitter, Receptor transmissor assíncrono universal); dois métodos de acesso (DUAL) pelas portas auxiliar e de console.]]></text>
+</component>
+
+<component id="popup4title">
+	<text><![CDATA[CompactFlash & Flash]]></text>
+</component>
+<component id="popup4">
+	<text><![CDATA[Armazena a imagem do software Cisco IOS no SIMM (Single In-line Memory Module, Módulo de memória interno único) ou na placa PCMCIA.]]></text>
+</component>
+
+<component id="popup5title">
+	<text><![CDATA[ROM de inicialização]]></text>
+</component>
+<component id="popup5">
+	<text><![CDATA[Mantém bootstrap, monitor de ROM e, como opção, a versão dimensionada do software IOS; compartilha a memória flash com NVRAM.]]></text>
+</component>
+
+<component id="popup6title">
+	<text><![CDATA[NVRAM]]></text>
+</component>
+<component id="popup6">
+	<text><![CDATA[Mantém a configuração de inicialização; compartilha a memória flash com a ROM de inicialização.]]></text>
+</component>
+
+<component id="popup7title">
+	<text><![CDATA[CPU]]></text>
+</component>
+<component id="popup7">
+	<text><![CDATA[A unidade de processamento central é o cérebro do computador. A CPU é onde acontece a maioria dos cálculos com a interpretação de instruções do programa de computador e dos dados de processamento.]]></text>
+</component>
+
+<component id="popup8title">
+	<text><![CDATA[ASIC de controle do sistema]]></text>
+</component>
+<component id="popup8">
+	<text><![CDATA[Controla o fluxo de dados entre a memória, as interfaces e a CPU.]]></text>
+</component>
+
+<component id="popup9title">
+	<text><![CDATA[DIMMs SDRAM]]></text>
+</component>
+<component id="popup9">
+	<text><![CDATA[Mantêm a configuração em execução, a tabela de roteamento e outras estruturas dinâmicas.]]></text>
+</component>
+
+<component id="popup10title">
+	<text><![CDATA[Interfaces]]></text>
+</component>
+<component id="popup10">
+	<text><![CDATA[Incluem dois slots modulares e duas portas Fast Ethernet internas.]]></text>
+</component>
+
+
+<!-- text -->
+
+<component id="ID_txt01">
+	<text><![CDATA[<b>Aux</b>]]></text>
+</component>
+<component id="ID_txt02">
+	<text><![CDATA[<b>Console</b>]]></text>
+</component>
+<component id="ID_txt03">
+	<text><![CDATA[<b>Interface do usuário<br/>Dual UART</b>]]></text>
+</component>
+<component id="ID_txt04">
+	<text><![CDATA[<b>CompactFlash<br/>Cartão de memória</b>]]></text>
+</component>
+<component id="ID_txt05">
+	<text><![CDATA[<b>Flash<br/>32, 64 ou 128 MB<br/>o padrão é 32 MB</b>]]></text>
+</component>
+<component id="ID_txt06">
+	<text><![CDATA[<b>ROM de inicialização</b>]]></text>
+</component>
+<component id="ID_txt06a">
+	<text><![CDATA[<b>NVRAM</b>]]></text>
+</component>
+<component id="ID_txt06b">
+	<text><![CDATA[<b>2 ou 4 MB<br/>Memória flash</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+	<text><![CDATA[<b>CPU<br/>M860<br/>Processador</b>]]></text>
+</component>
+<component id="ID_txt08">
+	<text><![CDATA[<b>Sistema<br/>Controle<br/>ASIC</b>]]></text>
+</component>
+<component id="ID_txt09">
+	<text><![CDATA[<b>SDRAM<br/>DIMMs<br/>128 MB<br/>(expansível até<br/>348 MB)</b>]]></text>
+</component>
+<component id="ID_txt10">
+	<text><![CDATA[<b>Slot 0<br/>HWIC/WIC/VWIC</b>]]></text>
+</component>
+<component id="ID_txt11">
+	<text><![CDATA[<b>Slot 1<br/>HWIC/WIC/VWIC</b>]]></text>
+</component>
+<component id="ID_txt12">
+	<text><![CDATA[<b>FastEthernet 0/0</b>]]></text>
+</component>
+<component id="ID_txt13">
+	<text><![CDATA[<b>FastEthernet 0/1</b>]]></text>
+</component>
+<component id="ID_txt14">
+	<text><![CDATA[<b>Barramento CPU</b>]]></text>
+</component>
+<component id="ID_txt15">
+	<text><![CDATA[<b>Sistema<br/>Barramento</b>]]></text>
+</component>
+<component id="ID_inst">
+	<text><![CDATA[<b>Diagrama lógico dos componentes internos de um roteador Cisco 1841<br/> Passe o mouse sobre componentes para ver uma breve descrição.</b>]]></text>
+</component>
+<component id="ID_title">
+	<text><![CDATA[<b>Componentes de hardware de um roteador</b>]]></text>
+</component>
+</textcomponents>

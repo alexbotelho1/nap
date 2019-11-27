@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="6_4_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Typical Laptop
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Laptop – Battery Replacement
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Laptop – Optical Drive Replacement</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE4">
+        <source>Laptop – Hard Drive Replacement</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE5">
+        <source>Laptop – Memory Replacement</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TITLE6">
+        <source>Laptop – Expansion Card Replacement</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TITLE7">
+        <source>Laptop – Bottom View</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TITLE8">
+        <source>Laptop – Bottom View</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

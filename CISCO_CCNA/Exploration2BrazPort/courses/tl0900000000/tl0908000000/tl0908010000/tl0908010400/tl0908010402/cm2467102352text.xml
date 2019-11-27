@@ -1,0 +1,82 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Tabela de Roteamento: Relação Primária/Secundária</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Rotas de Nível 1</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Padrão</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Super-rede</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Rede</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Endereço IP de próximo salto e/ou Interface de saída</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Caminho/ Interface</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Caminho/ Interface</b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Caminho/ Interface</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<i>Rota definitiva</i>]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<i>Rota definitiva</i>]]></text> 
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<i>Rota definitiva</i>]]></text> 
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Rotas de Nível 2</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Rota Primária</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Rede</b>]]></text> 
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Rota Secundária</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>Sub-rede</b>]]></text> 
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[<i>Rota definitiva</i>]]></text> 
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[<b>Caminho/ Interface</b>]]></text> 
+</component>
+
+<component id="ID_txt22"><text><![CDATA[<b><font color="#0000FF">FastEthernet0/0</font></b>]]></text>
+</component>
+
+</textcomponents>

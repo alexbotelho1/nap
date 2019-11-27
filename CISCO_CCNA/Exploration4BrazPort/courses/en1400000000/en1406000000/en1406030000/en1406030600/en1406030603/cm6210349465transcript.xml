@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 11:12:47">
+<title><content-text><![CDATA[6.3.6 - VPN Data Integrity]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the use of hashes for data integrity and VPN peer authentication.<br><br>Hash operation:<br>- A match means no changes.<br>- No match means something was altered.<br><br>Hashing: <br>The transaction from Gail payable to Jeremy for $100 has been altered to pay Alex Jones $1000. The starting hash and ending hash are now different.<br><br>VPN Authentication:<br>In the diagram, a remote office computer connects to a router that connects to the Internet cloud. On the other side of the cloud, the HR server at the Corporate Office connects to a router that connects to the Internet. Peer authentication occurs between the two routers.<br><br>Peer authentication methods:<br>- RSA signatures<br>- PSK's<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

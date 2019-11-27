@@ -1,0 +1,43 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>Domínio de colisão e de broadcast</B>]]></text> 
+</component>
+
+<component id="ID_button01">
+  <text><![CDATA[<B>Domínio de colisão e de broadcast sem controle</B>]]></text> 
+</component>
+<component id="ID_button02">
+  <text><![CDATA[<B>Domínio de colisão e de broadcast com controle</B>]]></text> 
+</component>
+
+<component id="ID_rollOver01">
+  <text><![CDATA[<B>Domínio de broadcast</B>]]></text> 
+</component>
+<component id="ID_rollOver02">
+  <text><![CDATA[<B>Domínio de colisão</B>]]></text> 
+</component>
+<component id="ID_rollOver03">
+  <text><![CDATA[<B>Cada roteador reduz o tamanho do domínio de broadcast na rede local.</B>]]></text> 
+</component>
+<component id="ID_rollOver04">
+  <text><![CDATA[<B>Cada switch reduz o tamanho do domínio de colisão na rede local para um único link.</B>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<B>1º andar</B>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<B>2º andar</B>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<B>3º andar</B>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<B>4º andar</B>]]></text> 
+</component>
+
+</textcomponents>

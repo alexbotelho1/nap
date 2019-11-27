@@ -1,0 +1,54 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Utilizando Xmodem para restaurar uma imagem do IOS Cisco</b>]]></text>
+</component>
+<component id="ID_txt01">
+  <text><![CDATA[<b>Administrador de sistema</b>]]></text> 
+  </component>
+<component id="ID_bubble1">
+<text><![CDATA[<b>R1 perde a imagem do Cisco IOS
+</b>]]></text> 
+  </component>
+<component id="ID_bubble2">
+  <text><![CDATA[<b>Conexão de console para R1
+</b>]]></text> 
+  </component>
+<component id="ID_button1">
+  <text><![CDATA[<b>Imagem do IOS perdida</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Etapa 1</b>]]></text> 
+</component>
+<component id="ID_button3">
+  <text><![CDATA[<b>Etapa 2</b>]]></text> 
+</component>
+<component id="ID_button4">
+  <text><![CDATA[<b>Etapa 3</b>]]></text> 
+</component>
+<component id="ID_button5">
+  <text><![CDATA[<b>Etapa 4</b>]]></text> 
+</component>
+<component id="tftpserver">
+  <text><![CDATA[<b>Servidor TFTP</b>]]></text> 
+</component>
+
+<component id="ID_s1_1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_2">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_3">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_4">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_5">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+
+<component id="inst">
+  <text><![CDATA[<b>Clique no botão Send para ver "Xmodem enviar arquivo para cisco"</b>]]></text> 
+</component>
+</textcomponents>

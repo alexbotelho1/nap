@@ -1,0 +1,11 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Escalabilidade</b><br/>      -  Redes hierárquicas podem ser facilmente expandidas<br/><b>Redundância</b><br/>      -  Redundância nos níveis do núcleo e de distribuição assegura a disponibilidade de caminho/rotas<br/><b>Desempenho</b><br/>      -  Agregação de link entre os níveis e o alto desempenho dos switches de núcleo e de distribuição<br/>         permitem taxas de transmissão próximas ao máximo suportado em toda a rede<br/><b>Segurança</b><br/>      -  Segurança de porta no nível de acesso e políticas no nível de distribuição tornam a rede<br/>         mais segura<br/><b>Gerenciabilidade</b><br/>      -  Consistência entre os switches em cada nível torna o gerenciamento mais simples<br/><b>Sustentabilidade</b><br/>      -  A modularidade do design hierárquico permite a escala da rede sem que haja<br/>         muitas complicações]]></text>
+</component>
+
+<component id="ID_title"><text><![CDATA[<b>Benefícios de uma rede hierárquica</b>]]></text>
+</component>
+
+
+</textcomponents>

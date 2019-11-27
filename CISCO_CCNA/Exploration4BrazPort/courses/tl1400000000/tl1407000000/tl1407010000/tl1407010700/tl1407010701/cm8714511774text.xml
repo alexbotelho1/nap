@@ -1,0 +1,57 @@
+<textcomponents>
+<component id="ID_button01">
+<text><![CDATA[<b>Topologia SDM</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Tarefas de DHCP</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Adicionar conjunto</b>]]></text>
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<b>Conjuntos de endereços DHCP</b>]]></text>
+</component>
+
+<!-- topology -->
+<component id="ID_top_txt01">
+<text><![CDATA[<b>Servidor<br />DHCP</b>]]></text>
+</component>
+<component id="ID_s1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s2">
+<text><![CDATA[<b>S2</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_title">
+<text><![CDATA[<b>Configurando um servidor DHCP usando o SDM</b>]]></text>
+</component>
+
+
+<!-- slide 2 -->
+<component id="ID_S2_title">
+<text><![CDATA[<b>Tarefas de DHCP</b>]]></text>
+</component>
+
+<!-- slide 3 -->
+<component id="ID_S3_title">
+<text><![CDATA[<b>Adicionar um conjunto de endereços DHCP</b>]]></text>
+</component>
+
+<!-- slide 4 -->
+<component id="ID_S4_title">
+<text><![CDATA[<b>Conjuntos de endereços DHCP</b>]]></text>
+</component>
+
+<component id="inst">
+<text><![CDATA[<b>Clique e arraste a imagem para ver detalhes.</b>]]></text>
+</component>
+<component id="inst2">
+<text><![CDATA[<b>Clique e arraste a imagem para ver detalhes.</b>]]></text>
+</component>
+
+</textcomponents>

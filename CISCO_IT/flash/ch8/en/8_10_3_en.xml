@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_10_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Broadband Technologies </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>DSL Modem and DSL Filter</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_01">
+        <source>Linksys DSL modem</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_02">
+        <source>DSL Filter</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_03">
+        <source>Telephone</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_04">
+        <source>Workstation/
+Personal computer</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_05">
+        <source>PBX</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_06">
+        <source>Alarm</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_07">
+        <source>LAN</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_08">
+        <source>Customer ISDN interface</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_09">
+        <source>Subsriber loop with ISDN
+channel structure</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_10">
+        <source>Digital pipesto other subscribers</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_11">
+        <source>Digital pipesto other networks and sevices</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_12">
+        <source>ISDN central office</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_13">
+        <source>Packet-
+switching network</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_14">
+        <source>Circuit-switching
+network</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_15">
+        <source>Other networks</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_16">
+        <source>Databases</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_17">
+        <source>Other services</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

@@ -1,0 +1,47 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Clique para exibir exemplos de ferramentas de identificação e solução de problemas de software.]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>NMS</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Base de conhecimento</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Ferramentas da linha de base</b>]]></text>
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<b>Analisador de protocolo</b>]]></text>
+</component>
+
+
+<component id="ID_title01">
+<text><![CDATA[<b>Ferramentas de identificação e solução de problemas de software</b>]]></text>
+</component>
+
+
+<component id="ID_txt01">
+<text><![CDATA[Exibição do status do dispositivo NMS <b><i>WhatsUp Gold</i>
+</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>SolarWinds LANsurveyor (ferramenta automatizada de mapeamento de rede)</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>SolarWinds CyberGauge (ferramenta de monitoração de largura de banda)</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Wireshark Protocol Analyzer</b>]]></text>
+</component>
+
+
+</textcomponents>

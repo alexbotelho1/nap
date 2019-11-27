@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="5_6_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TXT_01">
+        <source>Try Quick Solutions First </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_02">
+        <source>Check that all cables are connected to the proper locations</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_03">
+        <source>Unseat and then reconnect cables and connectors</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_04">
+        <source>Reboot the computer or network device </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_05">
+        <source>Login as a different user </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_06">
+        <source>Check that the anti-virus and spyware signature files are up-to-date</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_07">
+        <source>Scan computer with protection software</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_08">
+        <source>Check computer for the latest OS patches and updates</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TITLE1">
+        <source>Microsoft Backup Utility</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TITLE1SS">
+        <source>Troubleshooting Process </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_00">
+        <source>Gather data from the customer</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_002">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_CONTENT 01">
+        <source>Use the F8 key during boot up to use the Last Known Good Configuration settings.
+Use the F8 key to enter the Safe mode to troubleshoot video problems.
+Uninstall an application that was recently added by using the Add/Remove program in the Control Panel.
+Roll back the system using a System Restore point.
+Examine the Device Manager for device conflicts.
+Run cleanmgr to clean up temp files.
+Run scandisk to repair problems with the hard drive.
+Run defrag to speed up the hard drive.
+Reboot the computer.
+Login as a different user.
+
+</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_36">
+        <source>•</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TITLE2">
+        <source>Backup Modes</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

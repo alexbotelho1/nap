@@ -1,0 +1,22 @@
+<textcomponents>
+<component id="ID_Title01">
+<text><![CDATA[<b>Atualizando imagens do software IOS Cisco</b>]]></text>
+</component>
+
+<component id="ID_txt01_01">
+  <text><![CDATA[<b>Servidor TFTP</b>]]></text> 
+</component>
+
+<component id="ID_txt02_01">
+  <text><![CDATA[<b>Sistema<br/>Administrador</b>]]></text> 
+</component>
+
+<component id="ID_routerIcon">
+  <text><![CDATA[<b>Config</b>]]></text> 
+</component>
+
+<component id="ID_s1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+
+</textcomponents>

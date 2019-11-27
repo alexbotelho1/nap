@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="7_3_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_45">
+        <source>Click the highlighted area for important content. Click the highlighted area again to close. </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE1">
+        <source>Types of Scanners</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE2">
+        <source>Scanner Interfaces</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE3">
+        <source>Scanner Interfaces</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_01">
+        <source>All-in-One</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_0001">
+        <source>Combination device that can scan, print, send faxes, and make copies.
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_00001">
+        <source>All- in- one </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_0002">
+        <source>High quality scanner that spins film around a drum while a fixed laser or other beam of light captures the image as it spins.
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_00002">
+        <source>Drum </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_02">
+        <source>Combination device that can scan, print, send faxes, and make copies.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_03">
+        <source>Flatbed</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_0003">
+        <source>Portable scanner that is small enough to drag over text in books or other materials
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_00003">
+        <source>Handheld</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_004">
+        <source>General Animation Application</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_04">
+        <source>Single-purpose device that converts hardcopy data into an electronic image.</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_05">
+        <source>Drum scanner</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_0005">
+        <source>Single purpose device that converts hard copy data to an electronic image.
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_005">
+        <source>Flatbed</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_06">
+        <source>High quality scanner that spins film around a drum while a fixed laser or other beam of light captures the image as it spins.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_07">
+        <source>Handheld</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_08">
+        <source>Scanners use the same types of interfaces as printers.</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

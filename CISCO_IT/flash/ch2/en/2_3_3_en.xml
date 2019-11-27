@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="2_3_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Proper Screwdriver Use
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Stripped Screw
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Flat Head Screwdriver</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE4">
+        <source>Phillips Head Screwdriver</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE5">
+        <source>Hex Driver</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TITLE6">
+        <source>Component Retrieving Tools</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_001">
+        <source>Counterclockwise</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_01">
+        <source>Damage</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_002">
+        <source>Clockwise</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

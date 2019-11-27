@@ -1,0 +1,51 @@
+<textcomponents>
+
+<component id="ID_omitted">
+<text><![CDATA[<b><font face="_typewriter">***saída do comando omitida***</font></b>]]></text>
+</component>
+
+<component id="ID_omitted2">
+<text><![CDATA[<b><font face="_typewriter">***saída do comando omitida por questões de espaço***</font></b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para exibir as várias saídas do comando do roteador.</b>]]></text>
+</component>
+
+<component id="ID_topology01">
+<text><![CDATA[<b>Rota sumarizada<br>estática<br>para 192.168.0.0/16</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>RIPv2 e CIDR</b>]]></text>
+</component>
+
+<component id="ID_output1cap">
+<text><![CDATA[<b>192.168.0.0/16 é uma super-rede.</b>]]></text>
+</component>
+
+<component id="ID_output2cap">
+<text><![CDATA[<b>A super-rede é enviada por R2.</b>]]></text>
+</component>
+
+<component id="ID_output3cap">
+<text><![CDATA[<b>A super-rede está na tabela de roteamento de R1.</b>]]></text>
+</component>
+
+<component id="slide1">
+<text><![CDATA[<b>Super-rede</b>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<b>Depuração de R2</b>]]></text>
+</component>
+
+<component id="slide3">
+<text><![CDATA[<b>Rotas de R1</b>]]></text>
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="5_4_8.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>MSCONFIG
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Regedit</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Last Known Good Configuration</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_01">
+        <source>The last time that you successfully booted your Windows computer, the configuration was saved in the registry in:
+
+HKEY_LOCAL_MACHINE\SYSTEM
+
+You may have installed a driver that is making your system unstable. Troubleshoot. You should reboot from the LKGC. Press F8 when Windows starts to boot. You will find Last Known Good Configuration as an option in the advanced boot menu. </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

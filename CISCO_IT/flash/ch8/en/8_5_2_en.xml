@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_5_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_     ">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE1">
+        <source>LAN Architectures</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE2">
+        <source>Wireless Technologies</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT 38">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_01">
+        <source>Architecture</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_02">
+        <source>Physical Topology</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_03">
+        <source>Logical Topology</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_04">
+        <source>802.11&quot;N&quot; (pre-standard)</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_05">
+        <source>Operates at 2.4 GHz with a maximum data rate of 11 Mbps, and distances of about 98 feet (30 meters)</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_06">
+        <source>Ethernet</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_07">
+        <source>Bus
+
+Star
+
+Extended Star</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_08">
+        <source>Bus</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_09">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_10">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_11">
+        <source>Token Ring</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_12">
+        <source>Star</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_13">
+        <source>Ring</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_14">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_15">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_16">
+        <source>Fiber-Distributed 
+Data Interface (FDDI)</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_17">
+        <source>Double Ring</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_18">
+        <source>Ring</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_19">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_20">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_21">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_22">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_23">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_24">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_25">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_26">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_27">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_28">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_29">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_30">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_31">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_32">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_33">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_34">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_35">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_36">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_37">
+        <source></source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

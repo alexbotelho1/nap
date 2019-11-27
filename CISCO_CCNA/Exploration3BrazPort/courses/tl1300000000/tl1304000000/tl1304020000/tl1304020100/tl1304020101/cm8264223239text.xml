@@ -1,0 +1,18 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do switch</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Configuração padrão do VTP</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver as configurações padrão de VTP do switch S1.</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Versão do VTP = <font color='#FF0000'>1</font><br/>Nome de domínio VTP = <font color='#FF0000'>nulo</font><br/>Modo VTP = <font color='#FF0000'>Servidor</font><br/>Revisão de configuração = <font color='#FF0000'>0</font><br/>VLANs = <font color='#FF0000'>1</font></b>]]></text>
+</component>
+
+</textcomponents>

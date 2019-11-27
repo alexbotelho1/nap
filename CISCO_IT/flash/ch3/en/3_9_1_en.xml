@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="3_9_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Sample Beep Codes</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Matching Beep Tones to Problems</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT-31">
+        <source>10 Beeps </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_01">
+        <source>BEEP CODE</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_02">
+        <source>MEANING  </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_03">
+        <source>CAUSE</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_04">
+        <source>1 Beep (No video)</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_05">
+        <source>Memory Refresh Failure</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_06">
+        <source>Bad memory</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_07">
+        <source>2 Beeps</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_08">
+        <source>Memory parity error</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_09">
+        <source>Bad memory</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_10">
+        <source>3 Beeps </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_11">
+        <source>Base 64K mem failure </source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_12">
+        <source>Bad memory</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_13">
+        <source>4 Beeps </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_14">
+        <source>Timer not operational</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_15">
+        <source>Bad motherboard</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_16">
+        <source>5 Beeps</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_17">
+        <source>Processor error</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_18">
+        <source>Bad processor</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_19">
+        <source>6 Beeps</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_20">
+        <source>8042 Gate A20 failure</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_21">
+        <source>Bad CPU or Motherboard</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_22">
+        <source>7 Beeps</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_23">
+        <source>Processor exception</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_24">
+        <source>Bad processor</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_25">
+        <source>8 Beeps</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_26">
+        <source>Video memory error </source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_27">
+        <source>Bad video card or memory</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_28">
+        <source>9 Beeps</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_29">
+        <source>ROM checksum error</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_30">
+        <source>Bad BIOS</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_32">
+        <source>CMOS checksum error</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_33">
+        <source>Bad motherboard</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_34">
+        <source>11 Beeps</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_35">
+        <source>Cache memory bad</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_36">
+        <source>Bad CPU or motherboard</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_37">
+        <source>Two beeps</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_38">
+        <source>Single beep on strartup</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_39">
+        <source>Six beeps</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_40">
+        <source>CPU problem</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_41">
+        <source>All is well!</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TXT_42">
+        <source>Memory Error</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

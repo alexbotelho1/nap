@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_10_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>ISDN Types</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>DSL Types</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>DSL Types</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_001">
+        <source>Technology</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_01">
+        <source>ISDN Types</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_02">
+        <source>BRI</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_002">
+        <source>Standard</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_003">
+        <source>Bandwidth</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_03">
+        <source>PRI</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_04">
+        <source>BISDN</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_004">
+        <source>Medium </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_005">
+        <source>Notes</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_05">
+        <source>ISDN Basic Rate Interface offers a dedicated 128 Kbps connection using two 64 Kbps B channels.
+ISDN BRI also uses one 16 Kbps
+D channel for call setup, control,
+and teardown.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_06">
+        <source>ISDN Primary Rate Interface offers up to 1.544 Mbps over 23 B channels in North America and Japan or 2.048 Mbps over 30 B channels in Europe and Australia. ISDN PRI also uses one 64 Kbps D channel for call maintenance.</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_006">
+        <source>Analog Modem</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_007">
+        <source>Up to 54 Kbps</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_07">
+        <source>Broadband ISDN manages different types of service all at the same time. BISDN is mostly used only in network backbones.</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_08">
+        <source>DSL Types</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_008">
+        <source>Analog (POTS) lines</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_009">
+        <source>Earliest, simplest WAN technology
+</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_09">
+        <source>ADSL</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_10">
+        <source>HDSL</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_010">
+        <source>Telephony</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_011">
+        <source>ISDN</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_11">
+        <source>SDSL</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_12">
+        <source>VDSL</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_012">
+        <source>Up to 128 Kbps</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_013">
+        <source>Analog (POTS) lines</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_13">
+        <source>IDSL</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_14">
+        <source>Asymmetric DSL currently is the most common implementation. It has speeds that vary from 384 Kbps to more than 6 Mbps downstream. The upstream speed is typically lower.</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_014">
+        <source>Digital layer on analog telephone technology
+</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_015">
+        <source>DSL</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_15">
+        <source>High Data Rate DSL provides equal bandwidth in both directions. It is 1.544 Mbps in North America and 2.048 Mbps in Europe.</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_16">
+        <source>Symmetric DSL provides the same speed, up to 3 Mbps, for uploads and downloads.</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_016">
+        <source>Up to 6 Mbps</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_017">
+        <source>Analog (POTS) lines</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_17">
+        <source>Very High Data Rate DSL is capable of bandwidths between 13 and 52 Mbps downstream, and 16 Mbps upstream.</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_18">
+        <source>ISDN DSL is actually DSL over ISDN lines. It is a set of CCITT/ITU standards for digital transmission over ordinary telephone copper wire, as well as over other media, with a top speed of 144 Kbps. ISDN is available in areas that do not qualify for other DSL implementations. An ISDN adapter at both ends, user side in place of the modem and service provider, is required. ISDN is generally available in urban areas in the United States and Europe from the local phone company.</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_018">
+        <source>Digital layer on analog telephone technology
+</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_019">
+        <source>Cellular
+Modem
+</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_020">
+        <source>Up to 14.4 Mbps</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_021">
+        <source>Radio waves, Microwaves</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_022">
+        <source>3G Cell phones (GSM/UMTS)
+</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TXT_023">
+        <source>Radio /Microwave</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TXT_024">
+        <source>IEEE 802.11(x) 
+(Wi-Fi)
+</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TXT_025">
+        <source>Up to 540 Mbps</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TXT_026">
+        <source>Microwaves</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TXT_027">
+        <source>Wireless LANs
+</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TXT_028">
+        <source>IEEE 802.16
+(Wi-Max)
+</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TXT_029">
+        <source>Up to 70 Mbps</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TXT_030">
+        <source>Microwaves</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TXT_031">
+        <source>Mobile users, feeds Wi-Fi networks
+</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TXT_032">
+        <source>Satellite</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TXT_033">
+        <source>Up to 500 Kbps</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TXT_034">
+        <source>Microwaves</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TXT_035">
+        <source>Requires satellite antenna (dish) 
+</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TXT_036">
+        <source>Cable Modem</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_TXT_037">
+        <source>Up to 9 Mbps</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_TXT_038">
+        <source>Cable TV systems
+(fiber / coax)
+</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_TXT_039">
+        <source>Requires access to cable TV system 
+</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_TXT_040">
+        <source>Cable TV</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_TXT_041">
+        <source>Power Distribution Systems (Grid)</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_TXT_042">
+        <source>Power Line Communications</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_TXT_043">
+        <source>Up to 2.7 Mbps</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_TXT_044">
+        <source>Electrical power distribution lines
+</source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_TXT_045">
+        <source>Better suited for European power systems
+</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

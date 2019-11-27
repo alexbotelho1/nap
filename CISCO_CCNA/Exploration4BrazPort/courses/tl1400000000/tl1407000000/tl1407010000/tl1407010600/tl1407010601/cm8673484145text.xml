@@ -1,0 +1,66 @@
+<textcomponents>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Problema de DHCP</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Problema de host</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Configuração de retransmissão</b>]]></text>
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<b>Renovação de host</b>]]></text>
+</component>
+
+<!-- topology -->
+<component id="ID_top_txt01">
+<text><![CDATA[<b>Servidor<br />DHCP</b>]]></text>
+</component>
+<component id="ID_s1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s2">
+<text><![CDATA[<b>S2</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_title">
+<text><![CDATA[<b>Problemas de DHCP</b>]]></text>
+</component>
+
+<component id="ID_S1_bubble1">
+<text><![CDATA[Desculpe, não posso encaminhar broadcasts para fora da sub-rede de sua rede...]]></text>
+</component>
+
+<component id="ID_S1_bubble2">
+<text><![CDATA[Procurando um servidor DHCP...]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_S2_title">
+<text><![CDATA[<b>Retransmissão DHCP</b>]]></text>
+</component>
+
+<component id="ID_S2_code">
+<text><![CDATA[<font face='_typewriter' color='#ffffff'><b>C:\Documents and Settings\Administrator>ipconfig /release<br /><br />Windows IP Configuration<br /><br />Ethernet adapter Local Area Connection:<br /><br />        Connection-specific DNS Suffix  . :<br />        IP Address. . . . . . . . . . . . : 0.0.0.0<br />        Subnet Mask . . . . . . . . . . . : 0.0.0.0<br />        Default Gateway . . . . . . . . . :<br /><br />C:\Documents and Settings\Administrator>ipconfig /renew<br /><br />Windows IP Configuration<br /><br />An error occurred while renewing interface Local Area Connection : unable to contact your DHCP server. Request has timed out.<br /><br /><br />C:\Documents and Settings\Administrator><br />  </b></font>]]></text> 
+</component>
+
+<!-- slide 3 -->
+<component id="ID_S3_title">
+<text><![CDATA[<b>Retransmissão DHCP</b>]]></text>
+</component>
+
+<!-- slide 4 -->
+<component id="ID_S4_title">
+<text><![CDATA[<b>Retransmissão DHCP</b>]]></text>
+</component>
+
+<component id="ID_S4_code">
+<text><![CDATA[<font face='_typewriter' color='#ffffff'><b>C:\Documents and Settings\Administrator>ipconfig /release<br /><br />Windows IP Configuration<br /><br />Ethernet adapter Local Area Connection:<br /><br />        Connection-specific DNS Suffix  . :<br />        IP Address. . . . . . . . . . . . : 0.0.0.0<br />        Subnet Mask . . . . . . . . . . . : 0.0.0.0<br />        Default Gateway . . . . . . . . . :<br /><br />C:\Documents and Settings\Administrator>ipconfig /renew<br /><br />Windows IP Configuration<br /><br />Ethernet adapter Local Area Connection:<br /><br />        Connection-specific DNS Suffix  . :<br />        IP Address. . . . . . . . . . . . : 192.168.10.11<br />        Subnet Mask . . . . . . . . . . . : 255.255.255.0<br />        Default Gateway . . . . . . . . . : 192.168.10.1<br /><br />C:\Documents and Settings\Administrator></b><br /> </font> ]]></text> 
+</component>
+
+</textcomponents>

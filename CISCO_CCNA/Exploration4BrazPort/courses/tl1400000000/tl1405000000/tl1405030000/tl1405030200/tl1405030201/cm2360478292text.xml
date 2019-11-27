@@ -1,0 +1,86 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<b>Configurando ACLs estendidas</b>]]></text> 
+</component>
+
+
+
+<component id="ID_caption">
+  <text><![CDATA[<b>Passe o mouse sobre esta janela para ver toda a sintaxe do comando.</b>]]></text> 
+  </component>
+<component id="ID_button1">
+  <text><![CDATA[Comandos]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[Configurando ACLs estendidas ]]></text> 
+</component>
+<component id="ID_header1">
+  <text><![CDATA[<B>Parâmetro</B>]]></text> 
+</component>
+<component id="ID_header2">
+  <text><![CDATA[<B>Descrição</B>]]></text> 
+</component>
+<component id="ID_txt01">
+  <text><![CDATA[<B>A ACL103 permite solicitações para as portas 80 e 443<BR/>A ACL104 permite HTTP estabelecido e respostas HTTPS</B>]]></text> 
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>access-list</b> <i>access-list-number </i><b>{deny | permit | remark}</b><i> protocol source </i><b>[</b><i>source-wildcard </i><b>]</b><br><b>[operator</b> <i>operand </i><b>] [port</b> <i> port-number or name </i><b>]</b><i> destination</i> <b>[</b><i>destination-wildcard </i><b>][operator</b><br></i>operand</i><b>] [port</b><i> port-number or name </i><b>][established]<b>]]></text> 
+</component>
+
+<component id="table1">
+	<text><![CDATA[<table bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+<tr>
+<td width='205' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><i>access-list-number</i></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Identifica a lista de acesso utilizando um número no intervalo de 100 a 199 (para uma ACL IP estendida) e de 2000 a 2699 (ACLs IP expandidas).</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><B>deny</B></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Negará acesso se as condições forem correspondentes.</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><B>permit</B></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Permitirá acesso se as condições forem correspondentes.</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><B>remark</B></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Indica se esta entrada permite ou bloqueia o endereço especificado. Também poderia ser utilizado para inserir um comentário.</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><i>protocol</i></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Nome ou número de um protocolo de Internet. Entre as palavras-chave estão <b>icmp, ip, tcp</b>ou <b>udp.</b> Para corresponder a todos os protocolos de Internet (inclusive ICMP, TCP e UDP), utilize a palavra-chave <b>ip</b>.</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><i>source</i></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Número da rede ou host do pacote que está sendo enviado.</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><i>source-wildcard</i></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Bits curinga a serem aplicados à origem.</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><i>destination</i></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Número da rede ou host para o pacote que está sendo enviado.</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><i>destination wildcard</i></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Bits curinga a serem aplicados ao destino.</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><i>operator</i></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>(Opcional) Compara portas de origem ou de destino. Entre os possíveis operandos estão <B>lt</B> (menor que), <B>gt</B> (maior que), <B>eq</B> (igual), <B>neq</B> (não igual) and <B>range</B> (intervalo inclusivo).</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><i>port</i></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>(Opcional) O número decimal ou o nome de uma porta TCP ou UDP.</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><B>established</B></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>(Opcional) Apenas para o protocolo TCP: indica uma conexão estabelecida.</td>
+</tr>
+
+
+</table>]]></text>
+  </component>
+
+</textcomponents>

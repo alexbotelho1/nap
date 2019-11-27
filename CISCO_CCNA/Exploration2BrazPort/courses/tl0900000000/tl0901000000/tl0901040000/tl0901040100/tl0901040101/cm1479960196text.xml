@@ -1,0 +1,66 @@
+<textcomponents>
+<component id="ID_caption01">
+<text><![CDATA[<b>Arraste as respostas para os campos apropriados.</b>]]></text>
+</component>
+<component id="ID_heading">
+<text><![CDATA[<b>Campos do pacote IP</b>]]></text>
+</component>
+<component id="reset_btn">
+<text><![CDATA[<b>Redefinir</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Vers.</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>IHL</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Tipo de serviço</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Tamanho do pacote</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Identificação</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Flag</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Frag. Deslocamento</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>Tempo de vida</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Protocolo</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Checksum do cabeçalho</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Endereço de origem</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>Endereço de destino</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Opções</b>]]></text>
+</component>
+<component id="ID_txt14">
+<text><![CDATA[<b>Preenchimento</b>]]></text>
+</component>
+<component id="ID_header1">
+<text><![CDATA[<b>Byte 1</b>]]></text>
+</component>
+<component id="ID_header2">
+<text><![CDATA[<b>Byte 2</b>]]></text>
+</component>
+<component id="ID_header3">
+<text><![CDATA[<b>Byte 3</b>]]></text>
+</component>
+<component id="ID_header4">
+<text><![CDATA[<b>Byte 4</b>]]></text>
+</component>
+
+</textcomponents>

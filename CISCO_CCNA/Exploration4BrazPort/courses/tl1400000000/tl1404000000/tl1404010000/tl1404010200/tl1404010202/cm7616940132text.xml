@@ -1,0 +1,118 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Medidas de segurança física</b>]]></text>
+</component>
+
+<component id="ID_inst01">
+<text><![CDATA[<b>Clique em cada botão de ataque para obter um exemplo dos vários tipos de ataque.</b>]]></text>
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[<b>Hardware</b>]]></text>
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[<b>Ambiental</b>]]></text>
+</component>
+
+<component id="ID_button3">
+<text><![CDATA[<b>Elétrico</b>]]></text>
+</component>
+
+<component id="ID_button4">
+<text><![CDATA[<b>Manutenção</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_01">
+<text><![CDATA[<b>Planeje a segurança física para limitar o dano ao equipamento:</b>
+<ul><li>Bloqueie o equipamento e impeça o acesso não autorizado em placa móvel no teto, no chão, pela janela ou pela tubulação.</li><li>Monitore e controle entrada da sala com logs eletrônicos.</li><li>Utilize câmeras de segurança.</li></ul>]]></text>
+</component>
+
+<component id="ID_txt02_01">
+<text><![CDATA[<b>Plano de segurança para o piso da sala</b>]]></text>
+</component>
+
+<component id="ID_txt03_01">
+<text><![CDATA[<b>AC</b>]]></text>
+</component>
+
+<component id="ID_txt04_01">
+<text><![CDATA[<b>UPS BAY</b>]]></text>
+</component>
+
+<component id="ID_txt05_01">
+<text><![CDATA[<b>SVRS</b>]]></text>
+</component>
+
+<component id="ID_txt06_01">
+<text><![CDATA[<b>LAN</b>]]></text>
+</component>
+
+<component id="ID_txt07_01">
+<text><![CDATA[<b>WAN</b>]]></text>
+</component>
+
+<component id="ID_txt08_01">
+<text><![CDATA[<b>HELP DESK</b>]]></text>
+</component>
+
+<component id="ID_txt09_01">
+<text><![CDATA[<b>Leitor de cartão</b>]]></text>
+</component>
+
+<component id="ID_txt10_01">
+<text><![CDATA[<b>Porta</b>]]></text>
+</component>
+
+<component id="ID_txt11_01">
+<text><![CDATA[<b>Porta</b>]]></text>
+</component>
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>Limite o dano, criando um ambiente de operação próprio:</b>
+<ul><li>Controle de temperatura</li><li>Controle de umidade</li><li>Fluxo de ar positivo</li><li>Alarme ambiental remoto e gravação e monitoração</li></ul>]]></text>
+</component>
+
+<component id="ID_txt01_03">
+<text><![CDATA[<b>Limite os problemas de alimentação:</b>
+<ul><li>Instalar sistemas de no-break</li><li>Instalar conjuntos de geradores</li><li>Seguir um plano de manutenção preventiva</li><li>Instalar fontes de alimentação redundantes</li><li>Implementar alarme remoto e monitoração</li></ul>]]></text>
+</component>
+
+<component id="ID_txt01_04">
+<text><![CDATA[<b>Limite ameaças à manutenção:</b>
+<ul><li>Utilizar cabos limpos</li><li>Rotular cabos e componentes críticos</li><li>Utilizar procedimentos de descarga eletrostática</li><li>Guardar sobressalentes críticos</li><li>Controlar acesso a portas de console</li></ul>]]></text>
+</component>
+
+<component id="play"><text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute"><text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+<component id="start_animation">
+<text><![CDATA[Este é o começo de uma animação]]></text>
+</component>
+
+
+</textcomponents>

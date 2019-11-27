@@ -1,0 +1,116 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<b>Serviços de banda larga</b>]]></text> 
+</component>
+
+<component id="ID_button1">
+  <text><![CDATA[<b>DSL</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Modem a cabo</b>]]></text> 
+</component>
+<component id="ID_button3">
+  <text><![CDATA[<b>Banda larga sem fio</b>]]></text> 
+</component>
+
+<component id="ID_txt01_01">
+  <text><![CDATA[<b>Funcionário remoto</b>]]></text> 
+</component>
+
+<component id="ID_txt02_01">
+  <text><![CDATA[<b>Roteador</b>]]></text> 
+</component>
+
+<component id="ID_txt03_01">
+  <text><![CDATA[<b>Ethernet</b>]]></text> 
+</component>
+
+<component id="ID_txt04_01">
+  <text><![CDATA[<b>Modem DSL</b>]]></text> 
+</component>
+
+<component id="ID_txt05_01">
+  <text><![CDATA[<b>DSLAM</b>]]></text> 
+</component>
+
+<component id="ID_txt06_01">
+  <text><![CDATA[<b>Ponto de presença (POP)</b>]]></text> 
+</component>
+
+<component id="ID_txt07_01">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_txt08_01">
+  <text><![CDATA[<b>Operadora DSL</b>]]></text> 
+</component>
+
+<component id="ID_txt09_01">
+  <text><![CDATA[<b>Operadora WAN</b>]]></text> 
+</component>
+
+<component id="ID_txt10_01">
+  <text><![CDATA[<b>Escritório da matriz da empresa</b>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01_02">
+  <text><![CDATA[<b>Funcionário remoto</b>]]></text> 
+</component>
+
+<component id="ID_txt02_02">
+  <text><![CDATA[<b>Roteador</b>]]></text> 
+</component>
+
+<component id="ID_txt04_02">
+  <text><![CDATA[<b>Modem a cabo</b>]]></text> 
+</component>
+
+<component id="ID_txt05_02">
+  <text><![CDATA[<b>Headend de cabo</b>]]></text> 
+</component>
+
+<component id="ID_txt07_02">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_txt08_02">
+  <text><![CDATA[<b>Operadora a cabo</b>]]></text> 
+</component>
+
+<component id="ID_txt09_02">
+  <text><![CDATA[<b>Operadora WAN</b>]]></text> 
+</component>
+
+<component id="ID_txt10_02">
+  <text><![CDATA[<b>Escritório da matriz da empresa</b>]]></text> 
+</component>
+
+<!-- slide 3-->
+
+<component id="ID_txt01_03">
+<text><![CDATA[<b>Rede Local Doméstica</b>]]></text>
+</component>
+
+<component id="ID_txt02_03">
+<text><![CDATA[<b>Sem linha de transmissão visual</b>]]></text>
+</component>
+
+<component id="ID_txt03_03">
+<text><![CDATA[<b>Linha de canal de retorno</b>]]></text>
+</component>
+
+<component id="ID_txt04_03">
+<text><![CDATA[<b>Transmissor WiMAX 802.16</b>]]></text>
+</component>
+
+<component id="ID_txt05_03">
+<text><![CDATA[<b>Rede ISP</b>]]></text>
+</component>
+
+<component id="ID_txt06_03">
+<text><![CDATA[<b>Backbone de Internet</b>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,32 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Configurando o Frame Relay</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Frame Relay</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Comm1</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Comm2</b>]]></text>
+</component>
+
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='3'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color='#ffffff'>Tarefas necessárias</font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color='#ffffff'>Tarefas opcionais</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Habilite o encapsulamento Frame Relay em uma interface</li><li>Configure o mapeamento de endereço dinâmico ou estático</li></ul></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Configure a LMI</li><li>Configure os SVCs do Frame Relay</li><li>Configure a modelagem de tráfego do Frame Relay</li><li>Personalize o Frame Relay para a sua rede</li><li>Monitore e mantenha conexões Frame Relay</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

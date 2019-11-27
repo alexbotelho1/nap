@@ -1,0 +1,163 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Clique para consultar a visão geral de camada de aplicação e uma lista de protocolos de aplicativo e portas.]]></text> 
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Visão geral da camada de aplicativo</b>]]></text> 
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Protocolos e portas de aplicativos</b>]]></text> 
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_title">
+<text><![CDATA[<b>Visão geral da camada de aplicativo</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt01">
+<text><![CDATA[<b>Modelo de referência OSI</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[<b>7 Aplicativo</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[<b>6 Apresentação</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt04">
+<text><![CDATA[<b>5 Sessão</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt05">
+<text><![CDATA[<b>4 Transporte</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt06">
+<text><![CDATA[<b>3 Rede</b>]]></text>
+</component>
+
+<component id="ID_S1_txt07">
+<text><![CDATA[<b>2 Enlaces de dados</b>]]></text>
+</component>
+
+<component id="ID_S1_txt08">
+<text><![CDATA[<b>1 Física</b>]]></text>
+</component>
+
+<component id="ID_S1_txt09">
+<text><![CDATA[<b>Modelo de referência TCP/IP</b>]]></text>
+</component>
+
+<component id="ID_S1_txt10">
+<text><![CDATA[<b>HTTP, Telnet, FTP, TFTP, SMTP, POP, IMAP, SNMP, NTP, DNS, NNTP</b>]]></text>
+</component>
+
+<component id="ID_S1_txt11">
+<text><![CDATA[<b>NFS</b>]]></text>
+</component>
+
+<component id="ID_S1_txt12">
+<text><![CDATA[<b>XDR</b>]]></text>
+</component>
+
+<component id="ID_S1_txt13">
+<text><![CDATA[<b>RPC</b>]]></text>
+</component>
+
+<component id="ID_S1_txt14">
+<text><![CDATA[<b>TCP, UDP</b>]]></text>
+</component>
+
+<component id="ID_S1_txt15">
+<text><![CDATA[<b>Protocolos de roteamento</b>]]></text>
+</component>
+
+<component id="ID_S1_txt16">
+<text><![CDATA[<b>IP</b>]]></text>
+</component>
+
+<component id="ID_S1_txt17">
+<text><![CDATA[<b>ICMP</b>]]></text>
+</component>
+
+<component id="ID_S1_txt18">
+<text><![CDATA[<b>ARP, RARP</b>]]></text>
+</component>
+
+<component id="ID_S1_txt19">
+<text><![CDATA[<b>Não especificado</b>]]></text>
+</component>
+
+<component id="ID_S1_txt20">
+<text><![CDATA[<b>Aplicação</b>]]></text>
+</component>
+
+<component id="ID_S1_txt21">
+<text><![CDATA[<b>Transporte</b>]]></text>
+</component>
+
+<component id="ID_S1_txt22">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_S1_txt23">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_S2_title">
+<text><![CDATA[<b>Protocolos e portas de aplicativos</b>]]></text> 
+</component>
+
+<component id="ID_S2_header1">
+  <text><![CDATA[<b>Aplicação</b>]]></text> 
+  </component>
+<component id="ID_S2_header2">
+  <text><![CDATA[<b>Protocolo e porta</b>]]></text> 
+  </component>
+<component id="ID_S2_header3">
+  <text><![CDATA[<b>Descrição</b>]]></text> 
+  </component>
+  
+<component id="ID_S2_table">
+<text><![CDATA[<table header='none' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='150' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Navegador de WWW</td>
+		<td width='200' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>HTTP (TCP porta 80)</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>O <b>Protocolo de Transferência de Hipertexto</b> (Hypertext Transfer Protocol (HTTP)) é utilizado por navegadores e servidores da Web para transferir os arquivos que compõem as páginas Web.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Transferência de arquivos</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>FTP (TCP portas 20 e 21)</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>O <b>Protocolo FTP</b> fornece um modo de mover arquivos entre sistemas de computadores.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Emulação de terminal</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Telnet (TCP porta 23)</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>O protocolo <b>Telnet</b> fornece serviços de emulação de terminal em um fluxo de TCP confiável.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Correio eletrônico</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>POP3 (TCP porta 110)<br />SMTP (TCP porta 25)<br />IMAP4 (TCP porta 143)</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>O <b>Protocolo SMTP</b> é usado para transferir correio eletrônico entre servidores de email e usou clientes pelo correio para enviar email. Clientes de email usam o <b>protocolo POP3</b> ou o <b>Protocolo de Acesso a Mensagens na Internet (IMAP)</b> para receber email.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Gerenciamento de rede</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>SNMP (UDP porta 161)</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>O <b>Simple Network Management Protocol (SNMP)</b> é um protocolo de gerenciamento de rede usado para relatar condições de rede anômalas e configurar valores de limites de rede.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Serviço de arquivo distribuído</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>X Windows (portas UDP 6000-6063)<br /><br />NFS, XDR, RPC (UDP porta 111)</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>X Windows</b> é um protocolo popular que permite que terminais inteligentes comuniquem-se com computadores remotos como se eles estivessem conectados diretamente. <b>Sistema de arquivos de rede (NFS)</b>, <b>representação de dados externa (XDR)</b> e <b> chamada de procedimento remoto (RPC)</b> associam-se para permitir acesso transparente a recursos de rede remota.</td>
+	</tr>
+</table>]]></text> 
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Componentes da rede local sem fio</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Dispositivos WLAN</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Clientes</b>]]></text>
+</component>
+
+</textcomponents>

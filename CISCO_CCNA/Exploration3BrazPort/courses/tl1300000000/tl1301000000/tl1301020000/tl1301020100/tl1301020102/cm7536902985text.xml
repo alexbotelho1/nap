@@ -1,0 +1,47 @@
+<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Departamento de RH</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Departamento de finanças</B>]]></text> 
+</component>
+
+
+<component id="ID_title">
+  <text><![CDATA[<B>Análise das comunidades de usuários</B>]]></text> 
+</component>
+
+
+
+
+
+<component id="ID_bubble01">
+<text><![CDATA[<b><font size='12'>Uplinks redundantes para switches de nível de distribuição</font></b>]]></text>
+</component>
+<component id="ID_bubble02">
+  <text><![CDATA[<b><font size='12'>Não é possível acomodar a adição de mais cinco computadores!</font></b>]]></text> 
+  </component>
+<component id="ID_bubble03">
+  <text><![CDATA[<b><font size='12'>Switch de 24 portas</font></b>]]></text> 
+  </component>
+<component id="ID_bubble04">
+  <text><![CDATA[<b><font size='12'>20 computadores no departamento de RH</font></b>]]></text> 
+  </component>
+  <component id="ID_bubble05">
+  <text><![CDATA[<b><font size='12'>Diâmetro maior para o Departamento de finanças</font></b>]]></text> 
+  </component>
+  <component id="ID_bubble06">
+  <text><![CDATA[<b><font size='12'>Diâmetro menor para o Departamento de finanças</font></b>]]></text> 
+  </component>
+  <component id="ID_bubble07">
+  <text><![CDATA[<b><font size='12'>Computadores de finanças que executam software financeiro</font></b>]]></text> 
+  </component>
+
+
+
+
+
+
+</textcomponents>

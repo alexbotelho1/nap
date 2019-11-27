@@ -1,0 +1,326 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para saber a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para ver a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+
+
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) Descreva os componentes de hardware internos e externos do roteador e a finalidade de cada um.]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 1.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>CPU (Central Processing Unit, Unidade de processamento central)</b> – executa instruções do sistema operacional, como a inicialização do sistema, funções de roteamento e controle de interface da rede.<br/><b>RAM (Random-Access Memory, Memória de acesso aleatório)</b> – armazena a tabela de roteamento e outras estruturas de dados de que o roteador precisa ao encaminhar pacotes.<br/><b>ROM (Read-Only Memory, Memória somente de leitura)</b> – mantém o software de diagnóstico básico usado quando o roteador é desligado.<br/><b>NVRAM (Non-Volatile RAM, RAM não volátil)</b> – armazena a configuração de inicialização, inclusive endereços IP, protocolo de roteamento e outras informações relacionadas. NVRAM é uma porção do chip ROM de inicialização.<br/><b>Memória flash</b> – armazena o sistema operacional (Cisco IOS) e outros arquivos.<br/><b>Interfaces LAN</b>, como Ethernet e FastEthernet, são usadas na conexão com LANs diferentes.<br/><b>Interfaces WAN</b> são usadas na conexão com vários enlaces seriais, inclusive T1, DSL e ISDN.]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[<b>Teste o hardware do roteador:</b><br/>1. Execute POST.<br/>2. Execute o carregador de bootstrap.<br/><b>Localize e carregue o software Cisco IOS:</b><br/>3. Localize o IOS.<br/>4. Carregue o IOS.<br/><b>Localize e carregue o arquivo de configuração de inicialização ou entre no Setup mode (modo de configuração):</b><br/>5. Localize o arquivo de configuração.<br/>6. Execute o arquivo de configuração.<br/>7. Acesse o Setup Mode (modo de configuração).]]></text>
+</component>
+
+<component id="ID_Q2_txt02note">
+<text><![CDATA[<b>Nota: </b>Se uma imagem completa do IOS não puder ser localizada, uma versão dimensionada do IOS será copiada da ROM para a RAM. Essa versão do IOS é usada para ajudar a diagnosticar qualquer problema, podendo ser usada para carregar uma versão completa do IOS na RAM.<br/>Se não houver o arquivo de configuração de inicialização na NVRAM, o roteador talvez procure um servidor TFTP. Se o roteador detectar a existência de um enlace ativo para outro roteador configurado, ele irá enviar um broadcast à procura de um arquivo de configuração no enlace ativo.]]></text>
+</component>
+
+<component id="ID_Q2_txt03">
+<text><![CDATA[2) Descreva o processo de inicialização do roteador desde o início até a configuração final.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 1.1)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) Que características importantes um roteador adiciona à rede?]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 1.1)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<ul><li>Determinando o melhor caminho para enviar pacotes</li><li>Encaminhando pacotes para o destino</li></ul>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) Descreva as etapas necessárias para aplicar uma configuração básica a um roteador. ]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 1.2)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<ul><li>Nomear o roteador</li><li>Definir senhas</li><li>Configurar interfaces</li><li>Configurar um banner</li><li>Salvar alterações em um roteador</li><li>Verificar a configuração básica e as operações do roteador</li></ul>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[5) Descreva a importância da tabela de roteamento. Quais são suas finalidades?]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[(de 1.3)]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[Uma tabela de roteamento fornece ao roteador as informações necessárias para realizar sua função principal – encaminhar pacotes para a rede de destino.]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q5_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[6) Quais são as três formas básicas com que um roteador aprende redes? ]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[(de 1.3)]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<ul><li>Rotas conectadas</li><li>Rotas estáticas</li><li>Rotas dinâmicas</li></ul>]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q6_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+
+<!-- Question 7 -->
+
+
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[(de 1.4)]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[7) Quanto a seus estudos atuais, quais são os campos mais importantes no cabeçalho IP e por que eles são importantes? ]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[<b>Versão</b> – a versão do IP usada atualmente é IPv4<br/><b>TTL (Time to Live, Tempo de vida)</b> – número de roteadores que um pacote pode percorrer antes de ser descartado<br/><b>Endereço IP de origem</b> – endereço IP de origem de 32 bits<br/><b>Endereço IP de destino</b> – endereço IP de destino de 32 bits]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 8 -->
+
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q8_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[8) Descreva o processo de encapsulamento/desencapsulamento quando um pacote passa da origem para o destino. ]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[(de 1.4)]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[A origem encapsula dados em um pacote com endereços IP de origem e de destino. Em seguida, ele encapsula o pacote em um quadro com endereços MAC de origem e de destino e envia o quadro como bits pelo fio. O quadro é recebido pelo gateway da origem – um roteador – a é desencapsulado. Se o endereço MAC de destino for o roteador, o roteador irá pesquisar a tabela de roteamento em busca de uma interface de saída para o destino, encapsular o pacote no formato de quadro apropriado à interface de saída com novos endereços de origem e de destino da Camada 2 e encaminhá-lo pela interface. Esse processo é repetido em cada roteador ao longo do caminho até que o pacote alcance o destino. Da origem para o destino, os endereços de Camada 2 são alterados em cada salto. No entanto, os endereços de origem e de destino não são alterados.]]></text>
+</component>
+<component id="ID_Q8_txt07">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q8_txt08">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 9 -->
+
+
+<component id="ID_Q9_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q9_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q9_txt03">
+<text><![CDATA[9) Quando você pensa na diferença entre o hardware e o software de um PC e de um roteador, o que você considera como pontos positivos e negativos de cada dispositivo? Na sua opinião, qual é o dispositivo mais eficiente e por quê?]]></text>
+</component>
+<component id="ID_Q9_txt04">
+<text><![CDATA[(de 1.3)]]></text>
+</component>
+<component id="ID_Q9_txt05">
+<text><![CDATA[Sua resposta deve estar ligada à compreensão de que um roteador é um dispositivo com uma única finalidade e um computador é um dispositivo com muitas.]]></text>
+</component>
+<component id="ID_Q9_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q9_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 10 -->
+
+
+<component id="ID_Q10_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q10_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q10_txt03">
+<text><![CDATA[10) Ao estudar, aprender e usar a interface de linha de comando em um roteador Cisco, você acha que há um momento em que talvez não precise usar a CLI para configurar roteadores e switches? Como fica a sua visão das tarefas de configuração da rede sem a CLI?]]></text>
+</component>
+<component id="ID_Q10_txt04">
+<text><![CDATA[(de 1.3)]]></text>
+</component>
+<component id="ID_Q10_txt05">
+<text><![CDATA[As respostas irão variar. No entanto, a CLI ainda é a forma dominante de concluir tarefas de configuração. Assim como os comandos DOS, os comandos CLI devem continuar tendo a preferência entre administradores de rede como a principal forma de concluir muitas tarefas de configuração ou de verificação, mesmo quando houver uma GUI mais intuitiva e fácil de usar estiver disponível.]]></text>
+</component>
+<component id="ID_Q10_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q10_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 11 -->
+
+
+<component id="ID_Q11_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q11_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q11_txt03">
+<text><![CDATA[11) Se você pudesse criar seu próprio algoritmo de protocolo de roteamento para rotear pacotes, quais seriam seus principais recursos? Como o seu protocolo decidiria a melhor rota? Lembre-se: um computador irá implementar sua idéia. Portanto, seja específico.]]></text>
+</component>
+<component id="ID_Q11_txt04">
+<text><![CDATA[(de 1.3)]]></text>
+</component>
+<component id="ID_Q11_txt05">
+<text><![CDATA[As respostas irão variar. A sua descrição deve incluir um processo passo a passo. Para ver o pseudocódigo dos algoritmos de roteamento atuais, procure na Web os algoritmos Bellman-Ford e Dijkstra.]]></text>
+</component>
+<component id="ID_Q11_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q11_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 12 -->
+
+
+<component id="ID_Q12_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q12_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q12_txt03">
+<text><![CDATA[12) Muito embora o protocolo de Internet agora seja considerado o único a ser usado no endereçamento de Camada 3, nem sempre é esse o caso. Investigue e informe alguns outros protocolos de Camada 3 que tenham a mesma finalidade. Que recursos ele têm em comum com IP? Em que eles são diferentes?]]></text>
+</component>
+<component id="ID_Q12_txt04">
+<text><![CDATA[(de 1.3)]]></text>
+</component>
+<component id="ID_Q12_txt05">
+<text><![CDATA[Uma estrutura hierárquica é comum a todos os protocolos de endereçamento da Camada 3. Cada um identifica uma porção da rede e uma porção de host. Como cada um faz é diferente. Por exemplo, o IPX (Internet Packet Exchange, Troca de pacotes de Internet) da Novell usa um endereço de 80 bits. Os primeiros 32 bits são bits de rede designados, sendo determinados pelo administrador. Os demais 48 bits são iguais aos do endereço MAC do host.]]></text>
+</component>
+<component id="ID_Q12_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q12_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Isto conclui as perguntas da seção Problemas e Discussão deste capítulo.</b>]]></text>
+</component>
+
+
+</textcomponents>

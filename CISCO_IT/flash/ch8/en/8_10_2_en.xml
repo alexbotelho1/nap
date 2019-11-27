@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_10_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Power Line Communication</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>PLC</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_02">
+        <source>High
+voltage</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_03">
+        <source>Sub
+station</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_04">
+        <source>Medium
+voltage</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_05">
+        <source>Low
+voltage</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_06">
+        <source>Home</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

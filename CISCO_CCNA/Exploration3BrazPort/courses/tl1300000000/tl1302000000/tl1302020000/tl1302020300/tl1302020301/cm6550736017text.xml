@@ -1,0 +1,32 @@
+<textcomponents>
+<component id="ID_caption01">
+<text><![CDATA[<b>Armazenamento em buffer na memória compartilhada e baseado na porta</b>]]></text>
+</component>
+<component id="tableHTML">
+  <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+
+<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b> </b></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b></b></font></td>
+		
+					
+	</tr>
+
+	
+	<tr>
+			<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Memória baseada na porta<br /></td>
+			<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>No armazenamento em buffer de memória baseada na porta, os quadros são armazenados em filas vinculadas as portas de entrada e de saída específicas.<br /></td>
+			
+		</tr>
+		<tr>
+		
+			<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Memória compartilhada</td>
+			<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>O armazenamento em buffer de memória compartilhada deposita todos os quadros em um buffer de memória comum compartilhado por todas as portas no compartilhamento do switch. <br /></td>
+			
+	</tr>
+	
+</table>
+]]></text> 
+  </component>
+</textcomponents>

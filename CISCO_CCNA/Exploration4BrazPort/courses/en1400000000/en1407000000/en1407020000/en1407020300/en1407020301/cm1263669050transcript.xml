@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:07">
+<title><content-text><![CDATA[7.2.3 - Benefits and Drawbacks of Using NAT<br>]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the benefits and drawbacks of using NAT. <br><br>NAT Benefits:<br>- Conserves the legally registered addressing scheme.<br>- Increases the flexibility of connections to the public network.<br>- Provides consistency for internal network addressing schemes.<br>- Provides network security.<br><br>NAT Drawbacks:<br>- Performance is degraded.<br>- End-to-end functionality is degraded.<br>- End-to-end IP traceability is lost.<br>- Tunneling is more complicated.<br>- Initiating TCP connections can be disrupted.<br>- Architectures need to be rebuilt to accommodate changes.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

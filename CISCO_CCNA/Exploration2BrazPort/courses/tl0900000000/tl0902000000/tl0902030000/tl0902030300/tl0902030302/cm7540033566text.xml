@@ -1,0 +1,13 @@
+<textcomponents>
+
+
+<component id="ID_Title02">
+<text><![CDATA[<b>Examinando os vizinhos CDP</b>]]></text>
+</component>
+
+
+
+<component id="ID_buttonText">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+</textcomponents>

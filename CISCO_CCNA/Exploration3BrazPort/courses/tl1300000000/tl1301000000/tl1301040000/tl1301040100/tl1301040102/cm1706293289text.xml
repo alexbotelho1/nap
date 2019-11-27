@@ -1,0 +1,176 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para saber a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para ver a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+
+
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1)<textformat blockindent='15'> Liste e descreva as três camadas do modelo de rede hierárquico.</textformat>]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 1.1)]]></text>
+</component>
+<component id="ID_Q1_txt05b">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b>Camada de acesso</b> – A camada de acesso faz interface com dispositivos finais, como PCs, impressoras e telefones IP, para fornecer acesso ao restante da rede. Na camada de acesso podem estar roteadores, switches, bridges, hubs e pontos de acesso wireless. O principal propósito da camada de acesso é fornecer um meio de conectar dispositivos à rede e controlar quais têm permissão de comunicação na rede.</td>
+  </tr>
+  <tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><b>Camada de distribuição</b> – A camada de distribuição agrega os dados recebidos dos switches da camada de acesso antes de serem transmitidos para a camada de núcleo para que haja o roteamento até seu destino final. A camada de distribuição controla o fluxo do tráfego da rede usando políticas e determina domínios de broadcast, realizando funções de roteamento entre redes LAN virtuais (VLANs) definidas na camada de acesso. Switches da camada de distribuição costumam ser dispositivos de alto desempenho que têm alta disponibilidade e redundância para assegurar a confiabilidade.</td>
+  </tr>
+  <tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b>Camada de núcleo</b> – A camada de núcleo do design hierárquico é o backbone de alta velocidade das redes interconectadas. Como a camada do núcleo é essencial à interconectividade entre os dispositivos da camada de distribuição, é importante que o núcleo seja altamente disponível e redundante. A área do núcleo também se conecta a recursos de Internet. Como o núcleo agrega o tráfego de todos os dispositivos da camada de distribuição, ele deve ser capaz de encaminhar grandes quantidades de dados rapidamente.</td>
+  </tr>
+</table>]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+
+<text><![CDATA[2)<textformat blockindent='15'> Um protocolo de roteamento classless inclui a máscara de sub-rede na atualização de roteamento.</textformat>]]></text>
+</component>
+
+<component id="ID_Q2_txt03">
+<text><![CDATA[2)<textformat blockindent='15'> No espaço em branco próximo a cada termo à esquerda, compare o termo à esquerda com uma descrição à direita.</textformat>]]></text>
+</component>
+
+
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 1.2)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td width='220' valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>___Switch de configuração fixa</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>A. <textformat blockindent='15'>Proporção entre o número de portas e o número de switches.</textformat></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>___Taxa de encaminhamento</td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>B. <textformat blockindent='15'>Proporção da quantidade de dados em relação ao tempo.</textformat></td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>___Qualidade de Serviço</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>C. <textformat blockindent='15'>Capaz de interconexão por um cabo de backplane especial.</textformat></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>___Power over Ethernet</td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>D. <textformat blockindent='15'>As portas não podem ser adicionadas ao dispositivo.</textformat></td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>___Switch modular </td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>E. <textformat blockindent='15'>Integração de links distintos para maior produtividade.</textformat></td>
+  </tr>
+  <tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>___Agregação de link   </td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>F. <textformat blockindent='15'>Permite a instalação das placas de linha ou módulos.</textformat></td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>___Densidade de porta</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>G. <textformat blockindent='15'>Recurso de um dispositivo para alimentar outro dispositivo usando Ethernet.</textformat></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>___Switch empilhável</td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>H. <textformat blockindent='15'>Recurso para recuperar conectividade depois de uma falha de rede.</textformat></td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>___Redundância   </td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>I. <textformat blockindent='15'> Priorização do tráfego da rede.</textformat></td>
+  </tr>
+</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>___Qualidade de Serviço</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>C. <textformat blockindent='15'>Capaz de interconexão por um cabo de backplane especial.</textformat></td>
+  </tr>
+</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>___Qualidade de Serviço</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>C. <textformat blockindent='15'>Capaz de interconexão por um cabo de backplane especial.</textformat></td></tr></table>]]></text>
+</component>
+
+<component id="ID_Q2_txt06b">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td width='220' valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>D.__Switch de configuração fixa    </td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>A. <textformat blockindent='15'>Proporção entre o número de portas e o número de switches.</textformat></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>B.__Taxa de encaminhamento    </td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>B. <textformat blockindent='15'>Proporção da quantidade de dados em relação ao tempo.</textformat></td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>I.__Qualidade de Serviço   </td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>C. <textformat blockindent='15'>Capaz de interconexão por um cabo de backplane especial.</textformat></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>G.__Power over Ethernet    </td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>D. <textformat blockindent='15'>As portas não podem ser adicionadas ao dispositivo.</textformat></td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>F.__Switch modular    </td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>E. <textformat blockindent='15'>Integração de links distintos para maior produtividade.</textformat></td>
+  </tr>
+  <tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>E.__Agregação de vínculo    </td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>F. <textformat blockindent='15'>Permite a instalação das placas de linha ou módulos. </textformat></td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>A.__Densidade de porta   </td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>G. <textformat blockindent='15'>Recurso de um dispositivo para alimentar outro dispositivo usando Ethernet.</textformat></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>C.__Switch empilhável    </td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>H. <textformat blockindent='15'>Recurso para recuperar conectividade depois de uma falha de rede.</textformat></td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>H.__Redundância </td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>I. <textformat blockindent='15'> Priorização do tráfego da rede.</textformat></td></tr></table>]]></text>
+</component>
+
+
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Assim são concluídas as perguntas da seção "Problemas e discussão" deste capítulo.</b>]]></text>
+</component>
+
+</textcomponents>

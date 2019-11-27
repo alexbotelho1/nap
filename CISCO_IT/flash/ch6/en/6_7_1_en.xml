@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="6_7_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>Possible Solution</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CONTENT 02">
+        <source>•   Company Name</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_PROBLEM SYMPTOM">
+        <source>Gather Data from the Customer</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_SCREEN3_01">
+        <source>Battery
+
+LEDs
+
+Function Keys
+
+Cable Connections</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_SCREEN3_02">
+        <source>Possible Solution</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_SCREEN3_03">
+        <source>LCD laptop screen is not displaying anything</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_SCREEN3_04">
+        <source>Disconnect any external monitors and use Fn key sequence to activate the LCD</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_SCREEN3_05">
+        <source>Image on the LCD screen is too dim</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_SCREEN3_06">
+        <source>Swap laptop to AC power and adjust brightness controls for the LCD</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_SCREEN3_07">
+        <source>Image on the LCD screen contains a black border</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_SCREEN3_08">
+        <source>Adjust display resolution setting</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_SCREEN4_01">
+        <source>Reboot the Laptop
+
+Check BIOS Settings
+
+Disconnect Peripherals
+
+Use the Last Known Good Configuration Option</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_SCREEN5_01">
+        <source>System Properties 
+
+Device Manager 
+
+Network Settings
+
+Power Options 
+
+Event Viewer 
+
+Operating System Information 
+
+Error Messages
+
+Beep Sequences</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_SCREEN6_01">
+        <source>Problem Solving Experience
+
+Other Technicians
+
+Internet Search
+
+News Groups
+
+Manufacturer FAQs
+
+Computer Manuals
+
+Device Manuals
+
+Online Forums
+
+Technical Websites</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_SCREEN7_01">
+        <source>Discuss the solution implemented with the customer
+
+Have the customer verify that the problem has been solved
+
+Provide the customer with all paperwork
+
+Document the steps taken to solve the problem
+
+Document any components used in the repair
+
+Document the time spent to resolve the problem</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_STEP 01">
+        <source>Gather Data from the Customer</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_STEP 02">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TITLE1">
+        <source>Open-Ended Questions
+</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TITLE2">
+        <source>Closed-Ended Questions
+</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TITLE3">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TITLE4">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TITLE5">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TITLE5A">
+        <source>List of open-ended questions about laptop errors. (This list is NOT comprehensive)</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TITLE6">
+        <source>Evaluate the Problem and Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TITLE6A">
+        <source>What are the problems that you are experiencing with the laptop?</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TITLE7">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TITLE7A">
+        <source>What software has been installed recently?        </source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TITLE8">
+        <source>What were you doing when the problem was identified?</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TITLE9">
+        <source>What system changes were made on the laptop recently?</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TITLE10">
+        <source>What type and brand of laptop do you have?</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TITLE11">
+        <source>List of closed-ended questions about laptop errors. (This list is NOT comprehensive)</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TITLE12">
+        <source>Is the laptop under warranty?</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TITLE13">
+        <source>Is the laptop currently using the battery?      </source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TITLE14">
+        <source>Is the battery charged more than 50%?</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TITLE15">
+        <source>Can the laptop operate using the AC adapter?</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TITLE16">
+        <source>Can the laptop boot and show the operating system desktop?</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>Troubleshooting Process</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

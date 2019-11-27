@@ -1,0 +1,40 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Apresentando o DHCP</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Como o DHCP funciona?</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Apresentando o DHCP</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Como o DHCP funciona?</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_title">
+<text><![CDATA[<b>Apresentando o DHCP</b>]]></text>
+</component>
+
+<component id="ID_S1_txt01">
+<text><![CDATA[<b>Configuração manual</b>]]></text>
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[<b>Configuração dinâmica</b>]]></text>
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[São atribuídos endereços IP estáticos aos dispositivos de rede que permanecem no mesmo local (lógica e fisicamente).]]></text>
+</component>
+
+<component id="ID_S1_txt04">
+<text><![CDATA[Os dispositivos de rede que são adicionados, movidos ou alterados (físicos e lógicos) precisam de novos endereços. A configuração manual é difícil de ser feita.]]></text>
+</component>
+
+</textcomponents>

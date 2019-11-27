@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="12_3_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Windows Upgrade Advisor</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>Eligibility for In-Place upgrade</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_02">
+        <source>Previous Version</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_03">
+        <source>Windows 3.1</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_04">
+        <source>Windows 95</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_05">
+        <source>Any Server Version*</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_06">
+        <source>Any Evaluation Version</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_07">
+        <source>Windows 98/Windows 98 SE</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_08">
+        <source>Windows Me</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_09">
+        <source>Windows NT    Workstation 3.51</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_10">
+        <source>Windows NT Workstation 4.0</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_11">
+        <source>Windows 2000 Professional</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_12">
+        <source>Windows XP Home Edition</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_13">
+        <source>Windows XP Media Center Edition</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_14">
+        <source>Windows XP Professional</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_15">
+        <source>Windows XP
+ Home Edition</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_16">
+        <source>Windows XP
+ Professional</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_17">
+        <source>NO</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_18">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_0022">
+        <source>R</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

@@ -1,0 +1,5 @@
+<transcript lastedited="11.21.08 08:11:47">
+<title><content-text><![CDATA[3.1.4  - Frame Relay Topologies]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts two star (hub and spoke) topologies. One uses leased-line, dedicated links, and one uses Frame Relay VC's.<br><br>Star (Hub and Spoke):<br>The diagram shows a star topology with the Chicago location at the center and the five remote locations connecting to it using five physical links (spokes). The remote locations are Toronto, New York, Dallas, Mexico City, and San Jose.<br><br>Frame Relay Star:<br>The diagram shows a star topology with the Chicago location (the hub) and the other five remote locations connecting to the Frame Relay cloud. The hub has one physical link carrying five VC's.<br><br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

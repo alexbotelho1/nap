@@ -1,0 +1,65 @@
+<textcomponents>
+<component id="ID_Title01">
+<text><![CDATA[<b>Salvando uma imagem do Cisco IOS</b>]]></text>
+</component>
+<component id="ID_inst01">
+  <text><![CDATA[<b>Clique nas etapas acima para obter exemplos de configurações de topologia diferentes.</b>]]></text> 
+  </component>
+
+<component id="ID_txt01_01">
+  <text><![CDATA[<b>Servidor TFTP</b>]]></text> 
+</component>
+<component id="ID_txt02_01">
+  <text><![CDATA[<b>Sistema<br/>Administrador</b>]]></text> 
+</component>
+
+<component id="ID_txt01_02">
+  <text><![CDATA[<b>Servidor TFTP</b>]]></text> 
+</component>
+<component id="ID_txt02_02">
+  <text><![CDATA[<b>Sistema<br/>Administrador</b>]]></text> 
+</component>
+
+<component id="ID_txt01_03">
+  <text><![CDATA[<b>Servidor TFTP</b>]]></text> 
+</component>
+<component id="ID_txt02_03">
+  <text><![CDATA[<b>Sistema<br/>Administrador</b>]]></text> 
+</component>
+
+
+<component id="ID_button1">
+  <text><![CDATA[<b>Etapa 1</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Etapa 2</b>]]></text> 
+</component>
+<component id="ID_button3">
+  <text><![CDATA[<b>Etapa 3</b>]]></text> 
+</component>
+
+
+<component id="ID_routerIcon">
+  <text><![CDATA[<b>Config</b>]]></text> 
+</component>
+<component id="ID_routerIcon1">
+  <text><![CDATA[<b>Config</b>]]></text> 
+</component>
+<component id="ID_routerIcon2">
+  <text><![CDATA[<b>Config</b>]]></text> 
+</component>
+<component id="ID_routerIcon3">
+  <text><![CDATA[<b>Config</b>]]></text> 
+</component>
+
+<component id="ID_s1_1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_2">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_3">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+
+</textcomponents>

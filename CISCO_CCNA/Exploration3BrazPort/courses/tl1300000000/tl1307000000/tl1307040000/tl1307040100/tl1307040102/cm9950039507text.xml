@@ -1,0 +1,31 @@
+<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Atualização do firmware</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Fazer download do firmware</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Selecionar firmware a ser instalado</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Executar atualização do firmware</b>]]></text>
+</component>
+
+<component id="ID_bubble01">
+<text><![CDATA[<font size="12">Em www.linksys.com, localize a versão correta do firmware e salve-a no seu PC.</font>]]></text>
+</component>
+
+<component id="ID_lazyText01">
+<text><![CDATA[<font size="12">Busque o arquivo de firmware do qual você acabou de fazer download.</font>]]></text>
+</component>
+
+<component id="ID_lazyText05">
+<text><![CDATA[<font size="12">Clique em “Iniciar Atualização” para executar a atualização.</font>]]></text>
+</component>
+
+</textcomponents>

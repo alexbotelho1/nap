@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="14_3_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Shared Printer </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>General</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_02">
+        <source>Sharing</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_03">
+        <source>Ports</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_04">
+        <source>Advanced</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_05">
+        <source>Color Management </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_06">
+        <source>Security</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_07">
+        <source>You can share this printer with other users on your network. To
+enable sharing for this printer, click Share this printer. If you share
+this printer, Windows Firewall will be configured to allow this
+printer to be shared with other computers on the network.</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_08">
+        <source>Do not share this printer</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_09">
+        <source>Share this printer</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_10">
+        <source>Share name:   </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_11">
+        <source>Cisco Share</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_12">
+        <source>List in the directory</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_13">
+        <source>Drivers</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_14">
+        <source>If this printer is shared with users running different versions of
+Windows, you may want to install additional drivers, so that the
+users do not have to find the print driver when they connect to
+the shared printer.</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_15">
+        <source>Additional Drivers...</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_16">
+        <source>OK  </source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_17">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_18">
+        <source>Apply</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

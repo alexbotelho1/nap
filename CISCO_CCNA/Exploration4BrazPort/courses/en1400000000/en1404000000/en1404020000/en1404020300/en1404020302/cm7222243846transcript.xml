@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:49">
+<title><content-text><![CDATA[4.2.3  - Manage Router Security]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts configuring router passwords. This includes information on encrypting passwords, configuring passwords, and password length. <br><br>Encrypting Passwords:<br>R1(config)#service password-encryption<br>R1(config)#end<br><br>R1(config)#show run<br><br>Line con 0<br>Password 7 0956F57A109A<br><br>Administrator encrypts all passwords in the configuration file.<br><br>Configuring Passwords:<br>R1(config)#enable secret 2-mAny-rOUtEs<br>R1(config)#no enable password <br>R1(config)#end<br><br>Administrator configures a type 5 (MD5 hash) password and disables the type 7 password.<br><br>Password Length Enforcement: <br>R1(config)#security passwords min-length 10<br>R1(config)#end<br><br>Administrator sets the router configuration file to require 10 characters in all passwords.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

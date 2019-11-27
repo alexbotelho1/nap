@@ -1,0 +1,75 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Clique nos botões para ver os slides.]]></text>
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[<b>Sintaxe da ACL padrão</b>]]></text>
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[<b>Remover ACL</b>]]></text>
+</component>
+
+<component id="ID_button3">
+<text><![CDATA[<b>Comentário</b>]]></text>
+</component>
+
+<!-- slide 1-->
+<component id="ID_title01">
+<text><![CDATA[<b>Sintaxe do comando <font face='_typewriter'>access-list</font> da ACL padrão</b>]]></text>
+</component>
+
+<component id="ID_header1">
+<text><![CDATA[<font color='#FFFFFF'><b>Parâmetro</b></font>]]></text>
+</component>
+
+<component id="ID_header2">
+<text><![CDATA[<font color='#FFFFFF'><b>Descrição</b></font>]]></text>
+</component>
+
+<component id="ID_table">
+<text><![CDATA[<table header='none' bordercolor='#CCCCCC' borderwidth='1' headerstyle='black' glow='true' glowcolor='#808080' cellpadding='2'>
+<tr>
+<td width='150' bgcolor='#F2F2F2'><font face='_typewriter'>access-list-number</font></td>
+<td bgcolor='#F2F2F2'>Número de uma ACL Este é um número decimal de 1 até 99 ou de 1300 até 1999 (para ACL padrão).</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD'><font face='_typewriter'><b>deny</b></font></td>
+<td bgcolor='#DDDDDD'>Negará acesso se as condições forem correspondentes.</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2'><font face='_typewriter'><b>permit</b></font></td>
+<td bgcolor='#F2F2F2'>Permitirá acesso se as condições forem correspondentes.</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD'><font face='_typewriter'><b>remark</b></font></td>
+<td bgcolor='#DDDDDD'>Adicione um comentário sobre entradas em uma lista de acesso IP para tornar a lista mais fácil de compreender e verificar.</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2'><font face='_typewriter'><i>source</i></font></td>
+<td bgcolor='#F2F2F2'>Número da rede ou host do pacote que está sendo enviado. Há duas formas de especificar a <i>souce</i> (origem):<ul><li>Utilize uma quantidade de 32 bits em um formato decimal separado por pontos.</li><li>Utilize a palavra-chave <font face='_typewriter'><b>any</b></font> como a abreviação de uma <font face='_typewriter'><i>source</i></font> e <font face='_typewriter'><i>source-wildcard</i></font> de 0.0.0.0 255.255.255.255.</li></ul></td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD'><font face='_typewriter'><i>source-wildcard</i></font></td>
+<td bgcolor='#DDDDDD'>(Opcional) Bits curinga a serem aplicados à origem. Há duas formas de especificar o curinga de origem:<ul><li>Utilize uma quantidade de 32 bits em um formato decimal separado por pontos. Coloque-as nas posições de bit que você deseja ignorar.</li><li>Utilize a palavra-chave <font face='_typewriter'><b>any</b></font> como a abreviação de uma <font face='_typewriter'><i>source</i></font> e <font face='_typewriter'><i>source-wildcard</i></font> de 0.0.0.0 255.255.255.55.</li></ul></td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2'><font face='_typewriter'><b>log</b></font></td>
+<td bgcolor='#F2F2F2'><p>(Opcional) Envia uma mensagem de registro em log sobre o pacote correspondente à entrada para a console. O nível de mensagens registradas em log na console é controla pelo comando <font face='_typewriter'><b>logging console</b></font>.)</p><br/><p>A mensagem inclui o número da ACL, se o pacote foi permitido ou negado, o endereço de origem e o número de pacotes. A mensagem é gerada para o primeiro pacote correspondente e, em seguida, em intervalos de cinco minutos, inclusive o número de pacotes permitidos ou negados no intervalo de cinco minutos anterior.</p></td>
+</tr>
+</table>]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_title02">
+<text><![CDATA[<b>Removendo uma ACL</b>]]></text>
+</component>
+
+<!-- slide 3 -->
+<component id="ID_title03">
+<text><![CDATA[<b>Documentando uma ACL</b>]]></text>
+</component>
+
+</textcomponents>

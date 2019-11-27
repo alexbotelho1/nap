@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="11_3_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Advanced Graphics Applications</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Incompatible CPUs With Similar Capabilities</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_01">
+        <source>INTEL
+SOCKET
+775</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_02">
+        <source>AMD
+SOCKET
+939</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

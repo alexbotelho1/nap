@@ -1,0 +1,64 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver a saída de comando.</b>]]></text>
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do roteador</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Topologia Multiacesso</b>]]></text>
+</component>
+
+<component id="ID_Title02">
+<text><![CDATA[<b>Alterando a prioridade de interface OSPF</b>]]></text>
+</component>
+
+<component id="slide1">
+<text><![CDATA[<font face="_typewriter"><b>show ip ospf interface</b></font>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<b>Modificar prioridade</b>]]></text>
+</component>
+
+<component id="slide3">
+<text><![CDATA[<b>Forçar eleição</b>]]></text>
+</component>
+
+<component id="ID_caption01">
+<text><![CDATA[<b>Todos os roteadores possuem atualmente a prioridade de interface OSPF padrão de 1.</b>]]></text>
+</component>
+
+<component id="ID_caption02">
+<text><![CDATA[<b>As funções de DR e BDR mudam.</b>]]></text>
+</component>
+
+<!-- topology -->
+<component id="ID_top01">
+<text><![CDATA[<b>Roteador A</b>]]></text>
+</component>
+
+<component id="ID_top02">
+<text><![CDATA[<b>Roteador B</b>]]></text>
+</component>
+
+<component id="ID_top03">
+<text><![CDATA[<b>Roteador C</b>]]></text>
+</component>
+
+<component id="ID_top04">
+<text><![CDATA[<b>BDR</b>]]></text>
+</component>
+
+<component id="ID_top05">
+<text><![CDATA[<b>DR Other</b>]]></text>
+</component>
+
+<component id="ID_top06">
+<text><![CDATA[<b>DR</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,48 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>Antes das VLANs</B>]]></text> 
+</component>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Um edifício</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Muitos edifícios</B>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<B>5º andar<br/>Alojamentos de alunos<br/>Rede local 1</B>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<B>3º andar<br/>Salas da faculdade<br/>Rede local 2</B>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<B>5º andar<br/>Alojamentos de alunos<br/>Rede local 1</B>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<B>3º andar<br/>Salas da faculdade<br/>Rede local 2</B>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<B>Mesma rede em cada edifício:</B>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<B>Edifício 1</B>]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<B>Edifício 2</B>]]></text> 
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<B>Edifício 3</B>]]></text> 
+</component>
+
+
+</textcomponents>

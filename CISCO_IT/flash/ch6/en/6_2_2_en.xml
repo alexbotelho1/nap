@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="6_2_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_1">
+        <source>The keyboard is a compact input device and has multi-functional keys.
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_2">
+        <source>The input devices are the touch pad, which consists of right and left click buttons, and a pointer controller. The touchpad and pointer controller can be used instead of a mouse for the laptop.
+
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_3">
+        <source>The fingerprint reader is an input device used for security authentication.
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_4">
+        <source>The volume controls are buttons that control audio output.
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_5">
+        <source>The power button is a control that turns the laptop on and off.
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_6">
+        <source>The wireless LED indicates the activity of the wireless network connection. 
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_7">
+        <source>The Bluetooth status LED indicates when the Bluetooth wireless transceiver is enabled. Bluetooth is a wireless industry standard that enables portable devices to communicate over short distances. 
+
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_8">
+        <source>The num lock LED indicates the on/off status of the 10-key number pad.
+
+</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_9">
+        <source>The caps lock LED indicates the on/off status of the caps lock.
+
+</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_10">
+        <source>The hard drive activity LED indicates the activity of the hard drive. 
+
+</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_11">
+        <source>The power on LED indicates the on/off status of the laptop.
+
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S1_TXT_12">
+        <source>The battery status LED indicates the condition of the laptop battery. A laptop can use a battery or an AC power adapter to operate. 
+
+</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S1_TXT_13">
+        <source>The hibernate or standby LED indicates whether the computer is in standby mode or if it is entering or leaving hibernate mode.
+
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S2_TXT1">
+        <source>Networked computers
+share resources</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TITLE1">
+        <source>Laptop – Open
+</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TITLE2">
+        <source>Laptop Keyboard
+</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TITLE3">
+        <source>Laptop – Switching Displays
+</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S1_TXT_45">
+        <source>Click the highlighted area for important content. Click the highlighted area again to close. 
+</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

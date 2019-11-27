@@ -1,0 +1,42 @@
+<textcomponents>
+	<component id="play">
+		<text><![CDATA[Reproduzir]]></text>
+	</component>
+    <component id="pause">
+		<text><![CDATA[Pausar]]></text>
+	</component>
+    <component id="rewind">
+		<text><![CDATA[Retroceder]]></text>
+	</component>
+	<component id="forward">
+		<text><![CDATA[Avançar]]></text>
+	</component>
+    <component id="mute">
+		<text><![CDATA[Sem som]]></text>
+	</component>
+    <component id="unmute">
+		<text><![CDATA[Com som]]></text>
+	</component>
+    <component id="previous">
+		<text><![CDATA[Reiniciar]]></text>
+	</component>
+    <component id="next">
+		<text><![CDATA[Encerrar]]></text>
+	</component>
+<component id="transcript">
+		<text><![CDATA[Transcrição]]></text>
+</component>
+	<component id="ID_inst">
+		<text><![CDATA[Clique em Reproduzir para ver a animação.]]></text>
+	</component>
+	<component id="ID_txt01">
+		<text><![CDATA[Atualizar]]></text>
+	</component>
+		<component id="ID_txt01a">
+		<text><![CDATA[Atualizar]]></text>
+	</component>
+	<component id="ID_title">
+<text><![CDATA[Os roteadores transmitem as atualizações dinamicamente]]></text>
+    		</component>
+
+</textcomponents>

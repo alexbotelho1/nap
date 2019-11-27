@@ -1,0 +1,19 @@
+<textcomponents>
+
+<component id="ID_txt32">
+<text><![CDATA[<b>A interface serial está <font face="_typewriter">”down”</font> e <font face="_typewriter">”down”</font>, mesmo tendo um endereço IP e sendo habilitada com o comando <font face="_typewriter">no shutdown</font>.</b>]]></text>
+</component>
+
+<component id="ID_Title1">
+<text><![CDATA[<b>A interface serial com <font face="_typewriter">”down”</font> e <font face="_typewriter">”down”</font></b>]]></text>
+</component>
+
+<component id="ID_output">
+<text><![CDATA[<b><font face="_typewriter"><saída de comando omitida></font></b>]]></text>
+</component>
+
+<component id="ID_buttonText">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+
+</textcomponents>

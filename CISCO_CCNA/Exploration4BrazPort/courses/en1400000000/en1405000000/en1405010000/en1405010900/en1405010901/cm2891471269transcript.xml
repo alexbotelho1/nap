@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 08:12:18">
+<title><content-text><![CDATA[5.1.9 - General Guidelines for Creating ACL's]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts ACL best practices with guidelines and benefits.<br><br>Guideline: Base your ACL's on the security policy of the organization.<br>Benefit: Ensures that you implement organizational security guidelines.<br><br>Guideline: Prepare a description of what you want your ACL's to do.<br>Benefit: Helps you avoid inadvertently creating potential access problems.<br><br>Guideline: Use a text editor to create, edit, and save ACL's.<br>Benefit: Helps you create a library of reusable ACL's.<br><br>Guideline: Test your ACL's on a development network before implementing them on a production network.<br>Benefit: Helps you avoid costly errors.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

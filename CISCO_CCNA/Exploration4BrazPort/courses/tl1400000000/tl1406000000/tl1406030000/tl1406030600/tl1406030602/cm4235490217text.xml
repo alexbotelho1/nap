@@ -1,0 +1,94 @@
+<textcomponents>
+
+<component id="ID_button1">
+<text><![CDATA[Criptografia de VPN]]></text>
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[Troca de chave de DH]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_title">
+<text><![CDATA[<b>Algoritmos de criptografia de VPN</b>]]></text>
+</component>
+
+<component id="ID_S1_txt01">
+<text><![CDATA[<b>Texto simples</b><br />___________________<br />___________________<br />_______________]]></text>
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[<b>Criptografia()</b>]]></text>
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[<b>Texto codificado</b><br />___________________<br />___________________<br />_______________]]></text>
+</component>
+
+<component id="ID_S1_txt04">
+<text><![CDATA[<b>Descriptografia()</b>]]></text>
+</component>
+
+<component id="ID_S1_txt05">
+<text><![CDATA[<b>Texto simples</b><br />___________________<br />___________________<br />_______________]]></text>
+</component>
+
+<component id="ID_S1_txt06">
+<text><![CDATA[<b>Criptografia()</b>]]></text>
+</component>
+
+<component id="ID_S1_txt07">
+<text><![CDATA[<b>Texto codificado</b><br />___________________<br />___________________<br />_______________]]></text>
+</component>
+
+<component id="ID_S1_txt08">
+<text><![CDATA[<b>Descriptografia()</b>]]></text>
+</component>
+
+<component id="ID_S1_txt09">
+<text><![CDATA[<b>ou</b>]]></text>
+</component>
+
+<component id="ID_S1_bullets01">
+<text><![CDATA[<b>Algoritmo simétrico:</b><ul><li>Criptografia de chave secreta</li><li>Criptografia e descriptografia utilizam a mesma chave</li><li>Geralmente utilizada para criptografar o conteúdo de uma mensagem</li><li>Exemplos: DES, 3DES, AES</li></ul>]]></text>
+</component>
+
+<component id="ID_S1_bullets02">
+<text><![CDATA[<b>Algoritmo assimétrico:</b><ul><li>Criptografia de chave pública</li><li>Criptografia e descriptografia utilizam chaves diferentes</li><li>Geralmente utilizada em certificação digital e gerenciamento de chaves</li><li>Exemplo: RSA</li></ul>]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_S2_title">
+<text><![CDATA[<b>Troca de Chave Diffie-Hellman</b>]]></text>
+</component>
+
+<component id="ID_S2_txt01">
+<text><![CDATA[<b>Chave</b>]]></text>
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[<b>Chave</b>]]></text>
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[<b>Chave de criptografia</b>]]></text>
+</component>
+
+<component id="ID_S2_txt04">
+<text><![CDATA[<b>Chave de descriptografia</b>]]></text>
+</component>
+
+<component id="ID_S2_txt05">
+<text><![CDATA[Ambos os pontos precisam estabelecer uma chave compartilhada com segurança.]]></text>
+</component>
+
+<component id="ID_S2_txt06">
+<text><![CDATA[<b>Criptografar</b>]]></text>
+</component>
+
+<component id="ID_S2_txt07">
+<text><![CDATA[<b>Descriptografar</b>]]></text>
+</component>
+
+
+</textcomponents>

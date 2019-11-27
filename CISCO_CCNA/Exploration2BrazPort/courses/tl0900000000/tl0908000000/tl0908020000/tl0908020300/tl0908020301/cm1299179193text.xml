@@ -1,0 +1,19 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[***saída do comando omitida***]]></text>
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Exemplo: Rota primária de Nível 1 e Rotas Secundárias de Nível 2</b>]]></text>
+</component>
+
+<component id="ID_caption01">
+<text><![CDATA[<b>"Cabeçalho" de Rota Primária de Nível 1 para Rotas Secundárias</b>]]></text> 
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Informações<br>de Rota</b>]]></text> 
+</component>
+
+</textcomponents>

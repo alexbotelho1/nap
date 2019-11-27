@@ -1,0 +1,70 @@
+<textcomponents>
+<component id="ID_caption01">
+<text><![CDATA[<b>Protocolos de roteamento do vetor de distância comparados</b>]]></text>
+</component>
+
+<component id="speed_text">
+<text><![CDATA[<b>Velocidade da convergência</b>]]></text>
+</component>
+<component id="scale_text">
+<text><![CDATA[<b>Escalabilidade – tamanho da rede</b>]]></text>
+</component>
+<component id="vlsm_text">
+<text><![CDATA[<b>Uso do VLSM</b>]]></text>
+</component>
+<component id="resource_text">
+<text><![CDATA[<b>Uso de recursos</b>]]></text>
+</component>
+<component id="implement_text">
+<text><![CDATA[<b>Implementação e manutenção</b>]]></text>
+</component>
+
+
+
+<component id="ID_a_1">
+<text><![CDATA[<b>Lento</b>]]></text>
+</component>
+<component id="ID_b_1">
+<text><![CDATA[<b>Rápido</b>]]></text>
+</component>
+<component id="ID_c_1">
+<text><![CDATA[<b>Baixo</b>]]></text>
+</component>
+<component id="ID_d_1">
+<text><![CDATA[<b>Médio</b>]]></text>
+</component>
+<component id="ID_e_1">
+<text><![CDATA[<b>Alto</b>]]></text>
+</component>
+<component id="ID_f_1">
+<text><![CDATA[<b>Pequeno</b>]]></text>
+</component>
+<component id="ID_g_1">
+<text><![CDATA[<b>Grande</b>]]></text>
+</component>
+<component id="ID_h_1">
+<text><![CDATA[<b>Simplex</b>]]></text>
+</component>
+<component id="ID_i_1">
+<text><![CDATA[<b>Complexo</b>]]></text>
+</component>
+<component id="ID_j_1">
+<text><![CDATA[<b>Sim</b>]]></text>
+</component>
+<component id="ID_k_1">
+<text><![CDATA[<b>Não</b>]]></text>
+</component>
+
+<component id="ID_openReset">
+<text><![CDATA[<b>Redefinir</b>]]></text>
+</component>
+<component id="ID_titleCorrect">
+<text><![CDATA[Corrigir]]></text>
+</component>
+<component id="ID_correctText">
+<text><![CDATA[Correto, você comparou com êxito todos os Protocolos de roteamento do vetor de distância.]]></text>
+</component>
+<component id="ID_Instructions">
+<text><![CDATA[<b>Arraste a característica correta até cada Protocolo de roteamento para fazer a comparação. Cada termo pode ser usado mais de uma vez. Use o botão de reinicialização para limpar a tabela.</b>]]></text>
+</component>
+</textcomponents>

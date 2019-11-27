@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="14_6_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_STEP 01">
+        <source>Gather Data from the Customer </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_STEP 02">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_STEP NUMBER 01">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_STEP NUMBER 02">
+        <source>2</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_STEP NUMBER 03">
+        <source>3</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_STEP NUMBER 04">
+        <source>4</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_STEP NUMBER 05">
+        <source>5</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_STEP NUMBER 06">
+        <source>6</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TITLE1">
+        <source>Troubleshooting Process  </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>Troubleshooting Process  </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

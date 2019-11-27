@@ -1,0 +1,19 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[***saída do comando omitida***]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Configurações incorretas comuns</b>]]></text>
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text>
+</component>
+
+<component id="ID_topology01">
+<text><![CDATA[<b>Rota sumarizada<br>estática para<br>192.168.0.0/16</b>]]></text> 
+</component>
+
+</textcomponents>

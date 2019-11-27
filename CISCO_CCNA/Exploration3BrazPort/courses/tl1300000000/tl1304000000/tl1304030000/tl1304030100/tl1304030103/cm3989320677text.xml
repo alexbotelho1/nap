@@ -1,0 +1,49 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do switch</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Configurando o VTP Etapa 2 - Configurar os clientes VTP</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para exibir as etapas de configuração de cliente VTP.</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Confirmar padrões</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Habilitar modo cliente VTP</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Verificar status do VTP</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Servidor VTP</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Cliente VTP</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Cliente de VTP</b>]]></text>
+</component>
+
+<component id="ID_output1_guide">
+<text><![CDATA[<b>As áreas destacadas confirmam as configurações padrão.</b>]]></text>
+</component>
+<component id="ID_output2_guide">
+<text><![CDATA[<b>As áreas destacadas são parâmetros configurados.</b>]]></text>
+</component>
+<component id="ID_output3_guide">
+<text><![CDATA[<b>As áreas destacadas são parâmetros configurados.</b>]]></text>
+</component>
+
+
+</textcomponents>

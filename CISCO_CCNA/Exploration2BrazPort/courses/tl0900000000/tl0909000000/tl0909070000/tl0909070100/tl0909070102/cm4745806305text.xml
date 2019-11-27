@@ -1,0 +1,253 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para visualizar a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para avançar para a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+
+
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) Qual é o algoritmo de roteamento utilizado por EIGRP?]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 9.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[DUAL (Algoritmo de Atualização por Difusão)]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2) O EIGRP envia atualizações periódicas?]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 9.2)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[Não, o EIGRP envia atualizações associadas, somente as informações de roteamento que são necessárias e somente aos roteadores que precisam delas.]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q2_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) Qual comando pode ser utilizado para verificar se o EIGRP estabeleceu relações com seus vizinhos diretamente conectados?]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 9.3)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[Depois de verificar se todas as interfaces necessárias estão ativas com o comando <b><font face='_typewriter'>show ip interface brief</font></b>, verifique, identifique e solucione problemas de uma configuração de RIP com os seguintes comandos:]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) Quais parâmetros a métrica composta do EIGRP utiliza? Quais são utilizados por padrão?]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 9.4)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[Largura de banda, atraso, confiabilidade e carga. Somente a largura de banda e o atraso são utilizados por padrão.]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[5) O que é Condição de Viabilidade?]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[(de 9.5)]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[Quando a distância relatada (RD) do vizinho para uma rede é menor do que a distância viável deste roteador para a mesma rede de destino.]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q5_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[6) O EIGRP utiliza a sumarização automática como o RIP? Caso afirmativo, como ela pode ser desabilitada?]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[(de 9.6)]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[Sim. A sumarização automática pode ser desabilitada utilizando o comando <font face='_typewriter'><b>no auto-summary</b></font>.]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q6_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+
+<!-- Question 7 -->
+
+
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[7) Ao habilitar o EIGRP com o comando do modo de roteador, <font face='_typewriter'><b>router eigrp</b> <i>autonomous-system</i></font>, quais são os requisitos relacionados ao parâmetro <font face='_typewriter'><i>autonomous-system</i></font>?]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[(de 9.3)]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[O sistema autônomo precisa ser o mesmo em todos os roteadores no domínio de roteamento do EIGRP. O número de sistema autônomo não precisa ser um número de AS real.]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q7_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 8 -->
+
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q8_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[8) Abaixo está a saída do comando <font face='_typewriter'><b>show ip eigrp topology</b></font>. Esta saída do comando mostra um sucessor viável? Como você sabe?]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[Sim, 172.16.3.1 é um sucessor viável. Isto porque o RD de 2169856 é menor do que o FD de 192.168.10.10 do sucessor que é de 3523840.]]></text>
+</component>
+<component id="ID_Q8_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q8_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 9 -->
+
+
+<component id="ID_Q9_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q9_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q9_txt03">
+<text><![CDATA[9) Por que uma rota de sumarização null0 é às vezes automaticamente incluída pelo EIGRP?]]></text>
+</component>
+<component id="ID_Q9_txt04">
+<text><![CDATA[]]></text>
+</component>
+<component id="ID_Q9_txt05">
+<text><![CDATA[Uma rota de sumarização null0 é adicionada automaticamente à tabela de roteamento pelo EIGRP quando há pelo menos uma rota secundária com uma origem de roteamento de EIGRP e o comando padrão <font face='_typewriter'><b>auto-summary</b></font> é utilizado.]]></text>
+</component>
+<component id="ID_Q9_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q9_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Isto conclui as perguntas da seção Problemas e Discussão deste capítulo.</b>]]></text>
+</component>
+
+
+</textcomponents>

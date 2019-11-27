@@ -1,0 +1,137 @@
+<textcomponents>
+
+ <component id="id_title">
+<text><![CDATA[<b>Atividade</b>]]></text>
+</component>
+<component id="id_title2">
+<text><![CDATA[<b>Recursos de camada do modelo hierárquico</b>]]></text>
+</component>
+
+<component id="id_descr">
+<text><![CDATA[Clique na coluna apropriada na tabela para identificar que recursos pertencem a cada camada. Alguns recursos podem pertencer a mais de uma camada.]]></text>
+</component>
+
+<component id="id_inst">
+<text><![CDATA[<b>Verifique a(s) camada(s) apropriada(s). Clique no botão de verificação para verificar suas respostas. Clique em redefinir para tentar novamente.</b>]]></text>
+</component>
+
+<component id="ID_Button01">
+<text><![CDATA[<b>Verificar</b>]]></text>
+</component>
+
+<component id="ID_Button02">
+<text><![CDATA[<b>Redefinir</b>]]></text>
+</component>
+
+	<component id="txt_numrows">
+		<text><![CDATA[12]]></text>
+	</component>
+    <component id="txt_numcols">
+		<text><![CDATA[3]]></text>
+	</component>
+    <component id="txt_col1">
+		<text><![CDATA[      Acesso      ]]></text>
+	</component>
+    <component id="txt_col2">
+		<text><![CDATA[       Distribuição       ]]></text>
+	</component>
+    <component id="txt_col3">
+		<text><![CDATA[     Núcleo     ]]></text>
+	</component> 
+    
+    <component id="txt_q1">
+		<text><![CDATA[Agregação da largura de banda]]></text>
+	</component>
+    <component id="txt_q2">
+		<text><![CDATA[Fast Ethernet/Gigabit Ethernet]]></text>
+	</component>
+    <component id="txt_q3">
+		<text><![CDATA[Gigabit Ethernet/10 Gigabit Ethernet]]></text>
+	</component>
+    <component id="txt_q4">
+		<text><![CDATA[Alta taxa de encaminhamento]]></text>
+	</component>
+    <component id="txt_q5">
+		<text><![CDATA[Suporte à Camada 3]]></text>
+	</component>
+    <component id="txt_q6">
+		<text><![CDATA[Segurança de porta]]></text>
+	</component>
+    <component id="txt_q7">
+		<text><![CDATA[Power over Ethernet (PoE)]]></text>
+	</component>
+    <component id="txt_q8">
+		<text><![CDATA[Qualidade de Serviço (QoS)]]></text>
+	</component>
+    <component id="txt_q9">
+		<text><![CDATA[Componentes redundantes]]></text>
+	</component>
+    <component id="txt_q10">
+		<text><![CDATA[Políticas de segurança/Listas de controle de acesso]]></text>
+	</component>
+
+   <component id="txt_q11">
+		<text><![CDATA[Taxa de encaminhamento muito alta]]></text>
+	</component>
+
+   <component id="txt_q12">
+		<text><![CDATA[VLANs]]></text>
+	</component>
+
+
+    <component id="txt_a1">
+		<text><![CDATA[1,2,3]]></text>
+	</component>
+    <component id="txt_a2">
+		<text><![CDATA[1]]></text>
+	</component>
+    <component id="txt_a3">
+		<text><![CDATA[2,3]]></text>
+	</component>
+    <component id="txt_a4">
+		<text><![CDATA[2]]></text>
+	</component>
+    <component id="txt_a5">
+		<text><![CDATA[2,3]]></text>
+	</component>
+    <component id="txt_a6">
+		<text><![CDATA[1]]></text>
+	</component>
+    <component id="txt_a7">
+		<text><![CDATA[1]]></text>
+	</component>
+    <component id="txt_a8">
+		<text><![CDATA[1,2,3]]></text>
+	</component>
+    <component id="txt_a9">
+		<text><![CDATA[2,3]]></text>
+	</component>
+     <component id="txt_a10">
+		<text><![CDATA[2]]></text>
+	</component>
+    <component id="txt_a11">
+		<text><![CDATA[3]]></text>
+	</component>
+    <component id="txt_a12">
+		<text><![CDATA[1]]></text>
+	</component>
+    
+<!-- Correct Feedback -->
+<component id="ID_titleCorrect">
+<text><![CDATA[Correto]]></text>
+</component>
+
+<component id="ID_correctText">
+<text><![CDATA[Parabéns! Você concluiu esta atividade com êxito.]]></text></component>
+
+<!-- Incorrect Feedback -->
+<component id="ID_titleIncorrect">
+<text><![CDATA[Incorreto]]></text>
+</component>
+
+<component id="ID_IncorrectText">
+<text><![CDATA[Incorreto, por favor revise a função de cada camada e tente novamente.]]></text></component>
+
+
+
+</textcomponents>

@@ -1,0 +1,85 @@
+<textcomponents>
+
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para ver a animação.</b>]]></text>
+</component>
+
+<component id="ID_Text_envelope">
+<text><![CDATA[<b>Atualização de link em R1</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>R4</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Operação do protocolo link-state</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Banco de dados link-state R1</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Banco de dados link-state R2</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>Banco de dados link-state R3</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Banco de dados link-state R4</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Atualização de link em R1</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Atualização de link em R1</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>Atualização de link em R1</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Atualização de link em R1</b>]]></text>
+</component>
+<component id="ID_txt14">
+<text><![CDATA[<b>Os protocolos link-state transmitem atualizações quando o estado de um link é alterado.</b>]]></text>
+</component>
+<component id="IP_address">
+<text><![CDATA[172.16.3.0/24]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_4_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Physical Network Components </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>INTERNET</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_02">
+        <source>Cable Modem or DSL Modem</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_03">
+        <source>Wireless Access Point
+(WAP45A)</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_04">
+        <source>Network Cable</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_05">
+        <source>10/100 LAN Card 
+(LNE100TX)</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_06">
+        <source>EtherFast Cable/DSL Firewall Router (BEFSX41)</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_07">
+        <source>EtherFast 10/100
+Card Bus PC Card (PCMPC200)</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_08">
+        <source>EtherFast 10/100 Compact USB Network Adaptor (USB 100m)</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_09">
+        <source>USB Cable</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_10">
+        <source>(Optional)</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_11">
+        <source>Wireless PC Card (WPC54A)</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="2_1_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>General Safety Guidelines
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Fire Extinguisher Classifications</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Fire Extinguisher Classifications
+</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT-03">
+        <source>Remove all jewelry and watches.</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_001">
+        <source>General Safety Guidelines</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_01">
+        <source>Remove your watch or any other jewelry and secure loose clothing.
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_02">
+        <source>Turn off the power and unplug equipment before performing service.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_03">
+        <source>Never open a power supply or a monitor.
+
+</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_03_01">
+        <source>Cover any sharp edges inside the computer case with tape.
+
+</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_04">
+        <source>Do not touch areas in printers that are hot or that use high voltage.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_05">
+        <source>Know where the fire extinguisher is located and how to use it.
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_06">
+        <source>Keep food and drinks out of your workspace.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_07">
+        <source>Keep your workspace clean and free of clutter.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_08">
+        <source>Bend your knees when lifting heavy objects to avoid injury to your back.</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_09">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_011">
+        <source>Ordinary Combustible</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_012">
+        <source>Flammable Liquids</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_013">
+        <source>Electrical Equipment</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_014">
+        <source>Combustible  Metals </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

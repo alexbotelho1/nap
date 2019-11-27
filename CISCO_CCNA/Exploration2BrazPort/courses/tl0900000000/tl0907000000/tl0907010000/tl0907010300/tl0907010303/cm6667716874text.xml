@@ -1,0 +1,63 @@
+<textcomponents>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do roteador</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Clique para exibir as várias saídas do comando do roteador.</b>]]></text>
+</component>
+
+<component id="output1cap">
+<text><![CDATA[<b>Testando a conectividade.<br/>Nota: Para alguns roteadores, será necessário desabilitar o IP CEF para ver os resultados conforme mostrado.</b>]]></text>
+</component>
+<component id="output2cap">
+<text><![CDATA[<b>R2 tem rotas de custos iguais a 172.30.0.0.</b>]]></text>
+</component>
+<component id="output3cap">
+<text><![CDATA[<b>Rota 172.30.0.0 de R1 e R3.</b>]]></text>
+</component>
+<component id="output4cap">
+<text><![CDATA[<b>R1 possui rotas somente para as sub-redes de 172.30.0.0 locais.</b>]]></text>
+</component>
+<component id="output5cap">
+<text><![CDATA[<b>R2 não está anunciando 172.30.0.0 a R1 ou R3.</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Desabilite o roteamento RIP em R2 somente para a rede 192.168.4.0.<br>Configure R2 com uma rota padrão que aponte para R3.</b>]]></text>
+</component>
+
+<component id="ID_topology01">
+<text><![CDATA[<b>Rota sumarizada<br>estática<br>para 192.168.0.0/16</b>]]></text>
+</component>
+
+<component id="ID_topology02">
+<text><![CDATA[<b>Rota estática</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Examinando as Redes Descontíguas</b>]]></text>
+</component>
+
+<component id="slide1">
+<text><![CDATA[<b>Pings de R2</b>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<b>Rotas de R2</b>]]></text>
+</component>
+
+<component id="slide3">
+<text><![CDATA[<b>Depur. de R2 1</b>]]></text>
+</component>
+
+<component id="slide4">
+<text><![CDATA[<b>Rotas de R1</b>]]></text>
+</component>
+
+<component id="slide5">
+<text><![CDATA[<b>Depur. de R2 2</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,8 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[Telnet<br/> -<TEXTFORMAT BLOCKINDENT='8'>Método de acesso mais comum</textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Envia fluxos de mensagens de texto sem formatação</textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Não é seguro</textformat><br/><br/>SSH<br/> -<TEXTFORMAT BLOCKINDENT='8'>Ele deve ser o método de acesso comum</textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Envia o fluxo de mensagem criptografado</textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>É seguro</textformat>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Telnet e SSH </b>]]></text> 
+  </component>
+</textcomponents>

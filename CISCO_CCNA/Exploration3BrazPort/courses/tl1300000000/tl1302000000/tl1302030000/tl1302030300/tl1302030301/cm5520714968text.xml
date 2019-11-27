@@ -1,0 +1,9 @@
+<textcomponents>
+<component id="ID_title1">
+  <text><![CDATA[<b>O buffer do histórico de comandos</b>]]></text> 
+  </component>
+  
+  <component id="ID_lazy1">
+  <text><![CDATA[Use o comando <b><font face='_typewriter'>show history</font></b> para exibir os comandos EXEC digitados recentemente.]]></text>
+  </component>
+</textcomponents>

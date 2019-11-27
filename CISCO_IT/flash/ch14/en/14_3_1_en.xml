@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="14_3_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Network Print Server Device</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>Wired Print Server</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_02">
+        <source>Switch</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

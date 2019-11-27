@@ -1,0 +1,40 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Clique para ver as várias saídas do roteador.</b>]]></text>
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Examinando vizinhos CDP</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Examinando vizinhos CDP detalhadamente</b>]]></text>
+</component>
+
+<component id="ID_title03">
+<text><![CDATA[<b>Desabilitando CDP</b>]]></text>
+</component>
+
+<component id="ID_text01">
+<text><![CDATA[<b><font face="_typewriter">!Para desabilitar CDP globalmente, use...</font></b>]]></text>
+</component>
+
+<component id="ID_text02">
+<text><![CDATA[<b><font face="_typewriter">!<br/>!ou para desabilitar CDP em uma única interface...</font></b>]]></text>
+</component>
+
+<component id="button1">
+<text><![CDATA[<b><font face="_typewriter">show cdp neighbors</font></b>]]></text>
+</component>
+<component id="button2">
+<text><![CDATA[<b><font face="_typewriter">show cdp neighbors detail</font></b>]]></text>
+</component>
+<component id="button3">
+<text><![CDATA[<b>Desabilitando CDP</b>]]></text>
+</component>
+
+
+<component id="ID_buttonText">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+</textcomponents>

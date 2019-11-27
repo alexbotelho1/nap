@@ -1,0 +1,23 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Navegador<br />Cliente de e-mail<br />Cliente de acesso ao arquivo</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Navegador <br />Cliente de acesso ao arquivo</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Navegador<br />Cliente de e-mail</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Cliente de acesso ao arquivo</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Servidor de e-mail<br />Servidor Web<br />Servidor de arquivos</b>]]></text> 
+  </component>
+<component id="titleText">
+	<text>Caixa de texto de exemplo</text>
+</component>
+<component id="bodyText">
+	<text>O servidor de e-mail executa o software de servidor, e os clientes utilizam seus softwares de cliente de e-mail, como o Microsoft Outlook, para acessar os e-mails no servidor.</text>
+</component>
+</textcomponents>

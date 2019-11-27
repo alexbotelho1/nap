@@ -1,0 +1,41 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Classificação de Protocolos de Roteamento</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Protocolos de gateway interior</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Protocolos de gateway exterior</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Protocolos de roteamento do vetor de distância</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Protocolos de roteamento link-state</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Vetor de caminho</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Classe cheia</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Sem classe</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>IPv6</b>]]></text>
+</component>
+<component id="Id_eifor1">
+<text><![CDATA[<b>EIGRP para IPv6</b>]]></text>
+</component>
+<component id="Id_isfor2">
+<text><![CDATA[<b>IS-IS para IPv6</b>]]></text>
+</component>
+<component id="Id_bgfor3">
+<text><![CDATA[<b>BGPv4 para IPv6</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Protocolos de roteamento em negrito são o foco do currículo.</b>]]></text>
+</component>
+</textcomponents>

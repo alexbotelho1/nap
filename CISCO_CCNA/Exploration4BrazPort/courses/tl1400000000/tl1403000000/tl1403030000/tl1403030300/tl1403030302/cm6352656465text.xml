@@ -1,0 +1,224 @@
+﻿<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Atividade 1</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Atividade 2</B>]]></text> 
+</component>
+
+
+<!-- slide 1 -->
+	<component id="ID_title1">
+	<text><![CDATA[<B>Solucionando problemas de acessibilidade</B>]]></text>
+	</component>
+	
+	<component id="ID_check1">
+	  <text><![CDATA[<B>Verificar</B>]]></text> 
+	</component>
+	
+	<component id="ID_reset1">
+	  <text><![CDATA[<B>Redefinir</B>]]></text> 
+	</component>
+
+	<component id="ID_correctTitle1">
+	  <text><![CDATA[Corrigir]]></text>
+	</component>
+
+	<component id="ID_correctText1">
+	  <text><![CDATA[Parabéns, você concluiu as sentenças corretamente.]]></text>
+	</component>
+
+	<component id="ID_incorrectTitle1">
+	  <text><![CDATA[Incorreto]]></text>
+	</component>
+
+	<component id="ID_incorrectText1">
+	  <text><![CDATA[Incorreto, tente novamente.]]></text>
+	</component>
+
+	<component id="ID_step1">
+	  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Arraste e solte a palavra ou expressão apropriada para completar as frases. Nem todas as respostas são utilizadas.]]></text> 
+	</component>
+
+	<!-- answers -->
+	<component id="ID_hub">
+	  <text><![CDATA[<B>hub-and-spoke</B>]]></text> 
+	</component>
+	
+	<component id="ID_encap">
+	  <text><![CDATA[<B>frame relay de encapsulamento</B>]]></text> 
+	</component>
+	
+	<component id="ID_rout">
+	  <text><![CDATA[<B>loops de roteamento</B>]]></text> 
+	</component>
+	
+	<component id="ID_fmesh">
+	  <text><![CDATA[<B>malha completa</B>]]></text> 
+	</component>
+	
+	<component id="ID_broad">
+	  <text><![CDATA[<B>broadcasts</B>]]></text> 
+	</component>
+	
+	<component id="ID_parmesh">
+	  <text><![CDATA[<B>malha parcial</B>]]></text> 
+	</component>
+	
+	<component id="ID_morrou">
+	  <text><![CDATA[<B>mais roteadores</B>]]></text> 
+	</component>
+	
+	<component id="ID_sub">
+	  <text><![CDATA[<B>subinterfaces</B>]]></text> 
+	</component>
+	
+	<component id="ID_multi">
+	  <text><![CDATA[<B>várias interfaces</B>]]></text> 
+	</component>
+	
+	<component id="ID_rout">
+	  <text><![CDATA[<B>loops de roteamento</B>]]></text> 
+	</component>
+	
+	<component id="ID_ptp">
+	  <text><![CDATA[<B>ponto-a-ponto</B>]]></text> 
+	</component>
+	
+	<component id="ID_multipt">
+	  <text><![CDATA[<B>multiponto</B>]]></text> 
+	</component>
+	
+	<!-- questions -->
+	<component id="ID_definition1">
+	  <text><![CDATA[<B>As redes Frame Relay geralmente são criadas em uma topologia de ________, o que pode causar problemas de acessibilidade.</B>]]></text> 
+	</component>
+	
+	<component id="ID_definition2">
+	  <text><![CDATA[<B>Split horizon é uma técnica usada para evitar ________ em redes que usam protocolos vetor de distância.</B>]]></text> 
+	</component>
+	
+	<component id="ID_definition3">
+	  <text><![CDATA[<B>Para solucionar os problemas de acessibilidade, é necessário usar uma topologia de ________, que<br>é cara, ou ________.</B>]]></text> 
+	</component>
+	
+	<component id="ID_definition4">
+	  <text><![CDATA[<B>Em configurações _______, uma única subinterface é usada para estabelecer uma conexão de PVC<br>com outra subinterface ou interface física em um roteador remoto.</B>]]></text> 
+	</component>
+	
+	<component id="ID_definition5">
+	  <text><![CDATA[<B>Em configurações ________, uma única subinterface é usada para estabelecer várias conexões de<br>PVC com várias subinterfaces ou interfaces físicas em roteadores remotos.</B>]]></text> 
+	</component>
+	
+	<component id="ID_definition6">
+	  <text><![CDATA[<B>O comando ________ é configurado na interface física. Todos os outros itens de configuração,<br>como o endereço da camada de rede e os DLCIs, são configurados na subinterface.</B>]]></text> 
+	</component>
+	
+	
+<!-- slide 2 -->
+	<component id="ID_title2">
+	<text><![CDATA[<B>Largura de banda do Frame Relay e controle de fluxo</B>]]></text>
+	</component>
+	
+	<component id="ID_check2">
+	  <text><![CDATA[<B>Verificar</B>]]></text> 
+	</component>
+	
+	<component id="ID_reset2">
+	  <text><![CDATA[<B>Redefinir</B>]]></text> 
+	</component>
+
+	<component id="ID_step2">
+	  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Arraste e solte o termo apropriado para fazer a correspondência com a definição.]]></text> 
+	</component>
+
+	<component id="ID_correctTitle2">
+	  <text><![CDATA[Corrigir]]></text>
+	</component>
+
+	<component id="ID_correctText2">
+	  <text><![CDATA[Parabéns, você correspondeu as definições corretamente.]]></text>
+	</component>
+
+	<component id="ID_incorrectTitle2">
+	  <text><![CDATA[Incorreto]]></text>
+	</component>
+
+	<component id="ID_incorrectText2">
+	  <text><![CDATA[Incorreto, tente novamente.]]></text>
+	</component>
+
+	<component id="ID_txt01_02">
+	  <text><![CDATA[<B>Definição</B>]]></text> 
+	</component>
+	
+	<component id="ID_txt02_02">
+	  <text><![CDATA[<B>Termo</B>]]></text> 
+	</component>
+
+	<!-- answers -->
+	<component id="ID_inDirectNotify">
+	  <text><![CDATA[FECN]]></text> 
+	</component>
+	
+	<component id="ID_rate">
+	  <text><![CDATA[CIR (Committed Information Rate, Taxa de informações garantida)]]></text> 
+	</component>
+	
+	<component id="ID_discard">
+	  <text><![CDATA[DE (Discard Eligibility, Qualificação para descarte)]]></text> 
+	</component>
+	
+	<component id="ID_comburst">
+	  <text><![CDATA[Rajada comprometida (Bc)]]></text> 
+	</component>
+	
+	<component id="ID_excifrate">
+	  <text><![CDATA[EIR (Excess Information Rate, Taxa de informações em excesso)]]></text> 
+	</component>
+	
+	<component id="ID_excon">
+	  <text><![CDATA[ECN (Explicit Congestion Notification, Notificação explícita de congestionamento)]]></text> 
+	</component>
+	
+	<component id="ID_directNotify">
+	  <text><![CDATA[BECN]]></text> 
+	</component>
+	
+	<component id="ID_commit">
+	  <text><![CDATA[<B>Rajada comprometida (Bc)</B>]]></text> 
+	</component>
+
+	<!-- questions -->
+	<component id="ID_txt03_02">
+	  <text><![CDATA[<B>Número máximo de bits com entrega garantida pela rede em circunstâncias normais</B>]]></text> 
+	</component>
+	
+	<component id="ID_txt04_02">
+	  <text><![CDATA[<B>Diferença entre a taxa garantida e a taxa máxima permitida pela operadora</B>]]></text> 
+	</component>
+	
+	<component id="ID_txt05_02">
+	  <text><![CDATA[<B>Quando um switch Frame Relay sofrer um congestionamento, ele definirá esses bits em todos os<br>quadros que receber.</B>]]></text> 
+	</component>
+	
+	<component id="ID_txt06_02">
+	  <text><![CDATA[<B>Taxa na qual a operadora concorda em aceitar no VC</B>]]></text> 
+	</component>
+	
+	<component id="ID_txt07_02">
+	  <text><![CDATA[<B>Uma <u>notificação direta</u> de congestionamento</B>]]></text> 
+	</component>
+	
+	<component id="ID_txt08_02">
+	  <text><![CDATA[<B>Uma <u>notificação indireta</u> de congestionamento</B>]]></text> 
+	</component>
+	
+	<component id="ID_txt09_02">
+	  <text><![CDATA[<B>Bit definido se o quadro recebido derrubar o contador na rajada garantida</B>]]></text> 
+	</component>
+
+
+</textcomponents>

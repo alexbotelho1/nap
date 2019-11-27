@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="12_1_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Windows OS Features</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>Remote Desktop</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_02">
+        <source>Network Sharing</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_03">
+        <source>Scaleble CPU
+Support</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_04">
+        <source>EFS Support</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_05">
+        <source>Enhanced 
+Security</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_06">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_07">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_08">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_09">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_10">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_11">
+        <source>NO</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_12">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_13">
+        <source>NO</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_14">
+        <source>NO</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_15">
+        <source>NO</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_16">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_17">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_18">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_19">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_20">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_21">
+        <source>Add-On</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_22">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_23">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_24">
+        <source>YES</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_25">
+        <source>YES</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

@@ -1,0 +1,85 @@
+<textcomponents>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Problemas de camada de transporte</b>]]></text> 
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Problemas de lista de acesso</b>]]></text> 
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_title">
+<text><![CDATA[<b>Sintomas de problemas da camada de transporte</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt01">
+<text><![CDATA[<font size='14pt'><b>Sintomas</b></font><ul><li>Problemas de rede intermitentes</li><li>Problemas de segurança</li><li>Problemas de tradução de endereço</li><li>Problemas com tipos de tráfego específicos</li></ul>]]></text> 
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[<b>7 Aplicativo</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[<b>6 Apresentação</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt04">
+<text><![CDATA[<b>5 Sessão</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt05">
+<text><![CDATA[<b>4 Transporte</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt06">
+<text><![CDATA[<b>3 Rede</b>]]></text>
+</component>
+
+<component id="ID_S1_txt07">
+<text><![CDATA[<b>2 Enlaces de dados</b>]]></text>
+</component>
+
+<component id="ID_S1_txt08">
+<text><![CDATA[<b>1 Física</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S2_title">
+<text><![CDATA[<b>Problemas comuns de lista de acesso</b>]]></text> 
+</component>
+
+<component id="ID_S2_txt01">
+<text><![CDATA[<font size='14pt'><b>Problemas ACL comuns</b></font><ul><li>Aplicado a tráfego incorreto</li><li>Ordem incorreta de elemento de controle</li><li>Implícito "deny any any"</li><li>Endereços e máscaras curinga</li><li>Seleção de TCP/UDP</li><li>Portas de origem e destino</li><li>Uso do <font face="_typewriter">established</font> Palavra-chave</li><li>Protocolos incomuns</li></ul>]]></text> 
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[<b>7 Aplicativo</b>]]></text> 
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[<b>6 Apresentação</b>]]></text> 
+</component>
+
+<component id="ID_S2_txt04">
+<text><![CDATA[<b>5 Sessão</b>]]></text> 
+</component>
+
+<component id="ID_S2_txt05">
+<text><![CDATA[<b>4 Transporte</b>]]></text> 
+</component>
+
+<component id="ID_S2_txt06">
+<text><![CDATA[<b>3 Rede</b>]]></text>
+</component>
+
+<component id="ID_S2_txt07">
+<text><![CDATA[<b>2 Enlaces de dados</b>]]></text>
+</component>
+
+<component id="ID_S2_txt08">
+<text><![CDATA[<b>1 Física</b>]]></text>
+</component>
+
+</textcomponents>

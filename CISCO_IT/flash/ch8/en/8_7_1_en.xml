@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_7_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Cabled Ethernet Standards
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>10BASE-T</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_02">
+        <source>Media</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_03">
+        <source>1000BASE-T</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_04">
+        <source>Maximum
+Segment
+Length</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_05">
+        <source>Topology</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_06">
+        <source>Connector</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_07">
+        <source>Physical Layer</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_08">
+        <source>EIA/TIA
+Category 5, 5e
+UTP, four pair</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_09">
+        <source>EIA/TIA 
+Category 5, 5e UTP, two pair</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_10">
+        <source>ISO 8877
+(RJ-45)</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_11">
+        <source>Star</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_12">
+        <source>100 m (328 feet)</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_13">
+        <source>EIA/TIA
+Category 3, 4, 5 UTP, two
+pair</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_14">
+        <source>100BASE-TX</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

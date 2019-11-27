@@ -1,0 +1,207 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Clique para exibir dois tipos de diagramas de rede.]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Físico</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Lógico</b>]]></text>
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Interpretando diagramas de rede</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_01">
+<text><![CDATA[<b>Wiring Closet A</b>]]></text>
+</component>
+
+<component id="ID_txt02_01">
+<text><![CDATA[<b>Edifício A (escritório principal)<b>]]></text>
+</component>
+
+<component id="ID_txt03_01">
+<text><![CDATA[Rack 1<br/>Prateleira 3]]></text>
+</component>
+
+<component id="ID_txt04_01">
+<text><![CDATA[<b>Ethernet-R2-SVR1</b>]]></text>
+</component>
+
+<component id="ID_txt05_01">
+<text><![CDATA[<b>WEB/TFTP<br/>Servidor</b>]]></text>
+</component>
+
+<component id="ID_txt06_01">
+<text><![CDATA[T1-R2-R1<br/>(Alugado)]]></text>
+</component>
+
+<component id="ID_txt07_01">
+<text><![CDATA[Rack 2<br/>Prateleira 1]]></text>
+</component>
+
+<component id="ID_txt08_01">
+<text><![CDATA[<b>Frame Relay<br/>Nuvem</b>]]></text>
+</component>
+
+<component id="ID_txt09_01">
+<text><![CDATA[T1-R2-SRV2<br/>(Alugado)]]></text>
+</component>
+
+<component id="ID_txt10_01">
+<text><![CDATA[<b>Instalação de ISP</b>]]></text>
+</component>
+
+<component id="ID_txt11_01">
+<text><![CDATA[<b>Servidor WEB<br/>(co-localizado no ISP)</b>]]></text>
+</component>
+
+<component id="ID_txt12_01">
+<text><![CDATA[<b>Wiring Closet B</b>]]></text>
+</component>
+
+<component id="ID_txt13_01">
+<text><![CDATA[Rack 1<br/>Prateleira 1]]></text>
+</component>
+
+<component id="ID_txt14_01">
+<text><![CDATA[<b>Ethernet-R1-S1</b>]]></text>
+</component>
+
+<component id="ID_txt15_01">
+<text><![CDATA[<b>Ethernet-R1-S2</b>]]></text>
+</component>
+
+<component id="ID_txt16_01">
+<text><![CDATA[Rack 1<br/>Prateleira 2]]></text>
+</component>
+
+<component id="ID_txt17_01">
+<text><![CDATA[Rack 1<br/>Prateleira 3]]></text>
+</component>
+
+<component id="ID_txt18_01">
+<text><![CDATA[<b>Wiring Closet S</b>]]></text>
+</component>
+
+<component id="ID_txt19_01">
+<text><![CDATA[Rack 1<br/>Prateleira 1]]></text>
+</component>
+
+<component id="ID_txt20_01">
+<text><![CDATA[<b>Ethernet-R3-S3</b>]]></text>
+</component>
+
+<component id="ID_txt21_01">
+<text><![CDATA[Rack 1<br/>Prateleira 2]]></text>
+</component>
+
+<component id="ID_txt22_01">
+<text><![CDATA[<b>Ethernet-S1-PC1</b>]]></text>
+</component>
+
+<component id="ID_txt23_01">
+<text><![CDATA[<b>Ethernet-S2-PC2</b>]]></text>
+</component>
+
+<component id="ID_txt24_01">
+<text><![CDATA[<b>Ethernet-S3-PC3</b>]]></text>
+</component>
+
+<component id="ID_txt25_01">
+<text><![CDATA[<b>Rm 701</b>]]></text>
+</component>
+
+<component id="ID_txt26_01">
+<text><![CDATA[<b>Rm 705</b>]]></text>
+</component>
+
+<component id="ID_txt27_01">
+<text><![CDATA[<b>Conferência<br/>Sala</b>]]></text>
+</component>
+
+<component id="ID_txt28_01">
+<text><![CDATA[<b>Edifício B (engenharia)</b>]]></text>
+</component>
+
+<component id="ID_txt29_01">
+<text><![CDATA[<b>Escritório de vendas (filial remota)</b>]]></text>
+</component>
+
+
+
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>Servidor WEB/TFTP</b><br/>192.168.20.254 /24]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>Frame Relay</b>]]></text>
+</component>
+
+<component id="ID_txt03_02">
+<text><![CDATA[<b>Servidor WEB</b><br/>209.165.201.30 /27]]></text>
+</component>
+
+<component id="ID_txt04_02">
+<text><![CDATA[192.168.10.10 /24<b><br/>Admin</b>]]></text>
+</component>
+
+<component id="ID_txt05_02">
+<text><![CDATA[192.168.11.10 /24<b><br/>Admin</b>]]></text>
+</component>
+
+<component id="ID_txt06_02">
+<text><![CDATA[192.168.30.10 /24<b><br/>PC de demonstração</b>]]></text>
+</component>
+
+<component id="ID_txt07_02">
+<text><![CDATA[<b>Edifício B</b>]]></text>
+</component>
+
+<component id="ID_txt_02">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+
+<component id="ID_txt_03">
+<text><![CDATA[<b>S2</b>]]></text>
+</component>
+
+<component id="ID_txt_04">
+<text><![CDATA[<b>S3</b>]]></text>
+</component>
+
+<component id="ID_txt_02a">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+
+<component id="ID_txt_03b">
+<text><![CDATA[<b>S2</b>]]></text>
+</component>
+
+<component id="ID_txt_04c">
+<text><![CDATA[<b>S3</b>]]></text>
+</component>
+
+<component id="ID_txt_06">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt_06a">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt_01">
+<text><![CDATA[DTE]]></text>
+</component>
+
+<component id="ID_txt_05">
+<text><![CDATA[DTE]]></text>
+</component>
+
+</textcomponents>

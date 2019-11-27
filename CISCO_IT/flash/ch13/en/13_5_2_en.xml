@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="13_5_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>Possible Solution</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CONTENT 02">
+        <source>•   Company Name</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_PROBLEM SYMPTOM">
+        <source>Gather Data from the Customer</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_SCREEN3_01">
+        <source>Problem Symptom</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_SCREEN3_02">
+        <source>Possible Solution</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_SCREEN3_03">
+        <source>A laptop user complains that 
+numerous peripheral cables 
+are constantly getting tangled.</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_SCREEN3_04">
+        <source>Provide information to the 
+user about cordless peripherals. </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_SCREEN3_05">
+        <source>A laptop user is unable to connect to the wireless network.</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_SCREEN3_06">
+        <source>Reconfigure the wireless security on the laptop to connect to the security system used by the network.
+</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_SCREEN3_07">
+        <source>The laptop keyboard no 
+longer works.  </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_SCREEN3_08">
+        <source>The keyboard is a FRU. Advise the customer to take the laptop to a repair center or return it to the manufacturer.
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_SCREEN3_09">
+        <source>A user reports that the laptop battery needs recharging more frequently than when it was new. </source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_SCREEN3_10">
+        <source>Have the user completely 
+discharge the battery, 
+then fully recharge it. 
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_SCREEN3_11">
+        <source>A user obtains a new 
+laptop and reports that it 
+does not fit in the existing 
+docking station.</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_SCREEN3_12">
+        <source>Docking stations are 
+proprietary. Verify that the user has a compatible model. 
+</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_SCREEN3_13">
+        <source>System runs for a few minutes then locks up</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_SCREEN3_14">
+        <source>Check fan power cable, verify fan operation, verify thermal compound properly applied</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_SCREEN4_01">
+        <source>Check the external cables for loose connections that could cause a restart
+
+Check the internal data and power cables for loose connections
+
+Ensure adapter cards and RAM for properly secured
+
+Verify all cooling fans are operating properly </source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_SCREEN5_01">
+        <source>Could not access Safe Mode from menu
+
+Computer boots from a Windows startup disk
+
+The hard drive can be accessed manually </source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_SCREEN6_01">
+        <source>Problem Solving Experience
+
+Other Technicians
+
+Internet Search
+
+News Groups
+
+Manufacturer FAQs
+
+Computer Manuals
+
+Device Manuals
+
+Online Forums
+
+Technical Websites</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_SCREEN7_01">
+        <source>Discuss the solution implemented with customer
+
+Have the customer verify problem has been solved
+
+Provide customer with all paperwork
+
+Document steps taken to solve the problem in the work order and the technician’s journal
+
+Document any components used in the repair
+
+Document the time spent to resolve the problem</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_STEP 01">
+        <source>Gather Data from the Customer</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_STEP 02">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TITLE1">
+        <source>Open-Ended Questions
+</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TITLE2">
+        <source>Closed-Ended Questions
+</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TITLE3">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TITLE4">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TITLE5">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TITLE5A">
+        <source>List of open-ended questions about laptop errors. (This list is NOT comprehensive)</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TITLE6">
+        <source>Evaluate the Problem and Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TITLE6A">
+        <source>Can you describe precisely what happens when the computer boots?</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TITLE7">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TITLE7A">
+        <source>How often does the computer fail to start? </source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TITLE8">
+        <source>What is the first screen you see when you turn on your computer?</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TITLE9">
+        <source>What sounds does the computer make as it starts? </source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TITLE10">
+        <source>Is there a pause, or does the computer restart instantly? </source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TITLE11">
+        <source>List of closed-ended questions about laptop errors. (This list is NOT comprehensive)</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TITLE12">
+        <source>Has anyone done any repair work on the computer recently?</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TITLE13">
+        <source>Has anyone else used the computer?</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TITLE14">
+        <source>Does this computer have a floppy drive?</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TITLE15">
+        <source>Does this computer have a USB drive installed?</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TITLE16">
+        <source>Is there a wireless NIC in this computer? </source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TITLE16A">
+        <source>Is the computer turned off at night? </source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TITLE16B">
+        <source>Is the computer secured in a locked room at night? </source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TITLE16C">
+        <source>Do you have a Windows XP installation CD on hand?</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>Troubleshooting Process</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TXT_36">
+        <source>•</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

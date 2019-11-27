@@ -1,0 +1,37 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Arquitetura em camadas PPP: camada física</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Camada 3]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[Protocolos]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[Muitos outros]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[Protocolo de controle de rede]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[Autenticação, outras opções<BR/>Protocolo de controle de link]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[Síncrono ou assíncrono <BR/><FONT COLOR="#FF0000">Meio físico</FONT>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[Camada de rede]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[Camada de enlace de dados]]></text> 
+  </component>
+<component id="ID_txt09">
+<text><![CDATA[Camada física]]></text>
+</component>
+<component id="table1">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Com suas funções de nível inferior, o PPP pode utilizar:</b></font></td></tr><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>&#8226; Mídia física síncrona<BR/>&#8226; Mídia física assíncrona como as que utilizam serviço telefônico básico em conexões de acesso via modem</td></tr></table>]]></text>
+</component>
+</textcomponents>

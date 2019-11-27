@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="15_3_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Twisted Pair Cable </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>Cat 5e cable is an enhanced version of Cat 5 that adds specifications for far end crosstalk. It was formally defined in 2001 in the 
+TIA/EIA-568-B standard, which no longer recognizes
+the original Cat 5 specification.</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXTE_02">
+        <source>Cat-6 features more stringent specifications
+for crosstalk and system noise. The cable standard
+is suitable for 10BASE-T / 100BASE-TX and1000BASE-
+T(Gigabit Ethernet) connections. It provides
+performance of up to 250 MHz.</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

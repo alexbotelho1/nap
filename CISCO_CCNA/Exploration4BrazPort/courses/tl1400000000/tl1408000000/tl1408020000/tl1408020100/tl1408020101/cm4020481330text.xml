@@ -1,0 +1,21 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Uma abordagem geral para identificar e solucionar problemas</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Abordagem científica<br/>(teórica)</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Abordagem pré-histórica<br/>(força bruta)</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Uma abordagem sistemática é melhor</b>]]></text>
+</component>
+
+
+
+</textcomponents>

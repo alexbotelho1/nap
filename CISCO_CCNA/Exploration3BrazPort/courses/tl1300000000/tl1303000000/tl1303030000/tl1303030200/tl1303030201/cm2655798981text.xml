@@ -1,0 +1,77 @@
+<textcomponents>
+
+  <component id="ID_title1">
+  <text><![CDATA[<b>Adicionar uma VLAN</b>]]></text> 
+  </component>
+
+  <component id="ID_txt01">
+  <text><![CDATA[<b>F0/1</b>]]></text> 
+  </component>
+
+  <component id="ID_txt02">
+  <text><![CDATA[<b>F0/18</b>]]></text> 
+  </component>
+
+  <component id="ID_txt03">
+  <text><![CDATA[<b>F0/1</b>]]></text> 
+  </component>
+  
+<component id="ID_caption01">
+<text><![CDATA[<b>3.3.2.1 -A: Adicionar uma VLAN</b>]]></text>
+</component>
+<component id="tableHTML">
+	    <text><![CDATA[
+	   <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	
+	    	<tr>
+	  	  		
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Sintaxe de comando da CLI do Cisco IOS</b></font></td>
+	  	  	<td width="250" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter"> </font></td>
+	   	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Alterne do modo EXEC privilegiado para o modo de configuração global.</td>
+		<td width="250" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1#<b>configure terminal</b></font></td>
+	</tr>
+	
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Crie uma VLAN. ID de VLAN é o número de VLAN a ser criado. Alterna para o modo de configuração de VLAN do ID de VLAN.</td>
+		<td width="250" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config)#<b>vlan </b><I>vlan id</I></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>(Opcional) Especifique um nome de VLAN exclusivo para identificar a VLAN.<br/>Se nenhum nome for digitado para um número de VLAN, zeros à esquerda serão adicionados à palavra 'VLAN', por exemplo, VLAN0020.</td>
+		<td width="250" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config-vlan)#<b>name </b><I>vlan name</I></font></td>
+	</tr>
+	
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Volte ao modo EXEC privilegiado. Você deve encerrar sua sessão de configuração para que a configuração seja salva no arquivo vlan.dat e para que ela entre em vigor.</td>
+		<td width="250" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config-vlan)#<b>end</b></font></td>
+	</tr>
+</table>
+]]></text> 
+  </component>
+
+  <component id="ID_box_3.3.2.1">
+  <text><![CDATA[<b>Switch S1:<br>VLAN 20 <br>"aluno"</b>]]></text> 
+  </component>
+
+  <component id="ID_box2_3.3.2.1">
+  <text><![CDATA[<font face="_typewriter">S1#<b>configure terminal</b><br>S1(config)#<b>vlan 20</b><br>S1(config-vlan)#<b>name student</b><br>S1(config-vlan)#<b>end</b></font>]]></text> 
+  </component>
+
+  <component id="ID_box3">
+  <text><![CDATA[<b>PC do aluno<br>172.17.20.22</b>]]></text> 
+  </component>
+
+  <component id="ID_CS">
+  <text><![CDATA[<b>Sintaxe de comando</b>]]></text> 
+  </component>
+  <component id="ID_example">
+  <text><![CDATA[<b>Exemplo</b>]]></text> 
+  </component>
+  <component id="ID_Gateway">
+  <text><![CDATA[<b>Verificação</b>]]></text> 
+  </component>
+
+</textcomponents>

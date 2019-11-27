@@ -1,0 +1,37 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>Características físicas do switch</B>]]></text> 
+</component>
+
+
+
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Switches de configuração fixa</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Switches modulares</b>]]></text> 
+</component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Switches empilháveis</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Os recursos e as opções estão limitados aos que acompanham originalmente o switch.</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<b>O chassi aceita placas de linha que contêm as portas.</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<b>Switches empilháveis, conectados por um cabo especial, funcionam efetivamente como um grande switch.</b>]]></text> 
+</component>
+
+
+
+
+
+</textcomponents>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_4_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_NETWORK ">
+        <source>Network </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE1">
+        <source>Twisted-Pair Cabling
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE2">
+        <source>Coaxial Cabling
+</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE3">
+        <source>Fiber-Optic Cabling</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE4">
+        <source>Cable Types</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_01">
+        <source>Jacket: ETFE Fluoropolymer </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_02">
+        <source>Insulation: PTFE over ePTFE </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_03">
+        <source>Conductor: Silver-Plated Copper or Alloy</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_04">
+        <source>Shield: Braided Silver-Plated Wire</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_05">
+        <source>Uses coaxial copper cable to transmit data signals up to 185 meters</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_06">
+        <source>Uses fiber optics to transmit data signals over great distances</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_07">
+        <source>Uses twisted pair copper wire wrapped in metallic foli to transmit data signals with less EMI</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_08">
+        <source>Uses twisted pair copper wires to transmit data up to 100meters</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

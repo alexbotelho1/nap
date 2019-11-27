@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 11:12:38">
+<title><content-text><![CDATA[6.1.2 - The Teleworker Solution]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts teleworker connectivity requirements and components.<br><br>Two areas are defined in the diagram, teleworker and headquarters, which are interconnected via the Internet cloud using an encrypted VPN tunnel.<br><br>Teleworker Solution Components:<br>- Home office components<br>- Corporate components<br>- Optional corporate IP telephony components<br><br>Teleworker area:<br>- End-user devices - Laptop or desktop computer, IP phones, video conference equipment<br>- Broadband modem (cable or DSL)<br>- Remote VPN router (or VPN client software installed on the computer)<br><br>Headquarters area:<br>- Headend VPN router]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

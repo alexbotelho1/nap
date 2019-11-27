@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13395" dateexported="10/20/2009">
+		<name>Teste do Módulo 8</name>
+		<form id="23442" lang="pt"><form-item>
+			<ai id="165076" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="165076" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>tipo de cabo</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Endereço IP e sub-rede</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>tipo de conexão</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>ID do dispositivo</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>versão do sistema operacional</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>tipo e modelo do dispositivo</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>protocolos de roteamento</mattext></material></textcomponent></component><component ident="8" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>tipo de conector</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Diagrama físico</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Diagrama lógico</mattext></material></textcomponent></component><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="7" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="8" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste os itens à esquerda até o tipo de diagrama apropriado à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="10" yspacing="40" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /><display componentIdent="7" xpos="200" ypos="315" /><display componentIdent="8" xpos="200" ypos="355" /></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="4" startTarg="1" labelStyle="1" /><display componentIdent="2" xpos="600" ypos="264.5" containsTargets="4" startTarg="5" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="137" /><display componentIdent="3" xpos="600" ypos="174" /><display componentIdent="4" xpos="600" ypos="211" /><display componentIdent="5" xpos="600" ypos="273" /><display componentIdent="6" xpos="600" ypos="310" /><display componentIdent="7" xpos="600" ypos="347" /><display componentIdent="8" xpos="600" ypos="384" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident><componentident>4</componentident></scoringzone><scoringzone ident="2"><componentident>5</componentident><componentident>6</componentident><componentident>7</componentident><componentident>8</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="220669" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="220669" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>1</componentident><componentident>5</componentident><componentident>6</componentident><componentident>8</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident><componentident>3</componentident><componentident>4</componentident><componentident>7</componentident></scoringzonecontains></conditionvar><setvar varname="220669" action="Set">1</setvar><scoringdescription> tipo e modelo do dispositivo – Físico Tipo de cabo - Físico - Tipo de conector - Físico - Versão do sistema operacional – Físico - IDs de dispositivo - Físicos - Endereço IP lógico e sub-rede - Tipo lógico de conexão - Protocolos de roteamento lógicos - Lógico</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="165077" type="mc-sa"><question><![CDATA[Qual é o sintoma de um problema na camada física?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[muita utilização da CPU  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[broadcasts em excesso ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[convergência STP lenta ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[loops de roteamento ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165078" type="mc-sa"><question><![CDATA[Um administrador de rede recebeu a saída “Serial0 is up, line protocol is down” do comando <b>show interface s0</b>. Em que camada é mais provável que o problema esteja sendo causado?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[camada física ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[camada de enlace de dados  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[camada de rede ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[camada de transporte ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165082" type="mc-sa"><question><![CDATA[Qual é a afirmativa verdadeira em relação aos modelos de rede?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Embora semelhante ao modelo OSI em termos de construção, o modelo TCP/IP possui mais camadas. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A camada de acesso de rede no modelo OSI incorpora as camadas física e de enlace de dados no modelo TCP/IP. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Os processos de camada de usuários e de aplicativos interagem com aplicativos de software que contêm um componente de comunicação no modelo OSI.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[As comunicações TCP/IP só se relacionam ao modelo TCP/IP. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165083" type="mc-ma"><question><![CDATA[Quais são os três protocolos que podem estar envolvidos em problemas da camada de rede? (Escolha três.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[DNS ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[EIGRP  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[IP  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[RIP  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[TCP ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[UDP ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="165084" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="165084" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>FTP</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>HTTP</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>POP3</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>SMTP</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>SNMP</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Telnet</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>20 e 21</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>23</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>25</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>80</mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>110</mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>161</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Corresponda o protocolo de camada de aplicação à esquerda ao número de porta ao qual ele é geralmente associado à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="10" yspacing="40" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="112" /><display componentIdent="3" xpos="600" ypos="149" /><display componentIdent="4" xpos="600" ypos="186" /><display componentIdent="5" xpos="600" ypos="223" /><display componentIdent="6" xpos="600" ypos="260" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><scoringzone ident="5"><componentident>5</componentident></scoringzone><scoringzone ident="6"><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="221113" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="221113" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="5"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="6"><componentident>5</componentident></scoringzonecontains></conditionvar><setvar varname="221113" action="Set">1</setvar><scoringdescription>1FTP 2 Telnet 3 SMTP 4 HTTP 5 POP 3 6 SNMP</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="165085" type="mc-sa"><question><![CDATA[Foi solicitado que um técnico identificasse e solucionasse um problema de rede simples que parece ter sido causado por software. Qual abordagem de identificação e solução de problemas deverá ser sugerida?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[de baixo para cima (bottom-up) ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[de cima para baixo (top-down)  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[dividir e conquistar ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[do meio para fora ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165086" type="mc-ma"><question><![CDATA[Quais são as três perguntas apropriadas a serem feitas ao coletar informações de um usuário? (Escolha três.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[O que funciona?  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Para quem você ligou quando o problema apareceu?  ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Quando o problema foi notado pela primeira vez?  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Quando o problema ocorre?  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Qual é a sua senha? ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O que você fez quando o problema ocorreu? ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165088" type="mc-sa"><question><![CDATA[Que ferramenta de identificação e solução de problemas de rede pode ser usada para testar a existência de defeitos no meio físico, como diafonia?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[analisador de cabo  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[testador de cabo ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[multímetro digital ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[ferramenta da linha de base ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165079" type="mc-ma"><question><![CDATA[Quais são os três documentos necessários para diagnosticar e corrigir problemas de rede de forma eficiente? (Escolha três.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[referência de comando de gerenciamento de rede ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[tabelas de configuração de rede  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[guia de instalação de dispositivo de rede ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[diagramas de topologia da rede  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[tabelas de configuração de sistema final  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[documentação da operadora ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165081" type="mc-ma"><question><![CDATA[Quais são as três etapas para estabelecer uma linha de base de rede? (Escolha três.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[determinar o tipo de tráfego de gerenciamento de rede a ser coletado e avaliado ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[determinar os tipos de dados a serem coletados e avaliados  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[identificar dispositivos e portas a serem monitorados  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[identificar as interfaces virtuais, as VLANs e as tabelas de roteamento virtuais a serem monitoradas ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[determinar o número de testes de linha de base para estabelecer uma imagem típica da rede ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[determinar a duração dos testes de linha de base para estabelecer uma imagem típica da rede  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165087" type="mc-sa"><question><![CDATA[Qual é a afirmativa associada à primeira etapa da correção de problemas de camada de aplicação?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[analisar os sintomas de saída ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[fazer um backup das configurações  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[fazer as alterações iniciais no hardware ou no software ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[executar ping no gateway padrão para verificar a funcionalidade Camada 1 – Camada 3 ]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam> 

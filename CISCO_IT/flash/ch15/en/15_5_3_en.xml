@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="15_5_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Network Connections</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Connection Status</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Address Type</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE4">
+        <source>Ipconfig Command Switches</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_01">
+        <source>ipconfig Command
+Switches</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_02">
+        <source>/all</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_03">
+        <source>/release</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_04">
+        <source>/renew</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_05">
+        <source>/flushdns</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_06">
+        <source>/registerdns</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_07">
+        <source>/displaydns</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_08">
+        <source>Purpose</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_09">
+        <source>Displays full configuration
+of all network adapters</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_10">
+        <source>Releases the IP address of a network adapter</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_11">
+        <source>Renews the IP address of a network adapter</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_12">
+        <source>Empties the cache that stores DNS information</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_13">
+        <source>Refreshes DHCP leases and re-registers the adapter with DNS</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_14">
+        <source>Shows DNS information in the cache</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

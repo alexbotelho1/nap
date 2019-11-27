@@ -1,0 +1,91 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para visualizar a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para avançar para a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) Descreva quatro dos seis tipos de protocolos de encapsulamento WAN.]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 2.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<ul><li><b>HDLC</b> – o tipo de encapsulamento padrão em conexões ponto-a-ponto, links dedicados e conexões de circuito comutado quando o link utiliza dois dispositivos Cisco.</li><li><b>PPP</b> – fornece conexões roteador-a-roteador e host-a-rede em circuitos síncronos e assíncronos. O PPP funciona com vários protocolos da camada de rede, como IP e IPX. O PPP também tem mecanismos de segurança internos, como PAP e CHAP.</li><li><b>Serial Line Internet Protocol (SLIP)</b> – um protocolo padrão para conexões seriais ponto-a-ponto que utiliza TCP/IP. O SLIP foi amplamente desbancado por PPP.</li><li><b>X.25/Link Access Procedure, Balanced (LAPB)</b> – o padrão ITU-T que define como é mantida a conexão entre  DTE e DCE para acesso ao terminal remoto e uma comunicação do computador em redes de dados públicas. X.25 especifica LAPB, um protocolo da camada de enlace. X.25 é um antecessor do Frame Relay.</li><li><b>Frame Relay</b> – protocolo da camada de enlace, padrão, comutado, que lida com vários circuitos virtuais. Frame Relay é um protocolo da geração seguinte à do X.25. Frame Relay elimina alguns dos processos mais demorados (como correção de erro e controle de fluxo) empregados no X.25.</li><li><b>ATM</b> – o padrão internacional de retransmissão de célula no qual os dispositivos enviam vários tipos de serviço (como voz, vídeo ou dados) em células de tamanho fixo (53 bytes). As células de tamanho fixo permitem que o processamento ocorra no hardware, o que reduz atrasos de trânsito. O ATM usufrui de mídia de transmissão de alta velocidade, como E3, SONET e T3.</li></ul>]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2) Descreva as funções do LCP e do NCP.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 2.2)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Camada do Link Control Protocol (LCP)</b><ul><li>Fica acima da camada física e tem uma função de estabelecer, configurar e testar a conexão de enlace.</li><li>Estabelece o link ponto-a-ponto.</li><li>Fornece configuração automática das interfaces em cada extremidade, inclusive tratando limites variáveis do tamanho do pacote, detectando erros de configuração incorreta, encerrando o link e determinando quando um link está funcionando corretamente ou quando há falha.</li><li>Ele também é utilizado para negociar autenticação, compressão, detecção de erros, vários links e retorno PPP após o estabelecimento do link.</li><li>Negocia e configura opções de controle no vínculo WAN, que são tratadas pelos NCPs.</li><br/><b>Camada do Network Control Protocol (NCP)</b><ul><li>Inclui campos funcionais que contêm códigos padronizados para indicar o protocolo da camada de rede encapsulado pelo PPP.</li><li>Trata a atribuição e o gerenciamento de endereços IP em IPCP.</li><li>Encapsula e negocia opções para vários protocolos da camada de rede.</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) Descreva as cinco opções de encapsulamento LCP configurável.]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 2.3)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Autenticação que utiliza PAP ou CHAP</b><ul><li>Se tudo de que você precisa é autenticar a senha, configure PAP utilizando o comando ppp authentication pap.</li><li>Se você quiser um handshake de desafio, configure CHAP utilizando o comando ppp authentication chap (mais seguro).</li></ul><br/><b>Compressão</b><ul><li>Aumenta a produtividade efetiva, reduzindo a quantidade de dados no quadro PPP que devem percorrer o link.</li><li>Para configurar Stacker, utilize o comando compress stac. Para configurar Predictor, utilize o comando compress predictor.</li></ul><br/><b>Detecção de erros</b><ul><li>Identifica condições de falha para ajudar a assegurar um enlace de dados confiável, sem loop.</li><li>Configurado utilizando o comando ppp quality number 1-100.</li></ul><br/><b>Multilink </b><ul><li>Fornece balanceamento de carga nas interfaces do roteador utilizada pelo PPP, utilizando o comando ppp multilink.</li></ul><br/><b>Retorno PPP</b><ul><li>Aprimora a segurança, tornando um roteador Cisco um cliente de retorno, que faz a chamada inicial, solicita esse outro roteador Cisco configurado como um servidor de retorno e encerra sua chamada inicial.</li><li>O comando é ppp callback [accept | request].</li></ul>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- LAST QUESTION -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) Consulte a figura. O roteador R1 não pode se conectar ao roteador R3. Com base nas informações apresentadas, quais alterações na configuração do roteador R1 corrigiriam o problema?]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 2.4)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Em roteador R1</b><ul><li>Há dois erros no comando <b>username</b>. O nome do roteador deve ser R3, e a senha deve ser <b>cisco</b>. Portanto, o comando correto é <b>username R3 password cisco</b>.</li><li>O terceiro erro está no comando <b>ppp authentication</b>. Ele deve ser <b>ppp authentication chap</b>.</li></ul>]]></text>
+</component>
+<component id="ID_conclusion">
+<text><![CDATA[<b>Assim são concluídas as perguntas da seção “Verifique a sua compreensão” deste capítulo.</b>]]></text>
+</component>
+</textcomponents>

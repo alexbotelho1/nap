@@ -1,0 +1,43 @@
+<textcomponents>
+<component id="ID_txt01_5212">
+<text><![CDATA[<b>Algoritmo STP</b>]]></text>
+</component>
+
+<component id="ID_txt03_5212">
+  <text><![CDATA[<b>Tronco2</font></b>]]></text> 
+  </component>
+  <component id="ID_txt04_5212">
+  <text><![CDATA[<b>Tronco3</font></b>]]></text> 
+  </component>
+  <component id="ID_txt05_5212">
+  <text><![CDATA[<b>Tronco1</font></b>]]></text> 
+  </component>
+<component id="ID_txt06_5212">
+  <text><![CDATA[Portas não-designadas]]></text> 
+  </component>
+  <component id="ID_txt07_5212">
+  <text><![CDATA[Portas designadas]]></text> 
+  </component>
+  <component id="ID_txt08_5212">
+  <text><![CDATA[Portas raiz]]></text> 
+  </component>
+  <component id="ID_txt09_5212">
+  <text><![CDATA[Portas designadas]]></text> 
+  </component>
+  <component id="ID_txt10_5212">
+  <text><![CDATA[Bridge raiz]]></text> 
+  </component>
+  <component id="ID_txt11_5212">
+  <text><![CDATA[Portas designadas]]></text> 
+  </component>
+  <component id="ID_txt12_5212">
+  <text><![CDATA[Portas raiz]]></text> 
+  </component>
+ 
+ 
+
+
+
+
+
+</textcomponents>

@@ -1,0 +1,31 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Práticas recomendadas ACL</b>]]></text>
+</component>
+
+<component id="ID_table1">
+<text><![CDATA[<table header='top' bordercolor='#CCCCCC' borderwidth='1' headerstyle='black' glow='true' glowcolor='#808080' cellpadding='2'>
+<tr>
+<td width='250' bgcolor='#DDDDDD'><font color='#FFFFFF'><b>Diretriz</b></font></td>
+<td bgcolor='#F2F2F2'><font color='#FFFFFF'><b>Benefício</b></font></td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2'>Fundamente as suas ACLs na política de segurança da organização.</td>
+<td bgcolor='#F2F2F2'>Isso irá assegurar que você implemente diretrizes de segurança organizacionais.</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD'>Prepare uma descrição do que você deseja que suas ACLs façam.</td>
+<td bgcolor='#DDDDDD'>Isso ajudará a evitar problemas de acesso potenciais criados inadvertidamente.</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2'>Use um editor de texto para criar, editar e salvar ACLs.</td>
+<td bgcolor='#F2F2F2'>Isso ajudará a criar uma biblioteca de ACLs reutilizáveis.</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD'>Teste suas ACLs em uma rede de desenvolvimento antes de implementá-las em uma rede de produção.</td>
+<td bgcolor='#DDDDDD'>Isso ajudará a evitar erros onerosos.</td>
+</tr>
+</table>]]></text>
+</component>
+</textcomponents>

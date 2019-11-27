@@ -1,0 +1,121 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver a saída do comando.</b>]]></text>
+</component>
+
+
+<component id="ID_title01">
+<text><![CDATA[<b>Localizando o Sucessor Viável</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>R1 atende a condição de viabilidade?</b>]]></text>
+</component>
+
+<component id="ID_caption02">
+<text><![CDATA[<b>R1 reporta a R2 que sua distância viável para 192.168.1.0/24 é de 2172416</b>]]></text>
+</component>
+
+<component id="ID_title03">
+<text><![CDATA[<b>R1 atende a condição de viabilidade.</b>]]></text>
+</component>
+
+<!-- buttons -->
+<component id="slide1">
+<text><![CDATA[<b>Sucessor viável</b>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<b>Condição de viabilidade</b>]]></text>
+</component>
+
+<component id="slide3">
+<text><![CDATA[<b>Distância reportada</b>]]></text>
+</component>
+
+<!-- topology-->
+
+<component id="ID_txt01">
+<text><![CDATA[<b><i>Este roteador não existe fisicamente</i></b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>64 kbps</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>1024 kbps</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>1544 kbps</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_txt05-2">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_txt05-3">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_txt06-2">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_txt06-3">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Loopback1<br>10.1.1.1/30</b>]]></text>
+</component>
+
+<!-- Overlay1-->
+
+<component id="ID_txt10">
+<text><![CDATA[<b>R1 é um possível sucessor para 192.168.1.0/24?</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>R3 é o sucessor para 192.168.1.0/24</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>100.000 kbps</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[***saída do comando omitida***]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[***saída do comando omitida***]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[***saída do comando omitida***]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[***saída do comando omitida***]]></text>
+</component>
+
+</textcomponents>

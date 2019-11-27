@@ -1,0 +1,24 @@
+﻿<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Assistente de rede Cisco</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>CiscoView</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Gerenciador de dispositivo Cisco</B>]]></text> 
+</component>
+
+<component id="ID_button_04">
+  <text><![CDATA[<B>Gerenciamento de rede SNMP</B>]]></text> 
+</component>
+
+<component id="ID_step0">
+  <text><![CDATA[<B>Clique nos botões para ver as alternativas baseadas na interface gráfica do usuário à CLI.</B>]]></text> 
+</component>
+
+
+</textcomponents>

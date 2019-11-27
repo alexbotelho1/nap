@@ -1,0 +1,45 @@
+<textcomponents>
+<component id="ID_txt01">		
+<text><![CDATA[<b>As principais vulnerabilidades para estações de trabalho de usuário final são worms, vírus e ataques de cavalo-de-Troia.</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Um worm executa um código arbitrário e instala cópias na memória do computador infectado, o que infecta outros hosts.</b>]]></text>
+</component>
+<component id="ID_txt03">		
+<text><![CDATA[<b>Vírus é um software malicioso anexado a outro programa para executar uma determinada função indesejável em uma estação de trabalho do usuário.</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Um cavalo-de-Troia é diferente apenas porque todo o aplicativo foi escrito para ser semelhante a alguma coisa, quando, na verdade, é uma ferramenta de ataque.</b>]]></text>
+</component>
+<component id="controllerText">
+<text><![CDATA[<b>Clique em Reproduzir para ver a animação.</b>]]></text>
+</component>
+<component id="title">
+<text><![CDATA[<b>Ataques de código malicioso</b>]]></text>
+</component>
+<component id="play"><text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute"><text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+</textcomponents>

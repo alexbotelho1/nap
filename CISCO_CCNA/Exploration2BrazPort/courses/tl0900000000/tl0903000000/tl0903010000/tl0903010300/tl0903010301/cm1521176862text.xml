@@ -1,0 +1,50 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Roteamento dinâmico em comparação com roteamento estático</b>]]></text> 
+</component>
+
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#ffffff' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+		<td><font color='#FFFFFF'><b>Roteamento dinâmico</b></font></td>
+		<td><font color='#FFFFFF'><b>Roteamento estático</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#ECCE84'><b>Complexidade de configuração</b></td>
+		<td bgcolor='#DDDDDD'>Geralmente independente do tamanho da rede</td>
+		<td bgcolor='#DDDDDD'>Aumenta com o tamanho da rede</td>
+	</tr>
+	<tr>
+		<td bgcolor='#ECCE84'><b>Conhecimento administrativo necessário</b></td>
+		<td bgcolor='#F2F2F2'>Conhecimentos avançados necessários</td>
+		<td bgcolor='#F2F2F2'>Nenhum conhecimento adicional necessário</td>
+	</tr>
+	<tr>
+		<td bgcolor='#ECCE84'><b>Mudanças na topologia</b></td>
+		<td bgcolor='#DDDDDD'>Adaptáveis automaticamente às mudanças na topologia</td>
+		<td bgcolor='#DDDDDD'>Intervenção do administrador necessária</td>
+	</tr>
+	<tr>
+		<td bgcolor='#ECCE84'><b>Dimensionando</b></td>
+		<td bgcolor='#F2F2F2'>Adequado para topologias simples e complexas</td>
+		<td bgcolor='#F2F2F2'>Adequado para topologias simples</td>
+	</tr>
+	<tr>
+		<td bgcolor='#ECCE84'><b>Segurança</b></td>
+		<td bgcolor='#DDDDDD'>Menos seguro</td>
+		<td bgcolor='#DDDDDD'>Mais seguro</td>
+	</tr>
+	<tr>
+		<td bgcolor='#ECCE84'>Uso de recursos</td>
+		<td bgcolor='#F2F2F2'>Utiliza CPU, memória e largura de banda de link</td>
+		<td bgcolor='#F2F2F2'>Nenhum recurso adicional necessário</td>
+	</tr>
+	<tr>
+		<td bgcolor='#ECCE84'><b>Previsibilidade</b></td>
+		<td bgcolor='#DDDDDD'>A rota depende da topologia atual</td>
+		<td bgcolor='#DDDDDD'>A rota para o destino é sempre a mesma</td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

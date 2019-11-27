@@ -1,0 +1,16 @@
+<textcomponents>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Neste capítulo, você aprendeu:</b></font></td></tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>O modelo de design hierárquico supera a limitação dos modelos de design fixo, parcial e de malha, melhorando o desempenho, a escalabilidade, a disponibilidade, a gerenciabilidade e a sustentabilidade da rede.</li><li>As topologias de rede hierárquicas facilitam a convergência de rede, fornecendo o desempenho necessário à integração de dados de voz e vídeo na rede de dados existente.</li><li>O fluxo de tráfego, as comunidades de usuários, os armazenamentos de dados e o local do servidor, além da análise do diagrama de topologia, podem ser usados para ajudar a identificar gargalos de rede.</li><li>Dessa forma, os gargalos podem ser resolvidos para melhorar o desempenho da rede e determinar com precisão os requisitos de hardware apropriados para atender ao desempenho desejado da rede.</li><li>Os switches Cisco integram form factors específicos, desempenho, PoE e suporte da Camada 3 que suportam os níveis do design de rede hierárquico.</li></ul></td>
+  </tr>
+</table>]]></text>
+</component>
+
+<component id="ID_title"><text><![CDATA[<b></b>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,55 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Calculando uma rota sumarizada</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver as etapas.</b>]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>Etapa 1</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>Etapa 2</b>]]></text>
+</component>
+
+<component id="ID_btn3">
+<text><![CDATA[<b>Etapa 3</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_txt01a">
+<text><![CDATA[<b>Etapa 1: </b>]]></text>
+</component>
+<component id="ID_txt01b">
+<text><![CDATA[Lista redes em formato binário.]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_txt02a">
+<text><![CDATA[<b>Etapa 2:</b>]]></text>
+</component>
+<component id="ID_txt02b">
+<text><![CDATA[Conte o número de bits correspondentes da extremidade esquerda para determinar a máscara.<br>14 bits correspondentes, /14 ou 255.252.0.0]]></text>
+</component>
+
+<!-- slide 3 -->
+<component id="ID_txt03a">
+<text><![CDATA[<b>Etapa 3:</b>]]></text>
+</component>
+<component id="ID_txt03b">
+<text><![CDATA[Copie os bits correspondentes e adicione bits 0 para determinar o endereço de rede.]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Copiar</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Adicionar bits 0</b>]]></text>
+</component>
+
+</textcomponents>

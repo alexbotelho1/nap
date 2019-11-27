@@ -1,0 +1,51 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>O que é uma WAN?</b>]]></text>
+</component>
+
+<component id="ID_header01">
+<text><![CDATA[<b>Wide Area Network (rede de longa distância)</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>LAN</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>WAN</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Acesso</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Grupos de trabalho</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Backbone do edifício</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Backbone do campus</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>WAN</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Escritório filial</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Trabalhador à distância</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<br/><b>Usuário remoto</b>]]></text>
+</component>
+
+</textcomponents>

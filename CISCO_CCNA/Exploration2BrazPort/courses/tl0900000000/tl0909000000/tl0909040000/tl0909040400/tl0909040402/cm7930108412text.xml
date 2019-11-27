@@ -1,0 +1,81 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para Reproduzir a animação.</b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Entrada da tabela para 192.168.1.0/24</b>]]></text>
+</component>
+
+<!-- animation -->
+<component id="ID_txt01">
+<text><![CDATA[<b>Passivo; o DUAL não está computando um novo caminho</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Rede de<br/>Destino</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Número de<br/>Sucessores</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Distância viável<br/>para a Rede de Destino</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Distância Relatada do Sucessor</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Endereço de Próximo Salto<br/>para o Sucessor</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Endereço de Próximo Salto para o Sucessor Viável</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Distância viável para <br/>Rede de Destino</b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Distância Relatada do<br/>Sucessor Viável</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Interfaces de saída<br/>para alcançar a Rede</b>]]></text> 
+</component>
+
+<!--controlller -->
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+</textcomponents>

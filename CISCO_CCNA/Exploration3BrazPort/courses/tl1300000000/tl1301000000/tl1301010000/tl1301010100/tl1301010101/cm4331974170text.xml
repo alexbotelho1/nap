@@ -1,0 +1,35 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>O modelo de rede hierárquico</B>]]></text> 
+</component>
+
+<component id="ID_title_02">
+  <text><![CDATA[<B>Passe o mouse sobre os rótulos para realçar cada camada.</B>]]></text> 
+</component>
+
+
+<component id="ID_bubble01">
+<text><![CDATA[<b><font size='12'>NÚCLEO</font></b>]]></text>
+</component>
+<component id="ID_bubble02">
+  <text><![CDATA[<b><font size='12'>DISTRIBUIÇÃO</font></b>]]></text> 
+  </component>
+<component id="ID_bubble03">
+  <text><![CDATA[<b><font size='12'>ACESSO</font></b>]]></text> 
+  </component>
+<component id="ID_bubble04">
+  <text><![CDATA[<b><font size='12'>VLAN de Corpo docente</font></b>]]></text> 
+  </component>
+  <component id="ID_bubble05">
+  <text><![CDATA[<b><font size='12'>VLAN de Estudante</font></b>]]></text> 
+  </component>
+<component id="ID_bubble06">
+  <text><![CDATA[<b><font size='12'>VLAN de Convidado</font></b>]]></text> 
+  </component>
+
+
+
+
+
+</textcomponents>

@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>A tabela de vizinho</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Endereço dos vizinhos</b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Interface conectada ao vizinho</b>]]></text> 
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Tempo restante antes de o vizinho ser considerado "inativo"</b>]]></text> 
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Tempo desde que a adjacência foi estabelecida</b>]]></text> 
+</component>
+
+  </textcomponents>

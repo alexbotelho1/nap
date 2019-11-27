@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 11:11:51">
+<title><content-text><![CDATA[2.1.5  - HDLC Encapsulation]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts WAN encapsulation protocols for leased line, circuit- switched, and packet-switched WAN links. <br><br>Leased Line: Two routers are connected with a solid lightning bolt link. The protocols listed include HDLC, P P P, and Serial Line Internet Protocol (SLIP).<br><br>Circuit-Switched: Two routers are connected with dashed lightning bolt links through a cloud labeled Telephone Company. The protocols listed include HDLC, P P P, and SLIP.<br><br>Packet-Switched: Two routers are connected with lightning bolt links through a cloud labeled Service Provider. The protocols listed include X.25, Frame Relay, and ATM.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

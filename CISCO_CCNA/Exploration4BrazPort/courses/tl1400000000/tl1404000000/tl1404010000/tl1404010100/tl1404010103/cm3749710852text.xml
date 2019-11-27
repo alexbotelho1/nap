@@ -1,0 +1,18 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Tipos de crimes digitais</b>]]></text>
+</component>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Crimes digitais que podem ser atenuados pelo gerenciamento de rede efetivo e vigilante:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Violação interna do acesso à rede</li><li>Negação de serviço</li><li>Invasão do sistema</li><li>Detecção de senha</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

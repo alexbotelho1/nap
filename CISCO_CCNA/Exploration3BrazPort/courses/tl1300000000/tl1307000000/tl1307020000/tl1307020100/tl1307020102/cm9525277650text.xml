@@ -1,0 +1,14 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Ataques de interceptação</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Associação entre cliente e ponto de acesso</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Invasor coleta informações</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Invasor intercepta tráfego</b>]]></text> 
+  </component>
+</textcomponents>

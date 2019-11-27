@@ -1,0 +1,390 @@
+<textcomponents>
+
+<component id="ID_button_01">
+<text><![CDATA[<B>Scenario</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+<text><![CDATA[<B>Central</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+<text><![CDATA[<B>Remote</B>]]></text> 
+</component>
+
+
+<component id="ID_check1">
+<text><![CDATA[<B>Check</B>]]></text> 
+</component>
+<component id="ID_reset1">
+<text><![CDATA[<B>Reset</B>]]></text> 
+</component>
+
+
+<component id="ID_check2">
+<text><![CDATA[<B>Check</B>]]></text> 
+</component>
+<component id="ID_reset2">
+<text><![CDATA[<B>Reset</B>]]></text> 
+</component>
+
+
+<component id="ID_titleCorrect">
+<text><![CDATA[Correct]]></text>
+</component>
+
+<component id="ID_titleCorrect1">
+<text><![CDATA[Correct]]></text>
+</component>
+
+<component id="ID_correctText">
+<text><![CDATA[You have successfully configured a user account for Remote VPN.</b>]]></text>
+</component>
+
+<component id="ID_titleIncorrect">
+<text><![CDATA[Incorrect]]></text>
+</component>
+
+<component id="ID_titleIncorrect1">
+<text><![CDATA[Incorrect]]></text>
+</component>
+
+
+<component id="ID_incorrectText">
+<text><![CDATA[The variables you entered are incorrect. Please try again.]]></text>
+</component>
+
+<component id="ID_incorrectText1">
+<text><![CDATA[You did not successfully connect your Remote VPN client. Click Reset and try again.]]></text>
+</component>
+
+
+<component id="ID_correctText1">
+<text><![CDATA[You have successfully connected your Remote VPN client.</b>]]></text>
+</component>
+
+<component id="ID_activity">
+<text><![CDATA[<B>Activity</B>]]></text>
+</component>
+
+<component id="ID_activity1">
+<text><![CDATA[<B>Activity</B>]]></text>
+</component>
+
+
+<component id="ID_instruction">
+<text><![CDATA[Drag and drop the appropriate VPN variable to the correct field and then click <b>Add/Save.</b>]]></text> 
+</component>
+
+
+<component id="ID_instruction1">
+<text><![CDATA[Drag and drop the appropriate VPN variable to the correct field and then click <b>Connect.</b>]]></text> 
+</component>
+
+
+<component id="ID_txt2">
+<text><![CDATA[<b>Central Site</b>]]></text> 
+</component>
+<component id="ID_txt3">
+<text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+<component id="ID_txt4">
+<text><![CDATA[<b>Branch Site</b>]]></text> 
+</component>
+<component id="ID_txt5">
+<text><![CDATA[Remote User]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[A small company that has setup Internet connectivity using a Linksys WRVS4400N business class router at their Central site. They would like to provide remote access to select users from remote locations but are concerned that the Internet traffic would not be secure. To address this concern, it has been suggested that they implement a remote access VPN which would allow telecommuters to securely access the Central site network. Using the Linksys QuickVPN client software, remote users would be able to connect and establish a remote access VPN connection which would encrypt and decrypt data.<br/><br/>Referencing the topology, you will use the Linksys router’s web configuration utility to configure the remote VPN settings and configure a user account. The user’s name is BobV and his password is cisco123.<br/><br/>Next, Bob will initiate a remote VPN connection to the Central site router using the Linksys QuickVPN client software. The profile name should be Central Site and the correct username, password and IP address should be referenced.]]></text> 
+</component>
+
+<!--slide 2-->
+
+
+
+<component id="ID_S2_txt01">
+<text><![CDATA[<b>Wireless-N Gigabit Security Router</b>]]></text>
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[<b>VPN</b>]]></text>
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[<b>IPsec VPN</b>]]></text>
+</component>
+
+<component id="ID_S2_txt04">
+<text><![CDATA[<b>VPN Client Accounts</b>]]></text>
+</component>
+
+<component id="ID_S2_txt05">
+<text><![CDATA[<b>VPN Passthrough</b>]]></text>
+</component>
+
+<component id="ID_S2_txt06">
+<text><![CDATA[<b>User Name:</b>]]></text>
+</component>
+
+<component id="ID_S2_txt07">
+<text><![CDATA[<b>Password:</b>]]></text>
+</component>
+
+<component id="ID_S2_txt08">
+<text><![CDATA[<b>Re-enter to Confirm:</b>]]></text>
+</component>
+
+<component id="ID_S2_txt09">
+<text><![CDATA[<b>Allow User to Change Password:</b>]]></text>
+</component>
+
+<component id="ID_S2_txt10">
+<text><![CDATA[<b>Yes</b>]]></text>
+</component>
+
+<component id="ID_S2_txt11">
+<text><![CDATA[<b>No</b>]]></text>
+</component>
+
+<component id="ID_S2_txt12">
+<text><![CDATA[<b>No.</b>]]></text>
+</component>
+
+<component id="ID_S2_txt13">
+<text><![CDATA[<b>Active</b>]]></text>
+</component>
+
+<component id="ID_S2_txt14">
+<text><![CDATA[<b>Username</b>]]></text>
+</component>
+
+<component id="ID_S2_txt15">
+<text><![CDATA[<b>Password</b>]]></text>
+</component>
+
+<component id="ID_S2_txt16">
+<text><![CDATA[<b>Edit/Remove</b>]]></text>
+</component>
+
+<component id="ID_S2_txt17">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+
+<component id="ID_S2_txt18">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_S2_txt19">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+
+<component id="ID_S2_txt20">
+<text><![CDATA[<b>4</b>]]></text>
+</component>
+
+<component id="ID_S2_txt21">
+<text><![CDATA[<b>5</b>]]></text>
+</component>
+
+<component id="ID_S2_txt22">
+<text><![CDATA[<b>Save Settings</b>]]></text>
+</component>
+
+<component id="ID_S2_txt23">
+<text><![CDATA[<b>Cancel Changes</b>]]></text>
+</component>
+
+<component id="ID_S2_txt24">
+<text><![CDATA[<b>Edit</b>]]></text>
+</component>
+
+<component id="ID_S2_txt25">
+<text><![CDATA[<b>Remove</b>]]></text>
+</component>
+
+<component id="ID_S2_txt26">
+<text><![CDATA[<b>Add/Save</b>]]></text>
+</component>
+
+<component id="ID_S2_txt27">
+<text><![CDATA[BobV]]></text>
+</component>
+
+<component id="ID_S2_txt28">
+<text><![CDATA[cisco123]]></text>
+</component>
+
+<!--slide 3-->
+
+<component id="ID_S3_txt01">
+<text><![CDATA[<b>Linksys VPN Client</b>]]></text>
+</component>
+
+<component id="ID_S3_txt02">
+<text><![CDATA[<b>Profile Name:</b>]]></text>
+</component>
+
+<component id="ID_S3_txt03">
+<text><![CDATA[<b>User Name:</b>]]></text>
+</component>
+
+<component id="ID_S3_txt04">
+<text><![CDATA[<b>Password:</b>]]></text>
+</component>
+
+<component id="ID_S3_txt05">
+<text><![CDATA[<b>Server Address:</b>]]></text>
+</component>
+
+<component id="ID_S3_txt06">
+<text><![CDATA[<b>Connect</b>]]></text>
+</component>
+
+<component id="ID_S3_txt07">
+<text><![CDATA[<b>Save</b>]]></text>
+</component>
+
+<component id="ID_S3_txt08">
+<text><![CDATA[<b>Delete</b>]]></text>
+</component>
+
+<component id="ID_S3_txt09">
+<text><![CDATA[<b>Help</b>]]></text>
+</component>
+
+<component id="ID_S3_txt10">
+<text><![CDATA[<b>Linksys VPN Client</b>]]></text>
+</component>
+
+<component id="ID_S3_txt11">
+<text><![CDATA[<b>Connecting ...</b>]]></text>
+</component>
+
+<component id="ID_S3_txt12">
+<text><![CDATA[<b>Connection Error</b>]]></text>
+</component>
+
+<component id="ID_S3_txt13">
+<text><![CDATA[<b>Failed to establish a connection<br/><br/>This could be caused by one of the following:<br/>1. <textformat blockindent='15'>Incorrect password.</textformat><br/>2. <textformat blockindent='15'>No valid IP for the network card.</textformat><br/>3. <textformat blockindent='15'>Incorrect server address.</textformat><br/>4. <textformat blockindent='15'>You may need to disable your Windows firewall.</textformat></b>]]></text>
+</component>
+
+<component id="ID_S3_txt14">
+<text><![CDATA[<b>OK</b>]]></text>
+</component>
+
+<component id="ID_S3_txt15">
+<text><![CDATA[<b>Linksys VPN Client</b>]]></text>
+</component>
+
+<component id="ID_S3_txt16">
+<text><![CDATA[<b>Connecting ...</b>]]></text>
+</component>
+
+<component id="ID_S3_txt17">
+<text><![CDATA[<b>Linksys VPN Client</b>]]></text>
+</component>
+
+<component id="ID_S3_txt18">
+<text><![CDATA[<b>Activating Policy ...</b>]]></text>
+</component>
+
+<component id="ID_S3_txt19">
+<text><![CDATA[<b>Linksys VPN Client</b>]]></text>
+</component>
+
+<component id="ID_S3_txt20">
+<text><![CDATA[<b>Verifying Network ...</b>]]></text>
+</component>
+
+<component id="ID_S3_txt21">
+<text><![CDATA[<b>Linksys VPN Client</b>]]></text>
+</component>
+
+<component id="ID_S3_txt22">
+<text><![CDATA[<b>Connected to: 209.165.200.225<br/><br/>Connected at: 15:02, June 03, 2008<br/><br/>Total Time Conected: 00:00:03</b>]]></text>
+</component>
+
+<component id="ID_S3_txt23">
+<text><![CDATA[<b>Disconnect</b>]]></text>
+</component>
+
+<component id="ID_S3_txt24">
+<text><![CDATA[<b>Change Password</b>]]></text>
+</component>
+
+<component id="ID_S3_txt25">
+<text><![CDATA[<b>Help</b>]]></text>
+</component>
+
+
+<!--activities-->
+<component id="ID_a_1">
+<text><![CDATA[<B>Central Site</B>]]></text> 
+</component>
+
+<component id="ID_b_1">
+<text><![CDATA[<B>BobV</B>]]></text> 
+</component>
+
+<component id="ID_c_1">
+<text><![CDATA[<B>cisco123</B>]]></text> 
+</component>
+
+<component id="ID_d_1">
+<text><![CDATA[<B>209.165.200.225</B>]]></text> 
+</component>
+
+<component id="ID_e_1">
+<text><![CDATA[<B>Cisco123</B>]]></text> 
+</component>
+
+<component id="ID_f_1">
+<text><![CDATA[<B>User</B>]]></text> 
+</component>
+
+<component id="ID_g_1">
+<text><![CDATA[<B>192.168.1.1</B>]]></text> 
+</component>
+
+<component id="ID_h_1">
+<text><![CDATA[<B>Cisco 123</B>]]></text> 
+</component>
+
+<component id="ID_i_1">
+<text><![CDATA[<B>Branch Site</B>]]></text> 
+</component>
+
+<component id="ID_j_1">
+<text><![CDATA[<B>Robert</B>]]></text> 
+</component>
+
+<component id="ID_k_1">
+<text><![CDATA[<B>cisco 123</B>]]></text> 
+</component>
+
+<component id="ID_l_1">
+<text><![CDATA[<B>192.168.1.0</B>]]></text> 
+</component>
+
+<component id="ID_m_1">
+<text><![CDATA[<B>DES</B>]]></text> 
+</component>
+
+<component id="ID_n_1">
+<text><![CDATA[<B>AES</B>]]></text> 
+</component>
+
+<component id="ID_o_1">
+<text><![CDATA[<B>Cisco1233</B>]]></text> 
+</component>
+
+<component id="ID_p_1">
+<text><![CDATA[<B>SHA</B>]]></text> 
+</component>
+
+<component id="ID_q_1">
+<text><![CDATA[<B>Remote Access</B>]]></text> 
+</component>
+
+</textcomponents>

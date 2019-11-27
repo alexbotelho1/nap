@@ -1,0 +1,106 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Processo NCP</b>]]></text>
+</component>
+
+<!-- row 1 -->
+<component id="ID_txt01">
+<text><![CDATA[(Estabelecimento de link LCP e negociação)]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[(Estabelecimento de link LCP e negociação)]]></text> 
+</component>
+
+<!-- row 2 -->
+<component id="ID_txt03">
+<text><![CDATA[<b>Iniciar configuração IPCP</b>]]></text> 
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Configure-Request IPCP</b>]]></text> 
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Processar solicitação de configuração IPCP</b>]]></text> 
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Concluir configuração IPCP</b>]]></text> 
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Configure-Ack IPCP</b>]]></text> 
+</component>
+
+<component id="ID_txt_new1">
+<text><![CDATA[<b>Configure-Request LCP</b>]]></text> 
+</component>
+<component id="ID_txt_new2">
+<text><![CDATA[<b>Configure-Ack LCP</b>]]></text> 
+</component>
+
+
+<!-- row 3 -->
+<component id="ID_txt08">
+<text><![CDATA[Enviar e receber dados IP]]></text> 
+</component>
+<component id="ID_txt09">
+<text><![CDATA[Dados IP]]></text> 
+</component>
+<component id="ID_txt10">
+<text><![CDATA[Enviar e receber dados IP]]></text> 
+</component>
+
+<!-- row 4 -->
+<component id="ID_txt11">
+<text><![CDATA[Receba a solicitação de fechamento de IP; <br/>Notificar outro dispositivo]]></text> 
+</component>
+<component id="ID_txt12">
+<text><![CDATA[Terminate-Request IPCP]]></text> 
+</component>
+<component id="ID_txt13">
+<text><![CDATA[Encerrar o link IP]]></text> 
+</component>
+<component id="ID_txt14">
+<text><![CDATA[Encerrar o link IP]]></text> 
+</component>
+<component id="ID_txt15">
+<text><![CDATA[Terminate-Ack IPCP]]></text> 
+</component>
+
+<component id="ID_txt_new3">
+<text><![CDATA[Terminate-Request LCP]]></text> 
+</component>
+<component id="ID_txt_new4">
+<text><![CDATA[Terminate-Ack LCP]]></text> 
+</component>
+
+<!-- row 5 -->
+<component id="ID_txt16">
+<text><![CDATA[Enviar e receber dados que não são IP]]></text> 
+</component>
+<component id="ID_txt17">
+<text><![CDATA[Dados que não são IP]]></text> 
+</component>
+<component id="ID_txt18">
+<text><![CDATA[Enviar e receber dados que não são IP]]></text> 
+</component>
+
+<!-- row 6 -->
+<component id="ID_txt19">
+<text><![CDATA[Receba a solicitação de fechamento de IP; <br/>Notificar outro dispositivo]]></text> 
+</component>
+<component id="ID_txt20">
+<text><![CDATA[Finalizar link]]></text> 
+</component>
+<component id="ID_txt21">
+<text><![CDATA[Finalizar link]]></text> 
+</component>
+
+<!-- Legend -->
+<component id="ID_txt22">
+<text><![CDATA[<b>Troca de mensagens LCP</b>]]></text>
+</component>
+
+<component id="ID_txt23">
+<text><![CDATA[<b>Troca de mensagens NCP</b>]]></text>
+</component>
+
+</textcomponents>

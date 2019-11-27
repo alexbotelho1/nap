@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="1_4_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_NETWORK ">
+        <source>Network </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE1">
+        <source>Case Fan</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE2">
+        <source>CPU Fan</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE3">
+        <source>Graphic Card Cooling System</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE4">
+        <source>Water Cooling</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TITLE5">
+        <source>SCSI </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TITLE7">
+        <source>PS/2 </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TITLE8">
+        <source>Audio</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TITLE9">
+        <source>Video Ports</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TITLE10">
+        <source>Connectors Activity</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

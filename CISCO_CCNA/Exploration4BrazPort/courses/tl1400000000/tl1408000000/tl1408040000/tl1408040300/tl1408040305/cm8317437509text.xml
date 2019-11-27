@@ -1,0 +1,41 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Identificação e solução de problemas de Camada 2 (Loops de STP)</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Tronco</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Tronco</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Tronco</b>]]></text>
+</component>
+
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Etapas para identificação e solução de problemas de Loops de STP</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1) <textformat blockindent='18'>Identifique que um loop de STP está ocorrendo.</textformat><br />2) <textformat blockindent='18'>Descubra a topologia (escopo) do loop.</textformat><br />3) <textformat blockindent='18'>Quebre o loop.</textformat><br />4) <textformat blockindent='18'>Localize e corrija a causa do loop.</textformat><br />5) <textformat blockindent='18'>Restaure a redundância.</td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_txt_01">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+
+<component id="ID_txt_02">
+<text><![CDATA[<b>S2</b>]]></text>
+</component>
+
+<component id="ID_txt_03">
+<text><![CDATA[<b>S3</b>]]></text>
+</component>
+
+</textcomponents>

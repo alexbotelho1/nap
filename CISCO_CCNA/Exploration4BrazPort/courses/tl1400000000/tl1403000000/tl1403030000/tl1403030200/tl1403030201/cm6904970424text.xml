@@ -1,0 +1,92 @@
+<textcomponents>
+
+<component id="ID_Button01">
+<text><![CDATA[Terminologia]]></text>
+</component>
+
+<component id="ID_Button02">
+<text><![CDATA[Exemplo]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_title01">
+<text><![CDATA[<b>Pagando pelo Frame Relay</b>]]></text>
+</component>
+
+<component id="ID_S1_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='3'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color='#ffffff'><b>Termo</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color='#ffffff'><b>Acesso</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Taxa de acesso ou velocidade da porta</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>A capacidade do loop local</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>CIR (Committed Information Rate, Taxa de informações garantida</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>A capacidade por meio do loop local garantida pela operadora</td>
+	</tr>
+	
+</table>]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_title02">
+<text><![CDATA[<b>Gastos com o Frame Relay – Exemplo</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Gastos com o Frame Relay – Exemplo</b>]]></text>
+</component>
+
+<component id="ID_S2_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='3'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic' colspan="2"><font color='#ffffff'><b>Três componentes que podem ser cobrados</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Loop local</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>64 kb/s</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Duas portas</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>DLCI 102 <br/>DLCI 103</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>CIR</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>48 kb/s</td>
+	</tr>
+</table>]]></text>
+</component>
+CIR para cada PVC:
+<component id="ID_S2_table02">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='3'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic' colspan="2"><font color='#ffffff'><b>CIR para cada PVC</b></font></td>
+	</tr>
+
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>PVC DLCI</b></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>CIR</b></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>DLCI 102</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>32 kb/s</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>DLCI 103</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>16 kb/s</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>CIR total</b></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>48 kb/s</b></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_topology01">
+<text><![CDATA[<b>Frame Relay</b><br/>10.1.1.0/24]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,16 @@
+<textcomponents>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Neste capítulo, você aprendeu:</b></font></td></tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Padrões em evolução, incluindo 802.11a, b, g e agora n em fase de teste permitem que aplicações avançadas, como voz, sejam implantadas como serviços de mobilidade em redes locais sem fio.</li><li>Um único ponto de acesso conectado à rede local cabeada fornece um conjunto de serviços básicos a estações de cliente associadas a ele. Vários pontos de acesso que compartilham um identificador de conjunto de serviços combinam-se para formar um conjunto de serviços estendidos.</li><li>Redes locais sem fio podem ser detectadas por qualquer dispositivo de cliente habilitado por rádio e podem, portanto, habilitar o acesso para invasores que talvez não teriam acessado uma rede apenas cabeada.</li><li>Métodos como filtragem de endereço MAC e mascaramento de SSID podem fazer parte de uma prática recomendada de segurança, mas esses métodos sozinhos são facilmente driblados por um invasor. PSK2 Corporativo com autenticação 802.1x deve ser a segurança mínima usada em uma rede local sem fio corporativa.</li><li>Os pontos de acesso e as placas de rede sem fio devem ser configurados com parâmetros semelhantes, como o SSID, antes de a associação ser possível.</li><li>Quando você configurar uma rede local sem fio, certifique-se de que os dispositivos tenham o firmware mais recente, de forma que todos eles possam ser configurados corretamente e com as mais recentes configurações disponíveis, por exemplo, PSK2 Corporativo.</li><li>Se dispositivos sem fio estiverem se desconectando da rede local sem fio, verifique as configurações de canal para encontrar interferência de dispositivos como fornos micro-ondas e telefones sem fio.</li></ul></td>
+  </tr>
+</table>]]></text>
+</component>
+
+<component id="ID_title"><text><![CDATA[<b></b>]]></text>
+</component>
+</textcomponents>

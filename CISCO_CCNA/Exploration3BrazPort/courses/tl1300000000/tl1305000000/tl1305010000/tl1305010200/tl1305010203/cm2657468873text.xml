@@ -1,0 +1,92 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Quadros unicast duplicados</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Clique em Reproduzir para exibir a animação.</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b><font size="12">Tronco2</font></b>]]></text> 
+  </component>
+  <component id="ID_txt04">
+  <text><![CDATA[<b><font size="12">Tronco3</font></b>]]></text> 
+  </component>
+  <component id="ID_txt05">
+  <text><![CDATA[<b><font size="12">Tronco1</font></b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[PC1 envia um quadro de unicast para o switch S2 destinado ao PC4.]]></text>
+  </component>
+  <component id="ID_txt07">
+  <text><![CDATA[O switch S2 não possui um registro para PC4 em sua tabela de endereços MAC, assim ele inunda o quadro de unicast para todas as portas de switch.]]></text>
+  </component>
+  <component id="ID_txt08">
+  <text><![CDATA[O switch S1 não possui uma entrada para PC4 em sua tabela de endereços MAC, então ele encaminha o quadro para PC4 na porta F0/5. O switch S3 também possui um registro para PC4 em sua tabela de endereços MAC, então ele encaminha o quadro de unicast pelo tronco3 para o switch S1.]]></text>
+  </component>
+  <component id="ID_txt09">
+  <text><![CDATA[O switch S1 encaminha o quadro de unicast duplicado recebido do switch S3 para o PC4.]]></text>
+  </component>
+
+  <component id="ID_txt11">
+  <text><![CDATA[<u>Tabela MAC de S3</u><br/>PC4 = F0/1]]></text>
+  </component>
+  <component id="ID_txt12">
+  <text><![CDATA[<u>Tabela MAC de S1</u><br/>PC4 = F0/5]]></text>
+  </component>
+  <component id="ID_txt13">
+  <text><![CDATA[<u>Tabela MAC de S2</u><br/>PC1 = F0/11]]></text>
+  </component>
+
+  
+  
+  <component id="play"><text><![CDATA[Reproduzir]]></text>
+
+	</component>
+
+    <component id="pause">
+
+		<text><![CDATA[Pausar]]></text>
+
+	</component>
+
+    <component id="rewind">
+
+		<text><![CDATA[Retroceder]]></text>
+
+	</component>
+	<component id="forward">
+
+		<text><![CDATA[Avançar]]></text>
+
+	</component>
+
+    <component id="mute">
+
+		<text><![CDATA[Sem som]]></text>
+
+	</component>
+
+    <component id="unmute">
+		<text><![CDATA[Com som]]></text>
+
+	</component>
+
+    <component id="previous">
+
+		<text><![CDATA[Reiniciar]]></text>
+	</component>
+
+    <component id="next">
+
+		<text><![CDATA[Encerrar]]></text>
+	</component>
+
+<component id="transcript">
+		<text><![CDATA[Transcrição]]></text>
+	</component>
+
+
+
+
+
+</textcomponents>

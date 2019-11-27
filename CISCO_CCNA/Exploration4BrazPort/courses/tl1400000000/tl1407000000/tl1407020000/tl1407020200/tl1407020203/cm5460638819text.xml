@@ -1,0 +1,142 @@
+<textcomponents>
+<component id="title">
+<text><![CDATA[<b>Sobrecarga de NAT</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Dentro</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Fora</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+<component id="ID_txt01_2">
+<text><![CDATA[<b>Dentro</b>]]></text>
+</component>
+<component id="ID_txt02_2">
+  <text><![CDATA[<b>Fora</b>]]></text> 
+  </component>
+<component id="ID_txt03_2">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+<component id="ID_s1_txt04">
+  <text><![CDATA[<b>Espaço de endereço público</b>]]></text> 
+  </component>
+<component id="ID_s2_txt01">
+  <text><![CDATA[<b>Roteador habilitado para NAT<br/>Conjunto de endereços NAT: 209.165.200.126 - 130</b>]]></text> 
+  </component>
+<component id="ID_s2_txt02">
+  <text><![CDATA[<b>Rede interna</b>]]></text> 
+  </component>
+<component id="ID_s2_txt04">
+  <text><![CDATA[<b>Servidor Web</b>]]></text> 
+  </component>
+<component id="ID_s1_table">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	
+	<tr>
+		<td colspan="4" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>Tabela NAT com sobrecarga</b></font><font  color="#FFFFFF"><b></b></font></td>
+	</tr>
+	<tr>
+		
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Endereço IP local interno</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Endereço IP global interno</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Endereço IP global externo</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Endereço IP local externo</td>
+	</tr>	
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>192.168.10.10:1555<BR/>192.168.10.11:1331 </td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>209.165.200.226:1555<BR/>209.165.200.226:1331</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>209.165.201.1:80<BR/>209.165.202.129:80</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>209.165.201.1:80<BR/>209.165.202.129:80</td>
+	</tr>
+</table>]]></text> 
+  </component>
+<component id="ID_s2_table">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	
+	<tr>
+		<td colspan="2" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>Tabela NAT com sobrecarga</b></font><font  color="#FFFFFF"><b></b></font></td>
+	</tr>
+	<tr>
+		
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Endereço IP local interno</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Endereço IP global interno</td>
+	</tr>	
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>192.168.10.11:1444</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>209.165.200.226:1444</td>
+	</tr>
+</table>]]></text> 
+  </component>
+<component id="ID_s2_table2">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	
+	<tr>
+		<td colspan="2" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>Tabela NAT com sobrecarga</b></font><font  color="#FFFFFF"><b></b></font></td>
+	</tr>
+	<tr>
+		
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Endereço IP local interno</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Endereço IP global interno</td>
+	</tr>	
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>192.168.10.11:1444<BR/>192.168.10.12:1444 </td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>209.165.200.226:1444<BR/>209.165.200.226:1445</td>
+	</tr>
+</table>]]></text> 
+  </component>
+<component id="ID_button1">
+  <text><![CDATA[<b>Processo de NAT</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Próxima porta disponível</b>]]></text> 
+</component>
+<component id="click">
+  <text><![CDATA[<b>Clique em Reproduzir para iniciar a animação.</b>]]></text> 
+</component>
+<component id="play"><text><![CDATA[Reproduzir]]></text>
+
+	</component>
+
+    <component id="pause">
+
+		<text><![CDATA[Pausar]]></text>
+
+	</component>
+
+    <component id="rewind">
+
+		<text><![CDATA[Retroceder]]></text>
+
+	</component>
+	<component id="forward">
+
+		<text><![CDATA[Avançar]]></text>
+
+	</component>
+
+    <component id="mute"> 		<text><![CDATA[Sem som]]></text>
+
+	</component>
+
+    <component id="unmute">
+		<text><![CDATA[Com som]]></text>
+
+	</component>
+
+    <component id="previous">
+
+		<text><![CDATA[Reiniciar]]></text>
+	</component>
+
+    <component id="next">
+
+		<text><![CDATA[Encerrar]]></text>
+	</component>
+
+<component id="transcript">
+		<text><![CDATA[Transcrição]]></text>
+	</component>
+</textcomponents>

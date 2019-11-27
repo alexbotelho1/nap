@@ -1,0 +1,107 @@
+<textcomponents>
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para ver a animação.</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Route poisoning</b>]]></text>
+</component>
+
+<component id="ID_txt02_1">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="ID_txt02_2">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_txt02_3">
+<text><![CDATA[<b>Salto</b>]]></text>
+</component>
+
+
+<component id="ID_txt09_1">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="ID_txt09_2">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_txt09_3">
+<text><![CDATA[<b>Salto</b>]]></text>
+</component>
+
+<component id="ID_txt16_1">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="ID_txt16_2">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_txt16_3">
+<text><![CDATA[<b>Salto</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt60">
+<text><![CDATA[<b>Poison reverse</b>]]></text>
+</component>
+
+<component id="ID_env">
+<text><![CDATA[<b>Atualização de poison</b>]]></text>
+</component>
+
+<component id="ID_sub1">
+<text><![CDATA[<b>A rede 10.4.0.0 está desativada.</b>]]></text>
+</component>
+<component id="ID_sub2">
+<text><![CDATA[<b>R3 "envenena" a rota com uma métrica "infinita".</b>]]></text>
+</component>
+<component id="ID_sub3">
+<text><![CDATA[<b>R3 envia uma atualização de poison disparada para R2.</b>]]></text>
+</component>
+<component id="ID_sub4">
+<text><![CDATA[<b>R2 "envenena" a rota com uma métrica "infinita".</b>]]></text>
+</component>
+<component id="ID_sub5">
+<text><![CDATA[<b>R2 envia uma atualização de poison disparada para R1.</b>]]></text>
+</component>
+<component id="ID_sub6">
+<text><![CDATA[<b>R1 "envenena" a rota com uma métrica "infinita".</b>]]></text>
+</component>
+<component id="ID_sub7">
+<text><![CDATA[<b>A rede é convergida em uma rota “envenenada”.</b>]]></text>
+</component>
+
+
+
+</textcomponents>

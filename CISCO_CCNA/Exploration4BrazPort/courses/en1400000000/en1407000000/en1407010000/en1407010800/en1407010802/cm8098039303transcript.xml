@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:20">
+<title><content-text><![CDATA[7.1.8 - Troubleshooting DHCP]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts verifying the router DHCP relay configuration. The terminal window displays partial output from the show running-config command on a router. The output verifies that the DHCP relay IP address is referencing the DHCP server address at 192.168.11.5 and is applied to the correct router interface.<br><br>R1#show running-config<br><br>Output omitted<br><br>interface FastEthernet0/0<br>  i p address 192.168.10.1 255.255.255.0<br>  i p helper-address 192.168.11.5<br>  duplex auto<br>  speed auto<br><br>Output omitted]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:26">
+<title><content-text><![CDATA[4.2.4  - Securing Remote Administrative Access to Routers]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts controlling remote administrative access with SSH. The topology is the same as 4.2.4 Diagram One, except that a pipe labeled Secure Tunnel passes from the Administrative Host on the LAN through switch S1 and router R1 to router R2. The Administrative Host text is: Host is an SSH client. The router R2 text is: SSH Server and client. <br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

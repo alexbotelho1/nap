@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="9_5_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Open-Ended Questions</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Closed-Ended Questions</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE4">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE5">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TITLE6">
+        <source>Evaluate the Problem and Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TITLE7">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_01">
+        <source>List of open-ended questions about security errors. 
+(This list is NOT comprehensive.)</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_02">
+        <source>When did the problem start?</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_03">
+        <source>What problems are you experiencing?</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_04">
+        <source>Is there anything else you can tell me about the problem?</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_05">
+        <source>What websites have you visited recently?</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_06">
+        <source>What security software is installed on your computer?</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_0006">
+        <source>Have any unexpected visitors been in your 
+work area?</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_006">
+        <source>How are you connected to the Internet?</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_07">
+        <source>List of closed-ended questions about security errors. 
+(This list is NOT comprehensive.)</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_08">
+        <source>Has anyone else used your computer?
+</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_09">
+        <source>Is your security software up to date?</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_10">
+        <source>Have you scanned your computer recently for viruses?</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_12">
+        <source>Have you ever had any problems like this before?</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_13">
+        <source>Have you changed your password recently?</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_14">
+        <source>Have your received any error 
+messages on your computer?</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_15">
+        <source>Have you shared your password?</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_16">
+        <source>Troubleshooting Process </source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_17">
+        <source>Gather Data from the Customer </source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_18">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_19">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_20">
+        <source>Gather Data from the Computer </source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_21">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_22">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_23">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_24">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_25">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_26">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_27">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_28">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_29">
+        <source>Have people asked you to stop 
+sending them strange e-mails even 
+though you have not sent them 
+anything?</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_30">
+        <source>Have any items on your desktop been moved?</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_31">
+        <source>Does your computer run slower 
+than normal or is it unresponsive? </source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_32">
+        <source>Do you see any unfamiliar login addresses in the login window? </source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_33">
+        <source>Are there any unexplained entries 
+in security protection software logs? </source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_34">
+        <source>Is your Internet connection unusually slow?</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_35">
+        <source>Reboot the computer or network device </source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TXT_36">
+        <source>Login as a different user </source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TXT_37">
+        <source>Check that the anti-virus and spyware signature files are up-to-date</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TXT_38">
+        <source>Scan computer with protection software</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TXT_039">
+        <source>Disconnect from the network</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TXT_0039">
+        <source>Change your password</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TXT_39">
+        <source>Check computer for the latest OS patches and updates</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TXT_40">
+        <source>Verify that the signature file is current.</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TXT_41">
+        <source>Check the security software log file 
+for entries.</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TXT_42">
+        <source>Network Settings</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TXT_43">
+        <source>Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TXT_44">
+        <source>BIOS Setup</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TXT_45">
+        <source>Operating System Information</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TXT_46">
+        <source>Error Messages</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TXT_47">
+        <source>Beep</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_TXT_48">
+        <source>Hardware Diagnostic Software</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_TXT_49">
+        <source>Problem solving experience</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_TXT_50">
+        <source>Other technicians</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_TXT_51">
+        <source>Internet search</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_TXT_52">
+        <source>News groups</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_TXT_53">
+        <source>Manufacturer FAQs</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_TXT_54">
+        <source>Computer manuals</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_TXT_55">
+        <source>Device manuals</source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_TXT_56">
+        <source>Online forums</source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_TXT_57">
+        <source>Technical websites</source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_TXT_58">
+        <source>Discuss the solution 
+implemented with customer</source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_TXT_59">
+        <source>Have the customer verify that the 
+problem has been solved</source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_TXT_60">
+        <source>Provide customer with all
+paperwork</source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_TXT_61">
+        <source>Document steps taken to solve
+the problem in the work order 
+and the technician’s journal</source>
+      </trans-unit>
+      <trans-unit id="072" resname="IDS_TXT_62">
+        <source>Document any components 
+used in the repair</source>
+      </trans-unit>
+      <trans-unit id="073" resname="IDS_TXT_63">
+        <source>Document the time spent to
+resolve the problem</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

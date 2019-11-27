@@ -1,0 +1,18 @@
+<textcomponents>
+
+<component id="routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Configurando os Intervalos Hello e Tempos de espera</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b><i>Este roteador não existe fisicamente</i></b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b><i>Loopback1</i></b>]]></text>
+</component>
+
+</textcomponents>

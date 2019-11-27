@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 13:12:54">
+<title><content-text><![CDATA[8.4.6 - Application Layer Troubleshooting]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts a flowchart describing the process of correcting Application Layer problems.<br><br>Step 1: Make a backup.<br><br>Step 2: Make only one change at a time.<br><br>Step 3: Evaluate and document the results of the change.<br><br>Step 4: Undo changes not resulting in success.<br><br>Step 5: If the problem is solved, document the resolution. Otherwise, re-evaluate the plan or seek a second opinion.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

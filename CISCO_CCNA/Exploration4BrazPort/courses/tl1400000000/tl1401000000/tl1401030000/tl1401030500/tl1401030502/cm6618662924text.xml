@@ -1,0 +1,111 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Tecnologia de VPN</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para exibir VPNs de acesso ponto-a-ponto ou remoto.</b>]]></text>
+</component>
+
+<component id="ID_Button01">
+<text><![CDATA[<b>VPN ponto-a-ponto</b>]]></text>
+</component>
+
+<component id="ID_Button02">
+<text><![CDATA[<b>VPN de acesso remoto</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Túnel de VPN</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Túnel de VPN</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Empresa<br>Matriz</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Matriz<br>Gateway de VPN<br>(Concentrador VPN)]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Servidor WEB/TFTP de Intranet</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Filial A</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Gateways VPN remotos (roteadores configurados com VPN)]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Filial B</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>LAN</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>LAN</b>]]></text>
+</component>
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>Túnel de VPN</b>]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>Servidor WEB/TFTP de Intranet</b>]]></text>
+</component>
+
+<component id="ID_txt03_02">
+<text><![CDATA[<b>Gateway de VPN</b>]]></text>
+</component>
+
+<component id="ID_txt04_02">
+<text><![CDATA[<b>Empresa<br>Matriz</b>]]></text>
+</component>
+
+<component id="ID_txt05_02">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_txt06_02">
+<text><![CDATA[<b>DSL</b>]]></text>
+</component>
+
+<component id="ID_txt07_02">
+<text><![CDATA[<b>Cabo</b>]]></text>
+</component>
+
+<component id="ID_txt08_02">
+<text><![CDATA[<b>Funcionário remoto 1</b>]]></text>
+</component>
+
+<component id="ID_txt09_02">
+<text><![CDATA[<b>Funcionário remoto 2</b>]]></text>
+</component>
+
+<component id="ID_txt10_02">
+<text><![CDATA[<b>Login do cliente VPN</b>]]></text>
+</component>
+
+<component id="ID_txt11_02">
+<text><![CDATA[<b>Nome do usuário:</b>]]></text>
+</component>
+
+<component id="ID_txt12_02">
+<text><![CDATA[<b>Senha:</b>]]></text>
+</component>
+
+</textcomponents>

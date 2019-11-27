@@ -1,0 +1,98 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Visão interna do roteador</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Visão da parte traseira do roteador</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Ventoinha]]></text>
+</component>
+
+
+<component id="ID_txt04">
+<text><![CDATA[A SDRAM (Synchronous Dynamic RAM, RAM dinâmica síncrona) usada para manter a configuração em execução e as tabelas de roteamento, além de oferecer suporte ao armazenamento em buffer dos pacotes.]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[NVRAM (Nonvolatile RAM, RAM não volátil) e memória flash de inicialização usadas para armazenar o código de inicialização ROMMON, bem como os dados da NVRAM.]]></text>
+</component>
+
+
+<component id="ID_txt06">
+<text><![CDATA[Clique nos botões para alterar a visão do roteador. Passe o mouse sobre os componentes realçados para exibir mais informações.]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[CPU]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Opção AIM (Advanced Integration Module, Módulo de integração avançado) que descarrega funções que usam muito o processador, como a criptografia da CPU principal.]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[CPU]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[HWIC (High-speed WIC, WIC de alta velocidade)]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[Fonte de alimentação]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[Por dentro de um roteador]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[Parte traseira do roteador]]></text>
+</component>
+<component id="ID_txt14">
+
+<text><![CDATA[Visão da parte traseira externa do roteador]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[Blindagem para WIC (interface de WAN) ou para HWIC (WIC de alta velocidade)]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[Blindagem para WIC (interface de WAN)  ou para HWIC (WIC de alta velocidade)]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[Memória flash usada para armazenar a imagem do software, os arquivos de configuração e os arquivos de log. A memória flash do 1841 é implementada em um cartão de memória CompactFlash externo.]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[Porta USB]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[Portas Fast Ethernet]]></text>
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[Porta de console]]></text>
+</component>
+
+<component id="ID_txt22">
+<text><![CDATA[HWIC (High-speed WIC, WIC de alta velocidade)]]></text>
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[Porta Aux (auxiliar)]]></text>
+</component>
+
+
+<component id="ID_txt23">
+<text><![CDATA[Conector do cabo de energia]]></text>
+</component>
+
+
+
+</textcomponents>

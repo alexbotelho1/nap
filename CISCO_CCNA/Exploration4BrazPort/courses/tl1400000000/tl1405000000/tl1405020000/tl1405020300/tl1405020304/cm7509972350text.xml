@@ -1,0 +1,26 @@
+<textcomponents>
+<component id="ID_title01">
+<text><![CDATA[<b>As palavras-chave <font face="_typewriter">any</font> e <font face="_typewriter">host</font></b>]]>
+</text></component>
+
+<component id="ID_txtCAPTION">
+<text><![CDATA[<b>Este é o formato do host e de qualquer palavra-chave opcional em uma instrução ACL.</b>]]>
+</text></component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Exemplo 1:</b>]]>
+</text></component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Pode ser escrito como:</b>]]>
+</text></component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Exemplo 2:</b>]]>
+</text></component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Pode ser escrito como:</b>]]>
+</text></component>
+
+</textcomponents>

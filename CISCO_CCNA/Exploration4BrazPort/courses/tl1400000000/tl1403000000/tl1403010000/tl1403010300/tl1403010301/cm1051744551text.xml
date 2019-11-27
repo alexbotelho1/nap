@@ -1,0 +1,109 @@
+<textcomponents>
+
+<component id="ID_button_01">
+<text><![CDATA[Encapsulamento]]></text> 
+</component>
+
+<component id="ID_button_02">
+<text><![CDATA[Formato de quadro]]></text> 
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[Clique nos botões para ver os slides.]]></text>
+</component>
+
+<component id="ID_title1">
+<text><![CDATA[<B>Encapsulamento FR e o modelo OSI</B>]]></text> 
+</component>
+
+<component id="ID_title2">
+<text><![CDATA[<B>Quadro padrão Frame Relay</B>]]></text> 
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<B>Camada de rede (3)</B>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<B>Pacote IP (por exemplo, solicitação Web)</B>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<B>Camada de enlace de dados (2)</B>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<B>Flag</B>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<B>Endereço</B>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<B>Dados</B>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<B>FCS</B>]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<B>Flag</B>]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<B>Camada física (1)</B>]]></text> 
+</component>
+
+
+<component id="ID_txt01_02">
+<text><![CDATA[<B>8 bits</B>]]></text> 
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<B>16 bits</B>]]></text> 
+</component>
+
+<component id="ID_txt03_02">
+<text><![CDATA[<B>Variável</B>]]></text> 
+</component>
+
+<component id="ID_txt04_02">
+<text><![CDATA[<B>16 bits</B>]]></text> 
+</component>
+
+<component id="ID_txt05_02">
+<text><![CDATA[<B>8 bits</B>]]></text> 
+</component>
+
+<component id="ID_txt06_02">
+<text><![CDATA[<B>Flag</B>]]></text> 
+</component>
+
+<component id="ID_txt07_02">
+<text><![CDATA[<B>Endereço</B>]]></text> 
+</component>
+
+<component id="ID_txt08_02">
+<text><![CDATA[<B>Dados</B>]]></text> 
+</component>
+
+<component id="ID_txt09_02">
+<text><![CDATA[<B>FCS</B>]]></text> 
+</component>
+
+<component id="ID_txt10_02">
+<text><![CDATA[<B>Flag</B>]]></text> 
+</component>
+
+<component id="ID_txt11_02">
+<text><![CDATA[<B>Byte 1</B>]]></text> 
+</component>
+
+<component id="ID_txt12_02">
+<text><![CDATA[<B>Byte 2</B>]]></text> 
+</component>
+
+
+</textcomponents>

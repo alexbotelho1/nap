@@ -1,0 +1,52 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>O que é uma VLAN?</B>]]></text> 
+</component>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Visão geral</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Detalhes</B>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<B>Edifício 1</B>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<B>Edifício 2</B>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<B>Edifício 3</B>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b><ul><li>Uma VLAN é uma rede local independente.</li><li>Uma VLAN permite aos PCs do aluno e da administração serem separados, ainda que compartilhem a mesma infra-estrutura.</li><li>Uma VLAN pode ser nomeada tendo em vista uma identificação mais fácil.</li></ul></b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<B>VLAN "Aluno"</B>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<B>VLAN "Corpo docente"</B>]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<B>Todos os PCs têm endereços IP na sub-rede definida para a VLAN 30.</B>]]></text> 
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<B>VLAN 30 - 172.17.30.0/24<br>Todas as portas de switch estão na VLAN 30</B>]]></text> 
+</component>
+
+<component id="ID_txt09">
+  <text><![CDATA[<B><ul><li>Uma VLAN = sub-rede (em redes locais comutadas modernas)</li><li>No switch</li></ul>             - Configurar a VLAN<br/>             - Atribuir a porta à VLAN<ul><li>No PC, atribuir um endereço IP na sub-rede de VLAN</li></ul></B>]]></text> 
+</component>
+
+
+</textcomponents>

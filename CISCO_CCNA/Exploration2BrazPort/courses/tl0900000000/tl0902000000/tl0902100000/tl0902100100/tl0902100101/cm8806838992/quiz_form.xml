@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13254" dateexported="07/12/2009">
+		<name>Teste do Módulo 2</name>
+		<form id="23011" lang="pt"><form-item order="fixed">
+			<ai id="159759" type="mc-ma"><question><![CDATA[Consulte a exibição. Quais são os dois comandos que devem ser configurados para permitir a comunicação entre as redes 192.168.1.0/24 e 10.0.0.0/8? (Escolha dois.) <br/><img src="i159759n1v1.jpg" /> ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[A(config)# <b>ip route 10.0.0.0 255.0.0.0 172.16.40.2</b>  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A(config)# <b>ip route 10.0.0.0 255.0.0.0 s 0/0/0</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A(config)# <b>ip route 10.0.0.0 255.0.0.0 10.0.0.1</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[B(config)# <b>ip route 192.168.1.0  255.255.255.0 172.16.40.1</b>  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[B(config)# <b>ip route 192.168.1.0  255.255.255.0 172.16.40.2</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[B# <b>ip route 192.168.1.0  255.255.255.0 192.168.1.1</b> ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159760" type="mc-sa"><question><![CDATA[Qual é a afirmativa verdadeira sobre como configurar rotas estáticas usando endereços de próximo salto?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Os roteadores não podem usar mais de uma rota estática com um endereço de próximo salto. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Ao identificar que um pacote tem destino para uma rota associada a um endereço de próximo salto na tabela de roteamento, o roteador deixa de exigir mais informações, podendo encaminhar imediatamente o pacote. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Roteadores configurados com uma rota estática que usam um endereço de próximo salto devem ter a interface de saída listada na rota ou ter outra rota com a rede do próximo salto e uma interface de saída associada.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[As rotas associadas a endereços de próximo salto são mais eficientes do que rotas que passam por interfaces de saída. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159761" type="mc-sa"><question><![CDATA[Consulte a exibição. O administrador de rede deve remover a rota para a rede 10.0.0.0. Que comando irá realizar essa tarefa? <br/><img src="i159761n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[<b>no ip address 10.0.0.1 255.255.255.0 172.16.40.2</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>no router rip</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[<b>no ip route 10.0.0.0 255.0.0.0 172.16.40.2</b>  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>no network 10.0.0.0 255.255.255.0</b> ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159762" type="mc-sa"><question><![CDATA[Consulte a exibição. Que comando foi usado em Roteador1 para gerar a saída mostrada no gráfico? <br/><img src="i159762n1v1.jpg" /> ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[<b>traceroute</b>  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>extended ping</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>show ip route</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>show cdp neighbor detail</b> ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159748" type="mc-sa"><question><![CDATA[Observe o gráfico. Que comando configura corretamente uma rota padrão estática em R1? <br/><img src="i159748n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[R1(config-if)#<b>ip route 0.0.0.0 0.0.0.0 s0</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[R1(config)#<b>ip route 0.0.0.0 0.0.0.0 s1</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[R1(config-if)#<b>ip route 0.0.0.0 0.0.0.0 2.1.1.2</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[R1(config)#<b>ip route 0.0.0.0 0.0.0.0 2.1.1.2</b>  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[R1(config-router)#<b>default-information originate</b> ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159746" type="mc-ma"><question><![CDATA[Quais são as três características de uma rota estática? (Escolha três.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[reduz as cargas de memória e de processamento em um roteador  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[verifica se há sempre um caminho disponível ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[usada em redes com várias rotas para uma rede de destino ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[usada em roteadores que se conectam a redes stub  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[usada em redes com uma única rota para uma rede de destino  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[reduz o tempo de configuração ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="66000" type="mc-sa"><question><![CDATA[Qual das alternativas a seguir é uma função do comando IOS <b>show cdp neighbors</b>?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[Ele exibe o tipo de porta e a plataforma dos rotedores Cisco vizinhos.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Ele exibe o código de capacidade de dispositivo de todos os roteadores que não são da Cisco. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Ele exibe informações sobre as plataformas de todos os dispositivos na rede. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Ele exibe o encapsulamento de protocolos usado por roteadores vizinhos. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159830" type="mc-sa"><question><![CDATA[Consulte a exibição. Que tipo de conector é mostrado na exibição? <br/><img src="i159830n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[a extremidade DTE DB-60 do cabo serial de roteadores das séries 1600 e 2500 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[a extremidade DTE de um cabo serial inteligente usado em roteadores mais novos  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[a extremidade DCE EIA/TIA-530 de um cabo serial conectado a CSU/DSU ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[a extremidade DCE V.35 de um cabo serial conectado a CSU/DSU ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[a extremidade DCE EIA/TIA-232 de um cabo serial conectado a CSU/DSU ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[a extremidade DCE EIA/TIA-449 de um cabo serial conectado a CSU/DSU ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159831" type="mc-sa"><question><![CDATA[Qual é a afirmativa verdadeira sobre rotas conectadas diretamente?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Elas são exibidas na tabela de roteamento assim que os cabos são conectados ao roteador. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Elas são exibidas na tabela de roteamento quando o protocolo de roteamento está configurado no roteador. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Elas são exibidas na tabela de roteamento quando o comando <b>no shutdown</b> é inserido no modo de configuração da interface do roteador. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Elas são exibidas na tabela de roteamento quando um endereço IP está configurado em uma interface, o comando <b>show interface</b> mostra a interface em funcionamento e o protocolo de linha está ativo.   ]]></text>
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="159757" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="159757" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>interface fastethernet 0/0</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>ip address 192.168.35.11 255.255.255.0</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>ip address 192.168.35.11/24</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>config terminal</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>ip 192.168.35.11 255.255.255.0</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>ip 192.168.35.11/24</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>no shutdown</mattext></material></textcomponent></component><component ident="8" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>show interfaces fastethernet 0/0</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>acessar o modo de configuração global</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>acessar o modo de configuração da interface</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>configurar um endereço IP</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>ativar a interface</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste os comandos à esquerda até a tarefa de configuração associada à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="16" yspacing="45" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /><display componentIdent="7" xpos="200" ypos="315" /><display componentIdent="8" xpos="200" ypos="355" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="112" /><display componentIdent="3" xpos="600" ypos="149" /><display componentIdent="4" xpos="600" ypos="186" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="191065" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="191065" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>7</componentident></scoringzonecontains></conditionvar><setvar varname="191065" action="Set">1</setvar><scoringdescription>1</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="159758" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="159758" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>show ip route</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>show interface brief</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>show interfaces</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>show controllers</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>debug ip routing</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>show cdp neighbors</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>exibir todas as redes conhecidas</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>exibir informações de porta detalhadas</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>exibir informações da solução de problemas do roteamento </mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>exibir informações de porta básicas</mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>exibir roteadores conectados diretamente</mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>exibir informações DTE/DCE</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste os comandos à esquerda até a descrição de sua saída à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="26" yspacing="55" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="112" /><display componentIdent="3" xpos="600" ypos="149" /><display componentIdent="4" xpos="600" ypos="186" /><display componentIdent="5" xpos="600" ypos="223" /><display componentIdent="6" xpos="600" ypos="260" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><scoringzone ident="5"><componentident>5</componentident></scoringzone><scoringzone ident="6"><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="191066" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="191066" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="5"><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="6"><componentident>4</componentident></scoringzonecontains></conditionvar><setvar varname="191066" action="Set">1</setvar><scoringdescription>De cima para baixo: show ip interface brief</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item></form></exam> 

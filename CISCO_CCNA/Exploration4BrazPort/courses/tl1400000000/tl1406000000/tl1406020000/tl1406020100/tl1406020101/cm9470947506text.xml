@@ -1,0 +1,96 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Conectando os funcionários remotos à WAN</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Acesso discado</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>DSL</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Cabo</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Satélite</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>56 kb/s</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Linha de telefone</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Modem de acesso discado</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>200 kb/s</b>]]></text>
+</component>
+<component id="ID_inst">
+<text><![CDATA[<b>Passe o mouse sobre cada tipo de conexão para obter mais informações.</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Linha de telefone</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Modem DSL</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>200 kb/s</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>Cabo Coaxial</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Modem a cabo</b>]]></text>
+</component>
+<component id="ID_txt14">
+<text><![CDATA[<b>Modem de satélite</b>]]></text>
+</component>
+<component id="ID_txt15">
+<text><![CDATA[<b>POP</b>]]></text>
+</component>
+<component id="ID_txt16">
+<text><![CDATA[<b>POP</b>]]></text>
+</component>
+<component id="ID_txt17">
+<text><![CDATA[<b>ISP A (Companhia telefônica)</b>]]></text>
+</component>
+<component id="ID_txt18">
+<text><![CDATA[<b>POP</b>]]></text>
+</component>
+<component id="ID_txt19">
+<text><![CDATA[<b>ISP B (Operadora a cabo)</b>]]></text>
+</component>
+<component id="ID_txt20">
+<text><![CDATA[<b>POP</b>]]></text>
+</component>
+<component id="ID_txt21">
+<text><![CDATA[<b>ISP C (Provedor de serviços de satélite)</b>]]></text>
+</component>
+<component id="ID_txtTitle">
+<text><![CDATA[Acesso discado]]></text>
+</component>
+<component id="ID_txtBody">
+<text><![CDATA[Com as velocidades de acesso em torno de 56 kb/s, o acesso discado é a opção de conexão mais lenta. Por exemplo, fazer o download de um arquivo de 5MB utilizando uma conexão discada de 56 kb/s levará aproximadamente doze minutos.]]></text>
+</component>
+<component id="ID_txtTitle2">
+<text><![CDATA[DSL]]></text>
+</component>
+<component id="ID_txtBody2">
+<text><![CDATA[O DSL fornece acesso banda larga de alta velocidade a velocidades de 200 kb/s e maiores. As velocidades de upload e download variam de acordo com a distância do escritório central.<br/><br/>Existem muitos tipos de DSL. Usuários domésticos geralmente utilizam o DSL Assimétrico (ADSL) com velocidades de download maiores que as velocidades de upload. O DSL simétrico tem as mesmas velocidades de upload e download. O SDSL é mais adequado para aplicações de pequenos e médios negócios. ]]></text>
+</component>
+<component id="ID_txtTitle3">
+<text><![CDATA[Cabo]]></text>
+</component>
+<component id="ID_txtBody3">
+<text><![CDATA[O cabo é semelhante ao DSL no que se refere ao fornecimento de acesso banda larga a velocidades de 200kb/s e maiores. Diferentemente do DSL, as velocidades não são afetadas pela distância até o ISP. Porém, o cabo é um serviço compartilhado, então as velocidades são consideravelmente afetadas pelo número de assinantes que compartilham uma parte específica da rede de distribuição.]]></text>
+</component>
+<component id="ID_txtTitle4">
+<text><![CDATA[Satélite]]></text>
+</component>
+<component id="ID_txtBody4">
+<text><![CDATA[As velocidades de acesso à Internet por satélite variam de 128 kb/s a 512 kb/s, dependendo do plano do assinante.]]></text>
+</component>
+</textcomponents>

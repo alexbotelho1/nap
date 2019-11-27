@@ -1,0 +1,34 @@
+<textcomponents>
+
+<component id="ID_omitted">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída de comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_omitted2">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída de comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="button1">
+<text><![CDATA[<b>Rotas estáticas R1</b>]]></text>
+</component>
+<component id="button2">
+<text><![CDATA[<b>Verificar a configuração de rota estática</b>]]></text>
+</component>
+
+<component id="ID_buttonText">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Configurando as  rotas estáticas R1restantes</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Verificando comandos de rota estática</b>]]></text>
+</component>
+
+<component id="ID_title03">
+<text><![CDATA[<b>Topologia do capítulo</b>]]></text>
+</component>
+
+</textcomponents>

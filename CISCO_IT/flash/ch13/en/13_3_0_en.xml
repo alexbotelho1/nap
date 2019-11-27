@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="13_3_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_1">
+        <source>Laptop Replacement Components</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_2">
+        <source>Maximum Permitted Powermilliwatt mW
+                                                                               </source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_3">
+        <source>Distance
+(approximate)                                                                          </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_4">
+        <source>Class 1                                                                        </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_5">
+        <source>100 mW                                                                             </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_6">
+        <source>~330 feet (100 m)                                                                            </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_7">
+        <source>Class 2                                                                            </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_8">
+        <source>2.5 mW                                                                           </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_9">
+        <source>~33 feet (10 m)                                                                             </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_10">
+        <source>Class 3                                                                           </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_11">
+        <source>1 mW                                                                              </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S1_TXT_12">
+        <source>~3 feet (1 m)                                                                          </source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S2_TXT8">
+        <source>Networked computers
+share resources</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TITLE1">
+        <source>Laptop Replacement Components </source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TITLE2">
+        <source>Close up of a docking station port</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

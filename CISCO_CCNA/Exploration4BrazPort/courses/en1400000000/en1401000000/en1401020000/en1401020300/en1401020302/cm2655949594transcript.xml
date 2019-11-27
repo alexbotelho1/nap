@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 08:11:06">
+<title><content-text><![CDATA[1.2.3  - WAN Data Link Layer Concepts]]></content-text></title>
+<brief><content-text><![CDATA[The animation depicts WAN encapsulation where network Layer 3 packet data, for example, a web request, is encapsulated into an HDLC data link Layer 2 frame. When the encapsulation is complete, the fields in the frame are from left to right:<br>- Flag.<br>- Address.<br>- Control.<br>- Data.<br>- FCS.<br>- Flag.]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

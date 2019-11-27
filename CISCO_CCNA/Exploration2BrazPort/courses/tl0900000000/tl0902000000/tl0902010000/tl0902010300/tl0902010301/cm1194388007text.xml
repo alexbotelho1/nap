@@ -1,0 +1,103 @@
+<textcomponents>
+
+<component id="btnOne">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+
+<component id="btnTwo">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="btnThree">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+
+<component id="btnFour">
+<text><![CDATA[<b>4</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>WAN</b>]]></text>
+</component>
+
+
+<component id="ID_txt02">
+<text><![CDATA[<b>O lado do roteador na conexão WAN é o mesmo.</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Cabo DB60 DTE Smart Serial</b>]]></text> 
+</component>
+
+<component id="new26">
+		<text><![CDATA[<b>Cabo DB60 DTE Serial</b>]]></text> 
+</component>
+
+<component id="new26B">
+		<text><![CDATA[<b>Cabo UTP</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Cabo Straight-through</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>LAN</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>EIA-530</b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Cabo Ethernet UTP TIA/EIA 568B.</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Conexão do roteador</b>]]></text> 
+</component>
+
+<component id="ID_txt10a">
+<text><![CDATA[<b>Lado DTE de um cabo serial usado nas séries 2500 e 1600</b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Conexões de rede no CSU/DSU</b>]]></text> 
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Peça o tipo de cabo necessário à conexão com o CSU/DSU.</b>]]></text> 
+</component>
+
+<component id="ID_txt15">
+  <text><![CDATA[<b>Cabo Crossover</b>]]></text> 
+</component>
+
+<component id="ID_txt15a">
+  <text><![CDATA[<b>Lado DTE de um cabo smart serial usado com séries mais novas de roteadores (1700, 1800, 2600, 2800 etc.)</b>]]></text> 
+</component>
+
+<component id="ID_txt16">
+    <text><![CDATA[<b>EIA/TIA-449</b>]]></text> 
+</component>
+
+<component id="ID_txt16aa">
+    <text><![CDATA[<b>EIA/TIA-232</b>]]></text> 
+</component>
+
+<component id="ID_txt19">
+	<text><![CDATA[<b>X.21</b>]]></text> 
+</component>
+<component id="ID_txt22">
+	      <text><![CDATA[<b>V.35</b>]]></text> 
+</component>
+<component id="ID_txt25">
+		<text><![CDATA[<b>Conexões e conectores</b>]]></text> 
+</component>
+
+<component id="ID_insta">
+  <text><![CDATA[<b>Clique para ver os vários tipos de cabo.</b>]]></text> 
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,43 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Corrigindo problemas de camada de aplicativo</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Faça um<br />backup]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Faça só uma alteração de cada vez]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Avalie e documente os resultados da alteração]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Desfaça alterações<br />não resultando<br />em sucesso]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Reavalie o plano<br />ou busque uma<br />segunda opinião]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Problema resolvido?]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Documente a resolução bem-sucedida]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Não</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Sim</b>]]></text>
+</component>
+
+</textcomponents>

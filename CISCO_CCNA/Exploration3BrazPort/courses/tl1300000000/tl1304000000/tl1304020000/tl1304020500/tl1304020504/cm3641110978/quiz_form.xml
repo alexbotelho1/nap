@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<exam id="N/A" dateexported="04/20/2007">
+		<name>Não disponível</name>
+		<form id="19063" lang="en"><form-item order="fixed">
+			<ai id="109014" type="mc-ma"><question><![CDATA[Consulte o gráfico. Que tipos de dispositivos são a impressora e o telefone IP? (Selecione dois.)<br /><img src="14796.jpg">]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[O telefone IP é um periférico.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O telefone IP é um host.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O telefone IP é um dispositivo de rede.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[A impressora é um periférico.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A impressora é um host.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A impressora é um dispositivo de rede.]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="109023" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="109023" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>fornece segurança mínima</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>sem administração centralizada </mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>barato</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>impacto potencial sobre o desempenho</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>fácil de configurar</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>sem hardware especial </mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext><b>Vantagens</b></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext><b>Desvantagens</b></mattext></material></textcomponent></component> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="760"><material><mattext>Determine se as características são uma vantagem ou desvantagem de uma rede ponto a ponto.  Arraste cada característica à esquerda até a categoria apropriada à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-124" targetYspacing="10" yspacing="40" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="115"/><display componentIdent="3" xpos="200" ypos="155"/><display componentIdent="4" xpos="200" ypos="195"/><display componentIdent="5" xpos="200" ypos="235"/><display componentIdent="6" xpos="200" ypos="275"/></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="3" startTarg="1" labelStyle="1"/><display componentIdent="4" xpos="600" ypos="227.5" containsTargets="3" startTarg="4" labelStyle="1"/></labels><targets><display componentIdent="1" xpos="600" ypos="100"/><display componentIdent="2" xpos="600" ypos="137"/><display componentIdent="3" xpos="600" ypos="174"/><display componentIdent="4" xpos="600" ypos="236"/><display componentIdent="5" xpos="600" ypos="273"/><display componentIdent="6" xpos="600" ypos="310"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident></scoringzone><scoringzone ident ="2"><componentident>4</componentident><componentident>5</componentident><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="187448" maxvalue ="1"><title>sem título</title></decvar><interpretvar varname="187448" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>3</componentident><componentident>5</componentident><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>4</componentident><componentident>2</componentident><componentident>1</componentident></scoringzonecontains></conditionvar><setvar varname="187448" action="Set">1</setvar><scoringdescription>Vantagens = fácil configuração, barato, sem hardware especial. Desvantagens = sem administração centralizada, impacto de desempenho, segurança mínima</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="109018" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="109018" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>exibir instalações de cabeamento</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>exibir localização de dispositivos de rede </mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>exibir nomes e endereços de host</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>exibir informações de grupo e aplicações utilizadas</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>exibir localização de cada host e como eles se conectam à rede</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>exibir a localização de domínios de broadcast e de colisão</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext><b>Mapa de topologia lógica</b></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext><b>Mapa de topologia física</b></mattext></material></textcomponent></component> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Corresponda as características à esquerda com o mapa topológico à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-137.5" targetYspacing="15" yspacing="60" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="135"/><display componentIdent="3" xpos="200" ypos="195"/><display componentIdent="4" xpos="200" ypos="255"/><display componentIdent="5" xpos="200" ypos="315"/><display componentIdent="6" xpos="200" ypos="375"/></options><labels><display componentIdent="1" xpos="600" ypos="85.5" containsTargets="3" startTarg="1" labelStyle="1"/><display componentIdent="4" xpos="600" ypos="266.5" containsTargets="3" startTarg="4" labelStyle="1"/></labels><targets><display componentIdent="1" xpos="600" ypos="100"/><display componentIdent="2" xpos="600" ypos="152"/><display componentIdent="3" xpos="600" ypos="204"/><display componentIdent="4" xpos="600" ypos="281"/><display componentIdent="5" xpos="600" ypos="333"/><display componentIdent="6" xpos="600" ypos="385"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident></scoringzone><scoringzone ident ="2"><componentident>4</componentident><componentident>5</componentident><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="187443" maxvalue ="1"><title>sem título</title></decvar><interpretvar varname="187443" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>3</componentident><componentident>4</componentident><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>1</componentident><componentident>2</componentident><componentident>5</componentident></scoringzonecontains></conditionvar><setvar varname="187443" action="Set">1</setvar><scoringdescription>Lógico = localização de domínios de broadcast e de colisão, nomes e endereço de hosts, informações e aplicação de grupo; Físico = localização de cada host, instalações de cabeamento, localização de dispositivo de rede</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="109127" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="109127" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Um host envia uma mensagem hello para todos os computadores na rede.</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Um host envia um e-mail a outro host.</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Um dispositivo de host se junta a um grupo para receber videoconferência. </mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Um host solicita uma página web e exibe os resultados.</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Um host envia uma solicitação ARP procurando o endereço MAC para um endereço IP específico.</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Um roteador encaminha sua tabela de roteamento a um grupo específico de roteadores na rede. </mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Unicast</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Multicast</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Broadcast</mattext></material></textcomponent></component> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Faça a correspondência da situação à esquerda ao tipo correto de mensagem que seria utilizada à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-137.5" targetYspacing="15" yspacing="60" targetH="37"><options><display componentIdent="1" xpos="200" ypos="62.5"/><display componentIdent="2" xpos="200" ypos="122.5"/><display componentIdent="3" xpos="200" ypos="182.5"/><display componentIdent="4" xpos="200" ypos="242.5"/><display componentIdent="5" xpos="200" ypos="302.5"/><display componentIdent="6" xpos="200" ypos="362.5"/></options><labels><display componentIdent="1" xpos="600" ypos="73" containsTargets="2" startTarg="1" labelStyle="1"/><display componentIdent="2" xpos="600" ypos="202" containsTargets="2" startTarg="3" labelStyle="1"/><display componentIdent="3" xpos="600" ypos="331" containsTargets="2" startTarg="5" labelStyle="1"/></labels><targets><display componentIdent="1" xpos="600" ypos="87.5"/><display componentIdent="2" xpos="600" ypos="139.5"/><display componentIdent="3" xpos="600" ypos="216.5"/><display componentIdent="4" xpos="600" ypos="268.5"/><display componentIdent="5" xpos="600" ypos="345.5"/><display componentIdent="6" xpos="600" ypos="397.5"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident><componentident>2</componentident></scoringzone><scoringzone ident ="2"><componentident>3</componentident><componentident>4</componentident></scoringzone><scoringzone ident ="3"><componentident>5</componentident><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="187650" maxvalue ="1"><title>sem título</title></decvar><interpretvar varname="187650" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>2</componentident><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>6</componentident><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>5</componentident><componentident>1</componentident></scoringzonecontains></conditionvar><setvar varname="187650" action="Set">1</setvar><scoringdescription>E-mail e página web de Unicast; videoconferência multicast; tabela de roteamento; mensagem hello de broadcast e solicitação ARP</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="109128" type="mc-sa"><question><![CDATA[Que termo é utilizado para descrever o processo de colocar um formato de mensagem em outro formato para entregar a mensagem pelo meio apropriado?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[controle de fluxo]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[encapsulamento]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[codificação]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[multicast]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[método de acesso]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="109535" type="mc-sa"><question><![CDATA[O que significa <b>100</b> em uma consulta ao padrão 100BASE-T?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[tipo de cabos utilizados]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[tipo de transmissão de dados]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[velocidade da transmissão]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[tipo de conector exigido]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[comprimento máximo permitido do cabo]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="109538" type="mc-sa"><question><![CDATA[Qual é a finalidade de um endereço lógico em uma rede IP?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Eles identificam uma placa de rede específica em um host.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Eles são utilizados para determinar qual host aceita o quadro. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Eles fornecem as informações específicas do fornecedor sobre o host.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Eles são utilizados para determinar se o tráfego é local ou remoto. ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Eles são utilizados pelos switches para tomar decisões de encaminhamento.]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="109808" type="mc-sa"><question><![CDATA[Qual dispositivo aceita uma mensagem em uma porta e sempre encaminha a mensagem para todas as outras portas?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[modem]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[switch]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[roteador]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[hub]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="109811" type="mc-sa"><question><![CDATA[Um switch recebe um quadro com um endereço MAC que não está atualmente na tabela MAC. Que ação o switch executará?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Ele descartará o quadro.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Ele enviará uma solicitação ARP buscando o endereço MAC. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Ele inundará o quadro para todas as portas ativas.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Ele devolverá o quadro ao remetente.]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="109505" type="mc-sa"><question><![CDATA[Que informações dentro de um pacote de dados um roteador utiliza para tomar decisões de encaminhamento?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[o endereço MAC de destino]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[o endereço IP de destino ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[o nome do host de destino]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[o serviço de destino solicitado]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="109511" type="mc-sa"><question><![CDATA[Se o gateway padrão estiver configurado incorretamente no host, qual será o impacto sobre as comunicações?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[O host não pode comunicar-se na rede local.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O host pode comunicar-se com outros hosts na rede local, mas não pode comunicar-se com hosts em redes remotas.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O host pode comunicar-se com outros hosts em redes remotas, mas não pode comunicar-se com hosts na rede local.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Não há nenhum impacto sobre as comunicações.]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="109513" type="mc-ma"><question><![CDATA[Quais são as duas afirmações que descrevem com precisão uma tabela ARP do roteador e uma tabela de roteamento? (Escolha duas.)]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[A tabela ARP contém informações sobre dispositivos individuais, e não de redes.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A tabela ARP contém informações sobre redes, e não sobre dispositivos individuais.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A tabela ARP contém informações sobre redes e dispositivos individuais.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A tabela de roteamento contém informações sobre dispositivos individuais, e não de redes.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[A tabela de roteamento contém informações redes, e não sobre dispositivos individuais.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A tabela de roteamento contém informações sobre redes e dispositivos individuais.]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="109588" type="mc-sa"><question><![CDATA[Ao utilizar o Windows XP, qual comando exibe as informações sobre o computador incluindo o endereço IP, máscara de sub-rede, gateway padrão e detalhes adicionais sobre o DHCP e DNS?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[<b>ipconfig</b>]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>winipcfg</b>]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[<b>ipconfig /all</b>]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>winipcfg /all</b>]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="109699" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="109699" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>LED verde</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>LED piscando</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>LED vermelho ou âmbar</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>LED aceso</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>dispositivo ligado</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>conexão realizada com um dispositivo final</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>atividade em uma porta</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>problema com a conexão</mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Faça a correspondência do indicador de LED em um ISR com sua função.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="10" yspacing="40" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="115"/><display componentIdent="3" xpos="200" ypos="155"/><display componentIdent="4" xpos="200" ypos="195"/></options><targets><display componentIdent="1" xpos="600" ypos="75"/><display componentIdent="2" xpos="600" ypos="112"/><display componentIdent="3" xpos="600" ypos="149"/><display componentIdent="4" xpos="600" ypos="186"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident></scoringzone><scoringzone ident ="2"><componentident>2</componentident></scoringzone><scoringzone ident ="3"><componentident>3</componentident></scoringzone><scoringzone ident ="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="188835" maxvalue ="1"><title>sem título</title></decvar><interpretvar varname="188835" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>3</componentident></scoringzonecontains></conditionvar><setvar varname="188835" action="Set">1</setvar><scoringdescription>De cima para baixo: LED aceso, LED verde, LED piscando, LED vermelho ou âmbar</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="109589" type="mc-sa"><question><![CDATA[Que processo um usuário pode realizar no host para que uma pasta em um servidor remoto seja tratada como se fosse um recurso local?]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[mapear uma unidade]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[compartilhar uma unidade]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[habilitar um usuário remoto]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[estabelecer permissões de compartilhamento]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam>

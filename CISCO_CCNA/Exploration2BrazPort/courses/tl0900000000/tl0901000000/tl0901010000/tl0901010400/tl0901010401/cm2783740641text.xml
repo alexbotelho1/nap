@@ -1,0 +1,107 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>ROM</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>ROM</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Memória flash</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Servidor TFTP</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>NVRAM</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Servidor TFTP</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Console</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>POST</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Bootstrap</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Cisco<br>Internetwork<br>Operating<br>System</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Configuração</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Executar POST</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Carregar bootstrap</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Localizar e carregar<br>sistema operacional</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Localizar e carregar<br>arquivo de configuração<br>ou<br>acessar o modo de "configuração"</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>1. Executar POST</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>2.<textformat blockindent='6'>Executar carregador de bootstrap</textformat></b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>3. Localizar o IOS</b>]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b>4. Carregar o IOS</b>]]></text>
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[<b>5.<textformat blockindent='6'>Localizar o arquivo de configuração</textformat></b>]]></text>
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[<b>6.<textformat blockindent='6'>Executar o arquivo de configuração... ou entrar no “setup mode” (modo de configuração)</textformat></b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Como um roteador é inicializado</b>]]></text>
+</component>
+
+<component id="slide1">
+<text><![CDATA[<b>Etapa 1-2</b>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<b>Etapa 3-4</b>]]></text>
+</component>
+
+<component id="slide3">
+<text><![CDATA[<b>Etapa 5-6</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver a saída das diferentes etapas.</b>]]></text>
+</component>
+
+</textcomponents>

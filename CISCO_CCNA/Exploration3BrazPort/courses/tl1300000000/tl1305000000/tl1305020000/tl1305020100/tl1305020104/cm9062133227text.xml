@@ -1,0 +1,94 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Melhores caminhos para a bridge raiz</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>     </b>]]></text>
+</component>
+
+<component id="ID_caption">
+  <text><![CDATA[<b>Custo do caminho 1 = 19 x 1 = <font color="#0000FF">19</font><br/>Custo do caminho 2 = 19 x 2 = <font color="#0000FF">38</font><br/><br/>O caminho 1 é o caminho preferido</b>]]></text> 
+  </component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b><font size="12">Tronco2</font></b>]]></text> 
+  </component>
+  <component id="ID_txt04">
+  <text><![CDATA[<b><font size="12">Tronco3</font></b>]]></text> 
+  </component>
+  <component id="ID_txt05">
+  <text><![CDATA[<b><font size="12">Tronco1</font></b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td width="100" valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><b><font color="#FFFFFF">Velocidade de link</font></b></td>
+	  	  	<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><font color="#FFFFFF">Custo (Especificação de IEEE Revisada)</font></b></td>
+	  	  	<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><font color="#FFFFFF">Custo (Especificação de IEEE Anterior)</font></b></td>
+	    	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td width="100" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><div align="left">10 Gb/s</div></td>
+        <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><div align="left">2</div></td>
+        <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>1</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td width="100" valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>1 Gb/s</td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>4</td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>1</td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td width="100" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>100 Mb/s</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>19</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>10</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td width="100" valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>10 Mb/s</td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>100</td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>100</td>
+  </tr>
+</table>]]></text> 
+  </component>
+  <component id="ID_txt07">
+  <text><![CDATA[<b>Configurar custo de porta</b>]]></text> 
+  </component>
+  <component id="ID_txt08">
+  <text><![CDATA[<b>Redefinir custo de porta</b>]]></text> 
+  </component>
+  <component id="ID_txt09">
+  <text><![CDATA[<u>ID de bridge:</u><br/>Prioridade = 32769<br/>Endereço MAC = 000A00222222]]></text> 
+  </component>
+  <component id="ID_txt10">
+  <text><![CDATA[<u>ID de bridge:</u><br/>Prioridade = 32769<br/>Endereço MAC = 000A00111111]]></text> 
+  </component>
+  <component id="ID_txt11">
+  <text><![CDATA[Caminho 1]]></text> 
+  </component>
+  <component id="ID_txt12">
+  <text><![CDATA[Bridge raiz]]></text> 
+  </component>
+    <component id="ID_txt13">
+  <text><![CDATA[<u>ID de bridge:</u><br/>Prioridade = <font color="#0000FF">27577</font><br/>Endereço MAC = 000A00333333]]></text> 
+  </component>
+  <component id="ID_txt14">
+  <text><![CDATA[Caminho 2]]></text> 
+  </component>
+  <component id="ID_txt15">
+  <text><![CDATA[Custos de porta]]></text> 
+  </component>
+    <component id="ID_txt16">
+  <text><![CDATA[Configurando os custos de porta]]></text> 
+  </component>
+  <component id="ID_txt17">
+  <text><![CDATA[Custo de caminho]]></text> 
+  </component>
+  <component id="ID_txt18">
+  <text><![CDATA[Verificar custos de porta e caminho]]></text> 
+  </component>
+ 
+ 
+
+
+
+
+
+</textcomponents>

@@ -1,0 +1,55 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver a saída do comando.</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[***saída do comando omitida***]]></text>
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text>
+</component>
+
+<!-- slide titles -->
+<component id="ID_Title01">
+<text><![CDATA[<b>Tabela de roteamento R1</b>]]></text>
+</component>
+<component id="ID_Title02">
+<text><![CDATA[<b>Tabela de roteamento R2</b>]]></text>
+</component>
+<component id="ID_Title03">
+<text><![CDATA[<b>Tabela de roteamento R3</b>]]></text>
+</component>
+<component id="ID_Title04">
+<text><![CDATA[<b>Topologia com interfaces de loopback</b>]]></text>
+</component>
+
+<!-- buttons -->
+<component id="ID_Button01">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_Button02">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_Button03">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+<!-- topology -->
+<component id="ID_top01">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_top02">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_top03">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+</textcomponents>

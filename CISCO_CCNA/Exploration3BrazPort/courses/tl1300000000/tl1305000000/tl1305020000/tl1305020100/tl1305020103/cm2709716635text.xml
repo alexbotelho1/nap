@@ -1,0 +1,64 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>A bridge de raiz</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Campos de BID</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b><font size="12">Tronco2</font></b>]]></text> 
+  </component>
+  <component id="ID_txt04">
+  <text><![CDATA[<b><font size="12">Tronco3</font></b>]]></text> 
+  </component>
+  <component id="ID_txt05">
+  <text><![CDATA[<b><font size="12">Tronco1</font></b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<u>ID de Bridge:</u><br/>Prioridade = <font color="#0000FF">32769</font><br/>Endereço MAC = 000A00222222]]></text> 
+  </component>
+  <component id="ID_txt07">
+  <text><![CDATA[<u>ID de Bridge:</u><br/>Prioridade = <font color="#0000FF">32769</font><br/>Endereço MAC = 000A00111111]]></text> 
+  </component>
+  <component id="ID_txt08">
+  <text><![CDATA[Bridge de raiz]]></text> 
+  </component>
+  <component id="ID_txt09">
+  <text><![CDATA[<u>ID de Bridge:</u><br/>Prioridade = <font color="#0000FF">24577</font><br/>Endereço MAC = 000A00333333]]></text> 
+  </component>
+  <component id="ID_txt10">
+  <text><![CDATA[Bridge de raiz]]></text> 
+  </component>
+  <component id="ID_txt11">
+  <text><![CDATA[Campos de BID]]></text> 
+  </component>
+  <component id="ID_txt11a">
+  <text><![CDATA[ID de bridge com a ID de sistema estendido]]></text> 
+  </component>
+  <component id="ID_txt12">
+  <text><![CDATA[4 bits]]></text> 
+  </component>
+    <component id="ID_txt13">
+  <text><![CDATA[12 bits]]></text> 
+  </component>
+  <component id="ID_txt14">
+  <text><![CDATA[48 bits]]></text> 
+  </component>
+  <component id="ID_txt15">
+  <text><![CDATA[Endereço MAC]]></text> 
+  </component>
+    <component id="ID_txt16">
+  <text><![CDATA[ID de sistema estendido]]></text> 
+  </component>
+  <component id="ID_txt17">
+  <text><![CDATA[Prioridade de bridge]]></text> 
+  </component>
+ 
+ 
+
+
+
+
+
+</textcomponents>

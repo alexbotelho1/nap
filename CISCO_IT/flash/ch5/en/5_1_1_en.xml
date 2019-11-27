@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="5_1_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_NEW">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE1">
+        <source>Command Line Interface</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE2">
+        <source>Graphical User Interface</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_000">
+        <source>Multi-user, Multitasking, Multiprocessing, Multithreading </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_01">
+        <source>Multi-user
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_001">
+        <source>User</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_02">
+        <source>Multitasking
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_002">
+        <source>Applications</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_003">
+        <source>OS</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_03">
+        <source>Multiprocessing</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_04">
+        <source>Multithreading</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_004">
+        <source>BIOS</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_005">
+        <source>Device Drivers</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_05">
+        <source>A method used by a CPU to process multiple threads, or tasks within a program, at the same time. 
+</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_06">
+        <source>A type of computer that can support more than one physical processor or the ability to schedule tasks between multiple CPUs.
+</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_006">
+        <source>Hardware</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_07">
+        <source>A method a computer uses to share resources between multiple tasks or processes. The computer schedules when each task is able to use resources.
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_08">
+        <source>A type of operating system that allows multiple users to access the operating system at the same time.
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

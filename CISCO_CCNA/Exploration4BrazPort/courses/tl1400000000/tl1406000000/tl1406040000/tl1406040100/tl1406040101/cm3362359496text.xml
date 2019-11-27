@@ -1,0 +1,14 @@
+<textcomponents>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Neste capítulo você aprendeu a:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Descrever os requisitos de empresas para prestar serviços de funcionário remoto, incluindo as diferenças entre as infra-estruturas de rede privadas e públicas.</li><li>Descrever os requisitos de funcionário remoto e a arquitetura recomendada para fornecer serviços de trabalho remoto.</li><li>Explicar como os serviços de banda larga estendem as redes de empresas utilizando a tecnologia DSL, a cabo e sem fio.</li><li>Descrever a importância da tecnologia de VPN, incluindo sua função e benefícios para empresas e funcionários remotos.</li><li>Descrever como a tecnologia de VPN pode ser utilizada para fornecer serviços de funcionário remoto seguros a uma rede de empresa.</li></ul><BR/></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

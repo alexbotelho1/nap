@@ -1,0 +1,71 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Dispositivos WAN</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[10101...]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Acesso<br/>Servidor]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Acesso<br/>Modems]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[WAN]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Switch WAN]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Roteadores do núcleo]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Switch WAN]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[T1]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[CSU/DSU]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Roteador]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[Rede PSTN]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[10101...]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[Modem DSL]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[Cabo de rede]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[Modem a cabo]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[...10101]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="16_4_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ISLQ3-QCORRECT_TEXT">
+        <source>&lt;b&gt;Correct!&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ISLQ3-QOPTION_TEXT1">
+        <source>Backup rotation</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ISLQ3-QOPTION_TEXT2">
+        <source>Incremental Backup</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ISLQ3-QOPTION_TEXT3">
+        <source>Differential Backup</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ISLQ3-QOPTION_TEXT4">
+        <source>Offsite storage</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ISLQ3-QOPTION_TEXT5">
+        <source>Copy Backup</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_ISLQ3-QOPTION_TEXT6">
+        <source>Full Backup</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_ISLQ3-QOPTION_TEXT7">
+        <source>Daily Backup</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_ISLQ3-QOPTION_TEXT8">
+        <source>Backup</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_ISLQ3-QQUESTION_TEXT">
+        <source>&lt;b&gt;Select your answer by dragging the options into position, and then click Check.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_ISLQ3-QSLOTLABEL_TEXT1">
+        <source>&lt;b&gt;Using different tapes or other media so that in addtion to the current archive, earlier versions are also retained.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_ISLQ3-QSLOTLABEL_TEXT2">
+        <source>&lt;b&gt;Copying data that has changed since last full or incremental backup, then reseting the Archive bit.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_ISLQ3-QSLOTLABEL_TEXT3">
+        <source>&lt;b&gt;Copying all data that has changed since last full or incremental backup, without changing the Archive bit.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_ISLQ3-QSLOTLABEL_TEXT4">
+        <source>&lt;b&gt;Keeping a recent copy of all data in a separate secure location so that whatever affects the main facility will not damage the backup as well.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_ISLQ3-QSLOTLABEL_TEXT5">
+        <source>&lt;b&gt;Copying all desired data, without resetting the Archive bit.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_ISLQ3-QSLOTLABEL_TEXT6">
+        <source>&lt;b&gt;Copying all desired data, then resetting the Archive bit.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_ISLQ3-QSLOTLABEL_TEXT7">
+        <source>&lt;b&gt;Copying all data in the system that has changed on the current day, without changing the Archive bit.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_ISLQ3-QSLOTLABEL_TEXT8">
+        <source>&lt;b&gt;Making copies of data in order to protect it from disaster or equipment failure.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_ISLQ3-QTITLE_TEXT">
+        <source>Backup Activity Question</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_ISLQ3-QTRYAGAIN_TEXT">
+        <source>&lt;b&gt;Try again.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S2_TXT_01">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TITLE1">
+        <source>Backup Types
+</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TITLE2">
+        <source>Backup Activity</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TITLE3">
+        <source>Backup Activity</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TITLE4">
+        <source>Backup Activity</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_01">
+        <source>WARNING</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_02">
+        <source>Description</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_03">
+        <source>...Somewhere else</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_04">
+        <source>Type Of Backup</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_05">
+        <source>Media Required for Backup</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_06">
+        <source>Media Required for Restore</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_07">
+        <source>Archive Bit</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_08">
+        <source>Full or Normal Backup</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_09">
+        <source>Archives all selected files</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_10">
+        <source>1 for Full</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_11">
+        <source>Takes the longest amount of time and requires the most space on backup media.</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_12">
+        <source>Incremental Backup</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_13">
+        <source>Archives all selected files that have changed since last full or incremental backup</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_14">
+        <source>1 for each day of the week</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_15">
+        <source>Cleared</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_016">
+        <source>Daily Backup</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_16">
+        <source>Differential Backup</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_17">
+        <source>Archives all selected files that have changed since last full or incremental backup</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TXT_017">
+        <source>Copy Backup</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TXT_18">
+        <source>Takes less time and space than a full backup; provides a more efficient restoration than incremental backups.</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TXT_19">
+        <source>Not Cleared</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TXT_20">
+        <source>1    </source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TXT_20A">
+        <source>2
+  </source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TXT_20B">
+        <source>3
+  </source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TXT_20C">
+        <source>4
+  </source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TXT_20D">
+        <source>5
+  </source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TXT_20E">
+        <source>6
+  </source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TXT_20F">
+        <source>7
+  </source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TXT_20G">
+        <source>8
+  </source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TXT_20H">
+        <source>9
+  </source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TXT_20I">
+        <source>10
+  </source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TXT_20J">
+        <source>11
+  </source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_TXT_20K">
+        <source>12
+  </source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_TXT_20L">
+        <source>13
+  </source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_TXT_20M">
+        <source>14
+  </source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_TXT_20N">
+        <source>15
+  </source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_TXT_20O">
+        <source>16
+  </source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_TXT_21">
+        <source> A          </source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_TXT_22">
+        <source>  B         </source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_TXT_23">
+        <source> C                                                      </source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_TXT_24">
+        <source>  C                                                      </source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_TXT_25">
+        <source> D</source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_TXT_26">
+        <source> D</source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_TXT_27">
+        <source>M
+e
+d
+ i
+a
+
+S
+e
+t</source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_TXT_28">
+        <source>Return 
+to Day 1</source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_TXT_29">
+        <source>Backup</source>
+      </trans-unit>
+      <trans-unit id="072" resname="IDS_TXT_30">
+        <source>Using different tapes or other media so that in addition to the current copy, earlier versions are also retained.</source>
+      </trans-unit>
+      <trans-unit id="073" resname="IDS_TXT_31">
+        <source>Full Backup</source>
+      </trans-unit>
+      <trans-unit id="074" resname="IDS_TXT_32">
+        <source>Copying data that has changed since last full or incremental backup</source>
+      </trans-unit>
+      <trans-unit id="075" resname="IDS_TXT_33">
+        <source>Incremental Backup  </source>
+      </trans-unit>
+      <trans-unit id="076" resname="IDS_TXT_34">
+        <source>Differential Backup</source>
+      </trans-unit>
+      <trans-unit id="077" resname="IDS_TXT_35">
+        <source>Copying all data that has changed since last full backup</source>
+      </trans-unit>
+      <trans-unit id="078" resname="IDS_TXT_36">
+        <source>Keeping a recent copy of all data in a separate secure location so that whatever affects the main facility will not damage the backup as well</source>
+      </trans-unit>
+      <trans-unit id="079" resname="IDS_TXT_37">
+        <source>Offsite storage</source>
+      </trans-unit>
+      <trans-unit id="080" resname="IDS_TXT_38">
+        <source>Copying all data in the system</source>
+      </trans-unit>
+      <trans-unit id="081" resname="IDS_TXT_39">
+        <source>Backup rotation</source>
+      </trans-unit>
+      <trans-unit id="082" resname="IDS_TXT_40">
+        <source>Making copies of data in order to protect it from disaster or equipment failure.</source>
+      </trans-unit>
+      <trans-unit id="083" resname="IDS_TXT_170">
+        <source>Archives all selected files that have changed on the day of the backup</source>
+      </trans-unit>
+      <trans-unit id="084" resname="IDS_TXT_180">
+        <source>Archives all selected files</source>
+      </trans-unit>
+      <trans-unit id="085" resname="IDS_TXT_200">
+        <source>1    </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

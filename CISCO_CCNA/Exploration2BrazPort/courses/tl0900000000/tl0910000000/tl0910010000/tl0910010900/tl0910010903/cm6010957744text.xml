@@ -1,0 +1,57 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Tabela de roteamento R1</b>]]></text>
+</component>
+
+<component id="TableTitle1">
+<text><![CDATA[<b>Informações SPF</b>]]></text> 
+</component>
+
+<component id="myTable1">
+<text><![CDATA[<ul><li>Rede 10.5.0.0/16 via R2 serial 0/0/0 a um custo de 22</li><li>Rede 10.6.0.0/16 via R3 serial 0/0/1 a um custo de 7</li><li>Rede 10.7.0.0/16 via R3 serial 0/0/1 a um custo de 15</li><li>Rede 10.8.0.0/16 via R3 serial 0/0/1 a um custo de 17</li><li>Rede 10.9.0.0/16 via R2 serial 0/0/0 a um custo de 30</li><li>Rede 10.10.0.0/16 via R3 serial 0/0/1 a um custo de 25</li><li>Rede 10.11.0.0/16 via R3 serial 0/0/1 a um custo de 27</li></ul>]]></text> 
+</component>
+
+<component id="TableTitle2">
+<text><![CDATA[<b>Tabela de roteamento R1</b>]]></text> 
+</component>
+
+<component id="myTable2">
+<text><![CDATA[<ul>Redes diretamente conectadas<li>Rede diretamente conectada 10.1.0.0/16</li><li>Rede diretamente conectada 10.2.0.0/16</li><li>Rede diretamente conectada 10.3.0.0/16</li><li>Rede diretamente conectada 10.4.0.0/16</li>Redes remotas<font color="#003399"><li>10.5.0.0/16 via R2 serial 0/0/0, custo = 22</li><li>10.6.0.0/16 via R3 serial 0/0/1, custo = 7</li><li>10.7.0.0/16 via R3 serial 0/0/1, custo = 15</li><li>10.8.0.0/16 via R3 serial 0/0/1, custo = 17</li><li>10.9.0.0/16 via R2 serial 0/0/0, custo = 30</li><li>10.10.0.0/16 via R3 serial 0/0/1, custo = 25</li><li>10.11.0.0/16 via R3 serial 0/0/1, custo = 27</li></font>]]></text> 
+</component>
+
+<!-- topology -->
+
+<component id="ID_txt01">
+<text><![CDATA[<b>2</b>]]></text> 
+</component> 
+
+<component id="ID_txt02">
+<text><![CDATA[<b>R1</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>20</b>]]></text> 
+</component> 
+
+<component id="ID_txt04">
+<text><![CDATA[<b>5</b>]]></text> 
+</component> 
+
+<component id="ID_txt05">
+<text><![CDATA[<b>20</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>R2</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>R3</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>R4</b>]]></text> 
+</component>
+
+</textcomponents>

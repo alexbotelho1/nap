@@ -1,0 +1,40 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Protocolos de encapsulamento WAN</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Linha alugada</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>HDLC, PPP, SLIP</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Comutado por pacotes</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>X.25, Frame Relay, ATM</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Operadora</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Comutação por circuitos</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>HDLC, PPP, SLIP</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Companhia telefônica</b>]]></text>
+</component>
+
+
+</textcomponents>

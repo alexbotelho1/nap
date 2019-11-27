@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13250" dateexported="07/12/2009">
+		<name>Teste do Módulo 1</name>
+		<form id="23010" lang="pt"><form-item order="fixed">
+			<ai id="66010" type="mc-sa"><question><![CDATA[Qual das seguintes alternativas faz a correspondência correta entre um componente do roteador e a sua função?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[FLASH - armazena o programa de bootstrap ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[ROM - armazena o arquivo de configuração de inicialização (startup-config) ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[NVRAM - armazena a imagem do sistema operacional ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[RAM - armazena as tabelas de roteamento e a cache do ARP  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="66112" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="66112" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Configuração atual (running-configuration) é carregada a partir da NVRAM</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Bootstrap loader é  executado a partir da ROM</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Arquivo de configuração (startup-configuration) é carregado a partir da NVRAM</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Sistema operacional é encontrado e carregado</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Autoteste (Power-on self test) é conduzido ao ligar o roteador</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Modo setup é executado após a carga do arquivo de configuração</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>etapa 1</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>etapa 2</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>etapa 3</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>etapa 4</mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="760"><material><mattext>Configure a seqüência de eventos que ocorre durante o processo de inicialização do roteador. (Nem todas as opções se aplicam).</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-117" targetYspacing="26" yspacing="55" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="115"/><display componentIdent="3" xpos="200" ypos="155"/><display componentIdent="4" xpos="200" ypos="195"/><display componentIdent="5" xpos="200" ypos="235"/><display componentIdent="6" xpos="200" ypos="275"/></options><targets><display componentIdent="1" xpos="600" ypos="75"/><display componentIdent="2" xpos="600" ypos="112"/><display componentIdent="3" xpos="600" ypos="149"/><display componentIdent="4" xpos="600" ypos="186"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident></scoringzone><scoringzone ident ="2"><componentident>2</componentident></scoringzone><scoringzone ident ="3"><componentident>3</componentident></scoringzone><scoringzone ident ="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="obs1" maxvalue ="1"><title>nenhum título</title></decvar><interpretvar varname="obs1" view="All">nenhuma descrição dada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>3</componentident></scoringzonecontains></conditionvar><setvar varname="obs1" action="Set">1</setvar><scoringdescription>Autoteste é conduzio após ligar o roteador, bootstrap loader, carga do sistema operacional, carga do arquivo de configuração a partir da NVRAM</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="159749" type="mc-ma"><question><![CDATA[Quais são os dois comandos que um técnico pode usar para determinar se as portas seriais do roteador têm endereços IP designados? (Escolha dois.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[<b>show interfaces</b>  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>show interfaces ip brief</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>show controllers all</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>show ip config</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[<b>show ip interface brief</b>  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="65989" type="mc-sa"><question><![CDATA[Qual dos seguintes comandos definirá a senha do modo privilegiado como "quiz"?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[LAB_A(config)# <b>enable secret quiz</b>  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[LAB_A(config)# <b>password secret quiz</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[LAB_A(config)# <b>enable password secret quiz</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[LAB_A(config)# <b>enable secret password quiz</b> ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159750" type="mc-sa"><question><![CDATA[Que princípio de roteamento está correto?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Se um roteador tiver determinadas informações em sua tabela de roteamento, todos os roteadores adjacentes terão as mesmas informações. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[As informações de roteamento sobre um caminho de uma rede para outra implicam informações de roteamento sobre o caminho inverso ou de retorno. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Todos os roteadores tomam suas decisões sozinhos com base nas informações presentes em suas próprias tabelas de roteamento.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Todos os roteadores tomam suas decisões com base nas informações presentes em suas próprias tabelas de roteamento e nas tabelas de roteamento vizinhas. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159752" type="mc-ma"><question><![CDATA[Quais são as duas tarefas executadas por protocolos de roteamento dinâmicos? (Escolha dois.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[detectar hosts ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[atualizar e manter tabelas de roteamento  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[propagar gateways padrão de host ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[detecção de rede  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[atribuir endereçamento IP ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159751" type="mc-sa"><question><![CDATA[Um engenheiro de rede configura um novo roteador. As interfaces foram configuradas com endereços IP, mas nenhum protocolo de roteamento ou rota estática foram configurados ainda. Que rotas estão presentes na tabela de roteamento?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[rotas padrão ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[rotas de difusão ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[conexões diretas  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Nenhuma rota. A tabela de roteamento está vazia. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159755" type="mc-ma"><question><![CDATA[Quais são as duas afirmativas corretas quanto à forma como um roteador encaminha pacotes? (Escolha duas.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Se o destino do pacote for uma rede remota, o roteador irá encaminhar o pacote usando todas as interfaces que possam ser um próximo salto para essa rede.  ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Se o destino do pacote for uma rede conectada diretamente, o roteador irá encaminhar o pacote usando a interface de saída indicada pela tabela de roteamento.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Se o destino do pacote for uma rede remota, o roteador irá encaminhar o pacote com base nas informações da tabela de hosts do roteador.  ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Se o destino do pacote for uma rede remota, o roteador irá enviar o pacote para o IP do próximo salto na tabela de roteamento.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Se o destino do pacote for uma rede conectada diretamente, o roteador irá encaminhar o pacote com base no endereço MAC de destino. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Se o destino do pacote for uma rede conectada diretamente, o roteador irá encaminhar o pacote para o switch na VLAN (Virtual Local Area Network, Rede local virtual) do próximo salto. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159754" type="mc-sa"><question><![CDATA[Qual afirmativa está correta sobre as métricas usadas por protocolos de roteamento?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[Métrica é o valor quantitativo usado por um protocolo de roteamento para medir uma determinada rota.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Métrica é um meio de propriedade da Cisco usado para converter distâncias em uma unidade padrão. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[As métricas representam um valor composto da quantidade de perda dos pacotes que ocorre em todos os protocolos de roteamento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[As métricas são usadas pelo roteador para determinar se um pacote apresenta um erro e se deve ser descartado. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[As métricas só são usadas por protocolos de roteamento dinâmicos. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159756" type="mc-sa"><question><![CDATA[Consulte a exibição. Que porta é usada para conectar um roteador a um switch LAN (Local Area Network, Rede local)? <br/><img src="i159756n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[4 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[5 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[6 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[1 ou 4 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[2 ou 3  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[5 ou 6 ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159753" type="mc-sa"><question><![CDATA[O administrador de rede configurou o comando <b>ip route 0.0.0.0 0.0.0.0 serial 0/0</b> no roteador. Como esse comando será exibido na tabela de roteamento, supondo que a interface serial0/0 esteja ativa?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[D 0.0.0.0/0 está conectado diretamente, Serial0/0 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[S* 0.0.0.0/0 está conectado diretamente, Serial0/0  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[S* 0.0.0.0/0 [1/0] via 192.168.2.2 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[C 0.0.0.0/0 [1/0] via 192.168.2.2 ]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam> 

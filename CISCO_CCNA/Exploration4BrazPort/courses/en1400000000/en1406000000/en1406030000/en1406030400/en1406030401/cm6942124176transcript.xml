@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 11:12:55">
+<title><content-text><![CDATA[6.3.4 - Characteristics of Secure VPN's]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts secure VPN characteristics and their purpose. With VPN's, data confidentiality and data integrity depend on encryption and encapsulation.<br><br>Characteristic: Data Confidentiality<br>Purpose: Protects data from eavesdroppers (spoofing).<br><br>Characteristic: Data Integrity<br>Purpose: Guarantees that no tampering or alterations occur.<br><br>Characteristic: Authentication<br>Purpose: Ensures that only authorized senders and devices enter the network.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 11:12:16">
+<title><content-text><![CDATA[6.3.6 - VPN Data Integrity]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts VPN encryption of a financial transaction with a hacker attempting to intercept and decipher the message.<br><br>The message "Pay Jeremy $100" is sent from Gail and goes through an encryption algorithm as it enters the VPN. The encrypted message is shown, and the hacker cannot decipher it. At the receiving end, Jeremy's VPN device applies a decryption algorithm, allowing him to read the message.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

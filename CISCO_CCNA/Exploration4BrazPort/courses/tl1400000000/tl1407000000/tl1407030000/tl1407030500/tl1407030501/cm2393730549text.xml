@@ -1,0 +1,82 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Tunelamento de IPv6</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Cabeçalho de IPv6</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Dados de IPv6</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Cabeçalho de IPv6</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Dados de IPv6</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Pilha dupla<br/>Roteador</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Pilha dupla<br/>Roteador</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Host de<br/>IPv6</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Rede de<br/>IPv6</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Rede de<br/>IPv4</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Rede de<br/>IPv6</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Host de IPv6</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Túnel: pacote IPv6 sobre IPv4</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Cabeçalho de IPv4</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Cabeçalho de IPv6</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Dados de IPv6</b>]]></text>
+</component>
+
+
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>O tunelamento é um método de integração no qual um pacote de IPv6 é encapsulado dentro de outro protocolo, como o IPv4. Esse método de encapsulamento é IPv4:</b><br/><ul><li>Inclui um cabeçalho de IPv4 de 20 bytes sem opções e um cabeçalho de IPv6 e payload</li><li>Exige roteadores de pilha dupla</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+</textcomponents>

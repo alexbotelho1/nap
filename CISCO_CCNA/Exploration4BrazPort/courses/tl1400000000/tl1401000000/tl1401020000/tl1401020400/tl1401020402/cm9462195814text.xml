@@ -1,0 +1,59 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Comutação de pacotes</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[Clique em Reproduzir para iniciar a animação.]]></text>
+</component>
+
+<component id="ID_caption">
+<text><![CDATA[Dados rotulados são transmitidos de switch para switch. Talvez precise aguardar a ativação em um link.]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>A</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>B</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Enviando dados para B... ]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Recebendo dados de A... ]]></text>
+</component>
+
+<!-- controller -->
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,234 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique nos botões e, em seguida, em Reproduzir para visualizar as animações.</b>]]></text>
+</component>
+
+<component id="ID_Button01">
+<text><![CDATA[<b>LMI 1</b>]]></text>
+</component>
+
+<component id="ID_Button02">
+<text><![CDATA[<b>LMI 2</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_title01">
+<text><![CDATA[<b>Estágios do ARP inverso e da operação de LMI </b>]]></text>
+</component>
+
+<component id="ID_S1_txt01">
+<text><![CDATA[O DTE envia a Mensagem de consulta de status (75) ao DCE]]></text>
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[<font color="#ff0000">O DCE responde com a Mensagem de status (7D) - inclui DLCIs configurados</font>]]></text>
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[O DCE responde com a Mensagem de status (7D) - inclui DLCIs configurados]]></text>
+</component>
+
+<component id="ID_S1_txt04">
+<text><![CDATA[<font color="#ff0000">O DTE aprende quais VCs possui</font>]]></text>
+</component>
+
+<component id="ID_S1_txt05">
+<text><![CDATA[<b>DCLI 101</b>]]></text>
+</component>
+
+<component id="ID_S1_txt06">
+<text><![CDATA[<b>DCLI 102</b>]]></text>
+</component>
+
+<component id="ID_S1_txt07">
+<text><![CDATA[<b>DCLI 103</b>]]></text>
+</component>
+
+<component id="ID_S1_txt08">
+<text><![CDATA[<b>DCLI 104</b>]]></text>
+</component>
+
+<component id="ID_S1_txt09">
+<text><![CDATA[<font color="#ffffff"><b>R1</b></font>]]></text>
+</component>
+
+<component id="ID_S1_txt10">
+<text><![CDATA[<b>7D</b>]]></text>
+</component>
+
+<component id="ID_S1_txt11">
+<text><![CDATA[<b>75</b>]]></text>
+</component>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF">DLCI</font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF">Status</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>101</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Ativo</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>102</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Ativo</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>103</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Ativo</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>104</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Ativo</td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+
+<!-- slide 2 -->
+<component id="ID_title02">
+<text><![CDATA[<b>Usando LMI e ARP inverso para mapear endereços</b>]]></text>
+</component>
+
+<component id="ID_S2_txt01">
+<text><![CDATA[<font color="#ffffff"><b>R1</b></font>]]></text>
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[<b>DCLI 101</b>]]></text>
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[<b>DCLI 102</b>]]></text>
+</component>
+
+<component id="ID_S2_txt04">
+<text><![CDATA[<b>DCLI 103</b>]]></text>
+</component>
+
+<component id="ID_S2_txt05">
+<text><![CDATA[<b>DCLI 104</b>]]></text>
+</component>
+
+<component id="ID_S2_txt06">
+<text><![CDATA[O DTE envia o ARP inverso em um VCMapping VC para o endereço de rede]]></text>
+</component>
+
+<component id="ID_S2_txt07">
+<text><![CDATA[DTE envia o ARP inverso em um VCMapping VC para o endereço de rede<br/><font color="#FF0000">O DTE remoto responde com o endereço da Camada 3</font>]]></text>
+</component>
+
+<component id="ID_S2_txt08">
+<text><![CDATA[DTE envia o ARP inverso em um VCMapping VC para o endereço de rede<br/>O DTE remoto responde com o endereço da Camada 3]]></text>
+</component>
+
+<component id="ID_S2_txt09">
+<text><![CDATA[<font color="#FF0000">O DTE mapeia Camada 2 - Camada 3</font>]]></text>
+</component>
+
+<component id="ID_S2_txt10">
+<text><![CDATA[O DTE mapeia Camada 2 - Camada 3</font>]]></text>
+</component>
+
+<component id="ID_S2_txt10a">
+<text><![CDATA[<font color="#FF0000">O processo é repetido para cada VC e cada protocolo da Camada 3</font>]]></text>
+</component>
+
+<component id="ID_S2_txt11">
+<text><![CDATA[InARP]]></text>
+</component>
+
+<component id="ID_S2_txt12">
+<text><![CDATA[172.16.0.1]]></text>
+</component>
+
+<!-- table 2 is the same as table 1 -->
+<component id="ID_table02">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF">DLCI</font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF">Status</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>101</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Ativo</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>102</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Ativo</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>103</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Ativo</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>104</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Ativo</td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+<!-- controller 1-->
+<!-- text is identical to controller 2-->
+<component id="play">
+<text>Reproduzir</text>
+</component>
+<component id="pause">
+<text>Pausar</text>
+</component>
+<component id="rewind">
+<text>Retroceder</text>
+</component>
+<component id="forward">
+<text>Avançar</text>
+</component>
+<component id="mute">
+<text>Sem som</text>
+</component>
+<component id="unmute">
+<text>Com som</text>
+</component>
+<component id="previous">
+<text>Reiniciar</text>
+</component>
+<component id="next">
+<text>Encerrar</text>
+</component>
+<component id="transcript">
+<text>Transcrição</text>
+</component>
+
+<!-- controller 2-->
+<!-- text is identical to controller 1-->
+<component id="play2">
+<text>Reproduzir</text>
+</component>
+<component id="pause2">
+<text>Pausar</text>
+</component>
+<component id="rewind2">
+<text>Retroceder</text>
+</component>
+<component id="forward2">
+<text>Avançar</text>
+</component>
+<component id="mute2">
+<text>Sem som</text>
+</component>
+<component id="unmute2">
+<text>Com som</text>
+</component>
+<component id="previous2">
+<text>Reiniciar</text>
+</component>
+<component id="next2">
+<text>Encerrar</text>
+</component>
+<component id="transcript2">
+<text>Transcrição</text>
+</component>
+</textcomponents>

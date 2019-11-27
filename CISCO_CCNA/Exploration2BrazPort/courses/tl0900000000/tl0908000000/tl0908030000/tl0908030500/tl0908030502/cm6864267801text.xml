@@ -1,0 +1,129 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text> 
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Exemplo: Rota Primária de Nível 1 e Rotas Secundárias de Nível 2</b>]]></text>
+</component>
+
+<component id="ID_Title02">
+<text><![CDATA[<b>Exemplo: Rota Primária de Nível 1 e Rotas Secundárias de Nível 2</b>]]></text>
+</component>
+
+<component id="btnOne">
+<text><![CDATA[<b>Rota de rede</b>]]></text> 
+</component>
+
+<component id="btnTwo">
+<text><![CDATA[<b>Rota padrão</b>]]></text> 
+</component>
+
+<component id="btnThree">
+<text><![CDATA[<b>Encaminhar pacote</b>]]></text> 
+</component>
+
+<component id="btnFour">
+<text><![CDATA[<b>Tabela de Roteamento de R3</b>]]></text> 
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver o comportamento de roteamento classless.</b>]]></text> 
+</component>
+
+
+<!-- topology -->
+<component id="ID_topology01">
+<text><![CDATA[<b>Rota<br>Padrão</b>]]></text> 
+</component>
+
+<component id="ID_topology02">
+<text><![CDATA[<b>Rota<br>Estática</b>]]></text> 
+</component>
+
+<!-- output1 -->
+<component id="ID_txt01">
+<text><![CDATA[<b>Destino do pacote IP</b>]]></text> 
+</component>    
+<component id="ID_txt01a">
+<text><![CDATA[<b>Destino do pacote IP</b>]]></text> 
+</component>  
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Rota de Rede<br>de Nível 1</b>]]></text> 
+</component>
+<component id="ID_txt02a">
+<text><![CDATA[<b>Rota de Rede<br>de Nível 1</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Rota Padrão<br>de Nível 1</b>]]></text> 
+</component>
+<component id="ID_txt03a">
+<text><![CDATA[<b>Rota Padrão<br>de Nível 1</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Somente o primeiro bit corresponde.</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>O segundo bit NÃO corresponde. O roteador ignora essa rota e passa para a próxima entrada de rota.</b>]]></text> 
+</component>
+
+<!-- output2 -->
+<component id="ID_txt06">
+<text><![CDATA[<b>Uma máscara /0 significa que nenhum bit deve corresponder para utilizar a rota padrão. R2 utiliza a rota padrão e encaminha o pacote.</b>]]></text>
+</component>
+
+<!-- output3 -->
+<component id="ID_txt07">
+<text><![CDATA[<b>Correspondência</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Nenhuma correspond.</b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Nenhuma correspond.</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Nenhuma correspond.</b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Nenhuma correspond.</b>]]></text> 
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Utilize Padrão</b>]]></text> 
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>A rota padrão é utilizada. R2 encaminha o pacote para R3.</b>]]></text> 
+</component>
+
+<!-- output4 -->
+<component id="ID_txt14">
+<text><![CDATA[<b>Correspondência!</b>]]></text> 
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Nenhuma correspond.</b>]]></text> 
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Correspondência secundária!</b>]]></text> 
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>R3 utiliza a rota secundária 172.16.0.0/16 e encaminha o pacote para R2.</b>]]></text> 
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[***saída do comando omitida***]]></text> 
+</component>
+
+</textcomponents>

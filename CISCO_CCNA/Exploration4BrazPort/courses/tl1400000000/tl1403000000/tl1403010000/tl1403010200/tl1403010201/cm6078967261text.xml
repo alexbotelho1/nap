@@ -1,0 +1,87 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Circuitos virtuais</b>]]></text> 
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Identificando VCs</b>]]></text> 
+</component>
+
+<component id="ID_title03">
+<text><![CDATA[<b>Importância local dos DLCIs</b>]]></text> 
+</component>
+
+<component id="ID_button_01">
+<text><![CDATA[Circuitos virtuais]]></text>
+</component>
+
+<component id="ID_button_02">
+<text><![CDATA[Identificando VCs]]></text>
+</component>
+
+<component id="ID_button_03">
+<text><![CDATA[Importância local]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Nó receptor]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Nó de envio]]></text>
+</component>
+
+<component id="ID_header01">
+<text><![CDATA[Parte]]></text>
+</component>
+
+<component id="ID_header02">
+<text><![CDATA[VC]]></text>
+</component>
+
+<component id="ID_header03">
+<text><![CDATA[Porta]]></text>
+</component>
+
+<component id="ID_header04">
+<text><![CDATA[VC]]></text>
+</component>
+
+<component id="ID_header05">
+<text><![CDATA[Porta]]></text>
+</component>
+
+<component id="ID_caption03">
+<text><![CDATA[A importância dos valores de DLCI é local, o que significa que eles só são exclusivos para o canal físico no qual residem. Portanto, os dispositivos em extremidades opostas de uma conexão podem usar os mesmos valores de DLCI para referir-se a circuitos virtuais diferentes.]]></text>
+</component>
+
+   <component id="play">
+      <text><![CDATA[Reproduzir]]></text>
+   </component>
+   <component id="pause">
+      <text><![CDATA[Pausar]]></text>
+   </component>
+   <component id="rewind">
+      <text><![CDATA[Retroceder]]></text>
+   </component>
+   <component id="forward">
+      <text><![CDATA[Avançar]]></text>
+   </component>
+   <component id="mute">
+      <text><![CDATA[Sem som]]></text>
+   </component>
+   <component id="unmute">
+      <text><![CDATA[Com som]]></text>
+   </component>
+   <component id="previous">
+      <text><![CDATA[Reiniciar]]></text>
+   </component>
+   <component id="next">
+      <text><![CDATA[Encerrar]]></text>
+   </component>
+   <component id="transcript">
+      <text><![CDATA[Transcrição]]></text>
+   </component>
+
+</textcomponents>

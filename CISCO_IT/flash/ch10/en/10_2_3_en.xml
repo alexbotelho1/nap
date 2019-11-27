@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="10_2_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CLICK 01">
+        <source>The software may manage call queues, set call priorities, assign calls, and escalate calls.</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CLICK 02">
+        <source>Do: Allow the customer to talk for one minute.
+
+Do: Gather as much information about the problem as possible.
+
+Do: Politely step in to refocus the customer. This is the exception to the rule of never interrupting a customer.
+
+Do:  Ask as many closed-ended questions as you need to once you have regained control of the call.
+
+
+Do Not:  Encourage non-problem related conversation by asking social questions such as &quot;How are you today?&quot;.
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CLICK 02A">
+        <source>NOTE:                                              The control panel may be set to Classic or Category views.  This path refers to Category view.</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_CLICK 03">
+        <source>Do: Listen very carefully, as you do not want to ask the customer to repeat any information.
+
+Do: Follow a step-by-step approach to determining and solving the problem.
+
+Do: If the customer has a favorite technician, try to contact that technician to see if they can take the call. As an example, tell the customer, “I can either help you right now or see if (the preferred technician) is available. They will be available in two hours. Will that be acceptable?&quot;  If the customer wants to wait for the other technician, record this in the ticket.
+
+Do: Apologize for the wait time and the inconvenience, even if there has been no wait time.
+
+Do: Reiterate that you want to solve their problem as quickly as possible.
+
+Do Not: Ask the customer to do any obvious steps if there is any way you can determine the problem without them.
+
+Do Not: Be rude to the customer, even if they are rude to you.</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_CLICK 04">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; System &gt; Hardware &gt; Device Manager</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_CLICK 05">
+        <source>Do: Let the customer tell their problem without interrupting, even if they are angry.  This allows the customer to release some of their anger before you proceed.
+
+Do: Sympathize with the customer’s problem.
+
+Do: Apologize for wait time or inconvenience.
+
+
+Do Not: If at all possible, try not to put this customer on hold or transfer the call.
+
+Do Not: Spend call time talking about what caused the problem (rather, redirect the conversation to solving the problem).</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_CLICK 06">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; Administrative Tools &gt; Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_CLICK 07">
+        <source>Do: If you are a level-one technician, you might try to set up a conference call with a level-two technician.
+
+Do: Give the customer the overall approach to what you are trying to verify.
+
+
+Do Not: Follow a step-by-step process with this customer.
+
+Do Not: Ask to check the obvious, such as the power cord or the power switch. As an example, you could suggest a reboot instead.  </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_CLICK 08">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; Administrative Tools &gt; Services</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_CLICK 09">
+        <source>Do: Use a simple step-by-step process of instructions.
+
+Do: Speak in plain terms.
+
+
+
+Do Not: Use industry jargon.
+
+Do Not: Be condescending to your customer or belittle them.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_CLICK 10">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; System &gt; Advanced &gt; Performance</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_CLICK 11">
+        <source>The software may collect customer feedback regarding satisfaction with the call center’s products and services.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_CLICK 12">
+        <source>Start &gt; Run, type msconfig in the Open box, and then click OK.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_CONTENT 01">
+        <source>Error Messages
+
+Beep Sequences
+
+LEDs
+
+POST
+
+</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_CONTENT 03">
+        <source>The System Properties dialog box lists the properties of all hardware devices connected to the laptop motherboard.  This can be valuable in troubleshooting problems with laptop performance.  To access System Properties, go to </source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S2_TXT1">
+        <source>Talkative Customer  </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S2_TXT2">
+        <source>Rude Customer</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S2_TXT3">
+        <source>Angry Customer   </source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S2_TXT4">
+        <source>Knowledgeable Customer</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S2_TXT5">
+        <source>Inexperienced Customer    </source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S2_TXT6">
+        <source>Collect customer feedback   </source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S3_ TABTXT01">
+        <source>Name</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_S3_ TABTXT02">
+        <source>Definition</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_S3_ TABTXT03">
+        <source>Priority</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_S3_ TABTXT04">
+        <source>Down</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_S3_ TABTXT05">
+        <source>The company cannot operate with any computer equipment</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_S3_ TABTXT06">
+        <source>1 (Most Urgent)</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_S3_ TABTXT07">
+        <source>Hardware</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_S3_ TABTXT08">
+        <source>One or more computers not functioning correctly</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_S3_ TABTXT09">
+        <source>2 (Urgent)</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_S3_ TABTXT10">
+        <source>Software</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_S3_ TABTXT11">
+        <source>One or more computers have software or operating system errors</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_S3_ TABTXT12">
+        <source>2 (Urgent)</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_S3_ TABTXT13">
+        <source>Network</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_S3_ TABTXT14">
+        <source>One or more computers that cannot access the network</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_S3_ TABTXT15">
+        <source>2 (Urgent)</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_S3_ TABTXT16">
+        <source>Enhancement</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_S3_ TABTXT17">
+        <source>Request for additional functionality</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_S3_ TABTXT18">
+        <source>3 (Important)</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_STEP 01">
+        <source>Gather Data from the Customer</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_STEP 02">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TITLE1">
+        <source>Five Types of Difficult Customers
+</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TITLE2">
+        <source>Help Desk Software Uses </source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TITLE3">
+        <source>Call Prioritization  
+</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TITLE4">
+        <source>Device Manager
+</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TITLE5">
+        <source>Network Settings
+</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TITLE6">
+        <source>Power Options</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_TITLE7">
+        <source>Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_TITLE8">
+        <source>Operating System Information</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_TITLE9">
+        <source>COMMAND</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_TITLE10">
+        <source>COMMAND LOCATION USING WINDOWS START MENU</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_TITLE11">
+        <source>System Properties</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_TITLE12">
+        <source>Start&gt;Control Panel&gt;System</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_TITLE13">
+        <source>Device Manager</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_TITLE14">
+        <source>Start&gt; Control Panel&gt;System&gt;Hardware&gt;Device Manager</source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_TITLE15">
+        <source>Network Settings </source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_TITLE16">
+        <source>Start&gt;Control Panel&gt;Network Connections&gt;Right-click desired connection&gt;Properties</source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_TITLE17">
+        <source>Power Options </source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_TITLE18">
+        <source>Start&gt;Control Panel&gt;Power Options</source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_TITLE19">
+        <source>Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_TITLE20">
+        <source>Start&gt;Control Panel&gt;Administrative Tools&gt;Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="072" resname="IDS_TITLE21">
+        <source>System Information</source>
+      </trans-unit>
+      <trans-unit id="073" resname="IDS_TITLE22">
+        <source>Start&gt;Programs&gt;Accessories&gt;System Tools&gt;System Information</source>
+      </trans-unit>
+      <trans-unit id="074" resname="IDS_TITLE43">
+        <source>Hard drive</source>
+      </trans-unit>
+      <trans-unit id="075" resname="IDS_TITLE59">
+        <source>Smart Card reader
+Compact Flash reader1.8-inch disk drive</source>
+      </trans-unit>
+      <trans-unit id="076" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>Troubleshooting Process</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

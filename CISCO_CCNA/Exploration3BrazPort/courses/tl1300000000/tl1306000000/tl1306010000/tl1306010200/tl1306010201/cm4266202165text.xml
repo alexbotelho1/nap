@@ -1,0 +1,138 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saídas do comando do dispositivo</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Interfaces de roteador e roteamento entre VLANs</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique no botão Reproduzir para avançar a animação.</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Configuração da interface</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Tabela de roteamento</b>]]></text>
+</component>
+
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Tronco</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b><u>Subinterfaces</u><br/><br/>F0/0.10: 172.17.10.1<br/>F0/0.30: 172.17.30.1</b>]]></text>
+</component>
+
+<component id="ID_bubble01">
+<text><![CDATA[<b>Tronco</b>]]></text>
+</component>
+
+<component id="ID_bubble02">
+<text><![CDATA[<b>Tronco</b>]]></text>
+</component>
+
+<component id="ID_bubble03">
+<text><![CDATA[<b>Tronco</b>]]></text>
+</component>
+
+<component id="ID_bubble04">
+<text><![CDATA[<b><u>Tabela de roteamento</u><br/>172.17.30.0 is directly connected, FastEthernet0/1<br/>172.17.10.0 is directly connected, FastEthernet0/0</b>]]></text>
+</component>
+
+<component id="ID_bubble04b">
+<text><![CDATA[<b><u>Tabela de roteamento</u><br/>172.17.30.0 is directly connected, FastEthernet0/1<br/>172.17.10.0 is directly connected, FastEthernet0/0</b>]]></text>
+</component>
+
+<component id="ID_bubble05">
+<text><![CDATA[<b>VLAN<br/>Quadro com etiqueta</b>]]></text>
+</component>
+
+<component id="ID_frame01">
+<text><![CDATA[<b>Solicitação ARP</b>]]></text>
+</component>
+
+<component id="ID_frame002">
+<text><![CDATA[<b>Solicitação ARP VLAN10</b>]]></text>
+</component>
+
+<component id="ID_frame02">
+<text><![CDATA[<b>Resposta ARP VLAN10</b>]]></text>
+</component>
+
+<component id="ID_frame03">
+<text><![CDATA[<b>VLAN30 Unicast</b>]]></text>
+</component>
+
+<component id="ID_frame04">
+<text><![CDATA[<b>Quadro Unicast</b>]]></text>
+</component>
+
+<component id="ID_frame05">
+<text><![CDATA[<b>Quadro Unicast VLAN10</b>]]></text>
+</component>
+
+<component id="ID_frame06">
+<text><![CDATA[<b>Solicitação ARP VLAN30</b>]]></text>
+</component>
+
+<component id="ID_frame07">
+<text><![CDATA[<b>Resposta ARP</b>]]></text>
+</component>
+
+<component id="ID_frame08">
+<text><![CDATA[<b>Resposta ARP VLAN30</b>]]></text>
+</component>
+
+<component id="ID_frame09">
+<text><![CDATA[<b>Quadro Unicast VLAN30</b>]]></text>
+</component>
+
+<component id="ID_bubble06">
+<text><![CDATA[<b>Tronco</b>]]></text>
+</component>
+
+<component id="ID_bubble07">
+<text><![CDATA[<b><u>Portas de switch S1</u><br/>F0/6 = VLAN10<br/>F0/5 = VLAN30<br/>F0/1-F0/4 = Tronco<br/><br/><u>Portas de Switch S2</u><br/>F0/11 = VLAN10<br/>F0/18 = VLAN20<br/>F0/6 = VLAN30<br/>F0/1-F0/4 = Tronco</b>]]></text>
+</component>
+
+<component id="ID_bubble08">
+<text><![CDATA[<b>NOTA: ARP’s não são necessários porque o R1 e o PC1 já conheceram os endereços MAC um do outro na troca ARP anterior.</b>]]></text>
+</component>
+
+<component id="ID_bubble09">
+<text><![CDATA[<b>NOTA: ARP’s não são necessários porque o R1 e o PC3 já conheceram os endereços MAC um do outro na troca ARP anterior.</b>]]></text>
+</component>
+
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+	<component id="ID_cont">
+		<text><![CDATA[Clique em Reproduzir para continuar.]]></text>
+	</component>
+
+</textcomponents>

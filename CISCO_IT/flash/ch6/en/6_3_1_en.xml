@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="6_3_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_1">
+        <source>Component                         Laptop                              Desktop</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_2">
+        <source>Motherboard form factor 
+                                                                               </source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_3">
+        <source>Proprietary                                                                            </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_4">
+        <source>AT, LPX, NLX, ATX, BTX                                                                               </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_5">
+        <source>Expansion slot                                                                                </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_6">
+        <source>Mini-PCI                                                                                </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_7">
+        <source>PCI, PCIe, ISA, AGP                                                                               </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_8">
+        <source>RAM slot type                                                                             </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_9">
+        <source>SODIMM                                                                               </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_10">
+        <source>SIMM, DIMM, RIMM                                                                              </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S2_TXT8">
+        <source>Networked computers
+share resources</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TITLE1">
+        <source>Laptop Motherboard and Desktop Motherboard</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TITLE2">
+        <source>Laptop and Desktop Comparison Table</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

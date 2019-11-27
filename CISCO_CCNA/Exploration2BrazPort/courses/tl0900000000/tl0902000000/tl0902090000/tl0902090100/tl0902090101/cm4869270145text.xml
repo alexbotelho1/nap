@@ -1,0 +1,9 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Neste capítulo você aprendeu a:</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Definir a função geral que um roteador desempenha em redes.</li><li>Descrever as redes conectadas diretamente e as diferentes interfaces de roteador.</li><li>Examinar redes conectadas diretamente na tabela de roteamento e usar o protocolo CDP.</li><li>Descrever rotas estáticas com interfaces de saída.</li><li>Descrever rotas padrão e de sumarização.</li><li>Examinar como os pacotes são encaminhados ao usar rotas estáticas.</li><li>Identificar como gerenciar, identificar e solucionar problemas de rotas estáticas.</li></ul>]]></text> 
+  </component>
+
+</textcomponents>

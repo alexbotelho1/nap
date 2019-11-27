@@ -1,0 +1,53 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Roteador X</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[***saída do comando omitida***]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver a saída do comando do roteador.</b>]]></text>
+</component>
+
+<component id="output1cap">
+<text><![CDATA[<b>Rota Primária de Nível 1</b>]]></text>
+</component>
+
+<component id="output2capA">
+<text><![CDATA[<b>Rota Secundária de Nível 2</b>]]></text>
+</component>
+<component id="output2capB">
+<text><![CDATA[<b>Rota Secundária de Nível 2</b>]]></text>
+</component>
+<component id="output2capC">
+<text><![CDATA[<b>Rota Secundária de Nível 2</b>]]></text>
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Processo de Procura de Rota com VLSM</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<b>4</b>]]></text>
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+
+</textcomponents>

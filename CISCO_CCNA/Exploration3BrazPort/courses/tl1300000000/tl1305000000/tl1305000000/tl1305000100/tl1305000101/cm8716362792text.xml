@@ -1,0 +1,12 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Neste capítulo, você aprenderá a:</b></font></td>
+  </tr>
+  <tr bgcolor="#DDDDDD">
+    <td glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Explicar a função da redundância em uma rede convergida.</li><li>Resumir o funcionamento do STP para eliminar loops de Camada 2 em uma rede convergida.</li><li>Explicar como o algoritmo STP utiliza três etapas para convergir em uma topologia sem loop.</li><li>Implementar o rapid PVST+ em uma rede local para impedir loops entre os switches redundantes.</li></ul></td>
+  </tr>
+</table>]]></text>
+</component>
+</textcomponents>

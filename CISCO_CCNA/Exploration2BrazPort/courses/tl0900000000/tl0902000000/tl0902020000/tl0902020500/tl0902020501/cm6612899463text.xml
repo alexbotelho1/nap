@@ -1,0 +1,40 @@
+<textcomponents>
+
+
+
+<component id="ID_txt01"><text><![CDATA[<b>RJ-45 para<br/>Telco Demarc</b>]]></text>
+	</component>
+ <component id="ID_txt02"><text><![CDATA[<b>CSU/DSU<br/>DCE</b>]]></text>
+	</component>
+    
+<component id="ID_txt03"><text><![CDATA[<b>Energia<br/>Fonte</b>]]></text>
+	</component>
+    
+<component id="ID_txt04"><text><![CDATA[<b>Cabo v.35</b>]]></text>
+	</component>
+    
+<component id="ID_txt05"><text><![CDATA[<b>Roteador<br/>DTE</b>]]></text>
+	</component>
+    
+<component id="ID_txt06"><text><![CDATA[<b>Para 10/100<br/>Porta Ethernet</b>]]></text>
+	</component>
+ <component id="ID_txt07"><text><![CDATA[<b>Console<br/>Cabo</b>]]></text>
+	</component>
+  
+	    
+<component id="ID_txt08"><text><![CDATA[<b>CA/CC<br/>Adaptador</b>]]></text>
+	</component>
+	 
+
+
+<component id="ID_txt26">
+		<text><![CDATA[<b>Conexão CSU/DSU que usa um cabo DTE</b>]]></text> 
+</component>
+
+
+<component id="ID_instb">
+  <text><![CDATA[<b>Passe o mouse sobre os cabos e os dispositivos para ver quais são eles.</b>]]></text> 
+</component>
+
+
+</textcomponents>

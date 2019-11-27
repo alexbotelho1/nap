@@ -1,0 +1,8 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[As ferramentas de segurança da rede desempenham estas funções:<br/> -<TEXTFORMAT BLOCKINDENT='8'>As auditorias de segurança da rede ajudam a</textformat><br/>   • <TEXTFORMAT BLOCKINDENT='17'>Revelar que tipo de informação um invasor pode obter simplesmente monitorando o tráfego da rede. </textformat><br/>   • <TEXTFORMAT BLOCKINDENT='17'>Determinar a quantidade ideal de endereços MAC falsificados (spoofed) a serem removidos.</textformat><br/>   • <TEXTFORMAT BLOCKINDENT='17'>Determinar o período de expiração da tabela de endereços MAC.</textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Testes de penetração da rede ajudam a</textformat><br/>   • <TEXTFORMAT BLOCKINDENT='17'>Identificar deficiências na configuração de seus dispositivos de rede. </textformat><br/>   • <TEXTFORMAT BLOCKINDENT='17'>Iniciar vários ataques para testar a sua rede.</textformat><br/>   • <TEXTFORMAT BLOCKINDENT='17'>Cuidado: Planeje testes de penetração para evitar impactos sobre o desempenho da rede.</textformat>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Ferramentas de segurança</b>]]></text> 
+  </component>
+</textcomponents>

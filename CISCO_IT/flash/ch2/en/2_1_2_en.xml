@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="2_1_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>ESD Probability</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Surge Suppressors and UPS Devices
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT-05">
+        <source>WARM</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_01">
+        <source>If conditions are:</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_02">
+        <source>Cool and Dry
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_03">
+        <source>Warm and Humid</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_04">
+        <source>HUMID</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_05">
+        <source>Lower</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_06">
+        <source>Lower</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_07">
+        <source>LOW</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_08">
+        <source>HIGH
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_09">
+        <source>ESD probability =
+</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

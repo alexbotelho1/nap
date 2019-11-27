@@ -1,0 +1,114 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Detalhes da<br/>Configuração</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Configurar o Rapid-PVST+</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Comandos de configuração</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Exemplo de configuração</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Verificar</b>]]></text>
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<font face='_typewriter'><b>show run</b></font>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Tronco de 802.1Q</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>VLAN 10</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>VLAN 20</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Este comando força o switch S3 a ser a raiz primária para a VLAN 20.]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Este comando força o switch S3 a ser a raiz secundária para a VLAN 10.]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Este comando força o switch S1 a ser a raiz primária para a VLAN 10.]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Este comando força o switch S1 a ser a raiz secundária para a VLAN 20.]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Este comando define a prioridade para o switch S3 para a menor possível, fazendo com que seja mais provável que o switch S3 seja a raiz primária para a VLAN 20.]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[Este comando define a prioridade para o switch S1 para a menor possível, fazendo com que seja mais provável que o switch S1 seja a raiz primária para a VLAN 10.]]></text>
+</component>
+
+<component id="ID_output01">
+  <text><![CDATA[<font face = '_typewriter'>&lt;saída do comando omitida&gt;</font>]]></text> 
+</component>
+<component id="ID_output02">
+  <text><![CDATA[<font face = '_typewriter'>&lt;saída do comando omitida&gt;</font>]]></text> 
+</component>
+<component id="ID_output03">
+  <text><![CDATA[<font face = '_typewriter'>&lt;saída do comando omitida&gt;</font>]]></text> 
+</component>
+
+<component id="tableHTML">
+	    <text><![CDATA[
+	   <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	
+	    	<tr>
+	  	  		
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Sintaxe de comando do Cisco IOS</b></font></td>
+			<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b> </b></font></td>
+	   	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Entrar no modo de configuração global.</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>configure terminal</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Configurar o modo de spanning tree do rapid PVST+.</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>spanning-tree mode rapid-pvst</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Entrar no modo de configuração e especificar uma interface para configurar. As interfaces válidas incluem as portas físicas VLANs e canais de porta. O intervalo de ID de VLAN é de 1 a 4094 quando a imagem de ios aprimorada (EI) está instalada e de 1 a 1005 quando a imagem de ios padrão (SI) está instalada. O intervalo de porta- é de 1 a 6.</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>interface interface-id</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Especificar que o tipo de link para esta porta é o ponto-a-ponto.</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>spanning-tree link-type point-to-point</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Voltar ao modo EXEC privilegiado.</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>encerrar</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Desmarcar todos os STPs detectados.</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>clear spanning-tree detected-protocols</b></font></td>
+	</tr>
+	
+</table>
+]]></text> 
+  </component>
+
+</textcomponents>

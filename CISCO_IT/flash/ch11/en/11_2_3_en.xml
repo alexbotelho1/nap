@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="11_2_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>High Voltage Warning</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>High Voltage Warning</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_01">
+        <source>High Voltage</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_02">
+        <source>Electric Current
+(1 Second Contact)</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_03">
+        <source>1mA</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_04">
+        <source>10-20 mA</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_05">
+        <source>100-300 mA</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_06">
+        <source>Physical Effects</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_07">
+        <source>Threshold of feeling, tingling sensation.</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_08">
+        <source>&quot;Can&apos;t let go!&quot; current - onset of sutained muscular contraction.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_09">
+        <source>Sustained ventricular contraction followed by normal heart rythmn (defibrillation). Temporary respiratory paralysis and possibly burns.</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

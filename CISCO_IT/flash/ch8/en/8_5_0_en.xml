@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_5_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_09IDS_S1_TXT_09">
+        <source>Admin Group</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_09IDS_S1_TXT_20">
+        <source>Admin Group</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_01">
+        <source>Router</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_02">
+        <source>Mail Server</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_03">
+        <source>Web Server</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_04">
+        <source>File Server</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_05">
+        <source>Switch</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_06">
+        <source>Classroom Hub</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_07">
+        <source>Classroom 1</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_08">
+        <source>Classroom 2</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_09">
+        <source>Classroom 3</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S1_TXT_10">
+        <source>Admin Hub</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S1_TXT_11">
+        <source>Admin Office</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S1_TXT_13">
+        <source>Mail Server
+192.168.2.1
+Web server
+192.168.2.2
+File sever
+192.168.2.3</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_S1_TXT_14">
+        <source>192.168.2.4
+192.168.2.5
+192.168.2.6</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S1_TXT_15">
+        <source>192.168.1.1
+192.168.1.2
+192.168.1.3</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S1_TXT_16">
+        <source>192.168.1.4
+192.168.1.5
+192.168.1.6</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S1_TXT_17">
+        <source>192.168.1.7
+192.168.1.8
+Printer 192.168.1.9
+</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S1_TXT_18">
+        <source>Ethernet 192.168.2.0</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S1_TXT_19">
+        <source>Department Server</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S1_TXT_20">
+        <source>Admin Group</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S1_TXT_21">
+        <source>Router Firewall</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_S1_TXT_22">
+        <source>Ethernet Switch</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TITLE1">
+        <source>Physical Topology</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TITLE2">
+        <source>Logical Topology</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TITLE3">
+        <source>Star Topology</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TITLE4">
+        <source>Hierarchical Star Topology</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TITLE5">
+        <source>Mesh Topology</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_01">
+        <source>Concentrator/ Hub</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_03">
+        <source>Nodes</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

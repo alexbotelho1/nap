@@ -1,0 +1,38 @@
+<textcomponents>
+
+<component id="ID_title00">
+  <text><![CDATA[<B>Tabela de mapeamento de endereço-para-DLCI</B>]]></text> 
+</component>
+
+<component id="ID_title01">
+  <text><![CDATA[<B>Mapeamento de endereço do Frame Relay estático</B>]]></text> 
+</component>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Mapeamento do Frame Relay</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Mapeamento estático</B>]]></text> 
+</component>
+
+
+
+
+<component id="ID_capt01">
+  <text><![CDATA[<B>Tabela de mapeamento de endereço-para-DLCI</B>]]></text> 
+</component>
+
+<component id="ID_capt02">
+  <text><![CDATA[<B>Mapeamento de endereço do Frame Relay estático </B>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01_02">
+  <text><![CDATA[<B>Frame Relay<BR/>10.1.1.0/24</B>]]></text> 
+</component>
+
+
+
+</textcomponents>

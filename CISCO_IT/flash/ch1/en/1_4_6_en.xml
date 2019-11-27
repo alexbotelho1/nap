@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="1_4_6.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Storage Drives
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Optical Media
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>NAS and SAN</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE4">
+        <source>Removable Storage Types</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_01">
+        <source>WRITES CD-R AT 24X
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_02">
+        <source>WRITES DVD+R AT 8X 
+
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_03">
+        <source>WRITES DVD-R AT 8X 
+
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_04">
+        <source>REWRITES DVD+RW AND DVD- RW AT 4X
+</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_05">
+        <source>READS DVD-ROM AT 12X
+</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_06">
+        <source>REWRITES CD-RW AT 24X
+</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_07">
+        <source>READS 
+CD-ROM AT 40X
+
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_08">
+        <source>Floppy Drive
+</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_10">
+        <source>Hard Drive
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_11">
+        <source>Optical Drive</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_12">
+        <source>Flash Drive</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

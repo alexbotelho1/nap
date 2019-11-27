@@ -1,0 +1,24 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<B>Monitorando instruções ACL</B>]]></text> 
+</component>
+
+<component id="ID_title02">
+  <text><![CDATA[<B>Verificação das ACLs</B>]]></text> 
+</component>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Monitorando</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Verificando</B>]]></text> 
+</component>
+
+<component id="ID_text_01">
+  <text><![CDATA[R1# <B> show access-lists {</B> access-list-number|name <B>}<B>]]></text> 
+</component>
+
+
+</textcomponents>

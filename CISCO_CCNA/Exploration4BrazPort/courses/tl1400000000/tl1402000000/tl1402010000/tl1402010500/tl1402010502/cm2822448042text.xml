@@ -1,0 +1,179 @@
+<textcomponents>
+
+<component id="ID_Button01">
+<text><![CDATA[<b>Padrão e formato de quadro HDLC Cisco</b>]]></text>
+</component>
+
+<component id="ID_Button02">
+<text><![CDATA[<b>Tipos de quadro HDLC</b>]]></text>
+</component>
+
+<!-- slide 1-->
+<component id="ID_txt01">
+<text><![CDATA[<b>Padrão e formato de quadro HDLC Cisco</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>HDLC padrão</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Flag</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Endereço</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Controle</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Dados</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>FCS</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Flag</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<ul><li><b>Suporta apenas ambientes de protocolo único.</b></li></ul>]]></text>
+</component>
+
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Cisco HDLC</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Flag</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Endereço</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Controle</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Protocolo</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Dados</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>FCS</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Flag</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b><ul><li>Utiliza um campo de dados de protocolo para suportar ambientes de vários protocolos.</b></li></ul>]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_title_02">
+<text><![CDATA[<b>Tipos de quadro HDLC</b>]]></text>
+</component>
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>Tamanho do campo, em bytes</b>]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>1 ou 2</b>]]></text>
+</component>
+
+<component id="ID_txt03_02">
+<text><![CDATA[<b>1 ou 2</b>]]></text>
+</component>
+
+<component id="ID_txt04_02">
+<text><![CDATA[<b>Variável</b>]]></text>
+</component>
+
+<component id="ID_txt05_02">
+<text><![CDATA[<b>Flag</b>]]></text>
+</component>
+
+<component id="ID_txt06_02">
+<text><![CDATA[<b>Endereço</b>]]></text>
+</component>
+
+<component id="ID_txt07_02">
+<text><![CDATA[<b>Controle</b>]]></text>
+</component>
+
+<component id="ID_txt08_02">
+<text><![CDATA[<b>Dados</b>]]></text>
+</component>
+
+<component id="ID_txt09_02">
+<text><![CDATA[<b>FCS</b>]]></text>
+</component>
+
+<component id="ID_txt10_02">
+<text><![CDATA[<b>Flag</b>]]></text>
+</component>
+
+<component id="ID_txt11_02">
+<text><![CDATA[<b>Formato de quadro das informações</b>]]></text>
+</component>
+
+<component id="ID_txt12_02">
+<text><![CDATA[<b>Número de seqüência de recebimento</b>]]></text>
+</component>
+
+<component id="ID_txt13_02">
+<text><![CDATA[<b>Poll final</b>]]></text>
+</component>
+
+<component id="ID_txt14_02">
+<text><![CDATA[<b>Número de seqüência de envio</b>]]></text>
+</component>
+
+<component id="ID_txt15_02">
+<text><![CDATA[<b>Formato de quadro de supervisão</b>]]></text>
+</component>
+
+<component id="ID_txt16_02">
+<text><![CDATA[<b>Número de seqüência de recebimento</b>]]></text>
+</component>
+
+<component id="ID_txt17_02">
+<text><![CDATA[<b>Poll final</b>]]></text>
+</component>
+
+<component id="ID_txt18_02">
+<text><![CDATA[<b>Código de função</b>]]></text>
+</component>
+
+<component id="ID_txt19_02">
+<text><![CDATA[<b>Formato de quadro não numerado</b>]]></text>
+</component>
+
+<component id="ID_txt20_02">
+<text><![CDATA[<b>Código de função</b>]]></text>
+</component>
+
+<component id="ID_txt21_02">
+<text><![CDATA[<b>Poll final</b>]]></text>
+</component>
+
+<component id="ID_txt22_02">
+<text><![CDATA[<b>Código de função</b>]]></text>
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,69 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="pt-br">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Conte&uacute;do</title>
+<base target="_self"> <link href="../../css/content.css" rel="stylesheet" type="text/css">
+</head>
+
+<body onLoad="window.focus();">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<!--  Start top title Lesson Bar -->
+	  <tr>
+	    <td width="18" class="toptitle01_white_bold" valign="top"> <img border="0" src="../../images/content_lines.gif" width="16" height="25"> <img border="0" src="../../images/transdot.gif" width="2" height="1"></td>
+
+    <td width="18" class="toptitle01_white_bold">5.4</td>
+	    <td class="toptitle01_white_bold"><img border="0" src="../../images/transdot.gif" width="10" height="1"></td>
+
+    <td width="100%" class="toptitle01_white_bold">Instala&ccedil;&atilde;o de um sistema operacional</td>
+	    <td width="9" class="toptitle01_white_bold_margin">&nbsp;</td>
+	  </tr>
+	  <!--  End top title Lesson Bar -->
+	  <!--  Start top title Topic Bar -->
+ 	 <tr>
+	    <td width="18" height="25" class="toptitle02_white_bold">&nbsp;</td>
+
+    <td height="25"  class="toptitle02_white_bold">5.4.7</td>
+	    <td class="toptitle02_white_bold"><img border="0" src="../../images/transdot.gif" width="10" height="1"></td>
+
+    <td width="100%" height="25" class="toptitle02_white_bold"><strong>Identifica&ccedil;&atilde;o de arquivos de seq&uuml;&ecirc;ncia de inicializa&ccedil;&atilde;o e arquivos do Registro</strong></td>
+	    <td height="25" width="9" class="toptitle02_white_bold_margin">&nbsp;</td>
+  </tr>
+	 <!--  End top title Topic Bar -->
+</table>
+
+	<!-- CONTENT -->
+
+<table border="0" cellpadding="0" cellspacing="0" width="95%" >
+  <tr>
+    <td width="20" class="bold"></td>
+    <td class="bold">
+      <table border="0" cellpadding="0" cellspacing="0"  width="95%">
+        <tr>
+          <td width="100%" height="47">
+<p>&Eacute; importante conhecer o processo que o Windows XP usa ao inicializar. Conhecer essas etapas pode ajud&aacute;-lo a solucionar problemas de inicializa&ccedil;&atilde;o. A Figura 1 mostra a seq&uuml;&ecirc;ncia de inicializa&ccedil;&atilde;o do Windows XP.</p>
+            <p><span class="bold">O processo de inicializa&ccedil;&atilde;o do Windows XP</span><br> Para come&ccedil;ar o processo de inicializa&ccedil;&atilde;o, primeiro ligue o computador. Esse procedimento chama-se inicializa&ccedil;&atilde;o manual. O computador realiza o POST (Power-on Self Test, teste autom&aacute;tico de ativa&ccedil;&atilde;o). Como a placa de v&iacute;deo ainda n&atilde;o foi inicializada, os erros ocorridos neste momento do processo de inicializa&ccedil;&atilde;o ser&atilde;o informados por uma s&eacute;rie de tons aud&iacute;veis, denominados c&oacute;digos de bipe.</p>
+            <p>Ap&oacute;s o POST, o BIOS localiza e l&ecirc; as defini&ccedil;&otilde;es de configura&ccedil;&atilde;o armazenadas no CMOS. Essa configura&ccedil;&atilde;o &eacute; a ordem em que os dispositivos ser&atilde;o testados para verificar a localiza&ccedil;&atilde;o do sistema operacional. A BIOS inicializa o computador usando a primeira unidade que cont&eacute;m o sistema operacional.</p>
+            <p>Depois que a unidade com o sistema operacional &eacute; localizada, o BIOS busca o MBR (Master Boot Record, registro de inicializa&ccedil;&atilde;o mestre).  O MBR localiza o carregador de inicializa&ccedil;&atilde;o do sistema operacional. Para o Windows XP, o carregador de inicializa&ccedil;&atilde;o chama-se NTLDR (NT Loader). </p>
+            <p><span class="bold">NTLDR e o menu de inicializa&ccedil;&atilde;o do Windows</span><br> Agora o NTLDR controla diversas etapas de instala&ccedil;&atilde;o. Por exemplo, se houver mais de um sistema operacional no disco, o arquivo BOOT.INI permitir&aacute; que o usu&aacute;rio selecione qual ser&aacute; utilizado. Se n&atilde;o houver outros sistemas operacionais ou se o usu&aacute;rio n&atilde;o fizer uma sele&ccedil;&atilde;o antes de o timer expirar, ocorrer&aacute; o seguinte:</p>
+            <ul>
+              <li>O NTLDR executa o NTDETECT.COM para obter informa&ccedil;&otilde;es sobre qualquer hardware instalado. </li>
+              <li>O NTLDR usa o caminho especificado no BOOT.INI para localizar a parti&ccedil;&atilde;o de inicializa&ccedil;&atilde;o. </li>
+              <li>O NTLDR carrega dois arquivos que comp&otilde;em o n&uacute;cleo do XP: NTOSKRNL.EXE e HAL.DLL. </li>
+              <li>O NTLDR l&ecirc; os arquivos do Registro, escolhe um perfil de hardware e carrega os drivers de dispositivo.</li>
+            </ul>
+            <p><span class="bold">O Registro do Windows</span><br> Os arquivos do Registro do Windows s&atilde;o uma parte importante do processo de inicializa&ccedil;&atilde;o do Windows XP. Esses arquivos s&atilde;o reconhecidos por seus nomes, que come&ccedil;am com HKEY_, como mostra a Figura 2, seguido do nome do trecho do sistema operacional que eles controlam. Toda configura&ccedil;&atilde;o no Windows (desde o fundo do computador e a cor dos bot&otilde;es da tela ao licenciamento de aplicativos) &eacute; armazenada no Registro. Quando o usu&aacute;rio efetua altera&ccedil;&otilde;es nas configura&ccedil;&otilde;es do Painel de controle, nas associa&ccedil;&otilde;es de arquivos, nas pol&iacute;ticas do sistema ou nos softwares instalados, as altera&ccedil;&otilde;es s&atilde;o armazenadas no Registro. </p>
+            <p>Cada usu&aacute;rio tem uma se&ccedil;&atilde;o pr&oacute;pria do Registro. O processo de login do Windows aplica as configura&ccedil;&otilde;es de sistema do Registro para configurar o sistema da forma como ele estava na &uacute;ltima vez em que o usu&aacute;rio acessou.</p>
+            <p><span class="bold">O kernel do NT </span><br> Nesse ponto, o kernel do NT, que &eacute; o cora&ccedil;&atilde;o do sistema operacional Windows, assume o controle. O nome do arquivo &eacute; NTOSKRNL.EXE. Ele inicia o arquivo de login chamado WINLOGON.EXE e exibe a tela de boas vindas do XP.</p>
+            <p><b>OBSERVA&Ccedil;&Atilde;O:</b> Se uma unidade SCSI inicializar o computador, o Windows copiar&aacute; o arquivo NTBOOTDD.SYS durante a instala&ccedil;&atilde;o. Esse arquivo n&atilde;o ser&aacute; copiado se a unidade SCSI n&atilde;o estiver em uso.</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+
+</html>

@@ -1,0 +1,65 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>VPNs ponto a ponto</b>]]></text>
+</component>
+<component id="ID_inst">
+<text><![CDATA[Passe o mouse sobre os dispositivos do ponto para obter uma breve descrição de suas funções.]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Local remoto</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Local central</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Cabo<br />DSL</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>POP</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Roteador</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Intranet</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Extranet<br />Empresas para Empresas</b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>ou</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>ou</b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[VPNs ponto a ponto são extensões da WAN clássica.]]></text> 
+</component>
+
+<component id="ID_bubble01">
+<text><![CDATA[Você pode utilizar um ASA para finalizar uma VPN.]]></text> 
+</component>
+
+<component id="ID_bubble02">
+<text><![CDATA[Você pode utilizar um roteador para finalizar uma VPN.]]></text> 
+</component>
+
+<component id="ID_bubble03">
+<text><![CDATA[Você pode utilizar um firewall para finalizar uma VPN.]]></text> 
+</component>
+
+</textcomponents>

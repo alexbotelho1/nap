@@ -1,0 +1,35 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>O OSPF utiliza o algoritmo SPF de Dijkstra</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Banco de dados<br/>Link-State</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>SPF<br/>Algoritmo</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Árvore SPF</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Tabela de<br/>roteamento</b>]]></text> 
+</component>
+
+<component id="ID_top01">
+<text><![CDATA[<b>R1</b>]]></text> 
+</component>
+
+<component id="ID_top02">
+<text><![CDATA[<b>R2</b>]]></text> 
+</component>
+
+<component id="ID_top03">
+<text><![CDATA[<b>R3</b>]]></text> 
+</component>
+
+</textcomponents>

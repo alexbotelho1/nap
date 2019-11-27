@@ -1,0 +1,71 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Diferenças entre largura de banda padrão e real</b>]]></text>
+</component>
+
+<!-- captions -->
+<component id="ID_caption01">
+<text><![CDATA[<b>Largura de banda padrão = 1544 kbps<br>Largura de banda real = 64 kbps</b>]]></text>
+</component>
+<component id="ID_caption02">
+<text><![CDATA[<b>R1 supõe que o custo para 192.168.10.8 é igual até R2 ou R3.</b>]]></text>
+</component>
+<component id="ID_caption03">
+<text><![CDATA[<b>O valor de custo OSPF de 64 não é igual a 64 kbps.<br>O valor de custo OSPF de um link de 64 kbps é de 1562.</b>]]></text>
+</component>
+
+<!-- topology -->
+<component id="ID_txt01">
+<text><![CDATA[<b>64 kbps</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>128 kbps</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>256 kbps</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+<component id="ID_output">
+<text><![CDATA[<b><font face="_typewriter">***saída de comando omitida***</font></b>]]></text>
+</component>
+
+<component id="ID_output1">
+<text><![CDATA[<b><font face="_typewriter">***Parte da saída de códigos omitida***</font></b>]]></text>
+</component>
+
+<component id="ID_output2">
+<text><![CDATA[<b><font face="_typewriter">***saída de comando omitida***</font></b>]]></text>
+</component>
+
+<!-- instructions -->
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver a saída de comando.</b>]]></text>
+</component>
+
+<!-- bottom buttons -->
+<component id="show interface">
+<text><![CDATA[<b><font face="_typewriter">show interface</font></b>]]></text>
+</component>
+<component id="show ip route">
+<text><![CDATA[<b><font face="_typewriter">show ip route</font></b>]]></text>
+</component>
+<component id="show ip ospf interface">
+<text><![CDATA[<b><font face="_typewriter">show ip ospf interface</font></b>]]></text>
+</component>
+
+</textcomponents>

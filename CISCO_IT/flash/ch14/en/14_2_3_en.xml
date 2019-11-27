@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="14_2_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Selecting a Default Printer</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Set Color Options</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Change the Printer Settings</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_01">
+        <source>Printer Tasks</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_001">
+        <source>Paper/Quality</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_002">
+        <source>Finishing</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_0002">
+        <source>Margins</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_02">
+        <source>Add a printer </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_003">
+        <source>Effects</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_03">
+        <source>See what&apos;s printing</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_04">
+        <source>Select printing preference </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_004">
+        <source>Basics</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_0004">
+        <source>Layout</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_0005">
+        <source>Margins</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_005">
+        <source>Color</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_05">
+        <source>Pause printing </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_006">
+        <source>Services</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_0006">
+        <source>Top:</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_06">
+        <source>Share this printer</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_007">
+        <source>Print Task Quick Sets</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_07">
+        <source>Rename this printer</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_0007">
+        <source>0.8&quot;</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_0008">
+        <source>Left:</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_08">
+        <source>Delete this printer</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_008">
+        <source>Type new Quick Set name here</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_09">
+        <source>Set printer properties</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_0009">
+        <source>0.8&quot;</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_009">
+        <source>Save</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_10">
+        <source>Other Places</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_0010">
+        <source>Delete</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_00010">
+        <source>Gutter:</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_00011">
+        <source>0&quot;</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_0011">
+        <source>Color Options</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_11">
+        <source>Control Panel</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_00012">
+        <source>Bottom:</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_12">
+        <source>Scanners and Cameras</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_0012">
+        <source>Print In Grayscale</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_13">
+        <source>My Documents</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_00013">
+        <source>Right:</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_0013">
+        <source>High Quality</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_14">
+        <source>My Pictures</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_0014">
+        <source>Black Print Cartridge Only</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_00014">
+        <source>Gutter position:</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TXT_00015">
+        <source>Potrait</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TXT_0015">
+        <source>Optimize For Photocopy or  Fax</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TXT_15">
+        <source>My Computer
+JAPALSON-XP4</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TXT_0016">
+        <source>Color Attributes</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TXT_00016">
+        <source>Landscape</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TXT_16">
+        <source>Details</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TXT_0017">
+        <source>Saturation:  Muted</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TXT_17">
+        <source>Name</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TXT_00017">
+        <source>Pages</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TXT_00018">
+        <source>Multiple pages:</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TXT_18">
+        <source>Acrobat Distiller</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TXT_0018">
+        <source>Brightness:  Darker</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TXT_19">
+        <source>Acrobat Touch Doc.</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TXT_00019">
+        <source>Normal</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_TXT_0019">
+        <source>Color Tone:  Cooler</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_TXT_20">
+        <source>Open</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_TXT_00020">
+        <source>Preview</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_TXT_00021">
+        <source>Apply to:</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_TXT_0021">
+        <source>Lighter</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_TXT_21">
+        <source>Set as Default Printer</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_TXT_22">
+        <source>Printing Preferences...</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_TXT_00022">
+        <source>Selected sections</source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_TXT_0022">
+        <source>Warmer</source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_TXT_23">
+        <source> Pause  Printing</source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_TXT_0023">
+        <source>Help</source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_TXT_00023">
+        <source>Default...</source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_TXT_00024">
+        <source>OK</source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_TXT_0024">
+        <source>OK</source>
+      </trans-unit>
+      <trans-unit id="072" resname="IDS_TXT_24">
+        <source>Sharing.....
+Use Printer Offline</source>
+      </trans-unit>
+      <trans-unit id="073" resname="IDS_TXT_0025">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit id="074" resname="IDS_TXT_00025">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit id="075" resname="IDS_TXT_25">
+        <source>Create Shortcut
+Delete
+Rename</source>
+      </trans-unit>
+      <trans-unit id="076" resname="IDS_TXT_0026">
+        <source>Apply</source>
+      </trans-unit>
+      <trans-unit id="077" resname="IDS_TXT_26">
+        <source>Properties</source>
+      </trans-unit>
+      <trans-unit id="078" resname="IDS_TXT_27">
+        <source>Xerox Asset Management ....</source>
+      </trans-unit>
+      <trans-unit id="079" resname="IDS_TXT_0027">
+        <source>Help</source>
+      </trans-unit>
+      <trans-unit id="080" resname="IDS_TXT_0028">
+        <source>8.50 X 11.00 in.</source>
+      </trans-unit>
+      <trans-unit id="081" resname="IDS_TXT_28">
+        <source>Ready</source>
+      </trans-unit>
+      <trans-unit id="082" resname="IDS_TXT_29">
+        <source>0</source>
+      </trans-unit>
+      <trans-unit id="083" resname="IDS_TXT_30">
+        <source>Document</source>
+      </trans-unit>
+      <trans-unit id="084" resname="IDS_TXT_31">
+        <source>Status</source>
+      </trans-unit>
+      <trans-unit id="085" resname="IDS_TXT_32">
+        <source>Comments</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

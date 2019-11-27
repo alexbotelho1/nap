@@ -1,0 +1,52 @@
+<textcomponents>
+
+<component id="ID_omitted">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_omitted2">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_omitted3">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text>
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Adicionar outra Rota Secundária</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver a saída do comando do roteador.</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+
+<component id="output1cap">
+<text><![CDATA[<b>Rota Primária de Nível 1</b>]]></text>
+</component>
+
+<component id="output2cap">
+<text><![CDATA[<b>Rota Secundária de Nível 2</b>]]></text>
+</component>
+
+<component id="output3cap">
+<text><![CDATA[<b>Rota Secundária de Nível 2</b>]]></text>
+</component>
+
+</textcomponents>

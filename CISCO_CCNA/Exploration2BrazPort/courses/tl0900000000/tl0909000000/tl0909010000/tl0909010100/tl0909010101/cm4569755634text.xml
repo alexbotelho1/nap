@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>IGRP para EIGRP</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Resumo das operações</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>IGRP<br>1985<br>Desde 2005, já não é mais suportado no IOS 12.2(13)T e 12.2(R1s4) S </b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>EIGRP<br>1992<br>Lançado em IOS 9.2.1</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Protocolos de roteamento do vetor de distância tradicionais</b><br><br><li>Utilizam o algoritmo de Bellman-Ford ou Ford-Fulkerson.</li><li>Expiram entradas de roteamento e utilizam atualizações periódicas.</li><li>Mantêm o rastreamento somente das melhores rotas; o melhor caminho para uma rede de destino.</li><li>Quando uma rota tornar-se indisponível, o roteador deverá esperar por uma nova atualização de roteamento.</li><li>Convergência mais lenta devido aos temporizadores de holddown.</li>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Protocolo de roteamento do vetor de distância aprimorado: EIGRP</b><br><br><li>Utiliza o Algoritmo de atualização por difusão (DUAL).</li><li>Não expira as entradas de roteamento nem utiliza atualizações periódicas.</li><li>Mantém uma tabela de topologia separada da tabela de roteamento, que inclui o melhor caminho e qualquer outro caminho de backup sem loop.</li><li>Quando uma rota torna-se indisponível, o DUAL utilizará um caminho de backup se existir algum na tabela de topologia.</li><li>Convergência mais rápida devido à ausência de temporizadores de holddown e um sistema de cálculos de rota coordenado.</li>]]></text>
+</component>
+
+</textcomponents>

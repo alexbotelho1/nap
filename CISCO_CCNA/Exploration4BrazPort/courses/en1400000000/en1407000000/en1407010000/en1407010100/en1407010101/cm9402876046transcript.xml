@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:05">
+<title><content-text><![CDATA[7.1.1 - Introducing DHCP]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts manual and dynamic DCHP configuration and the devices that typically use each method.<br><br>Manual Configuration:<br>Device icons for a switch, router, and server are shown. Network devices that remain in the same place logically and physically are assigned static IP addresses.<br><br>Dynamic Configuration:<br>Device icons for a desktop PC, laptop PC, and IP phone are shown. Network devices that are added, moved, or changed physically and logical need new addresses. Manual configuration is unwieldy.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

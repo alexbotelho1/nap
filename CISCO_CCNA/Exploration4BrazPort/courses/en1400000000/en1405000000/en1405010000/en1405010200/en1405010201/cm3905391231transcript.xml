@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 07:12:49">
+<title><content-text><![CDATA[5.1.2  - Packet Filtering]]></content-text></title>
+<brief><content-text><![CDATA[The animation depicts packet filtering and the Open Systems Interconnection (O S I) model. Packet filtering works at the Network Layer (Layer 3) of the O S I model or at the Internet Layer of TCP/IP.<br><br>The animation shows what happens to a packet when it is allowed and when it is denied.<br><br>Allowed:<br>As the animation progresses, an unknown packet comes from the Physical Layer and travels up though the Data Link Layer to the Network Layer. The packet passes the test and is allowed to travel from the Network Layer, down to the Data Link Layer, then to the Physical Layer and continues on its way.<br><br>Denied:<br>As the animation progresses, an unknown packet comes from the Physical Layer and travels up though the Data Link Layer to the Network Layer. The packet fails the test, so it is prevented from passing, and the packet is discarded.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

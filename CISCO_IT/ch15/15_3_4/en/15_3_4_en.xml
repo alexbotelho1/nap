@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="15_3_4.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ISLQ3-QCORRECT_TEXT">
+        <source>Está correto!</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ISLQ3-QOPTION_TEXT1">
+        <source>Dispositivo multifuncional</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ISLQ3-QOPTION_TEXT2">
+        <source>Modem</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ISLQ3-QOPTION_TEXT3">
+        <source>Internet</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ISLQ3-QOPTION_TEXT4">
+        <source>Switch</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ISLQ3-QOPTION_TEXT5">
+        <source>Hub</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_ISLQ3-QQUESTION_TEXT">
+        <source>O que combina?</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_ISLQ3-QSLOTLABEL_TEXT1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_ISLQ3-QSLOTLABEL_TEXT2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_ISLQ3-QSLOTLABEL_TEXT3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_ISLQ3-QSLOTLABEL_TEXT4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_ISLQ3-QTITLE_TEXT">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_ISLQ3-QTRYAGAIN_TEXT">
+        <source>Tente novamente.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TITLE1">
+        <source>Dispositivos de rede doméstica</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TITLE2">
+        <source>Atividade DnD de dispositivos de rede</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_01">
+        <source>Cable Modem</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_001">
+        <source>Modem</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_002">
+        <source>Ponto de acesso sem fio</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_02">
+        <source>Dispositivo multifuncional</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_03">
+        <source>Internet</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_04">
+        <source>Switch</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_05">
+        <source>Hub</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_09">
+        <source> Roteador sem fio</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_009">
+        <source> Roteador sem fio</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

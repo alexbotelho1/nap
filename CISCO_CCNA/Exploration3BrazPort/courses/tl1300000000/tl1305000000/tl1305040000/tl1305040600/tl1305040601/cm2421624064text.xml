@@ -1,0 +1,113 @@
+<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Estados de porta de RSTP</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Estados de porta</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Descrições</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Portas de STP e RSTP</b>]]></text>
+</component>
+
+<component id="ID_lazyText01">
+<text><![CDATA[<b>Descarte</b>]]></text>
+</component>
+
+<component id="ID_lazyText02">
+<text><![CDATA[<b>Aprendizagem</b>]]></text>
+</component>
+
+<component id="ID_lazyText03">
+<text><![CDATA[<b>Encaminhamento</b>]]></text>
+</component>
+
+<component id="ID_lazyText04">
+<text><![CDATA[<b>Tabela MAC</b>]]></text>
+</component>
+
+<component id="dataframe1">
+<text><![CDATA[<b>Estrutura de dados</b>]]></text>
+</component>
+
+<component id="dataframe2">
+<text><![CDATA[<b>Estrutura de dados</b>]]></text>
+</component>
+
+<component id="dataframe3">
+<text><![CDATA[<b>Estrutura de dados</b>]]></text>
+</component>
+
+<component id="tableHTML">
+	    <text><![CDATA[
+	   <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	
+	    	<tr>
+	  	  		
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Estado de porta</b></font></td>
+	  	  	<td valign='top' width='500' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>Ação</b></font></td>
+	   	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Descarte</td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Este estado é visto tanto em uma topologia ativa estável como durante a sincronização e mudanças de topologia. O estado de descarte impede o encaminhamento de estrutura de dados, "interrompendo", assim, a continuidade de um loop de camada 2.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Aprendizagem</td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Este estado é visto tanto em uma topologia ativa estável como durante a sincronização e mudanças de topologia. O estado de aprendizagem aceita estruturas de dados para preencher a tabela MAC em um esforço para limitar a inundação de quadros de unicast desconhecidos.</td>
+	</tr>
+	<tr>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Encaminhamento</td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Este estado é visto somente em topologias ativas estáveis. As portas de switch de encaminhamento determinam a topologia. Após uma mudança de topologia, ou durante a sincronização, o encaminhamento de estruturas de dados ocorre somente depois de uma proposta e processo de acordo.</td>
+	</tr>
+	
+</table>
+]]></text> 
+  </component>
+  
+  <component id="tableHTML2">
+	    <text><![CDATA[
+	   <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	
+	    	<tr>
+	  	  		
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Estado de Porta Operacional</b></font></td>
+	  	  	<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>Estado de Porta de STP</b></font></td>
+			<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>Estado de Porta de RSTP</b></font></td>
+	   	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Habilitado</td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Bloqueio</td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Descarte</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Habilitado</td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Escuta</td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Descarte</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Habilitado</td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Aprendizagem</td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Aprendizagem</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Habilitado</td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Encaminhamento</td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Encaminhamento</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Desabilitado</td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Desabilitado</td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Descarte</td>
+	</tr>
+	
+</table>
+]]></text> 
+  </component>
+
+</textcomponents>

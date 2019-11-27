@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 08:11:12">
+<title><content-text><![CDATA[1.2.2  - WAN Physical Layer Concepts]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts WAN devices. A network cloud labeled WAN contains two WAN switches connected to four interconnected core routers. One PC is connected to a DSL modem and then to a WAN switch via the PSTN. Another PC is connected to a cable modem. The cable modem is then connected to a WAN switch via the cable network. The WAN switch is connected to a channel service unit / data service unit (CSU/DSU) via a T1 dedicated, leased line. The CSU/DSU is then connected to a router. Three PC's are each connected to a modem. The modems are then connected to a WAN switch via an access server.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

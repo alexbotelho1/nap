@@ -1,0 +1,114 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para visualizar a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para avançar para a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+
+
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) Explique brevemente a operação básica do RIP e do IGRP.]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 4.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[O RIP e IGRP são protocolos de roteamento do vetor de distância caracterizados por atualizações periódicas difundidas aos vizinhos diretamente conectados. A tabela de roteamento inteira é enviada na atualização.]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[A convergência ocorre quando todos os roteadores na rede têm informações consistentes e corretas sobre como alcançar redes de destino. Para que uma rede seja completamente operável, é necessário que haja convergência nela. Portanto, os protocolos de roteamento requerem pouco tempo de convergência.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2) Explique a convergência e por que ela é importante.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 4.2)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) Quais são os quatro principais temporizadores no RIP? Qual é a finalidade e a duração de cada um deles?]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 4.3)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Temporizador de atualização</b>--(30 segundos) usado para cronometrar quando a próxima atualização deverá ser enviada.<br/><br/><b>Temporizador inválido</b>--(180 segundos) usado para marcar uma rota como inválida definindo a métrica como 16, se uma atualização não tiver sido recebida para atualizar uma rota existente depois de 180 segundos.<br/><br/><b>Temporizador de hold-down</b>--(180 segundos) o tempo que uma rota inalcançável fica em "hold-down".<br/><br/><b>Temporizador de descarga</b>--(240 segundos) tempo até que uma rota seja removida da tabela de roteamento.]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) Quais são as cinco técnicas usadas pelos protocolos de roteamento do vetor de distância para impedir loops de roteamento?]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 4.4)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<ul><li>Definição da métrica máxima para impedir a contagem até o infinito</li><li>Temporizadores de hold-down</li><li>Split horizon</li><li>Route poisoning ou poison reverse</li><li>Atualizações disparadas</li></ul>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Isto conclui as perguntas da seção Problemas e Discussão deste capítulo.</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,332 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para saber a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para ver a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+
+
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) No comando <font face='_typewriter'><b>roteador ospf</b></font> o process-id precisa corresponder em todos os roteadores?]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 11.2)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[Não, diferente do EIGRP, o OSPF é localmente significativo e não precisa corresponder a outros roteadores OSPF.]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2) Dada a seguinte configuração, qual é a ID de roteador OSPF do Roteador A?]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 11.2)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[A ID do roteador OSPF é 10.1.1.1, o endereço de loopback mais alto na ausência do comando router-id do OSPF.]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q2_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) Que comando pode ser utilizado para verificar ou determinar o valor da largura de banda da interface utilizada como métrica pelo OSPF?]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 11.3)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) Que comando pode ser utilizado para modificar o custo de OSPF de uma interface sem modificar o valor de largura de banda daquela interface?]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 11.3)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[O comando de interface, <font face='_typewriter'><b>ip ospf cost</b></font>.]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[5) Qual é o intervalo de Hello padrão em redes Ethernet e redes ponto-a-ponto seriais? Qual é o intervalo de Hello padrão em redes NBMA?]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[(de 11.5)]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[Por padrão, os pacotes Hello de OSPF são enviados a cada 10 segundos em segmentos multiacesso e ponto-a-ponto e a cada 30 segundos em segmentos de rede ponto-a-multiponto (NBMA) (Frame Relay, X.25, ATM) (NBMA).]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q5_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[6) Quais valores devem corresponder antes de dois roteadores formarem uma adjacência de OSPF?]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[(de 11.5)]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[Intervalo de Hello<br>Intervalo de Dead<br>Tipo de rede<br>Máscaras de sub-rede]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q6_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+
+<!-- Question 7 -->
+
+
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[7) Quais problemas a eleição de um DR e BDR soluciona?]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[(de 11.6)]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[Criação de múltiplas adjacências, uma adjacência para cada par de roteadores.<br>Envio excessivo de LSAs (Link-State Advertisements, Anúncios Link-State).]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q7_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 8 -->
+
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q8_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[8) Como o DR e o BDR são eleitos?]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[(de 11.6)]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[O DR é o roteador com a prioridade de interface OSPF mais alta e o BDR possui a segunda prioridade de interface OSPF mais alta.  Se as prioridades de interface OSPF são iguais, a ID de roteador mais alta é utilizada para a determinação final.]]></text>
+</component>
+<component id="ID_Q8_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q8_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 9 -->
+
+
+<component id="ID_Q9_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q9_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q9_txt03">
+<text><![CDATA[9) Quando o DR falha, como o novo DR é determinado?]]></text>
+</component>
+<component id="ID_Q9_txt04">
+<text><![CDATA[(de 11.6)]]></text>
+</component>
+<component id="ID_Q9_txt05">
+<text><![CDATA[O BDR se torna o novo DR e acontece uma eleição para um novo BDR.]]></text>
+</component>
+<component id="ID_Q9_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q9_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 10 -->
+
+
+<component id="ID_Q10_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q10_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q10_txt03">
+<text><![CDATA[10) O que acontece quando um roteador com uma prioridade de interface OSPF mais alta é adicionado a uma rede que já tem um DR e BDR?]]></text>
+</component>
+<component id="ID_Q10_txt04">
+<text><![CDATA[(de 11.6)]]></text>
+</component>
+<component id="ID_Q10_txt05">
+<text><![CDATA[Nada, o DR e o BDR só perderão sua função se o roteador ou a interface multiacesso falharem.]]></text>
+</component>
+<component id="ID_Q10_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q10_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 11 -->
+
+
+<component id="ID_Q11_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q11_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q11_txt03">
+<text><![CDATA[11) Qual significância uma prioridade de interface OSPF de 0 possui?]]></text>
+</component>
+<component id="ID_Q11_txt04">
+<text><![CDATA[(de 11.6)]]></text>
+</component>
+<component id="ID_Q11_txt05">
+<text><![CDATA[A interface deste roteador não é qualificada para se tornar um DR ou BDR.]]></text>
+</component>
+<component id="ID_Q11_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q11_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 12 -->
+
+
+<component id="ID_Q12_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q12_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q12_txt03">
+<text><![CDATA[12) Que comando deve ser utilizado para propagar uma rota padrão utilizando OSPF?]]></text>
+</component>
+<component id="ID_Q12_txt04">
+<text><![CDATA[(de 11.7)]]></text>
+</component>
+<component id="ID_Q12_txt05">
+<text><![CDATA[O comando OSPF <font face='_typewriter'><b>default-information originate</b></font>]]></text>
+</component>
+<component id="ID_Q12_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q12_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Isto conclui as perguntas da seção Problemas e Discussão deste capítulo.</b>]]></text>
+</component>
+
+
+</textcomponents>

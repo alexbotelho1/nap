@@ -1,0 +1,158 @@
+<textcomponents>
+
+<component id="ID_caption01">
+<text><![CDATA[Clique para ver o Processo de roteamento link-state e o endereçamento R1.]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Processo de Roteamento Link-State</b>]]></text>
+</component>
+
+<component id="slide1">
+<text><![CDATA[<b>Processo de Roteamento Link-State</b>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td glow='false' valign='top' type='dynamic'><font color='#FFFFFF'><b>Processo de Roteamento Link-State</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1. <textformat blockindent='14'>Cada roteador obtém informações sobre suas próprias redes diretamente conectadas.</textformat><br />2. <textformat blockindent='14'>Cada roteador é responsável por "dizer olá" a seus vizinhos em redes diretamente conectadas.</textformat><br />3. <textformat blockindent='14'>Cada roteador cria um pacote link-state que contém o estado de cada link diretamente conectado.</textformat><br />4. <textformat blockindent='14'>Cada roteador inunda o LSP para todos os vizinhos, que armazenam todos os LSPs recebidos em um banco de dados.</textformat><br />5. <textformat blockindent='14'>Cada roteador usa o banco de dados para criar um mapa completo da topologia e computa o melhor caminho para cada rede de destino.</td>
+	</tr></table>]]></text></component>
+
+<!-- topologies 1-->
+<component id="ID_top01">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top02">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_top03">
+<text><![CDATA[<b>20</b>]]></text>
+</component>
+
+<component id="ID_top04">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_top05">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top06">
+<text><![CDATA[<b>5</b>]]></text>
+</component>
+
+<component id="ID_top07">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top08">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top09">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_top10">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+<component id="ID_top11">
+<text><![CDATA[<b>R5</b>]]></text>
+</component>
+
+<component id="ID_top12">
+<text><![CDATA[<b>20</b>]]></text>
+</component>
+
+<component id="ID_top13">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_top14">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_top15">
+<text><![CDATA[<b>R4</b>]]></text>
+</component>
+
+<component id="ID_top16">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<!-- topologies 2-->
+<component id="ID_top01b">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top02b">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_top03b">
+<text><![CDATA[<b>20</b>]]></text>
+</component>
+
+<component id="ID_top04b">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_top05b">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top06b">
+<text><![CDATA[<b>5</b>]]></text>
+</component>
+
+<component id="ID_top07b">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top08b">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top09b">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_top10b">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+<component id="ID_top11b">
+<text><![CDATA[<b>R5</b>]]></text>
+</component>
+
+<component id="ID_top12b">
+<text><![CDATA[<b>20</b>]]></text>
+</component>
+
+<component id="ID_top13b">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_top14b">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_top15b">
+<text><![CDATA[<b>R4</b>]]></text>
+</component>
+
+<component id="ID_top16b">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+</textcomponents>

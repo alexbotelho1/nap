@@ -1,0 +1,137 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Como as ACLs funcionam</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Exemplo de ACL de saída</b>]]></text>
+</component>
+
+<component id="ID_Button01">
+<text><![CDATA[ACLs de entrada]]></text>
+</component>
+
+<component id="ID_Button02">
+<text><![CDATA[ACLs de saída]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_txt01">
+<text><![CDATA[Pacotes para interfaces no grupo de acesso]]></text>
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[Correspond.<br/>Primeiro<br/>Teste]]></text>
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[Correspond.<br/>Avançar<br/>Teste]]></text>
+</component>
+
+<component id="ID_S1_txt04">
+<text><![CDATA[Correspond.<br/>Último<br/>Teste]]></text>
+</component>
+
+<component id="ID_S1_txt05">
+<text><![CDATA[Permitir<br/>ou<br/>Negação]]></text>
+</component>
+
+<component id="ID_S1_txt06">
+<text><![CDATA[Não (Deny implícito)]]></text>
+</component>
+
+<component id="ID_S1_txt07">
+<text><![CDATA[Sim]]></text>
+</component>
+
+<component id="ID_S1_txt08">
+<text><![CDATA[Não]]></text>
+</component>
+
+<component id="ID_S1_txt09">
+<text><![CDATA[Sim]]></text>
+</component>
+
+<component id="ID_S1_txt10">
+<text><![CDATA[Não]]></text>
+</component>
+
+<component id="ID_S1_txt11">
+<text><![CDATA[Sim]]></text>
+</component>
+
+<component id="ID_S1_txt12">
+<text><![CDATA[Pacote<br/>Descartar<br/>Lixeira]]></text>
+</component>
+
+<component id="ID_S1_txt13">
+<text><![CDATA[Permitir<br/>(para interface de destino)]]></text>
+</component>
+
+<component id="ID_S1_txt14">
+<text><![CDATA[Negar]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_S2_txt01">
+<text><![CDATA[Pacotes da interface de entrada]]></text>
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[Tabela de<br/>roteamento]]></text>
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[Escolher interface de saída]]></text>
+</component>
+
+<component id="ID_S2_txt04">
+<text><![CDATA[ACL?]]></text>
+</component>
+
+<component id="ID_S2_txt05">
+<text><![CDATA[Teste<br/>ACL<br/>Instruções]]></text>
+</component>
+
+<component id="ID_S2_txt06">
+<text><![CDATA[Permitir?]]></text>
+</component>
+
+<component id="ID_S2_txt08">
+<text><![CDATA[Interface de saída]]></text>
+</component>
+
+<component id="ID_S2_txt10">
+<text><![CDATA[Descartar pacote]]></text>
+</component>
+
+<component id="ID_S2_txt11">
+<text><![CDATA[Pacote<br/>Descartar<br/>Lixeira]]></text>
+</component>
+
+<component id="ID_S2_txt12">
+<text><![CDATA[Sim]]></text>
+</component>
+
+<component id="ID_S2_txt13">
+<text><![CDATA[Não]]></text>
+</component>
+
+<component id="ID_S2_txt14">
+<text><![CDATA[Sim]]></text>
+</component>
+
+<component id="ID_S2_txt15">
+<text><![CDATA[Não]]></text>
+</component>
+
+<component id="ID_S2_txt16">
+<text><![CDATA[Sim]]></text>
+</component>
+
+<component id="ID_S2_txt17">
+<text><![CDATA[Não]]></text>
+</component>
+
+</textcomponents>

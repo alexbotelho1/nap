@@ -1,0 +1,15 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Recursos do Cisco SDM</b>]]></text>
+</component>
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>&#8226; Ferramenta de gerenciamento interna baseada na Web<br/>&#8226; Assistentes inteligentes<br/>&#8226; Ferramentas para usuários mais avançados<br/>   - ACL<br/>   - Editor do mapa de criptografia VPN<br/>   - Visualização da CLI do Cisco IOS</td></tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

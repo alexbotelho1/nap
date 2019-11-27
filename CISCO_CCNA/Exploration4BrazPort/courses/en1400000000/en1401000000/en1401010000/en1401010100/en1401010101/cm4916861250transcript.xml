@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 08:11:06">
+<title><content-text><![CDATA[1.1.1  - Introducing Wide Area Networks (WAN's)]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts a network with a LAN and access area interconnected by a WAN with a cloud in it.<br><br>LAN:<br>Contains multiple interconnected Layer 2 switches, user workstations, and servers as well as Layer 3 switches and routers. The ovals connecting the LAN components are labeled as Building Backbone and Campus Backbone.<br><br>WAN:<br>Contains Layer 3 switches and a router in a network cloud. One of the routers in the LAN connects to the WAN router. <br><br>Access Area:<br>Contains a branch office with PC's, a telecommuter, and a remote user connected to a Layer 3 switch in the WAN network cloud. <br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,119 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Cenário de falhas de STP</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para exibir a animação.</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Esta rede está totalmente convergida.<br/><br/>O switch S3 possui uma BPDU melhor do que o S2 e, contanto que a porta F0/3 no S2 receba BPDUs do S3, a porta F0/3 no S2 ficará no modo de bloqueio e descartará todos os broadcasts recebidos do S3.</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Bridge raiz</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Porta designada = DP<br/>Porta não-designada = NDP<br/>Porta raiz = RP<br/>Encaminhamento = F<br/>Bloqueio = B</b>]]></text> 
+  </component>
+  <component id="ID_txt04">
+  <text><![CDATA[<b>Por algum motivo, a porta F0/3 no switch S2 não recebe as BPDUs para max_age padrão de 20 segundos.<br/><br/>A maioria das falhas do algoritmo spanning tree ocorrem devido a perdas excessivas de BPDUs fazendo com que as portas bloqueadas façam a transição para o modo de encaminhamento.</b>]]></text> 
+  </component>
+  <component id="ID_txt05">
+  <text><![CDATA[<b>Bridge raiz</b>]]></text> 
+  </component>
+  <component id="ID_txt06">
+<text><![CDATA[<b>Porta designada = DP<br/>Porta não-designada = NDP<br/>Porta raiz = RP<br/>Encaminhamento = F<br/>Bloqueio = B</b>]]></text>
+</component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>A porta F0/3 no switch S2 faz a transição para o modo de encaminhamento.</b>]]></text> 
+  </component>
+  <component id="ID_txt08">
+  <text><![CDATA[<b>Bridge raiz</b>]]></text> 
+  </component>
+  <component id="ID_txt09">
+<text><![CDATA[<b>Porta designada = DP<br/>Porta não-designada = NDP<br/>Porta raiz = RP<br/>Encaminhamento = F<br/>Bloqueio = B</b>]]></text>
+</component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>Encaminhamento</b>]]></text> 
+  </component>
+  <component id="ID_txt11">
+  <text><![CDATA[<b>Falha de spanning tree<br/><br/>A porta F0/3 no switch S2 foi do modo de bloqueio para o modo de encaminhamento.<br/><br/>Uma broadcast storm está ocorrendo.</b>]]></text> 
+  </component>
+  <component id="ID_txt12">
+  <text><![CDATA[<b>Bridge raiz</b>]]></text> 
+  </component>
+  <component id="ID_txt13">
+<text><![CDATA[<b>Porta designada = DP<br/>Porta não-designada = NDP<br/>Porta raiz = RP<br/>Encaminhamento = F<br/>Bloqueio = B</b>]]></text>
+</component>
+
+<component id="ID_bridge">
+<text><![CDATA[<b>ID de bridge</b>]]></text>
+</component>
+
+<component id="ID_root">
+<text><![CDATA[<b>ID de raiz</b>]]></text>
+</component>
+
+<component id="ID_BPDU">
+<text><![CDATA[<b>BPDU</b>]]></text>
+</component>
+
+<component id="ID_bframe">
+<text><![CDATA[<b>Quadro de broadcast</b>]]></text>
+</component>
+
+  
+  
+  <component id="play"><text><![CDATA[Reproduzir]]></text>
+
+	</component>
+
+    <component id="pause">
+
+		<text><![CDATA[Pausar]]></text>
+
+	</component>
+
+    <component id="rewind">
+
+		<text><![CDATA[Retroceder]]></text>
+
+	</component>
+	<component id="forward">
+
+		<text><![CDATA[Avançar]]></text>
+
+	</component>
+
+    <component id="mute">
+
+		<text><![CDATA[Sem som]]></text>
+
+	</component>
+
+    <component id="unmute">
+		<text><![CDATA[Com som]]></text>
+
+	</component>
+
+    <component id="previous">
+
+		<text><![CDATA[Reiniciar]]></text>
+	</component>
+
+    <component id="next">
+
+		<text><![CDATA[Encerrar]]></text>
+	</component>
+
+<component id="transcript">
+		<text><![CDATA[Transcrição]]></text>
+	</component>
+
+
+
+
+
+</textcomponents>

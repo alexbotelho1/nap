@@ -1,0 +1,51 @@
+<textcomponents>
+
+<component id="ID_callout04">
+<text><![CDATA[<b>Rota estática configurada e redistribuída.</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Clique para exibir as várias saídas do comando do roteador</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Desabilite o roteamento RIP em R2 somente para a rede 192.168.4.0.<br>Configure R2 com uma rota padrão que aponte para R3.</b>]]></text>
+</component>
+
+<component id="ID_topology01">
+<text><![CDATA[<b>Rota sumarizada<br>estática<br>para 192.168.0.0/16</b>]]></text>
+</component>
+
+<component id="ID_topology02">
+<text><![CDATA[<b>Rota estática</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Configurações RIPv1 adicionais</b>]]></text>
+</component>
+
+<component id="slide1">
+<text><![CDATA[<b>Pings de R2</b>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<b>Rotas de R2</b>]]></text>
+</component>
+
+<component id="slide3">
+<text><![CDATA[<b>Depuração de R2 1</b>]]></text>
+</component>
+
+<component id="slide4">
+<text><![CDATA[<b>Rotas de R1</b>]]></text>
+</component>
+
+<component id="slide5">
+<text><![CDATA[<b>Depuração de R2 2</b>]]></text>
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text>
+</component>
+
+</textcomponents>

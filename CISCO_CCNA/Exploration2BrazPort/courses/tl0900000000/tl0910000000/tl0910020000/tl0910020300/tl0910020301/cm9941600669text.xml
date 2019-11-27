@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>OSPF e IS-IS</b>]]></text>
+</component>
+
+<component id="TableTitle1">
+<text><![CDATA[<b>OSPF</b>]]></text> 
+</component>
+
+<component id="myTable1">
+<text><![CDATA[<li>OSPFv2: OSPF para redes IPv4 (RFC 1247 e RFC 2328)</li><li>OSPFv3: OSPF para redes IPv6 (RFC 2740)</li><li>OSPFv2 discutido no capítulo 11</li>]]></text> 
+</component>
+
+<component id="TableTitle2">
+<text><![CDATA[<b>IS-IS</b>]]></text> 
+</component>
+
+<component id="myTable2">
+<text><![CDATA[<li>ISO 10589</li><li>IS-IS Integrado, Dual-IS-IS suporta redes IP</li><li>Usado principalmente pelos ISPs e pelas operadoras</li><li>Discutido no CCNP.</li>]]></text> 
+</component>
+
+</textcomponents>

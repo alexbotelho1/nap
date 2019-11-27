@@ -1,0 +1,12 @@
+<launch>
+	<userguide><content-text>Abra o Manual do usuário em uma nova janela.</content-text></userguide>
+	<heading1><content-text>1. Selecione o nível em que deseja exibir o curso.</content-text></heading1>
+	<chlevel><content-text>Nível do capítulo</content-text></chlevel>
+	<selevel><content-text>Nível da seção</content-text></selevel>
+	<tolevel><content-text>Nível do tópico</content-text></tolevel>
+	<palevel><content-text>Nível da página</content-text></palevel>
+	<heading2><content-text>2. Selecione a apresentação-padrão de meio.</content-text></heading2>
+	<transcript><content-text>Apenas transcrição do texto de meio</content-text></transcript>
+	<visual><content-text>Apenas meio visual interativa</content-text></visual>
+	<choice><content-text>Transcrição de texto e meio visual</content-text></choice>
+</launch>

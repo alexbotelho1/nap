@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 11:12:24">
+<title><content-text><![CDATA[6.1.2 - The Teleworker Solution]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts remote connection topologies and options.<br><br>Topologies: <br>There are four areas defined in the diagram that are interconnected via a WAN cloud. The fours areas are:<br>- Headquarters (includes a server farm, enterprise campus, and enterprise edge).<br>- Branch offices.<br>- Teleworkers (includes a mobile worker, individual, and a SOHO).<br>- Partners and suppliers.<br><br>Options: <br>Various telecommunications technologies are shown as smaller clouds within the larger WAN cloud. These include IPSec VPN, Layer 2 VPN's over WAN technologies such as Frame Relay and ATM, as well as broadband networks and ISP's.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

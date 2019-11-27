@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="1_2_6.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Server Types</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>Server Types</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_02">
+        <source>Applications Server</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_03">
+        <source>Communications Server</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_04">
+        <source>Database Server</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_05">
+        <source>File Server</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_006">
+        <source>Game Server</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_06">
+        <source>Web Server</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_07">
+        <source>A computer dedicated to running software programs that are accessed by other computers</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_08">
+        <source>A networked computer that provides access to other networks and communications facilities</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_09">
+        <source>A computer dedicated to running a database, an application that performs data storage, sorting, reporting, and retrieval</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_10">
+        <source>A computer that stores many different types of files. Users are able to store and retrieve files on a file server</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_11">
+        <source>A computer on a network dedicated to hosting a game that multiple users can connect with to interact within the game</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_12">
+        <source>A computer that serves HTML documents to clients on a network</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

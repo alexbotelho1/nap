@@ -1,0 +1,20 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Atualizações do EIGRP</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>As atualizações do EIGRP são parciais e associadas:</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<i><b>Parcial </b></i> porque a atualização somente inclui informações sobre as alterações de rota.]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<i><b>Associadas</b></i> porque somente os roteadores afetados pela mudança receberão a atualização.]]></text> 
+</component>
+
+
+</textcomponents>

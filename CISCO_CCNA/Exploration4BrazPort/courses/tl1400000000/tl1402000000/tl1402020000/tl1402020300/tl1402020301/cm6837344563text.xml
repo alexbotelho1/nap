@@ -1,0 +1,56 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Campos do quadro de PPP</b>]]></text>
+</component>
+
+<component id="ID2_txt01">
+<text><![CDATA[<b>Tamanho do campo, em bytes</b>]]></text>
+</component>
+<component id="ID2_txt02">
+<text><![CDATA[<b>Variável</b>]]></text>
+</component>
+<component id="ID2_txt03">
+<text><![CDATA[<b>2 ou 4</b>]]></text>
+</component>
+<component id="ID2_txt04">
+<text><![CDATA[<b>Flag</b>]]></text>
+</component>
+<component id="ID2_txt05">
+<text><![CDATA[<b>Endereço</b>]]></text>
+</component>
+<component id="ID2_txt06">
+<text><![CDATA[<b>Controle</b>]]></text>
+</component>
+<component id="ID2_txt07">
+<text><![CDATA[<b>Protocolo</b>]]></text>
+</component>
+<component id="ID2_txt08">
+<text><![CDATA[<b>Dados</b>]]></text>
+</component>
+<component id="ID2_txt09">
+<text><![CDATA[<b>FCS</b>]]></text>
+</component>
+<component id="ID2_txt15">
+<text><![CDATA[<b>Indica o início ou o fim de um quadro e consiste na seqüência binária 01111110 para identificar um quadro PPP. O valor é definido como 0x7E (seqüência de bit 01111110) para significar o início e o fim de um quadro PPP. Em quadros PPP sucessivos, apenas um caractere Flag é utilizado.</b>]]></text>
+</component>
+<component id="ID2_txt16">
+<text><![CDATA[<b>Consiste no endereço de broadcast padrão, que é a seqüência binária 11111111. PPP não atribui endereços de estação individuais. Em ambientes HDLC, o campo Endereço é utilizado para endereçar o quadro para o nó de destino. Em um link ponto-a-ponto, o nó de destino não precisa ser endereçado. Portanto, para PPP, o campo Endereço é definido como 0xFF, o endereço de broadcast. Se ambos os túneis PPP concordarem em executar a compressão de endereço e campo de controle durante a negociação LCP, o campo Endereço não será incluído.</b>]]></text>
+</component>
+<component id="ID2_txt17">
+<text><![CDATA[<b>1 byte que consiste na seqüência binária 00000011, que chama a transmissão dos dados do usuário em um quadro não seqüenciado. Assim funciona um serviço de link sem conexão, que não exige o estabelecimento de links de dados ou estações de link.</b>]]></text>
+</component>
+<component id="ID2_txt18">
+<text><![CDATA[<b>2 bytes que identificam o protocolo encapsulado no campo de dados do quadro. O campo ID de protocolo de 2 bytes identifica o protocolo do payload PPP. Se ambos os túneis PPP aceitarem executar a compressão de campo do protocolo durante a negociação LCP, o campo ID de protocolo terá um byte no intervalo 0x00-00 to 0x00-FF.</b>]]></text>
+</component>
+<component id="ID2_txt19">
+<text><![CDATA[<b>0 ou mais bytes que contêm o datagrama do protocolo especificado no campo de protocolo. Os 2 bytes do campo da seqüência de verificação de quadros (FCS), seguidos do flag de fechamento, marcam o término do campo de dados. O tamanho máximo padrão do campo de dados é de 1.500 bytes.</b>]]></text>
+</component>
+<component id="ID2_txt20">
+<text><![CDATA[<b>Um checksum de 16 bits utilizado para verificar erros em nível de bit no quadro PPP. Se o cálculo do destinatário da FCS não corresponder à FCS no quadro PPP, o quadro PPP será descartado.  Antes da concordância anterior, as implementações PPP que consentem podem utilizar uma FCS de 32 bits (4 bytes) para melhor detecção de erros.</b>]]></text>
+</component>
+<component id="ID_caption">
+<text><![CDATA[<b>Passe o mouse sobre os campos do pacote LCP para ver as descrições.</b>]]></text>
+</component>
+
+</textcomponents>

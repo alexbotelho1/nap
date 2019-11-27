@@ -1,0 +1,139 @@
+<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Parâmetros configuráveis</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Parâmetros</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Modos</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>SSID</b>]]></text>
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<b>Canal</b>]]></text>
+</component>
+
+<component id="ID_bubble01">
+<text><![CDATA[<b>Cliente 802.11b força clientes mais rápidos que disputam pelo canal a aguardar mais.</b>]]></text>
+</component>
+
+<component id="ID_lazyText01">
+<text><![CDATA[<b>AP suporta ambos 802.11b e 802.11g</b>]]></text>
+</component>
+
+<component id="ID_lazyText02">
+<text><![CDATA[<b>Clientes 802.11g</b>]]></text>
+</component>
+
+<component id="ID_lazyText03">
+<text><![CDATA[<b>Clientes 802.11b</b>]]></text>
+</component>
+
+<component id="ID_lazyText04">
+<text><![CDATA[<b>Distância de 5 MHz entre as frequências de centro de canais sucessivos</b>]]></text>
+</component>
+
+<component id="ID_lazyText05">
+<text><![CDATA[<b>A curvatura indica que a energia de RF mais alta está no ponto central de cada canal e que ela se dissipa conforme alcança as extremidades do canal</b>]]></text>
+</component>
+
+<component id="ID_lazyText06">
+<text><![CDATA[<b>Nenhuma sobreposição entre<br/>canais 1, 6 e 11</b>]]></text>
+</component>
+
+<component id="ID_lazyText07">
+<text><![CDATA[<b>5 MHz</b>]]></text>
+</component>
+
+<component id="ID_lazyText08">
+<text><![CDATA[<b>22 MHz<br/>Largura do canal</b>]]></text>
+</component>
+
+<component id="ID_lazyText09">
+<text><![CDATA[<b><font size='14'>Faixa de RF de 2,4 GHz</font></b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique nos botões para saber mais sobre cada parâmetro.</b>]]></text>
+</component>
+
+<component id="ID_lazyText11">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText12">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText13">
+<text><![CDATA[<b>O problema do nó oculto:<ul><li>STA1 e STA2 alcançam WRS3</li><li>STA1 e STA2 não conseguem alcançar um ao outro</li><li>STA1 não detecta a atividade de STA2 no canal</li><li>STA1 transmite dados ao mesmo tempo em que STA2 está transmitindo</li><li>Ocorre uma colisão</li></ul><br/>STA3 é sentido por STA1 e STA2, e por isso não há nenhuma colisão envolvendo STA3.</b>]]></text>
+</component>
+
+<component id="ID_lazyText14">
+<text><![CDATA[<b>STA2 e STA3 sentem um ao outro</b>]]></text>
+</component>
+
+<component id="ID_lazyText15">
+<text><![CDATA[<b>STA1 e STA3 sentem um ao outro</b>]]></text>
+</component>
+
+<component id="ID_lazyText16">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText17">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText18">
+<text><![CDATA[<b>Frete</b>]]></text>
+</component>
+
+<component id="ID_lazyText19">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText20">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText21">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText22">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText23">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText24">
+<text><![CDATA[<b>Entrada</b>]]></text>
+</component>
+
+<component id="ID_lazyText25">
+<text><![CDATA[<b>Concessões</b>]]></text>
+</component>
+
+<component id="ID_lazyText26">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText27">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText28">
+<text><![CDATA[<b>LWAPP – Protocolo Leve de Ponto de Acesso<br/>WLC – Controlador de Rede Local sem fio</b>]]></text>
+</component>
+
+</textcomponents>

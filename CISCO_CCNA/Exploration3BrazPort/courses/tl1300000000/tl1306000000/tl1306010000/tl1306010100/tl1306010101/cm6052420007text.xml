@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_caption">
+<text><![CDATA[<b>O que é o roteamento entre VLANs?</b>]]></text>
+</component>
+<component id="ID_bottom">
+<text><![CDATA[<b>O roteamento entre VLANs baseado em roteador é um processo de encaminhamento do tráfego de rede de uma VLAN para outra com o uso de um roteador.</b>]]></text>
+</component>
+
+<component id="ID_bubble01">
+<text><![CDATA[<b>VLAN10</b>]]></text>
+</component>
+<component id="ID_bubble02">
+<text><![CDATA[<b>VLAN30</b>]]></text>
+</component>
+<component id="ID_bubble03">
+<text><![CDATA[<b>VLAN10</b>]]></text>
+</component>
+<component id="ID_bubble04">
+<text><![CDATA[<b>VLAN30</b>]]></text>
+</component>
+
+</textcomponents>

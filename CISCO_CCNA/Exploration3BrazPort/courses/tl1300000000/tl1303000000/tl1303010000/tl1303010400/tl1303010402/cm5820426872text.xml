@@ -1,0 +1,165 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Controlando domínios de broadcast com switches e roteadores</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique no botão Reproduzir para avançar a animação.</b>]]></text>
+</component>
+
+<component id="ID_reply">
+<text><![CDATA[<b>Resposta ARP</b>]]></text>
+</component>
+
+<component id="ID_request">
+<text><![CDATA[<b>Solicitação ARP</b>]]></text>
+</component>
+
+<component id="ID_unicast">
+<text><![CDATA[<b>Quadro unicast</b>]]></text>
+</component>
+
+<component id="ID_button_01">
+<text><![CDATA[<b>Comunicação intra-VLAN</b>]]></text>
+</component>
+
+<component id="ID_button_02">
+<text><![CDATA[<b>Comunicação entre VLANs</b>]]></text>
+</component>
+
+<component id="ID_txt01_3.1.4.2">
+<text><![CDATA[<b>Etapa 1</b>]]></text>
+</component>
+
+<component id="ID_txt02_3.1.4.2">
+<text><![CDATA[<b>Gateway<br/>Porta F0/1 -172.17.10.1<br/>Porta F0/2 -172.17.20.1</b>]]></text>
+</component>
+
+<component id="ID_txt03_3.1.4.2">
+<text><![CDATA[<b>Corpo docente<br/>VLAN 10 -<br/>172.17.10.21</b>]]></text>
+</component>
+
+<component id="ID_txt04_3.1.4.2">
+<text><![CDATA[<b>Corpo docente<br/>VLAN 10 -<br/>172.17.10.24</b>]]></text>
+</component>
+
+<component id="ID_txt05_3.1.4.2">
+<text><![CDATA[<b>Aluno<br/>VLAN 20 -<br/>172.17.20.22</b>]]></text>
+</component>
+
+<component id="ID_txt06_3.1.4.2">
+<text><![CDATA[<b>Aluno<br/>VLAN 20 -<br/>172.17.20.25</b>]]></text>
+</component>
+
+<component id="ID_txt07_3.1.4.2">
+<text><![CDATA[<b>Troncos VLAN configurados para suporte: VLAN 10, 20</b>]]></text>
+</component>
+
+<component id="ID_txt08_3.1.4.2">
+<text><![CDATA[<b>Etapa 2</b>]]></text>
+</component>
+
+<component id="ID_txt09_3.1.4.2">
+<text><![CDATA[<b>Etapa 3</b>]]></text>
+</component>
+
+<component id="ID_txt10_3.1.4.2">
+<text><![CDATA[<b>Etapa 1</b>]]></text>
+</component>
+
+<component id="ID_txt11_3.1.4.2">
+<text><![CDATA[<b>Etapa 2</b>]]></text>
+</component>
+
+<component id="ID_txt12_3.1.4.2">
+<text><![CDATA[<b>Etapa 3</b>]]></text>
+</component>
+
+<component id="ID_txt13_3.1.4.2">
+<text><![CDATA[<b>Etapa 4</b>]]></text>
+</component>
+
+<component id="ID_txt14_3.1.4.2">
+<text><![CDATA[<b>Etapa 5</b>]]></text>
+</component>
+
+<component id="ID_txt15_3.1.4.2">
+<text><![CDATA[<b>Etapa 6</b>]]></text>
+</component>
+
+<component id="ID_txt16_3.1.4.2">
+<text><![CDATA[<b>Gateway<br/>Porta F0/1 -172.17.10.1<br/>Porta F0/2 -172.17.20.1</b>]]></text>
+</component>
+
+<component id="ID_txt17_3.1.4.2">
+<text><![CDATA[<b>Corpo docente/administ.<br/>VLAN 10 -<br/>172.17.10.21</b>]]></text>
+</component>
+
+<component id="ID_txt18_3.1.4.2">
+<text><![CDATA[<b>Corpo docente/administ.<br/>VLAN 10 -<br/>172.17.10.24</b>]]></text>
+</component>
+
+<component id="ID_txt19_3.1.4.2">
+<text><![CDATA[<b>Aluno<br/>VLAN 20 -<br/>172.17.20.22</b>]]></text>
+</component>
+
+<component id="ID_txt20_3.1.4.2">
+<text><![CDATA[<b>Aluno<br/>VLAN 20 -<br/>172.17.20.25</b>]]></text>
+</component>
+
+<component id="ID_txt21_3.1.4.2">
+<text><![CDATA[<b>Troncos VLAN configurados para suporte: VLAN 10, 20</b>]]></text>
+</component>
+
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<component id="play2">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause2">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind2">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward2">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute2">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute2"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous2"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next2">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript2">
+<text><![CDATA[Transcrição]]></text>
+</component>
+	
+	<component id="ID_cont">
+		<text><![CDATA[Clique em Reproduzir para continuar.]]></text>
+	</component>
+
+</textcomponents>

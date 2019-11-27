@@ -1,0 +1,67 @@
+<textcomponents>
+
+<component id="ID_omitted">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_omitted2">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_omitted3">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_omitted4">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para exibir as várias saídas do comando do roteador.</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Examinando as atualizações de R2</b>]]></text>
+</component>
+
+<component id="ID_topology01">
+<text><![CDATA[<b>Rota sumarizada<br>estática<br>para 192.168.0.0/16</b>]]></text>
+</component>
+
+<component id="ID_output1cap">
+<text><![CDATA[<b>Agora R2 possui todas as sub-redes em sua tabela de roteamento.</b>]]></text>
+</component>
+
+<component id="ID_output2cap">
+<text><![CDATA[<b>Agora R1 possui todas as sub-redes em sua tabela de roteamento.</b>]]></text>
+</component>
+
+<component id="ID_output3cap">
+<text><![CDATA[<b>Agora R3 possui todas as sub-redes em sua tabela de roteamento.</b>]]></text>
+</component>
+
+<component id="ID_output4cap">
+<text><![CDATA[<b>R2 recebendo rota de R3 como 1 salto.<br>R2 enviando rota para R1 como 2 saltos.</b>]]></text>
+</component>
+
+<component id="slide1">
+<text><![CDATA[<b>Rotas de R2</b>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<b>Rotas de R1</b>]]></text>
+</component>
+
+<component id="slide3">
+<text><![CDATA[<b>Rotas de R3</b>]]></text>
+</component>
+
+<component id="slide4">
+<text><![CDATA[<b>Depuração de R2</b>]]></text>
+</component>
+
+</textcomponents>

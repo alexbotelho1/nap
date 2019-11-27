@@ -1,0 +1,176 @@
+<textcomponents>
+
+<!-- Buttons -->
+<component id="ID_button_01">
+<text><![CDATA[<b>Atividade 1</b>]]></text> 
+</component>
+
+<component id="ID_button_02">
+	<text><![CDATA[<b>Atividade 2</b>]]></text> 
+</component>
+
+
+<!-- Slide 1 -->
+<component id="ID_header01">	
+	<text><![CDATA[<b>Sentença: discagem analógica</b>]]></text> 
+</component>
+
+<component id="ID_step1">
+	<text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Clique na coluna apropriada na tabela para identificar se a afirmativa correspondente sobre a discagem analógica é verdadeiro ou falso.]]></text> 
+</component>
+
+<component id="ID_correctTitle01">
+<text><![CDATA[Corrigir]]></text>
+</component>
+
+<component id="ID_correctText01">
+<text><![CDATA[Parabéns! Você identificou todas as afirmativas corretamente.]]></text>
+</component>
+
+<component id="ID_incorrectTitle01">
+<text><![CDATA[Incorreto]]></text>
+</component>
+
+<component id="ID_incorrectText01">
+<text><![CDATA[Incorreto. Tente novamente.]]></text>
+</component>
+
+<component id="ID_check1">
+	<text><![CDATA[<b>Verificar</b>]]></text>
+</component>
+<component id="ID_reset1">
+	<text><![CDATA[<b>Redefinir</b>]]></text>
+</component>
+
+<component id="slide1_txt_numrows">
+	<text><![CDATA[6]]></text> 
+</component>
+<component id="slide1_txt_numcols">
+	<text><![CDATA[2]]></text> 
+</component>
+<component id="slide1_txt_col1">
+	<text><![CDATA[Verdadeiro]]></text> 
+</component>
+<component id="slide1_txt_col2">
+	<text><![CDATA[Falso]]></text> 
+</component>
+<component id="slide1_txt_q1">
+	<text><![CDATA[ 1. <textformat blockindent='17'>é considerado um link WAN comutado.</textformat>]]></text> 
+</component>
+<component id="slide1_txt_q2">
+	<text><![CDATA[ 2. <textformat blockindent='17'>se baseia na tecnologia de comutação por células.</textformat>]]></text> 
+</component>
+<component id="slide1_txt_q3">
+	<text><![CDATA[ 3. <textformat blockindent='17'>é capaz de estabelecer uma conexão em um tempo muito curto.</textformat>]]></text> 
+</component>
+<component id="slide1_txt_q4">
+	<text><![CDATA[ 4. <textformat blockindent='17'>envia sinais digitais pelo loop local de telecomunicação.</textformat>]]></text> 
+</component>
+<component id="slide1_txt_q5">
+	<text><![CDATA[ 5. <textformat blockindent='17'>exige um modulador/demodulador para enviar sinais digitais à PSTN.</textformat>]]></text> 
+</component>
+	<component id="slide1_txt_q6">
+	<text><![CDATA[ 6. <textformat blockindent='17'>entre as vantagens estão baixo custo e disponibilidade.</textformat>]]></text> 
+</component>
+
+		
+<component id="slide1_txt_a1">
+	<text><![CDATA[1]]></text> 
+</component>
+<component id="slide1_txt_a2">
+	<text><![CDATA[2]]></text> 
+</component>
+<component id="slide1_txt_a3">
+	<text><![CDATA[2]]></text> 
+</component>
+<component id="slide1_txt_a4">
+	<text><![CDATA[2]]></text> 
+</component>
+<component id="slide1_txt_a5">
+	<text><![CDATA[1]]></text> 
+</component>
+	<component id="slide1_txt_a6">
+	<text><![CDATA[1]]></text> 
+</component>
+		 
+
+<!-- Slide 2 --> 
+<component id="ID_header02">
+<text><![CDATA[<b>Afirmativa: acesso ISDN</b>]]></text> 
+</component>
+
+<component id="ID_step2">
+	<text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Clique na coluna apropriada na tabela para identificar se a afirmativa correspondente sobre o acesso ISDN é verdadeiro ou falso.]]></text> 
+</component>
+
+<component id="ID_correctTitle02">
+<text><![CDATA[Corrigir]]></text>
+</component>
+
+<component id="ID_correctText02">
+<text><![CDATA[Parabéns! Você identificou todas as afirmativas corretamente.]]></text>
+</component>
+
+<component id="ID_incorrectTitle02">
+<text><![CDATA[Incorreto]]></text>
+</component>
+
+<component id="ID_incorrectText02">
+<text><![CDATA[Incorreto. Tente novamente.]]></text>
+</component>
+
+<component id="ID_check2">
+	<text><![CDATA[<b>Verificar</b>]]></text>
+</component>
+
+<component id="ID_reset2">
+	<text><![CDATA[<b>Redefinir</b>]]></text>
+</component>		
+
+
+<component id="slide2_txt_numrows">
+	<text><![CDATA[5]]></text> 
+</component>
+<component id="slide2_txt_numcols">
+	<text><![CDATA[2]]></text> 
+</component>
+<component id="slide2_txt_col1">
+	<text><![CDATA[Verdadeiro]]></text> 
+</component>
+<component id="slide2_txt_col2">
+	<text><![CDATA[Falso]]></text> 
+</component>
+<component id="slide2_txt_q1">
+	<text><![CDATA[ 1. <textformat blockindent='17'>é considerado um link de WAN dedicado.</textformat>]]></text> 
+</component>
+<component id="slide2_txt_q2">
+	<text><![CDATA[ 2. <textformat blockindent='17'>se baseia na tecnologia de comutação por circuitos.</textformat>]]></text> 
+</component>
+<component id="slide2_txt_q3">
+	<text><![CDATA[ 3. <textformat blockindent='17'>tem um tempo menor de configuração de chamada.</textformat>]]></text> 
+</component>
+<component id="slide2_txt_q4">
+	<text><![CDATA[ 4. <textformat blockindent='17'>consiste em canais B e em um canal D.</textformat>]]></text> 
+</component>
+<component id="slide2_txt_q5">
+	<text><![CDATA[ 5. <textformat blockindent='17'>não é apropriado à utilização como um link de backup.</textformat>]]></text> 
+</component>
+
+<component id="slide2_txt_a1">
+	<text><![CDATA[2]]></text> 
+</component>
+<component id="slide2_txt_a2">
+	<text><![CDATA[1]]></text> 
+</component>
+<component id="slide2_txt_a3">
+	<text><![CDATA[1]]></text> 
+</component>
+<component id="slide2_txt_a4">
+	<text><![CDATA[1]]></text> 
+</component>
+<component id="slide2_txt_a5">
+	<text><![CDATA[2]]></text> 
+</component>
+
+
+</textcomponents>

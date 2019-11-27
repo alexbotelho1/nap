@@ -1,0 +1,35 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Área de visão geral da configuração</b>]]></text>
+</component>
+
+<component id="ID_inst01">
+<text><![CDATA[<b>Clique nos botões à esquerda para ampliar as áreas do gráfico.</b>]]></text>
+</component>
+
+
+<component id="ID_button1">
+  <text><![CDATA[<b>Principal</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Interfaces e conexões</b>]]></text> 
+</component>
+<component id="ID_button3">
+  <text><![CDATA[<b>Políticas de<br/>firewall</b>]]></text> 
+</component>
+<component id="ID_button4">
+  <text><![CDATA[<b>VPN</b>]]></text> 
+</component>
+<component id="ID_button5">
+  <text><![CDATA[<b>Roteamento</b>]]></text> 
+</component>
+<component id="ID_button6">
+  <text><![CDATA[<b>Prevenção de invasão</b>]]></text> 
+</component>
+<component id="ID_button7">
+  <text><![CDATA[<b>Exibir configuração de execução</b>]]></text> 
+</component>
+
+
+</textcomponents>

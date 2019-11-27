@@ -1,0 +1,24 @@
+<textcomponents>
+
+<component id="ID_omitted">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída de comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>R1 faz uma pesquisa recursiva</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Etapa 1: Localize uma rota.<br/>Etapa 2: Localize uma interface de saída.</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Etapa2</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Etapa1</b>]]></text>
+</component>
+
+<component id="ID_buttonText">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+
+</textcomponents>

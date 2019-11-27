@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="9_3_4.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_1">
+        <source>Wired Equivalent Privacy (WEP) was the first-generation security standard for wireless. Attackers quickly discovered that 64-bit WEP encryption was easy to break. The encryption keys used to encode the messages could be detected by monitoring programs. Once the keys were obtained, messages could be easily decoded. In an attempt to overcome this weakness, most users employ a 128-bit key for WEP.</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_2">
+        <source>Change the default administration password</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_3">
+        <source>Disable the broadcasting of the SSID to hide it from other users</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_4">
+        <source>Use MAC filtering to protect from other users</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_5">
+        <source>Update to the latest available firmware</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_6">
+        <source>Install or activate a firewall and adjust settings to eliminate all traffic except for the desired network settings</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S2_TXT_1">
+        <source>LEAP Security</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S2_TXT_2">
+        <source>WPA</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S2_TXT_3">
+        <source>WEP 128</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S2_TXT_4">
+        <source>WEP 64</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S2_TXT_5">
+        <source>No Security</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TITLE1">
+        <source>Wireless Security Techniques
+</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TITLE2">
+        <source>Levels of Wireless Security</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_001">
+        <source>Wireless Security Techniques</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_01">
+        <source>You&apos;ve Got Mail!</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_02">
+        <source>You&apos;ve Got Mail!</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

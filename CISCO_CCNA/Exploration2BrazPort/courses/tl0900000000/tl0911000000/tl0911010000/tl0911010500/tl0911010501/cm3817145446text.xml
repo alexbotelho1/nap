@@ -1,0 +1,155 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>LSUs contêm Anúncios Link-State (LSAs)</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<li>Os acrônimos LSA e LSU são geralmente utilizados de maneira intercambiável.</li><li>Um LSU contém um ou mais LSAs.</li><li>LSAs contêm informações de rota para redes de destino.</li><li>As particularidades do LSA são discutidas no CCNP.</li>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Tipo</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Nome do pacote</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Descrição</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[1]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Hello]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Detecta vizinhos e cria adjacências entre eles]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[2]]></text> 
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[DBD]]></text> 
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[Verifica se há sincronização de banco de dados entre roteadores]]></text> 
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[3]]></text> 
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[LSR]]></text> 
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[Solicita registros de link-state específicos de roteador para roteador]]></text> 
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[4]]></text> 
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[LSU]]></text> 
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[Envia registros de link-state especificamente solicitados]]></text> 
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[5]]></text> 
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[LSAck]]></text> 
+</component>
+
+<component id="ID_txt22">
+<text><![CDATA[Reconhece os outros tipos de pacote]]></text> 
+</component>
+
+<component id="ID_txt23">
+<text><![CDATA[<b>Tipo de LSA</b>]]></text> 
+</component>
+
+<component id="ID_txt24">
+<text><![CDATA[<b>Descrição</b>]]></text> 
+</component>
+
+<component id="ID_txt25">
+<text><![CDATA[1]]></text> 
+</component>
+
+<component id="ID_txt26">
+<text><![CDATA[LSAs de roteador]]></text> 
+</component>
+
+<component id="ID_txt27">
+<text><![CDATA[2]]></text> 
+</component>
+
+<component id="ID_txt28">
+<text><![CDATA[LSAs de rede]]></text> 
+</component>
+
+<component id="ID_txt29">
+<text><![CDATA[3 ou 4]]></text> 
+</component>
+
+<component id="ID_txt30">
+<text><![CDATA[LSAs de resumo]]></text> 
+</component>
+
+<component id="ID_txt31">
+<text><![CDATA[5]]></text> 
+</component>
+
+<component id="ID_txt32">
+<text><![CDATA[LSAs externos de sistema autônomo]]></text> 
+</component>
+
+<component id="ID_txt33">
+<text><![CDATA[6]]></text> 
+</component>
+
+<component id="ID_txt34">
+<text><![CDATA[LSAs de OSPF multicast]]></text> 
+</component>
+
+<component id="ID_txt35">
+<text><![CDATA[7]]></text> 
+</component>
+
+<component id="ID_txt36">
+<text><![CDATA[Definido para áreas not-so-stubby]]></text> 
+</component>
+
+<component id="ID_txt37">
+<text><![CDATA[8]]></text> 
+</component>
+
+<component id="ID_txt38">
+<text><![CDATA[Atributos LSA externos para Protocolo de Roteamento de Borda (BGP)]]></text> 
+</component>
+
+<component id="ID_txt39">
+<text><![CDATA[9, 10, 11]]></text> 
+</component>
+
+<component id="ID_txt40">
+<text><![CDATA[LSAs opacos]]></text> 
+</component>
+
+</textcomponents>

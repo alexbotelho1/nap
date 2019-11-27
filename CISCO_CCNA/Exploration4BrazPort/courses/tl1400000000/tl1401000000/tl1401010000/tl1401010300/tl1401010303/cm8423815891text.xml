@@ -1,0 +1,246 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>A arquitetura corporativa</b>]]></text>
+</component>
+
+<component id="ID_txtTitle1">
+<text><![CDATA[<b>Acesso ao edifício</b>]]></text>
+</component>
+
+<component id="ID_txtBody1">
+<text><![CDATA[<b>Submódulo de acesso do edifício:</b> (parte da arquitetura de campus corporativa) contém estações de trabalho de usuário final, telefones IP e switches de acesso de Camada 2 que conectam dispositivos ao submódulo de distribuição do edifício.]]></text>
+</component>
+
+<component id="ID_txtTitle2">
+<text><![CDATA[<b>Criando distribuição</b>]]></text>
+</component>
+
+<component id="ID_txtBody2">
+<text><![CDATA[<b>Submódulo de distribuição do edifício:</b> (parte da arquitetura de campus corporativa) fornece agregação de dispositivos de acesso do edifício, normalmente utilizando a comutação da Camada 3. Esse submódulo executa roteamento, controle de qualidade e controle de acesso.]]></text>
+</component>
+
+<component id="ID_txtTitle3">
+<text><![CDATA[<b>Campus principal</b>]]></text>
+</component>
+
+<component id="ID_txtBody3">
+<text><![CDATA[<b>Submódulo do núcleo do edifício:</b> (parte da arquitetura de campus corporativa.) Fornece conectividade redundante e de convergência rápida entre prédios e o farm de servidores e a borda da empresa.]]></text>
+</component>
+
+<component id="ID_txtTitle4">
+<text><![CDATA[<b>Farm de servidores</b>]]></text>
+</component>
+
+<component id="ID_txtBody4">
+<text><![CDATA[<b>Módulo do farm de servidores:</b> (parte da arquitetura de campus corporativa.) Contém servidores de email e corporativos que fornecem serviços de aplicação, arquivo, impressão, email e Sistema de Resolução de Nome (DNS) para usuários internos.]]></text>
+</component>
+
+<component id="ID_txtTitle5">
+<text><![CDATA[<b>Campus corporativo</b>]]></text>
+</component>
+
+<component id="ID_txtBody5">
+<text><![CDATA[<b>Campus corporativo:</b> ele conecta usuários dentro do campus, do farm de servidores e dos módulos da borda da empresa.]]></text>
+</component>
+
+<component id="ID_txtTitle6">
+<text><![CDATA[<b>Extremidade da empresa</b>]]></text>
+</component>
+
+<component id="ID_txtBody6">
+<text><![CDATA[<b>Borda corporativa:</b> agrega a conectividade das várias áreas funcionais na borda corporativa e roteia o tráfego para o submódulo do núcleo de campus.]]></text>
+</component>
+
+<component id="ID_txtTitle7">
+<text><![CDATA[<b>Filial corporativa</b>]]></text>
+</component>
+
+<component id="ID_txtBody7">
+<text><![CDATA[<b>Filial corporativa:</b> estende os aplicativos e os serviços encontrados no campus corporativo a milhares de locais remotos.]]></text>
+</component>
+
+<component id="ID_txtTitle8">
+<text><![CDATA[<b>Centro de dados corporativa</b>]]></text>
+</component>
+
+<component id="ID_txtBody8">
+<text><![CDATA[<b>Central de dados corporativa:</b> gerencia e mantém sistemas de dados centralizados para toda a empresa.]]></text>
+</component>
+
+<component id="ID_txtTitle9">
+<text><![CDATA[<b>Funcionário remoto corporativo</b>]]></text>
+</component>
+
+<component id="ID_txtBody9">
+<text><![CDATA[<b>Funcionário remoto corporativo:</b> conecta funcionários individuais ao recurso de rede remotamente; normalmente, em suas residências.]]></text>
+</component>
+
+<component id="ID_txt01_01">
+<text><![CDATA[<b>Campus corporativo</b>]]></text>
+</component>
+
+<component id="ID_txt02_01">
+<text><![CDATA[<b>Borda corporativa</b>]]></text>
+</component>
+
+<component id="ID_txt03_01">
+<text><![CDATA[<b>WAN e Internet</b>]]></text>
+</component>
+
+<component id="ID_txt04_01">
+<text><![CDATA[<b>Acesso ao edifício</b>]]></text>
+</component>
+
+<component id="ID_txt05_01">
+<text><![CDATA[<b>Comércio eletrônico</b>]]></text>
+</component>
+
+<component id="ID_txt06_01">
+<text><![CDATA[<b>ISP A</b>]]></text>
+</component>
+
+<component id="ID_txt07_01">
+<text><![CDATA[<b>Filial corporativa</b>]]></text>
+</component>
+
+<component id="ID_txt08_01">
+<text><![CDATA[<b>Distribuição do prédio</b>]]></text>
+</component>
+
+<component id="ID_txt09_01">
+<text><![CDATA[<b>Conectividade de Internet</b>]]></text>
+</component>
+
+<component id="ID_txt10_01">
+<text><![CDATA[<b>ISP B</b>]]></text>
+</component>
+
+<component id="ID_txt11_01">
+<text><![CDATA[<b>Campus principal</b>]]></text>
+</component>
+
+<component id="ID_txt12_01">
+<text><![CDATA[<b>VPN ponto-a-ponto WAN e MAN</b>]]></text>
+</component>
+
+<component id="ID_txt13_01">
+<text><![CDATA[<b>Frame Relay, ATM, MAN, ...</b>]]></text>
+</component>
+
+<component id="ID_txt14_01">
+<text><![CDATA[<b>Centro de dados corporativo</b>]]></text>
+</component>
+
+<component id="ID_txt15_01">
+<text><![CDATA[<b>Farm de servidores e central de dados</b>]]></text>
+</component>
+
+<component id="ID_txt16_01">
+<text><![CDATA[<b>Acesso remoto e VPN</b>]]></text>
+</component>
+
+<component id="ID_txt17_01">
+<text><![CDATA[<b>PSTN</b>]]></text>
+</component>
+
+<component id="ID_txt18_01">
+<text><![CDATA[<b>Funcionário remoto corporativo</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>WAN e Internet</b>]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>Quadro<br/>Retransmissão</b>]]></text>
+</component>
+
+<component id="ID_txt03_02">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_txt04_02">
+<text><![CDATA[<b>Banda larga</b>]]></text>
+</component>
+
+<component id="ID_txt05_02">
+<text><![CDATA[<b>Borda corporativa</b>]]></text>
+</component>
+
+<component id="ID_txt06_02">
+<text><![CDATA[<b>WAN</b>]]></text>
+</component>
+
+<component id="ID_txt07_02">
+<text><![CDATA[<b>Conectividade de Internet</b>]]></text>
+</component>
+
+<component id="ID_txt08_02">
+<text><![CDATA[<b>Acesso remoto e VPN</b>]]></text>
+</component>
+
+<component id="ID_txt09_02">
+<text><![CDATA[<b>Filial corporativa</b>]]></text>
+</component>
+
+<component id="ID_txt10_02">
+<text><![CDATA[<b>Campus corporativo</b>]]></text>
+</component>
+
+<component id="ID_txt11_02">
+<text><![CDATA[<b>Campus principal</b>]]></text>
+</component>
+
+<component id="ID_txt12_02">
+<text><![CDATA[<b>Campus principal A</b>]]></text>
+</component>
+
+<component id="ID_txt13_02">
+<text><![CDATA[<b>Campus principal B</b>]]></text>
+</component>
+
+<component id="ID_txt14_02">
+<text><![CDATA[<b>Distribuição do prédio</b>]]></text>
+</component>
+
+<component id="ID_txt15_02">
+<text><![CDATA[<b>Escritório filial</b>]]></text>
+</component>
+
+<component id="ID_txt16_02">
+<text><![CDATA[<b>Acesso ao edifício</b>]]></text>
+</component>
+
+<component id="ID_txt17_02">
+<text><![CDATA[<b>Edifício 1</b>]]></text>
+</component>
+
+<component id="ID_txt18_02">
+<text><![CDATA[<b>Edifício 2</b>]]></text>
+</component>
+
+<component id="ID_txt19_02">
+<text><![CDATA[<b>Funcionário remoto</b>]]></text>
+</component>
+
+<component id="ID_txt20_01">
+<text><![CDATA[<b>Gerenciamento de rede</b>]]></text>
+</component>
+
+<component id="ID_inst02">
+  <text><![CDATA[<b>Passe o mouse sobre cada módulo para aprender mais. Para obter mais informações, clique ou arraste o balão de informações.</b>]]></text> 
+</component>
+
+<component id="ID_button1">
+  <text><![CDATA[<b>Arquitetura corporativa</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Exemplo de topologia</b>]]></text> 
+</component>
+
+<component id="ID_txtBody10">
+<text><![CDATA[Ambiente da operadora]]></text>
+</component>
+</textcomponents>

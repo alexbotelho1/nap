@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:00">
+<title><content-text><![CDATA[7.1.3 - BOOT P and DHCP]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts a comparison between BOOT P and DHCP. A client PC is shown connected to a DHCP server through a switch.<br><br>BOOT P:<br>- Static mappings<br>- Permanent assignment<br>- Only supports four configuration parameters<br><br>DHCP:<br>- Dynamic mappings<br>- Lease<br>- Supports over 20 configuration parameters<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

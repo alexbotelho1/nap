@@ -1,0 +1,30 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Resolução de nome IPv6 do IOS Cisco</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Duas maneiras de executar a resolução de nome do IOS Cisco para IPv6:</b>]]></text>
+</component>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='390' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Comando</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Finalidade</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">RouterX(config)#<br/><b>ipv6 host</b> <i>name</i> <b>[</b><i>port</i><b>]</b> <i>ipv6addr</i> <b>[{</b><i>ipv6addr</i><b>} ...]</b><br/><br/>RouterX(config)#<br/><b>ipv6 host router1 3ffe:b00:ffff:b::1</b></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Definir um nome estático para endereços IPv6</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">RouterX(config)#<b>ip name-server </b><i>address</i><br/><br/>RouterX(config)#<b>ip name-server 3ffe:b00:ffff:1::10</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Configurar um servidor ou servidores DNS para consultar</td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+
+</textcomponents>

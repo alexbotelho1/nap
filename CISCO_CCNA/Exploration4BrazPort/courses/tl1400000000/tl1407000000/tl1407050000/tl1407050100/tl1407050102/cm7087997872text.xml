@@ -1,0 +1,163 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para saber a resposta.</li><li>Clique em <b>Próxima pergunta</b> para ver a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+ <component id="s1a">
+  <text><![CDATA[<b>S1</b>]]></text> 
+</component>
+<component id="s1b">
+  <text><![CDATA[<b>S2</b>]]></text> 
+</component>
+ <component id="s2a">
+  <text><![CDATA[<b>S1</b>]]></text> 
+</component>
+<component id="s2b">
+  <text><![CDATA[<b>S2</b>]]></text> 
+</component>
+
+<!-- Question 1 -->
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) <textformat blockindent='17'>Descreva as quatro mensagens de detecção e oferta de DHCP em sequência de operação e função.</textformat>]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 7.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Mensagem DHCPDISCOVER:</b><ul><li>Broadcast encaminhado pelo host procurando um servidor DHCP.</li><li>As mensagens são encaminhadas ao servidor BOOTP de DHCP usando a porta UDP 67.</li></ul><b>Mensagem DHCPOFFER:</b><ul><li>Quando as mensagens DHCPDISCOVER alcançam o servidor DHCP, o servidor responde com uma mensagem DHCPOFFER de unicast contendo o endereço MAC do cliente, o endereço e a máscara IP oferecidos, o gateway padrão e o endereço IP do servidor.</li><li>As mensagens são encaminhadas ao cliente BOOTP de DHCP usando a porta UDP 68.</li></ul><b>Mensagem DHCPREQUEST:</b><ul><li>Usada com duas finalidades: em primeiro lugar, negociar inicialmente um empréstimo de endereço IP e, em segundo lugar, renegociar (ou renovar) o endereço IP na metade do período do empréstimo.</li><li>O cliente transmite a mensagem DHCPREQUEST por broadcast ao servidor DHCP usando a porta UDP 67.</li></ul><b>Mensagem DHCPACK:</b><ul><li>Quase idêntico à mensagem DHCPOFFER original, mas enviada ao cliente para confirmar que ele pode agora usar esse endereço usando a porta UDP 68.</li></ul>]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[<font size='12pt'>2) <textformat blockindent='15'>Consulte a figura. O roteador R1 foi configurado para prestar serviços de DHCP aos hosts na rede 192.168.11.0 /24, excluindo os primeiros nove endereços IP do conjunto. Entretanto, depois de liberar e renovar seu endereço IP, o host PC2 ainda não pode adquirir um endereço IP automaticamente. Quais mudanças na configuração resolveriam esse problema?</textformat></font>]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 7.1)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>No roteador R1</b><ul><li>O conjunto está excluindo o conjunto inteiro. O comando deve ser ip dhcp excluded-address 192.168.11.1 192.168.11.9.</li><li>O conjunto de endereços de rede está alocando a sub-rede errada. O comando deve ser network 192.168.10.0 255.255.255.0.</li><li>O endereço IP do roteador padrão está apontando para o switch. O comando deve ser default-router 192.168.2.1.</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[<font size='12pt'>3) <textformat blockindent='15'>Consulte a figura. O endereço IP 192.168.11.5 localizado do servidor DHCP foi configurado para fornecer endereços IP aos hosts na rede 192.168.10.0 /24. Porém, os hosts recebem um erro declarando que sua solicitação de servidor DHCP expirou e que o servidor DHCP não pode ser alcançado. Quais comandos de configuração corrigiriam este problema?</textformat></font>]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 7.1)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>No roteador R1</b><br />Configure o recurso de retransmissão DHCP na interface Fast Ethernet 0/0 usando os seguintes comandos:<br /><br /><font face='_typewriter'><b>interface FastEthernet 0/0<br /><textformat blockindent='10'>ip helper-address 192.168.11.5</textformat></b></font>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) <textformat blockindent='17'>Descreva as diferenças entre a NAT dinâmica, a NAT estática e a sobrecarga de NAT.</textformat>]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 7.2)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>NAT dinâmica:</b><ul><li>A NAT dinâmica utiliza um conjunto de endereços públicos e os atribui por ordem de chegada. </li><li>Quando um host solicita acesso à Internet, a NAT dinâmica escolhe um endereço IP do conjunto de endereços públicos e o conecta temporariamente ao endereço local interno.</li></ul><b>NAT estática:</b><ul><li>A NAT estática usa um mapeamento exclusivo de endereços globais e locais, e tais mapeamentos permanecem constantes. </li><li>A NAT estática é particularmente útil para servidores web ou em hosts gerais que devam ter um endereço consistente que possa ser acessado da Internet.</li></ul><b>Sobrecarga de NAT:</b><ul><li>A sobrecarga de NAT (chamada algumas vezes de Tradução de endereço de porta ou PAT (Port Address Translation)) mapeia os endereços IP locais internos para uma combinação de um endereço IP global e um número de porta exclusivo. </li><li>Quando uma resposta volta ao roteador de NAT, o roteador examina o número da porta de origem e encaminha o pacote ao endereço local interno de origem. </li><li>Ele também valida se os pacotes de entrada foram solicitados, acrescentando um grau de segurança à sessão. </li></ul>]]></text>
+</component>
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[5) <textformat blockindent='17'>Consulte a figura. O roteador R2 foi configurado para prestar serviços de NAT. Baseado nas informações fornecidas, comente as traduções de NAT na figura.</textformat>]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[(de 7.2)]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>O roteador R2 foi configurado para fornecer a tradução de sobrecarga de NAT aos hosts nas redes 192.168.10.0 e 192.168.11.0</b><ul><li>O host com o endereço IP local interno <b>192.168.10.10</b> foi traduzido para o endereço IP global interno sobrecarregado <b>209.165.200.225</b> usando o número de porta exclusivo <b>16642</b> ao acessar o <b>servidor web</b> localizado na rede <b>209.165.200.254</b>.</li><li>O host com o endereço IP local interno <b>192.168.11.10</b> foi traduzido para o endereço IP global interno sobrecarregado <b>209.165.200.225</b> usando o número de porta exclusivo <b>62452</b> ao acessar o <b>servidor web</b> localizado na rede <b>209.165.200.254</b>.</li></ul>]]></text>
+</component>
+<component id="ID_Q5_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[6) <textformat blockindent='17'>Consulte a figura. Abrevie o endereço IPv6 na forma mais curta permitida.</textformat>]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[(de 7.3)]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[A forma mais curta é <b>2031:0:130F::9C0:876A:130B</b>]]></text>
+</component>
+<component id="ID_Q6_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- LAST QUESTION -->
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[7) <textformat blockindent='17'>Consulte a figura. Descreva as duas principais opções de transição de IPv4 para IPv6 e complete a sentença de transição de IPv6 na figura.</textformat>]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[(de 7.3)]]></text>
+</component>
+
+<component id="ID_Q7_exhibit">
+<text><![CDATA[_____________ onde puder, _____________ onde precisar!]]></text>
+</component>
+
+<component id="ID_Q7_txt05">
+<text><![CDATA["<b><u>Pilha dupla</u></b> onde puder, <b><u>túnel</u></b> onde precisar!"<br /><br /><b>Método de pilha dupla:</b><ul><li>Trata-se de um método de integração no qual um nó possui implementação e conectividade a uma rede IPv4 e a uma rede IPv6.</li><li>Essa é a opção recomendada e envolve a execução de IPv4 e IPv6 ao mesmo tempo.</li><li>Os roteadores e os switches são configurados para suportar ambos os protocolos, sendo que o IPv6 é o protocolo preferido.</li></ul><b>Método de tunelamento 6to4:</b><ul><li>Trata-se de um método de integração no qual um pacote de IPv6 é encapsulado dentro do protocolo IPv4.</li><li>Entretanto, esse método também exige roteadores de pilha dupla.</li><li>O método de tunelamento 6to4 dinâmico estabelece automaticamente a conexão das ilhas de IPv6 através de uma rede IPv4.</li></ul><b>Outros métodos de tunelamento:</b><ul><li>Outros protocolos de tunelamento incluem a NAT-PT, o tunelamento ISATAP e o tunelamento Teredo.</li><li>Entretanto, esses protocolos de tunelamento são complexos e devem ser considerados como métodos de último recurso.</li></ul>]]></text>
+</component>
+
+<component id="ID_conclusion">
+<text><![CDATA[<b>Assim são concluídas as perguntas da seção “Verifique a sua compreensão” deste capítulo.</b>]]></text>
+</component>
+
+</textcomponents>

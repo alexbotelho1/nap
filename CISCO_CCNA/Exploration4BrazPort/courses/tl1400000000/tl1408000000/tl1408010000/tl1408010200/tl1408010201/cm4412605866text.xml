@@ -1,0 +1,93 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Processo de documentação de rede</b>]]></text>
+</component>
+
+<component id="ID_capt01">
+<text><![CDATA[<b>Passe o mouse sobre cada estágio para aprender mais sobre o processo.</b>]]></text>
+</component>
+
+
+<component id="ID_txtBody1">
+<text><![CDATA[<b>Faça login para um dispositivo sem documentação.</b>]]></text>
+</component>
+<component id="ID_txtBody2">
+<text><![CDATA[<b>Descubra informações pertinentes sobre o dispositivo.</b>]]></text>
+</component>
+<component id="ID_txtBody3">
+<text><![CDATA[<b>Registre informações de dispositivo na tabela de configuração de rede.</b>]]></text>
+</component>
+<component id="ID_txtBody4">
+<text><![CDATA[<b>Estas informações de dispositivo são importantes para acrescentar ao diagrama de topologia?</b>]]></text>
+</component>
+<component id="ID_txtBody5">
+<text><![CDATA[<b>Transfira as informações pertinentes de dispositivo da tabela de configuração de rede para o diagrama de topologia.</b>]]></text>
+</component>
+<component id="ID_txtBody6">
+<text><![CDATA[<b>Há mais alguma informação a ser detectada para este dispositivo?</b>]]></text>
+</component>
+<component id="ID_txtBody7">
+<text><![CDATA[<b>Que dispositivos vizinhos são conectados a este dispositivo?</b>]]></text>
+</component>
+<component id="ID_txtBody8">
+<text><![CDATA[<b>Algum desses dispositivos vizinhos está sem documentação?</b>]]></text>
+</component>
+<component id="ID_txtBody9">
+<text><![CDATA[<b>Se não houver dispositivo sem documentação, isso significará que a documentação está completa.</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Login</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Interface<br/>Detecção</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Documentação</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Este é um Componente do Diagrama de Topologia?</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Sim</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Diagrama</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Não</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>O dispositivo foi completamente documentado?</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Sim</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Dispositivo<br/>Detecção</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Não</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>Sim</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Algum dispositivo foi determinado para não ter documentação?</b>]]></text>
+</component>
+<component id="ID_txt14">
+<text><![CDATA[<b>Não</b>]]></text>
+</component>
+<component id="ID_txt15">
+<text><![CDATA[<b>Documentação de rede completa</b>]]></text>
+</component>
+
+
+
+<component id="ID_inst">
+<text><![CDATA[<b>Passe o mouse sobre cada estágio para aprender mais sobre o processo.
+</b>]]></text>
+</component>
+
+</textcomponents>

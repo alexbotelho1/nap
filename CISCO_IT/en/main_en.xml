@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="main.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_MODULES">
+        <source>Chapters</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_M1">
+        <source>Introduction to the Personal Computer</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_M2">
+        <source>Safe Lab Procedures and Tool Use</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_M3">
+        <source>Computer Assembly – Step By Step</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_M4">
+        <source>Basics of Preventive Maintenance and Troubleshooting</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_M5">
+        <source>Fundamental Operating Systems</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_M6">
+        <source>Fundamental Laptops and Portable Devices</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_M7">
+        <source>Fundamental Printers and Scanners</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_M8">
+        <source>Fundamental Networks</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_M9">
+        <source>Fundamental Security</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_M10">
+        <source>Communication Skills</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_M11">
+        <source>Advanced Personal Computers</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_M12">
+        <source>Advanced Operating Systems</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_M13">
+        <source>Advanced Laptops and Portable Devices</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_M14">
+        <source>Advanced Printers and Scanners</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_M15">
+        <source>Advanced Networks</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_M16">
+        <source>Advanced Security</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TOURTXT">
+        <source>Take the IT Essentials: 
+PC Hardware and Software Curriculum Tour</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT">
+        <source>IT Essentials: PC Hardware and Software presents an in-depth exposure to computer hardware and operating systems. Students learn the functionality of hardware and software components as well as suggested best practices in maintenance, and safety issues. Through hands on activities and labs, students learn how to assemble and configure a computer, install operating systems and software, and troubleshoot hardware and software problems. In addition, chapters on networks and communication skills are included. This course helps students prepare for CompTIA&apos;s A+ certification.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TITLE">
+        <source>IT Essentials: PC Hardware and Software v4.0</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

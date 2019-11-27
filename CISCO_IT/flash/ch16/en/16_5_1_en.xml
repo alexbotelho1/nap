@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="16_5_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>Customer Information
+  •  Company Name
+  •  Contact Name
+  •  Address
+  •  Phone Number
+
+Security Configuration
+  •  Manufacturer and Model
+  •  Operating System Information
+  •  Network Environment
+  •  Connection Type
+  •  Description of Problem</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_1">
+        <source>Class</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_2">
+        <source>Maximum Permitted Powermilliwatt mW
+                                                                               </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_3">
+        <source>Distance
+(approximate)                                                                          </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_4">
+        <source>Class 1                                                                        </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_5">
+        <source>100 mW                                                                             </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_6">
+        <source>~330 feet (100 m)                                                                            </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_7">
+        <source>Class 2                                                                            </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_8">
+        <source>2.5 mW                                                                           </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_9">
+        <source>~33 feet (10 m)                                                                             </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_10">
+        <source>Class 3                                                                           </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S1_TXT_11">
+        <source>1 mW                                                                              </source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S1_TXT_12">
+        <source>~3 feet (1 m)                                                                          </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S2_TXT1">
+        <source>Cisco Systems, Inc.</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_S2_TXT2">
+        <source>Office Manager</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S2_TXT3">
+        <source>170 West Tasman Drive, San Jose, CA 95134</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S2_TXT4">
+        <source>408-526-4000</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S2_TXT5">
+        <source>HW</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S2_TXT6">
+        <source>System</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S2_TXT7">
+        <source>System</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S2_TXT8">
+        <source>N</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S2_TXT9">
+        <source>CLOSED</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_S2_TXT10">
+        <source>Won&apos;t Boot</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_S2_TXT11">
+        <source>Cisco001</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_S2_TXT12">
+        <source>Medium</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_S2_TXT13">
+        <source>Wireless network connection</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_S2_TXT14">
+        <source>Windows XP</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_S2_TXT15">
+        <source>Mobile</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_S2_TXT16">
+        <source>•  The customer cannot surf the Internet or access any resources on the network.
+•  Wireless does not seem to be working properly at the office.
+•  All settings were checked by the customer
+</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_STEP 01">
+        <source>Gather Data from the Customer </source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_STEP 02">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer </source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TITLE1">
+        <source>Open-Ended Questions</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TITLE2">
+        <source>Closed-Ended Questions</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TITLE3">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TITLE4">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TITLE5">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TITLE6">
+        <source>Evaluate the Problem and Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TITLE7">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>Troubleshooting Process </source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TXT_01">
+        <source>Are there any network resources that you can access by wireless? </source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TXT_02">
+        <source>When did the problem start?</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TXT_03">
+        <source>What problems are you experiencing?</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TXT_04">
+        <source>What security software is installed on your computer?</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TXT_05">
+        <source>How are you connected to the Internet?</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TXT_06">
+        <source>What type of firewall are you using?</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TXT_06N">
+        <source>Describe your work environment?</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TXT_07">
+        <source>Do you have a firewall?</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_TXT_07N">
+        <source>When did you last back up your computer?</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_TXT_08">
+        <source>Does your company have a security policy?</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_TXT_08N">
+        <source>What type of back up was performed?</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_TXT_09">
+        <source>Has anyone else used your computer?</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_TXT_09N">
+        <source>What group are you a member of?</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_TXT_10">
+        <source>Is your security software up to date?</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_TXT_12">
+        <source>Have you ever had any problems like this before?</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_TXT_13">
+        <source>Have you changed your password recently?</source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_TXT_14">
+        <source>Have you received any error messages on your computer?</source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_TXT_15">
+        <source>Have you shared your password?</source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_TXT_15N">
+        <source>Do you back up your computer?</source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_TXT_016">
+        <source>Client unable to connect via wireless while at office</source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_TXT_16">
+        <source>Troubleshooting Process</source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_TXT_16N">
+        <source>Do you have permissions for the resource?</source>
+      </trans-unit>
+      <trans-unit id="072" resname="IDS_TXT_17">
+        <source>Gather Data
+from the
+Customer</source>
+      </trans-unit>
+      <trans-unit id="073" resname="IDS_TXT_18">
+        <source>Verify the
+Obvious
+Issues</source>
+      </trans-unit>
+      <trans-unit id="074" resname="IDS_TXT_19">
+        <source>Try Quick
+Solutions First</source>
+      </trans-unit>
+      <trans-unit id="075" resname="IDS_TXT_20">
+        <source>Gather Data
+from the
+Computer</source>
+      </trans-unit>
+      <trans-unit id="076" resname="IDS_TXT_21">
+        <source>Evaluate the
+Problem and
+Implement the
+Solution</source>
+      </trans-unit>
+      <trans-unit id="077" resname="IDS_TXT_22">
+        <source>Close with
+the Customer</source>
+      </trans-unit>
+      <trans-unit id="078" resname="IDS_TXT_23">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="079" resname="IDS_TXT_24">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="080" resname="IDS_TXT_25">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="081" resname="IDS_TXT_26">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="082" resname="IDS_TXT_27">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="083" resname="IDS_TXT_28">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="084" resname="IDS_TXT_29">
+        <source>Does the access point appear to be on? </source>
+      </trans-unit>
+      <trans-unit id="085" resname="IDS_TXT_30">
+        <source>Does anyone else have this problem? </source>
+      </trans-unit>
+      <trans-unit id="086" resname="IDS_TXT_31">
+        <source>Have you been able to connect to the Internet since the wireless router was upgraded? </source>
+      </trans-unit>
+      <trans-unit id="087" resname="IDS_TXT_32">
+        <source>Does this problem occur only at your desk or at other  areas of the office as well?     </source>
+      </trans-unit>
+      <trans-unit id="088" resname="IDS_TXT_33">
+        <source>Have you been able to connect through wireless at any other locations? </source>
+      </trans-unit>
+      <trans-unit id="089" resname="IDS_TXT_34">
+        <source>Is automatic updates turned on?</source>
+      </trans-unit>
+      <trans-unit id="090" resname="IDS_TXT_34N">
+        <source>Is the firewall configured properly?</source>
+      </trans-unit>
+      <trans-unit id="091" resname="IDS_TXT_35">
+        <source>Check the wireless signal strength at different locations in the area.</source>
+      </trans-unit>
+      <trans-unit id="092" resname="IDS_TXT_36">
+        <source>Attempt to connect to the access point with security temporarily turned off to see if a security setting is the problem.</source>
+      </trans-unit>
+      <trans-unit id="093" resname="IDS_TXT_37">
+        <source>Log off and then log back on.</source>
+      </trans-unit>
+      <trans-unit id="094" resname="IDS_TXT_38">
+        <source>Reboot the device.</source>
+      </trans-unit>
+      <trans-unit id="095" resname="IDS_TXT_39">
+        <source>Verify permissions on a resource.</source>
+      </trans-unit>
+      <trans-unit id="096" resname="IDS_TXT_39N">
+        <source>Run an antivirus scan or a spyware scan.</source>
+      </trans-unit>
+      <trans-unit id="097" resname="IDS_TXT_40">
+        <source>Check firewall logs.</source>
+      </trans-unit>
+      <trans-unit id="098" resname="IDS_TXT_41">
+        <source>Check Task Manager.</source>
+      </trans-unit>
+      <trans-unit id="099" resname="IDS_TXT_42">
+        <source>Check dates on virus definitions.</source>
+      </trans-unit>
+      <trans-unit id="100" resname="IDS_TXT_43">
+        <source>Check permissions.</source>
+      </trans-unit>
+      <trans-unit id="101" resname="IDS_TXT_44">
+        <source>Check account type.</source>
+      </trans-unit>
+      <trans-unit id="102" resname="IDS_TXT_45">
+        <source>Check with your system administrator.</source>
+      </trans-unit>
+      <trans-unit id="103" resname="IDS_TXT_45N">
+        <source>Verify that the CAPS and NUM lock keys are not on.</source>
+      </trans-unit>
+      <trans-unit id="104" resname="IDS_TXT_70">
+        <source>Problem solving experience</source>
+      </trans-unit>
+      <trans-unit id="105" resname="IDS_TXT_71">
+        <source>Other technicians</source>
+      </trans-unit>
+      <trans-unit id="106" resname="IDS_TXT_72">
+        <source>Internet search</source>
+      </trans-unit>
+      <trans-unit id="107" resname="IDS_TXT_73">
+        <source>News groups</source>
+      </trans-unit>
+      <trans-unit id="108" resname="IDS_TXT_74">
+        <source>Manufacturer FAQs</source>
+      </trans-unit>
+      <trans-unit id="109" resname="IDS_TXT_75">
+        <source>Computer manuals</source>
+      </trans-unit>
+      <trans-unit id="110" resname="IDS_TXT_76">
+        <source>Device manuals</source>
+      </trans-unit>
+      <trans-unit id="111" resname="IDS_TXT_77">
+        <source>Online forums</source>
+      </trans-unit>
+      <trans-unit id="112" resname="IDS_TXT_78">
+        <source>Technical websites</source>
+      </trans-unit>
+      <trans-unit id="113" resname="IDS_TXT_HEADING1">
+        <source>List of open-ended questions about security errors. (This list is NOT comprehensive.)</source>
+      </trans-unit>
+      <trans-unit id="114" resname="IDS_TXT_HEADING2">
+        <source>List of closed-ended questions about security errors. (This list is NOT comprehensive.)</source>
+      </trans-unit>
+      <trans-unit id="115" resname="IDS_TXT_58">
+        <source>Discuss the solution 
+implemented with customer</source>
+      </trans-unit>
+      <trans-unit id="116" resname="IDS_TXT_59">
+        <source>Have the customer verify 
+problem has been solved</source>
+      </trans-unit>
+      <trans-unit id="117" resname="IDS_TXT_60">
+        <source>Provide customer with all
+paperwork</source>
+      </trans-unit>
+      <trans-unit id="118" resname="IDS_TXT_61">
+        <source>Document steps taken to solve
+the problem in the work order 
+and the technician’s journal</source>
+      </trans-unit>
+      <trans-unit id="119" resname="IDS_TXT_62">
+        <source>Document any components 
+used in the repair</source>
+      </trans-unit>
+      <trans-unit id="120" resname="IDS_TXT_63">
+        <source>Document the time spent to
+resolve the problem</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

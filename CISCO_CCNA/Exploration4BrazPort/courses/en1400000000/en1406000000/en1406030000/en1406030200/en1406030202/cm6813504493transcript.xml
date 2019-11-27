@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 11:12:21">
+<title><content-text><![CDATA[6.3.2 - Types of VPN's]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts a topology that connects external sites to the central site using remote access VPN's. Remote access VPN's mark an evolutionary step in dialup and ISDN networks.<br><br>Network Topology:<br>A main site building cloud is shown with a perimeter router at the edge. Inside the central site cloud is a VPN concentrator, an ASA, a router, and a firewall, each of which can be used to terminate the external VPN connections. Various external locations connect to the main site using remote access VPN technology.<br><br>Remote Access Clients:<br>Telecommuter - Connects to a POP using DSL or cable. The POP connects to the Internet.<br><br>Mobile User - Connects to a POP using wireless. The POP connects to the Internet.<br><br>Extranet Consumer-to-Business - Connects to a POP using wireless. The POP connects to the Internet.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

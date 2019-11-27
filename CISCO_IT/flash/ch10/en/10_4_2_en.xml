@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="10_4_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_1">
+        <source>Information Checklist  </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_1A">
+        <source>Customer Problem Description </source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_2">
+        <source>Contact information</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_2A">
+        <source>Technician Documentation</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_3">
+        <source>What is the manufacturer and model of computer?</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_4">
+        <source>What OS is the computer using?</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_5">
+        <source>Is the computer using AC or DC power?</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_6">
+        <source>Is the computer on a network?  If so, is it a wired or wireless connection?</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_7">
+        <source>Was any specific application being used when the problem occurred?</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_8">
+        <source>Have any new drivers or updates been installed recently?  If so, what are they?</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_9">
+        <source>Description of the problem</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S1_TXT_9A">
+        <source>Priority of problem</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S1_TXT_10">
+        <source>Printer will not print</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S1_TXT_11">
+        <source>Mouse does not work</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_S1_TXT_12">
+        <source>Cannot get onto the network</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S1_TXT_13">
+        <source>Monitor not working</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S1_TXT_14">
+        <source>Computer will not turn on</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S1_TXT_15">
+        <source>The printer will print a test page, but will not print from a specified application.</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S1_TXT_16">
+        <source>The mouse is dirty and the user is not able to control the cursor.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S1_TXT_17">
+        <source>The user is not able to log in to the network.</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S1_TXT_18">
+        <source>Monitor settings have been altered.  No images can be seen on the screen.</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S1_TXT_19">
+        <source>The computer will not boot to the Windows OS desktop.</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_S1_TXT_20">
+        <source>AVOID:</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_S1_TXT_21">
+        <source>Minimizing customers&apos; problems</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_S1_TXT_22">
+        <source>Using jargon, abbreviations, or acronyms</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_S1_TXT_23">
+        <source>Arguing or becoming defensive</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_S1_TXT_24">
+        <source>Being judgemental or insulting, or name-calling</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_S1_TXT_25">
+        <source>Distractions or interruptions</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_S1_TXT_26">
+        <source>Unneccessary or abrupt holds</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_S1_TXT_27">
+        <source>Transfers without consent and a proper explanation</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_S1_TXT_28">
+        <source>Negative remarks</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TITLE1">
+        <source>Information Checklist  
+</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TITLE2">
+        <source>Customer and Technician Problem </source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TITLE3">
+        <source>Behaviours to Avoid</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

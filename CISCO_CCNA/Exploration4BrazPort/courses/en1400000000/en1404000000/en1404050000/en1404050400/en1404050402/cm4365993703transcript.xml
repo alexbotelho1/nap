@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:56">
+<title><content-text><![CDATA[4.5.4  - Backing Up and Upgrading Cisco I O S Software Image]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the process of upgrading Cisco I O S software images using the copy tftp colon flash colon command to download the new image from the network TFTP server.<br><br>The network topology is the same as 5.4.5 Diagram 1.<br><br>Procedure: Use the copy tftp colon flash colon command to copy the new system image file from the TFTP server to the router. The output shows prompts for the address of the remote host, source filename, and destination filename. The Erase flash colon prompt appears. Erasing Flash makes room for the new image. A series of E's indicates that the existing Cisco I O S image is being erased, and exclamation points verify a successful file transfer.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

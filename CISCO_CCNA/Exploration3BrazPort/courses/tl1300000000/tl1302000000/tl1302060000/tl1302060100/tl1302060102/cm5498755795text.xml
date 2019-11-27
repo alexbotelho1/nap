@@ -1,0 +1,228 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para saber a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para ver a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+
+
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1)<TEXTFORMAT BLOCKINDENT='17'> Consulte a <a href='asfunction:_parent._parent.openPopUp'><font color="#0000FF"><u>figura</u></font>.</a> Há seis etapas no processo de aprendizagem de um endereço MAC por um switch tendo em vista a finalidade do encaminhamento de quadros Ethernet. Coloque as seis etapas a seguir em ordem, colocando o número apropriado no espaço vazio.</textformat>]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 2.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' width='70' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>_______</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>O dispositivo de destino responde à broadcast com um quadro unicast endereçado a PC 1.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>_______</td>
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>O switch insere o endereço MAC de origem e a porta de switch que recebeu o quadro na tabela de endereços.</td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>_______</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>O switch insere o endereço MAC de origem de PC 2 e o número da porta do switch que recebeu o quadro na tabela de endereços. O endereço de destino do quadro e de sua porta associada é encontrado na tabela de endereços MAC.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>_______</td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>Agora o switch pode encaminhar quadros entre os dispositivos de origem e de destino sem inundação, porque tem entradas na tabela de endereços que identificam as portas associadas.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>_______</td>
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>Como o endereço de destino é uma broadcast, o switch inunda o quadro para todas as portas, exceto a porta em que ele recebeu o quadro.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>_______</td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>O switch recebe um quadro de broadcast do PC 1 na Porta 1.</td>
+  </tr>
+</table>]]></text>
+</component>
+<component id="ID_Q1_txt05b">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' width='70' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>___4___</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>O dispositivo de destino responde à broadcast com um quadro unicast endereçado a PC 1.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>___2___</td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>O switch insere o endereço MAC de origem e a porta do switch que recebeu o quadro na tabela de endereços.</td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>___5___</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>O switch insere o endereço MAC de origem de PC 2 e o número da porta do switch que recebeu o quadro na tabela de endereços. O endereço de destino do quadro e de sua porta associada é encontrado na tabela de endereços MAC.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>___6___</td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>Agora o switch pode encaminhar quadros entre os dispositivos de origem e de destino sem inundação, porque tem entradas na tabela de endereços que identificam as portas associadas.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>___3___</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Como o endereço de destino é um endereço de broadcast, o switch inunda o quadro para todas as portas, exceto a porta em que ele recebeu o quadro.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>___1___</td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>O switch recebe um quadro de broadcast do PC 1 na Porta 1.</td>
+  </tr>
+</table>]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Um protocolo de roteamento classless inclui a máscara de sub-rede na atualização de roteamento.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2)<TEXTFORMAT BLOCKINDENT='17'> Liste os dois principais métodos de encaminhamento e os dois principais métodos de armazenamento em buffer de memória nos switches.</textformat>]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 2.2)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q2_txt06b">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>comutação store-and-forward (armazenar e encaminhar) e cut-through</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>armazenamento em buffer de memória baseado em porta e armazenamento em buffer de memória compartilhada</td>
+  </tr>
+</table>
+]]></text>
+</component>
+
+
+
+
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Você pode responder esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3)<TEXTFORMAT BLOCKINDENT='17'> Qual é a provável razão pela qual a interface VLAN 99 exibe "ativa/desativada" como status?</textformat>]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 2.3)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Não há nenhuma interface física ativa associada à VLAN 99.</b>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Você pode responder esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4)<TEXTFORMAT BLOCKINDENT='17'> Quais dois comandos são desnecessários em uma configuração SSH básica que fornece conectividade de rede remota para clientes SSH? (Escolha dois.)</textformat>]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 2.4)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[Os comandos <b><font face='_typewriter'>ip ssh version 2</font></b> e <b><font face='_typewriter'>transport input SSH</font></b> não são obrigatórios para fornecer acesso remoto.]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Um protocolo de roteamento classless inclui a máscara de sub-rede na atualização de roteamento.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[5)<TEXTFORMAT BLOCKINDENT='17'> Liste e descreva os três modos de violação de segurança da porta.</textformat>]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[(de 2.4)]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q5_txt06b">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b>proteger (protect):</b> quando o número de endereços MAC seguros atinge o limite permitido na porta, pacotes com endereços de origem desconhecidos são ignorados até que você remova um número suficiente de endereços MAC seguros ou aumente o número máximo de endereços permitidos. Você não é notificado de que houve uma violação de segurança.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><b>restringir (restrict):</b> quando o número de endereços MAC seguros atinge o limite permitido na porta, pacotes com endereços de origem desconhecidos são ignorados até que você remova um número suficiente de endereços MAC seguros ou aumente o número máximo de endereços permitidos. Nesse modo, você é notificado de que houve uma violação de segurança. Especificamente, uma trap SNMP é enviada, uma mensagem syslog é registrada em log e o contador de violação é incrementado.</td>
+  </tr>
+  <tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b>desabilitar (shutdown):</b> nesse modo, uma violação de segurança de porta faz com que a interface seja desabilitada para erro imediatamente e apaga o LED da porta. Ele também envia uma trap SNMP, registra em log uma mensagem syslog e incrementa o contador de violação. Quando uma porta segura estiver no estado desabilitado para erro, será possível tirá-la desse estado, digitando-se o comando de configuração global <b>errdisable recovery cause</b> <i>psecure-violation</i> ou reabilitá-la digitando-se os comandos de configuração da interface <b>shutdown</b> e <b>no shutdown</b>. Este é o modo padrão.</td>
+  </tr>
+</table>
+]]></text>
+</component>
+
+
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Assim são concluídas as perguntas da seção "Problemas e discussão" deste capítulo.</b>]]></text>
+</component>
+
+</textcomponents>

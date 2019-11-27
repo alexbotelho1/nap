@@ -1,0 +1,72 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Funções de porta de RSTP</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[Porta <br/>Raiz (F)]]></text> 
+  </component>
+<component id="ID_txt02">
+  <text><![CDATA[Porta<br/>Designada (F)]]></text> 
+  </component>
+  <component id="ID_txt03">
+  <text><![CDATA[Bridge raiz]]></text> 
+  </component>
+  <component id="ID_txt04">
+  <text><![CDATA[Porta<br/>Designada (F)]]></text> 
+  </component>
+  <component id="ID_txt05">
+  <text><![CDATA[Porta de<br/>Backup (DIS)]]></text> 
+  </component>
+  <component id="ID_txt06">
+  <text><![CDATA[Porta<br/>Designada (F)]]></text> 
+  </component>
+  <component id="ID_txt07">
+  <text><![CDATA[Porta<br/>Alternativa (DIS)]]></text> 
+  </component>
+  <component id="ID_txt08">
+  <text><![CDATA[Porta de<br/>Raiz (F)]]></text> 
+  </component>
+  <component id="ID_txt13">
+  <text><![CDATA[Porta<br/>Designada (F)]]></text> 
+  </component>
+ 
+ <component id="ID_box1_title">
+  <text><![CDATA[<b>Portas raiz</b>]]></text> 
+  </component>
+  
+  <component id="ID_box1_body">
+  <text><![CDATA[Esta é a porta de switch em cada bridge não-raiz que é o caminho escolhido para a bridge raiz. Pode haver somente uma porta raiz em cada switch. A porta raiz assume o estado de encaminhamento em uma topologia ativa estável. Na figura, a porta raiz é a porta F0/2 no switch S2 e a porta F0/4 no switch S3.]]></text> 
+  </component>
+  
+  <component id="ID_box2_title">
+  <text><![CDATA[<b>Portas designadas</b>]]></text> 
+  </component>
+  
+  <component id="ID_box2_body">
+  <text><![CDATA[Cada segmento terá pelo menos uma porta de switch que é a porta designada para aquele segmento. Na figura, a porta F0/1 no switch S3 e a porta F0/2 no switch S1 são as portas designadas. Em uma topologia ativa estável, o switch com a porta designada receberá os quadros no segmento que são destinados para a bridge raiz. Pode haver somente uma porta designada por segmento. A porta designada assume o estado de encaminhamento. Portanto, a F0/1 no switch S3 e F0/2 e F0/4 no switch S1 estão no estado de encaminhamento. Todos os switches conectados a um determinado segmento escutam todos os BPDUs e determinam o switch que será o designado para um segmento específico.]]></text> 
+  </component>
+  
+  <component id="ID_box3_title">
+  <text><![CDATA[<b>Porta alternativa</b>]]></text> 
+  </component>
+  
+  <component id="ID_box3_body">
+  <text><![CDATA[Esta é uma porta de switch que oferece um caminho alternativo para a bridge raiz, a porta F0/3 no switch S2 está na função alternativa. A porta alternativa assume o estado de descarte em uma topologia ativa estável. Haverá uma porta alternativa nos switches não-designados e ele fará a transição para uma porta designada se o caminho designado atual falhar. ]]></text> 
+  </component>
+  
+  <component id="ID_box4_title">
+  <text><![CDATA[<b>Porta de backup</b>]]></text> 
+  </component>
+  
+  <component id="ID_box4_body">
+  <text><![CDATA[Esta é uma porta adicional no switch designado com um link redundante para o segmento para o qual o ele está designado. Uma porta de backup possui uma ID de porta mais alta que a porta designada no switch designado. A porta de backup assume o estado de descarte em uma topologia ativa estável. Na figura, a porta F0/6 no switch S2 está na função de backup e assumiu a função de descarte.]]></text> 
+  </component>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Passe o mouse sobre a função de porta na figura para ler suas descrições.<b>]]></text> 
+  </component>
+
+
+
+</textcomponents>

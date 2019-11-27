@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_9_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TEXT_01">
+        <source>Modem
+Riser 
+Card</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TEXT_02">
+        <source>Modem Firmware</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TEXT_03">
+        <source>AMR 
+Controller</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TEXT_04">
+        <source>AMR 
+Slot</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TEXT_05">
+        <source>PCI 
+Slot</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TEXT_06">
+        <source>ISA 
+Slot</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TEXT_07">
+        <source>Internal modem</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TEXT_08">
+        <source>Laptop modem</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TEXT_10">
+        <source>AT Command</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TEXT_11">
+        <source>AT Command</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TEXT_12">
+        <source>Function</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TEXT_13">
+        <source>Function</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TEXT_14">
+        <source>AT</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TEXT_15">
+        <source>AP</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TEXT_16">
+        <source>ATDT xxxxxxx</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TEXT_17">
+        <source>ATA</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TEXT_18">
+        <source>ATHO</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TEXT_19">
+        <source>ATZ</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TEXT_20">
+        <source>ATF</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TEXT_21">
+        <source>AT+++</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TEXT_22">
+        <source>P</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TEXT_23">
+        <source>T</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TEXT_24">
+        <source>W</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TEXT_25">
+        <source>Attention code that precedes all modem action commands.</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TEXT_26">
+        <source>Dial the phone number, xxxxxxx, using pulse dialing.</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TEXT_27">
+        <source>Dial the phone number, xxxxxxx, using tone dialing.</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TEXT_28">
+        <source>Answer the phone immediately.</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TEXT_29">
+        <source>Hang up the phone immediately.</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TEXT_30">
+        <source>Reset the modem to its power up settings.</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TEXT_31">
+        <source>Reset modem parameters and settings to the 
+factory defaults.</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TEXT_32">
+        <source>Break the signal, change from data mode to command mode</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TEXT_33">
+        <source>Signifies pulse dialing</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TEXT_34">
+        <source>Signifies tone dialing</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TEXT_35">
+        <source>Indicates that the modem will wait</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TEXT24">
+        <source>W</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TITLE1">
+        <source>Modems</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TITLE2">
+        <source>AT Commands </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

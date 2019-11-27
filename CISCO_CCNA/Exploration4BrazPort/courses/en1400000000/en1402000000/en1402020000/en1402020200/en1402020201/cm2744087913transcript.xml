@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 11:11:52">
+<title><content-text><![CDATA[2.2.2  - P P P Layered Architecture]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the P P P layered architecture focusing on the Physical Layer. The Physical Layer is the bottom layer of the hierarchy and includes synchronous and asynchronous physical media. The Data Link Layer is above the Physical Layer and includes authentication and other options using Link Control Protocol. The Network Layer is at the top of the hierarchy where Network Control Protocol provides support for IP using IPCP, IPX using IPXCP, and other Layer Three protocols. <br><br>With its lower level functions, P P P can use:<br>- Synchronous physical media.<br>- Asynchronous physical media like those that use basic telephone service for modem dialup connections.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,63 @@
+<textcomponents>
+
+<component id="ID_omitted">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_omitted2">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_omitted3">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Tabela de <br>endereços</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Clique para exibir as várias saídas do roteador.</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Rota de sumarização estática para 192.168.0.0/16</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Iniciando a configuração</b>]]></text>
+</component>
+
+<component id="ID_header01">
+<text><![CDATA[<b>Dispositivo</b>]]></text>
+</component>
+
+<component id="ID_header02">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_header03">
+<text><![CDATA[<b>Endereço IP</b>]]></text>
+</component>
+
+<component id="ID_header04">
+<text><![CDATA[<b>Máscara de sub-rede</b>]]></text>
+</component>
+
+<component id="slide1">
+<text><![CDATA[<b>Endereçamento</b>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="slide3">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="slide4">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+</textcomponents>

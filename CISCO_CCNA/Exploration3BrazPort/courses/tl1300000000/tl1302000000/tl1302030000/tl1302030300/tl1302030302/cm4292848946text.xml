@@ -1,0 +1,46 @@
+<textcomponents>
+<component id="ID_caption01">
+<text><![CDATA[<b>Configurar o buffer do histórico de comandos</b>]]></text>
+</component>
+<component id="tableHTML">
+  <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Sintaxe de comando da CLI do Cisco IOS</b></font></td>
+		<td width="260" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b></b></font></td>
+		
+					
+	</tr>
+	<tr>
+		
+	  <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Habilite o histórico terminal. Esse comando pode ser executado no modo EXEC do usuário ou privilegiado. </td>
+		<td width="260" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>switch#<b>terminal history</b></font></td>
+			
+	</tr>
+	
+	
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Configura o tamanho do histórico de terminal.<br/>O histórico do terminal pode manter de 0 a 256 linhas de comando.</td>
+		<td width="260" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>switch#<b>terminal history size 50 </b></font></td>
+			
+	</tr>
+	<tr>
+		
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Redefine o tamanho do histórico do terminal para o valor padrão de 10 linhas de comando.</td>
+		<td width="260" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>switch#<b>terminal no history size</b></font></td>
+			
+	</tr>
+	
+	<tr>
+		
+	  <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Desabilita o histórico do terminal.</td>
+		<td width="260" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>switch#<b>terminal no history</b></font></td>
+			
+	</tr>
+		
+	
+</table>
+]]></text> 
+  </component>
+</textcomponents>

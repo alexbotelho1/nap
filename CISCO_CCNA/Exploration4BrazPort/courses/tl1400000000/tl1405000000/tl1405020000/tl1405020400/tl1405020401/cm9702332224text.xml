@@ -1,0 +1,57 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<B>Procedimento para configurar as ACLs padrão</B>]]></text> 
+</component>
+
+<component id="ID_title02">
+  <text><![CDATA[<B>ACL padrão para só permitir minha rede</B>]]></text> 
+</component>
+
+<component id="ID_title03">
+  <text><![CDATA[<B>ACL padrão para negar um host específico</B>]]></text> 
+</component>
+
+<component id="ID_title04">
+  <text><![CDATA[<B>ACL padrão para permitir mais de uma sub-rede</B>]]></text> 
+</component>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Sintaxe</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Exemplo 1</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Exemplo 2</B>]]></text> 
+</component>
+
+<component id="ID_button_04">
+  <text><![CDATA[<B>Exemplo 3</B>]]></text> 
+</component>
+
+
+<component id="ID_txt01_00">
+  <text><![CDATA[<B>Etapa 1</B> Utilizar o <font face ='_typewriter'><b>access-list</b></font> no modo de configuração para criar uma entrada em uma ACL IPv4 padrão.]]></text> 
+</component>
+
+<component id="ID_txt02_00">
+  <text><![CDATA[Digite  <font face ='_typewriter'><b>no access-list <i>número da lista de acesso</i></b></font> para remover toda a ACL. A instrução de exemplo compara todos os endereços que começam com 192.168.10.x. Utilize o <font face ='_typewriter'><b>remark</b></font> para adicionar uma descrição à sua ACL.]]></text> 
+</component>
+
+<component id="ID_txt03_00">
+  <text><![CDATA[<B>Etapa 2</B> Utilizar o comando de configuração da interface para selecionar uma interface para aplicar a ACL]]></text> 
+</component>
+
+
+<component id="ID_txt05_00">
+  <text><![CDATA[<B>Etapa 3</B> Utilizar o <font face ='_typewriter'><b>ip access-group</b></font> no comando de configuração da interface para ativar a ACL existente em uma interface. ]]></text> 
+</component>
+
+<component id="ID_txt06_00">
+  <text><![CDATA[Para remover uma ACL IP em uma interface, digite o <font face ='_typewriter'><b>no ip access-group <i>número da lista de acesso</i></b></font> na interface. Este exemplo ativa a ACL 1 IPv4 padrão na interface como um filtro de saída.]]></text> 
+</component>
+
+</textcomponents>

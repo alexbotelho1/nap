@@ -1,0 +1,55 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Terminologia da camada física WAN</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Empresa (assinante)</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Serviço WAN<br/>Rede da operadora</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Equipamento de Terminal de Dados (DTE)</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Loop local</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Central da Operadora Local (CO)</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Equipamento de comunicação de dados (DCE)</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Ponto de demarcação</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Switch CO</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Operadora WAN</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Equipamento do cliente<br/>Equipamento (CPE)</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<font color="#ffffff"><b>Operadora<br/>Equipamento</b></font>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>S</b>]]></text>
+</component>
+
+</textcomponents>

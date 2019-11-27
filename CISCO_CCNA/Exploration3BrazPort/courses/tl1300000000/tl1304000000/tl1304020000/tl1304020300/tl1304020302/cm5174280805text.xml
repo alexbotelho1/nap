@@ -1,0 +1,42 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do switch</b>]]></text>
+</component>
+
+<component id="ID_Title02">
+<text><![CDATA[<b>Número de revisão de VTP</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para exibir as configurações VTP do switch S1.</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>show VTP status</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>VLANs adicionadas em S1: 10, 20, 30</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>O número de revisão foi calculado da seguinte maneira. Revisão de configuração = 3 VLANs: (10, 20, 30)<br/>Número de VLANs existentes = 5 padrão (1, 1002-1005) + 3 (10, 20, 30)</b>]]></text>
+</component>
+
+<component id="ID_lbl01">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_lbl02">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+
+<component id="ID_lbl03">
+<text><![CDATA[<b>S2</b>]]></text>
+</component>
+
+<component id="ID_lbl04">
+<text><![CDATA[<b>S3</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="1_4_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>Customer Information
+  •  Company Name
+  •  Contact Name
+  •  Address
+  •  Phone Number
+
+Computer Configuration
+  •  Protection Software Information
+  •  Operating System Information
+  •  Network Environment
+  •  Connection Type
+
+ Description of Problem
+  •  Open-Ended Questions
+  •  Closed-Ended Questions
+
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TITLE1">
+        <source>Computer Components</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TITLE1SS">
+        <source>Troubleshooting Process </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TITLE2">
+        <source>Motherboards</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TITLE3">
+        <source>Motherboard Form Factors</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TITLE4">
+        <source>Water Cooling</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TITLE6">
+        <source>What problems are you experiencing with your computer or network?</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TITLE7">
+        <source>What software has been installed recently?</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TITLE8">
+        <source>What were you doing when the problem was identified?</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TITLE9">
+        <source>What protection software do you have installed on your computer?</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TITLE10">
+        <source>What changes were made to the security settings on your computer?</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TITLE12">
+        <source>Has anyone else used your computer recently?</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TITLE13">
+        <source>Are the protection software signature files up-to-date? </source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TITLE14">
+        <source>Have you changed your password recently?</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TITLE15">
+        <source>Have you received any error messages on your computer?</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TITLE16">
+        <source>Are you currently logged into the network?</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_00">
+        <source>Gather data from the customer</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_01">
+        <source>SWITCH MODE POWER SUPPLY</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_002">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_02">
+        <source>PROCESSOR</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_03">
+        <source>HARD DRIVE</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_04">
+        <source>NETWORK CARD</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_11">
+        <source>ATX</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_15">
+        <source>BTX</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_12">
+        <source>Mini-ATX</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_13">
+        <source>Micro-ATX</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_14">
+        <source>LPX</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_S1_TXT_45">
+        <source>Clicks on each component, to see its name. </source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_05">
+        <source>MOTHER BOARD</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_06">
+        <source>GRAPHIC CARD</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_08">
+        <source>RAM</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_09">
+        <source>HEAT SINK</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_07">
+        <source>ADDON CARD</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

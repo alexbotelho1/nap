@@ -1,0 +1,30 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Erro de configuração de PortFast</b>]]></text>
+</component>
+ 
+<component id="ID_txt01">
+<text><![CDATA[F0/1<br/>Designada<br/>(F)]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[F0/2<br/>PortFast]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[F0/2<br/>Encaminhamento]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[F0/2<br/>Bloqueada]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>1: Cabo conectado</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>2: Com as portas F0/1 e F0/2 encaminhando, ocorre um loop transparente</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>3: Finalmente, a Porta F0/2 recebe uma BPDU e a Porta F0/2 está no modo de bloqueio</b>]]></text>
+</component>
+  
+
+</textcomponents>

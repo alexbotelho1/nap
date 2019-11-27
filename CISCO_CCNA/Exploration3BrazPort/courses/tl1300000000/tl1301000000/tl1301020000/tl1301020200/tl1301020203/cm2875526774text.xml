@@ -1,0 +1,50 @@
+﻿<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Power over Ethernet</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Funções da Camada 3</B>]]></text> 
+</component>
+
+
+<component id="ID_title">
+  <text><![CDATA[<B>PoE e funcionalidade da camada 3</B>]]></text> 
+</component>
+
+
+
+
+
+<component id="ID_bubble01">
+<text><![CDATA[<b><font size='12'>Telefone IP recebe energia pelo cabo Ethernet</font></b>]]></text>
+</component>
+<component id="ID_bubble02">
+  <text><![CDATA[<b><font size='12'>Ponto de acesso sem fio recebe energia pelo cabo Ethernet</font></b>]]></text> 
+  </component>
+<component id="ID_txt01">
+  <text><![CDATA[<b>As portas PoE são aparentemente como qualquer outra porta de switch. Verifique o modelo do switch para determinar se a porta suporta PoE.</b>]]></text> 
+  </component>
+<component id="ID_picTitle01">
+  <text><![CDATA[<b><font size='12'></font></b>]]></text> 
+  </component>
+  <component id="ID_txt02">
+  <text><![CDATA[<b>As portas PoE em ponto de acesso sem fio são aparentemente como qualquer outra porta de switch. Verifique o modelo do ponto de acesso sem fio para determinar se a porta suporta PoE.</b>]]></text> 
+  </component>
+  <component id="ID_bubble03">
+  <text><![CDATA[<b><font size='12'>Políticas de segurança impedem o acesso aos servidores</font></b>]]></text> 
+  </component>
+  <component id="ID_bubble04">
+  <text><![CDATA[<b><font size='12'>Roteamento de Camada 3 realizada pelo switch para rotear o tráfego para a sub-rede de servidor</font></b>]]></text> 
+  </component>
+  <component id="ID_bubble05">
+  <text><![CDATA[<b><font size='12'>Switch multicamada</font></b>]]></text> 
+  </component>
+
+
+
+
+
+
+</textcomponents>

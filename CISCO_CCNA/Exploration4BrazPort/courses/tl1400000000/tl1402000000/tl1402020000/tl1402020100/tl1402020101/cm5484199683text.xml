@@ -1,0 +1,16 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>O que é PPP?</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>HDLC é o método de encapsulamento padrão entre roteadores Cisco.</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Utilize o encapsulamento PPP para se conectar a um roteador que não seja Cisco.</b>]]></text> 
+  </component>
+  <component id="ID_txt03">
+  <text><![CDATA[<b>NCP</b>]]></text> 
+  </component>
+</textcomponents>

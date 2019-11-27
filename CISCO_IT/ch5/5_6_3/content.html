@@ -1,0 +1,102 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="pt-br">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Conte&uacute;do</title>
+<base target="_self"> <link href="../../css/content.css" rel="stylesheet" type="text/css">
+</head>
+
+<body onLoad="window.focus();">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<!--  Start top title Lesson Bar -->
+	  <tr>
+	    <td width="18" class="toptitle01_white_bold" valign="top"> <img border="0" src="../../images/content_lines.gif" width="16" height="25"> <img border="0" src="../../images/transdot.gif" width="2" height="1"></td>
+
+    <td width="18" class="toptitle01_white_bold">5.6</td>
+	    <td class="toptitle01_white_bold"><img border="0" src="../../images/transdot.gif" width="10" height="1"></td>
+
+    <td width="100%" class="toptitle01_white_bold">Identificar e aplicar as t&eacute;cnicas comuns de manuten&ccedil;&atilde;o preventiva para sistemas operacionais</td>
+	    <td width="9" class="toptitle01_white_bold_margin">&nbsp;</td>
+	  </tr>
+	  <!--  End top title Lesson Bar -->
+	  <!--  Start top title Topic Bar -->
+ 	 <tr>
+	    <td width="18" height="25" class="toptitle02_white_bold">&nbsp;</td>
+
+    <td height="25"  class="toptitle02_white_bold">5.6.3</td>
+	    <td class="toptitle02_white_bold"><img border="0" src="../../images/transdot.gif" width="10" height="1"></td>
+
+    <td width="100%" height="25" class="toptitle02_white_bold"><strong>Backup do disco r&iacute;gido</strong></td>
+	    <td height="25" width="9" class="toptitle02_white_bold_margin">&nbsp;</td>
+  </tr>
+	 <!--  End top title Topic Bar -->
+</table>
+
+	<!-- CONTENT -->
+	<table border="0" cellpadding="0" cellspacing="0" width="95%" >
+		<tr>
+			<td width="20"></td>
+			<td>
+        <table border="0" cellpadding="0" cellspacing="0"  width="95%">
+
+        <tr>
+          <td width="100%">
+            <p>Assim como os pontos de restaura&ccedil;&atilde;o do sistema permitem a restaura&ccedil;&atilde;o de arquivos de configura&ccedil;&atilde;o do SO, as ferramentas de backup permitem a recupera&ccedil;&atilde;o de dados. Voc&ecirc; pode usar a ferramenta de backup da Microsoft, mostrada na Figura 1, para executar backups conforme necess&aacute;rio. &Eacute; importante estabelecer uma estrat&eacute;gia de backup que inclua a recupera&ccedil;&atilde;o de dados. Os requisitos da organiza&ccedil;&atilde;o determinar&atilde;o com que freq&uuml;&ecirc;ncia precisa ser feito o backup dos dados e o tipo de backup a ser executado.</p>
+            <p>Um backup pode levar um tempo longo. Se a estrat&eacute;gia de backup for seguida cuidadosamente, n&atilde;o ser&aacute; necess&aacute;rio fazer o backup de cada arquivo em todos os backups. Ser&aacute; necess&aacute;rio apenas fazer c&oacute;pias dos arquivos que foram alterados desde o &uacute;ltimo backup. Por essa raz&atilde;o, existem v&aacute;rios tipos diferentes de backup.</p>
+            <p><span class="bold">Backup normal</span><br> Tamb&eacute;m chamado de backup total. Durante um backup normal, todos os arquivos selecionados no disco s&atilde;o arquivados nas m&iacute;dias de backup. Esses arquivos s&atilde;o marcados como tendo sido arquivados pela limpeza do bit do arquivo. </p>
+            <p><span class="bold">Backup de c&oacute;pia</span><br> Um backup de c&oacute;pia copiar&aacute; todos os arquivos selecionados. Ele n&atilde;o marca os arquivos como tendo sido arquivados. </p>
+            <p><span class="bold">Backup diferencial</span><br> Um backup diferencial faz o backup de todos os arquivos e pastas criados ou modificados desde o &uacute;ltimo backup normal ou o &uacute;ltimo backup incremental (ver abaixo). O backup diferencial n&atilde;o marca os arquivos como tendo sido arquivados. As c&oacute;pias ser&atilde;o feitas a partir do mesmo ponto de in&iacute;cio at&eacute; o pr&oacute;ximo backup incremental ou total ser executado. Fazer backups diferenciais &eacute; importante porque apenas os &uacute;ltimos backups total e diferencial s&atilde;o necess&aacute;rios para restaurar todos os dados.</p>
+            <p><span class="bold">Backup incremental</span><br> Um procedimento de backup incremental faz o backup de todos os arquivos e pastas criados ou modificados desde o &uacute;ltimo backup normal ou incremental. Ele marca os arquivos como tendo sido arquivados pela limpeza do bit de armazenamento. Isso tem o efeito de avan&ccedil;ar o ponto inicial de backups diferenciais sem ter que rearquivar todo o conte&uacute;do do disco. Se voc&ecirc; tiver que executar uma restaura&ccedil;&atilde;o do sistema, ter&aacute; primeiro que restaurar o &uacute;ltimo backup total, em seguida restaurar cada backup incremental na ordem e, por &uacute;ltimo, restaurar qualquer backup diferencial feito desde o &uacute;ltimo backup incremental.</p>
+            <p><span class="bold">Backup di&aacute;rio </span><br> Backups di&aacute;rios apenas fazem o backup dos arquivos que foram modificados no dia do backup. Este tipo de backup n&atilde;o modifica o bit do arquivo.</p>
+            <p>Para acessar o utilit&aacute;rio de backup di&aacute;rio em um sistema Windows XP Professional, use o seguinte caminho:</p>
+			<p><span class="bold">Iniciar &gt; Todos os programas &gt; Acess&oacute;rios &gt; Ferramentas do Sistema &gt; Backup</span></p>
+            <p><span class="bold">M&iacute;dia de backup</span><br> Existem v&aacute;rios tipos de m&iacute;dias de backup dispon&iacute;veis para computadores:
+            <ul>
+              <li>Unidades de fita s&atilde;o dispositivos usados para fazer backup de dados em uma unidade de servidor da rede. As unidades de fita s&atilde;o uma maneira barata de armazenar muitos dados. </li>
+              <li>O padr&atilde;o de fita DAT (Digital Audio Tape, fita de &aacute;udio digital) usa fitas de &aacute;udio digital de 4 mm para armazenar dados no formato DDS (Digital Data Storage, armazenamento de dados digital). </li>
+              <li>A tecnologia DLT (Digital Linear Tape, fita linear digital) oferece recursos de backup em fita de alta capacidade e relativamente alta velocidade. </li>
+              <li>A mem&oacute;ria flash USB pode suportar centenas de vezes os dados que um disquete pode armazenar. Os dispositivos de mem&oacute;ria flash USB est&atilde;o dispon&iacute;veis em v&aacute;rias capacidades e oferecem taxas de transfer&ecirc;ncia melhores que os dispositivos de fita. </li>
+            </ul>
+            <p>
+              <!-- Start Activity box   -->
+            </p>
+            <table  width="95%" border="0" cellspacing="0" cellpadding="0" id="activity">
+              <tr>
+                <td valign="top">
+                  <table  width="100%" cellspacing="0" cellpadding="0" border="0" >
+                    <tr>
+                      <td width="5" class="activity_topbar"> <img border="0" src="../../images/lab_toplft.gif" width="116" height="23"></td>
+                      <td class="activity_topbar"><img alt="" height="1" width="3" src="../../images/s.gif"></td>
+                      <td align="right" valign="top" class="activity_topbar"> <img alt="" src="../../images/corner_ur_7.gif" width="7" height="7"></td>
+                    </tr>
+                  </table>
+                  <table width="100%" cellspacing="0" cellpadding="0" border="0" id="table3">
+                    <tr>
+                      <td>
+                        <table width="100%" cellpadding="2" cellspacing="0" border="0"  id="table4">
+                          <tr>
+                            <td width="15" class="activity_text">&nbsp;</td>
+                            <td class="activity_text"><img border="0" src="../../images/lab_icon.gif" width="36" height="30"> <a target="_blank" href="../worksheet5_6_3/5.6.3_Lab_Registry_Backup.pdf"> Laborat&oacute;rio </a>
+                              <p> <span class="bold">Backup e restaura&ccedil;&atilde;o do Windows
+                                </span><br> Backup e restaura&ccedil;&atilde;o do Registro do computador no Windows XP<br> <br>
+                              </p>
+                            </td>
+                          </tr>
+                        </table>                      </td>
+                    </tr>
+                  </table>                </td>
+              </tr>
+            </table>
+          <!-- END Activity box   -->        </tr>
+        <tr>
+          <td>
+        </tr>
+         </table>
+       </td>
+     </tr>
+	</table>
+
+</body>
+
+</html>

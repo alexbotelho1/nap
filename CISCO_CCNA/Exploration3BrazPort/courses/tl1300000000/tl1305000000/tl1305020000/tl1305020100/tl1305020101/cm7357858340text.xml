@@ -1,0 +1,157 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Topologia de STP</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Clique em Reproduzir para exibir a animação<./b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b><font size="12">Tronco2</font></b>]]></text> 
+  </component>
+  <component id="ID_txt04">
+  <text><![CDATA[<b><font size="12">Tronco3</font></b>]]></text> 
+  </component>
+  <component id="ID_txt05">
+  <text><![CDATA[<b><font size="12">Tronco1</font></b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[PC1 envia um broadcast para o switch S2.]]></text> 
+  </component>
+  <component id="ID_txt07">
+  <text><![CDATA[O switch S2 encaminha o broadcast para todas as portas de switch, exceto a porta de origem e a porta associada com o Tronco2.]]></text> 
+  </component>
+  <component id="ID_txt08">
+  <text><![CDATA[O switch S1 encaminha o broadcast para todas as portas, exceto a porta de origem. O switch S3 recebe o quadro mas não continua a encaminhá-lo de volta para o switch S2 devido à porta bloqueada.]]></text> 
+  </component>
+  <component id="ID_txt09">
+  <text><![CDATA[PC1 envia um broadcast para o switch S2.]]></text> 
+  </component>
+  <component id="ID_txt10">
+  <text><![CDATA[O switch S2 encaminha o broadcast para todas as portas de switch, exceto a porta de origem e a porta associada com o Tronco2.]]></text> 
+  </component>
+  <component id="ID_txt11">
+  <text><![CDATA[O switch S1 encaminha o broadcast para todas as portas, exceto a porta de origem. O switch S3 recebe o quadro mas não continua a encaminhá-lo de volta para o switch S2 devido à porta bloqueada.]]></text> 
+  </component>
+  <component id="ID_txt12">
+  <text><![CDATA[PC1 envia um quadro de broadcast para o switch S2. O link de tronco entre o switch S2 e o switch S1 falhou.]]></text> 
+  </component>
+  <component id="ID_txt13">
+  <text><![CDATA[O switch S3 desbloqueia a porta para o Tronco2 e o switch S2 bloqueia a porta para o Tronco1. O switch S2 encaminha o broadcast para todas as portas de switch, exceto a porta de origem e o link que falhou para o Tronco1.]]></text> 
+  </component>
+  <component id="ID_txt14">
+  <text><![CDATA[O switch S3 encaminha o broadcast para todas as portas de switch disponíveis, exceto a porta de origem.]]></text> 
+  </component>
+  <component id="ID_txt15">
+  <text><![CDATA[O switch S1 encaminha o broadcast para todas as portas de switch disponíveis, exceto a porta de origem e a porta para o Tronco1, uma vez que ela não está disponível enquanto o link estiver inativo.]]></text> 
+  </component>
+  <component id="ID_txt16">
+  <text><![CDATA[Operação de STP Normal]]></text> 
+  </component>
+  <component id="ID_txt17">
+  <text><![CDATA[STP compensa a falha da rede]]></text> 
+  </component>
+  
+  
+  
+  
+  <component id="play"><text><![CDATA[Reproduzir]]></text>
+
+	</component>
+
+    <component id="pause">
+
+		<text><![CDATA[Pausar]]></text>
+
+	</component>
+
+    <component id="rewind">
+
+		<text><![CDATA[Retroceder]]></text>
+
+	</component>
+	<component id="forward">
+
+		<text><![CDATA[Avançar]]></text>
+
+	</component>
+
+    <component id="mute">
+
+		<text><![CDATA[Sem som]]></text>
+
+	</component>
+
+    <component id="unmute">
+		<text><![CDATA[Com som]]></text>
+
+	</component>
+
+    <component id="previous">
+
+		<text><![CDATA[Reiniciar]]></text>
+	</component>
+
+    <component id="next">
+
+		<text><![CDATA[Encerrar]]></text>
+	</component>
+
+<component id="transcript">
+		<text><![CDATA[Transcrição]]></text>
+	</component>
+
+
+
+  <component id="play1"><text><![CDATA[Reproduzir]]></text>
+
+	</component>
+
+    <component id="pause1">
+
+		<text><![CDATA[Pausar]]></text>
+
+	</component>
+
+    <component id="rewind1">
+
+		<text><![CDATA[Retroceder]]></text>
+
+	</component>
+	<component id="forward1">
+
+		<text><![CDATA[Avançar]]></text>
+
+	</component>
+
+    <component id="mute1">
+
+		<text><![CDATA[Sem som]]></text>
+
+	</component>
+
+    <component id="unmute1">
+		<text><![CDATA[Com som]]></text>
+
+	</component>
+
+    <component id="previous1">
+
+		<text><![CDATA[Reiniciar]]></text>
+	</component>
+
+    <component id="next1">
+
+		<text><![CDATA[Encerrar]]></text>
+	</component>
+
+<component id="transcript1">
+		<text><![CDATA[Transcrição]]></text>
+	</component>
+
+
+
+
+
+
+
+</textcomponents>

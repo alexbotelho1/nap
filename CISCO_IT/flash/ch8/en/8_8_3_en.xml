@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_8_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ISLQ3-QCORRECT_TEXT">
+        <source>&lt;b&gt;Correct!&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ISLQ3-QOPTION_TEXT1">
+        <source>Application</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ISLQ3-QOPTION_TEXT2">
+        <source>Presentation</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ISLQ3-QOPTION_TEXT3">
+        <source>Session</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ISLQ3-QOPTION_TEXT4">
+        <source>Transport</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ISLQ3-QOPTION_TEXT5">
+        <source>Network</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_ISLQ3-QOPTION_TEXT6">
+        <source>Data Link</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_ISLQ3-QOPTION_TEXT7">
+        <source>Physical</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_ISLQ3-QQUESTION_TEXT">
+        <source>&lt;b&gt;Drag the OSI layer to the correct TCP/IP layer, and then click Check.
+&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_ISLQ3-QSLOTLABEL_TEXT1">
+        <source>&lt;b&gt;Internet&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_ISLQ3-QSLOTLABEL_TEXT2">
+        <source>&lt;b&gt;Network Access&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_ISLQ3-QSLOTLABEL_TEXT3">
+        <source>&lt;b&gt;Application&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_ISLQ3-QSLOTLABEL_TEXT4">
+        <source>&lt;b&gt;Transport&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_ISLQ3-QTITLE_TEXT">
+        <source>OSI Model Activity</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_ISLQ3-QTRYAGAIN_TEXT">
+        <source>&lt;b&gt;Try again.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TITLE1">
+        <source>OSI Model and TCP/IP Model Compared</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TITLE2">
+        <source>Match the OSI Model to the TCP/IP Model</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_01">
+        <source>OSI Reference Model</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_02">
+        <source>Application</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_03">
+        <source>Presentation</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_04">
+        <source>Session</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_05">
+        <source>Transport</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_06">
+        <source>Network</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_07">
+        <source>Data Link</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_08">
+        <source>Physical</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_09">
+        <source>TCP/IP Model</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_10">
+        <source>Application</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_11">
+        <source>Transport</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_12">
+        <source>Internet</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_13">
+        <source>Network
+Interface</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_14">
+        <source>Application</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_15">
+        <source>Presentation</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_16">
+        <source>Session</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_17">
+        <source>Transport</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_18">
+        <source>Network</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_19">
+        <source>Data Link</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_20">
+        <source>Physical</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_21">
+        <source>Internet</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_22">
+        <source>Network Access</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_23">
+        <source>TCP/IP Model </source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_24">
+        <source>OSI Model</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="7_3_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Flatbed Scanner</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Flatbed Scanner Advantages and Disadvantages</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_01">
+        <source>Can use a sheet feeder option </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_02">
+        <source>Fragile documents can be treated gently</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_03">
+        <source>More advanced features and options </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_04">
+        <source>More equipment required than all-in-one for same functionality </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_05">
+        <source>More space required if other devices for same functionality required as all-in-one.
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_06">
+        <source>Advantages:</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_07">
+        <source>Disadvantages:</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_08">
+        <source>Printhead Assembly</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_09">
+        <source>Flatbed Scanner</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_0035">
+        <source></source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

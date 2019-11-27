@@ -1,0 +1,92 @@
+<textcomponents>
+
+<component id="ID_title">
+         <text><![CDATA[<b>Mensagem para estudantes</b>]]></text>
+</component>
+   
+<component id="ID_page1">
+         <text><![CDATA[página 1 de 9]]></text>
+</component>
+<component id="ID_page2">
+         <text><![CDATA[página 2 de 9]]></text>
+</component>
+<component id="ID_page3">
+         <text><![CDATA[página 3 de 9]]></text>
+</component>
+<component id="ID_page4">
+         <text><![CDATA[página 4 de 9]]></text>
+</component>
+<component id="ID_page5">
+         <text><![CDATA[página 5 de 9]]></text>
+</component>
+<component id="ID_page6">
+         <text><![CDATA[página 6 de 9]]></text>
+</component>
+<component id="ID_page7">
+         <text><![CDATA[página 7 de 9]]></text>
+</component>
+<component id="ID_page8">
+         <text><![CDATA[página 8 de 9]]></text>
+</component>
+<component id="ID_page9">
+         <text><![CDATA[página 9 de 9]]></text>
+</component>
+   
+
+<component id="ID_txt01">
+         <text><![CDATA[<b>Bem-vindo</b><br/>Bem-vindo ao curso CCNA Exploration Acessando a WAN. O objetivo deste curso é apresentar conceitos e tecnologias de rede fundamentais. Os materias deste curso on-line ajudarão você a desenvolver as habilidades necessárias para planejar e implementar pequenas redes usando vários aplicativos. As habilidades específicas explicadas em cada capítulo são descritas no início de cada um deles. ]]></text>
+</component>
+   
+<component id="ID_txt02">
+         <text><![CDATA[<b>Mais do que apenas informações</b><br/>Este ambiente de aprendizagem com base em computadores é uma parte importante da experiência geral do curso para os alunos e instrutores do Networking Academy. Esses materiais de curso on-line foram criados para serem usados em conjunto com várias outras atividades e ferramentas instrutivas. São alguns deles:<br/><br/><ul><li>Apresentação de classe, discussão e prática com seu instrutor </li><li>Laboratórios práticos que usam equipamento de rede dentro da sala de aula do Networking Academy</li><li>Avaliações com nota on-line e um histórico escolar (gradebook) associado</li><li>Ferramenta de simulação do Packet Tracer 4.1</li><li>Software adicional para atividades em sala de aula</li></ul>]]></text>
+</component>
+
+<component id="ID_txt03">
+         <text><![CDATA[<b>Uma comunidade global</b><br/>Ao participar do Networking Academy, você estará entrando em uma comunidade global conectada por objetivos e tecnologias comuns. Escolas, faculdades, universidades e outras entidades de mais de 160 países participam do programa. Uma visualização da comunidade global do Networking Academy em <a href="javascript:openExternal('http://www.academynetspace.com');"><font color="#0000FF">http://www.academynetspace.com</font></a>. <br/><br/>O material deste curso abrange uma ampla variedade de tecnologias que facilitam o trabalho, a vida e o aprendizado das pessoas através da comunicação por voz, vídeo etc. Rede e Internet afetam as pessoas de maneira diferente em partes diferentes do mundo. Embora tenhamos trabalhado com instrutores de todo o mundo para criar estes materiais, é importante que você trabalhe com o seu instrutor e colegas para tornar o material deste curso aplicável à sua situação local.<br/><br/><b>Mantenha contato</b><br/>Esses materiais instrutivos on-line, bem como o restante das ferramentas do curso, fazem parte do grande Networking Academy. O portal do aluno, do instrutor e do administrador do programa estão localizados em <a href="javascript:openExternal('http://www.cisco.com/web/learning/netacad/index.html');"><font color="#0000FF">http://www.cisco.com/web/learning/netacad/index.html</font></a>. Lá você terá acesso às demais ferramentas no programa, como o servidor de avaliação e o histórico escolar do aluno, bem como atualizações informativas e outros links relevantes.]]></text>
+</component>
+
+<component id="ID_txt04">
+         <text><![CDATA[<b>Mantenha a sua mente bem aberta™</b><br/>Uma meta importante do ensino é enriquecer você, aluno, ampliando o que você sabe e o que você pode fazer. No entanto, é importante perceber que os materiais instrutivos e o instrutor podem apenas <i>facilitar</i> o processo. <i>Você</i> deve se comprometer em aprender as novas habilidades. Aqui estão algumas sugestões para ajudar você a aprender e a crescer.<br/><br/>1.<TEXTFORMAT BLOCKINDENT='15'><b> Faça anotações.</b> Profissionais do campo de rede normalmente mantêm diários nos quais anotam as coisas que observam e aprendem. As anotações são importantes para ajudar a compreender o crescimento com o passar do tempo.</textformat><br/><br/>2.<TEXTFORMAT BLOCKINDENT='15'><b> Pense nisso.</b> O curso fornece informações para alterar o que você sabe e o que você pode fazer. Na medida em que completar o curso, pergunte-se o que faz sentido e o que não faz. Pare e faça perguntas quando você estiver confuso. Procure saber mais sobre os tópicos nos quais tem interesse. Se você não tiver certeza do porquê algo está sendo ensinado, pergunte ao seu instrutor ou a um amigo. Veja como as diferentes partes do curso se encaixam.</textformat>]]></text>
+</component>
+
+<component id="ID_txt05">
+         <text><![CDATA[3.<TEXTFORMAT BLOCKINDENT='15'><b> Pratique.</b> Aprender novas habilidades exige prática. Acreditamos que isto é tão importante para o e-learning (aprendizado eletrônico) que temos um nome especial para ela. Nós a chamamos de e-Doing. É muito importante que você conclua as atividades nos materiais instrutivos on-line e os laboratórios práticos e as atividades do Packet Tracer. </textformat><br/><br/>4.<TEXTFORMAT BLOCKINDENT='15'><b> Tente novamente.</b> Você já pensou que sabia como fazer algo e, quando chegou o momento de mostrar em um teste ou no trabalho, descobriu que, na verdade, não dominava o assunto em questão? Assim como aprender uma nova habilidade em um esporte, jogo ou idioma, aprender habilidades profissionais requer paciência e uma prática repetida para que você diga que realmente aprendeu. Os materiais didáticos on-line constituem uma oportunidade de prática repetida para muitas habilidades. Aproveite-os ao máximo. Você também pode trabalhar com seu instrutor para estender o Packet Tracer e outras ferramentas para a prática adicional, conforme o necessário.</textformat>]]></text>
+</component>
+
+<component id="ID_txt06">
+         <text><![CDATA[5.<TEXTFORMAT BLOCKINDENT='15'><b> Ensine.</b> Ensinar um amigo ou um colega costuma ser uma boa forma de reforçar sua própria aprendizagem. Para ser um bom instrutor, é necessário examinar os detalhes que podem não ter sido percebidos em sua primeira leitura. Conversas sobre o material de curso com alunos, colegas e com o instrutor podem ajudar a solidificar a sua compreensão dos conceitos de networking.</textformat><br/><br/>6.<TEXTFORMAT BLOCKINDENT='15'><b> Faça alterações sempre.</b> O curso foi projetado para que se fizessem comentários por meio de atividades e testes interativos, do sistema de avaliação on-line e das interações estruturadas com seu instrutor. Você pode utilizar estes comentários para entender melhor onde suas forças e fraquezas estão. Se houver uma área com a qual você esteja enfrentando dificuldades, concentre-se em como estudar ou praticar mais nessa área. Procure comentários adicionais do seu instrutor e de outros alunos.</textformat>]]></text>
+</component>
+
+<component id="ID_txt07">
+         <text><![CDATA[<b>Explore o mundo de rede</b><br/>Esta versão do curso inclui uma ferramenta especial chamada Packet Tracer 4.1. O Packet Tracer é uma ferramenta de aprendizagem de rede que oferece suporte a uma ampla gama de simulações físicas e lógicas. Ele também fornece ferramentas de visualização para ajudar você a compreender o funcionamento interno de uma rede.<br/><br/>As atividades parcialmente prontas do Packet Tracer consistem em simulações de rede, jogos, atividades e desafios que fornecem uma ampla variedade de experiências de aprendizagem. <br/><br/><b>Crie mundos próprios</b><br/>Você também pode utilizar o Packet Tracer para criar suas próprias experiências e cenários de rede. Esperamos que, com o passar do tempo, você considere usar o Packet Tracer não apenas para experimentar as atividades criadas previamente, mas também para se tornar um autor, explorador e experimentador.<br/><br/>Os materiais do curso on-line compreendem atividades de Packet Tracer que serão executadas em computadores com sistemas operacionais Windows®, se o Packet Tracer estiver instalado. Esta integração também pode funcionar em outros sistemas operacionais que usam emulação do Windows.]]></text>
+</component>
+ 
+<component id="ID_txt08">
+         <text><![CDATA[<b>Visão geral do curso</b><br/><br/>O foco principal deste curso está no acesso a redes remotas (WANs). O objetivo é desenvolver uma compreensão de várias tecnologias WAN para conectar redes de pequenas a médias empresas.<br/><br/>O curso apresenta aplicativos convergidos para WAN e qualidade de serviço (QoS). Ele concentra-se em tecnologias WAN incluindo PPP, Frame Relay e links de banda larga. Os conceitos de segurança WAN são abordados detalhadamente, inclusive os tipos de ameaças, como analisar vulnerabilidades de rede, métodos gerais para atenuar ameaças comuns à segurança e tipos de dispositivos e aplicativos de segurança.  Em seguida, o curso explica os princípios do controle de tráfego e das listas de controle de acesso (ACLs), além de descrever como implementar serviços de endereçamento IP para uma rede Corporativa, inclusive como configurar NAT e DHCP. Os conceitos de endereçamento IPv6 também são abordados. Durante o curso, você aprenderá como usar o Cisco Router and Security Device Manager (SDM) para proteger um roteador e implementar serviços de endereçamento IP. Por fim, os alunos aprendem a detectar, identificar e solucionar problemas, além de corrigir problemas de implementação de rede Corporativa comuns.<br/><br/>Os laboratórios e as atividades do Packet Tracer usadas neste curso foram criadas para ajudar a desenvolver uma compreensão de como configurar operações de roteamento, ao mesmo tempo em que reforçam os conceitos aprendidos em cada capítulo.<br/><br/><b>Capítulo 1 Introdução a WANs</b> – No Capítulo 1, você aprenderá os conceitos básicos das WANs corporativas, as tecnologias disponíveis para implementá-las e a terminologia usada para analisá-las. Você aprenderá como a arquitetura corporativa Cisco fornece serviços integrados em uma rede corporativa e como selecionar a tecnologia WAN apropriada para atender a requisitos corporativos diferentes.<br/><br/><b>Capítulo 2 PPP</b> – O Capítulo 2 concentra-se na comunicação ponto-a-ponto serial e no Protocolo ponto-a-ponto (PPP). Compreender como funcionam os links de comunicação ponto-a-ponto para fornecer acesso a uma WAN é importante para que se obtenha uma compreensão geral de como funcionam as WANs. Vários aspectos do PPP são abordados, inclusive a proteção do PPP usando-se o Protocolo de autenticação de senha (PAP) ou o mais eficiente Protocolo avançado de autenticação de reconhecimento (CHAP).<br/><br/><b>Capítulo 3 Frame Relay</b> – O Capítulo 3 concentra-se no protocolo WAN Frame Relay de alto desempenho. Você aprenderá a implementar o Frame Relay a ser usado entre redes locais em uma WAN.<br/><br/><b>Capítulo 4 Segurança de rede</b> – O Capítulo 4 apresenta a segurança de rede, que passou à linha de frente do gerenciamento e da implementação de rede. O desafio geral da segurança é encontrar um equilíbrio entre dois requisitos importantes: a necessidade de abrir redes para dar suporte a cada vez mais oportunidades de negócios e a necessidade de proteger informações privadas, pessoais e comerciais estratégicas. Você aprenderá identificar ameaças à segurança de redes corporativas e técnicas de atenuação. Você também aprenderá a configurar a segurança de roteador básica, desabilitar recursos não usados e interfaces. Por fim, você aprenderá a gerenciar configurações e arquivos do IOS.<br/><br/><b>Capítulo 5 ACLs</b> – O Capítulo 5 aproveita os conceitos apresentados no Capítulo 4 e concentra-se na aplicação das ACLs. Uma das habilidades mais importantes das quais um administrador de rede precisa é dominar as listas de controle de acesso (ACLs). Você aprenderá a criar firewalls usando ACLs padrão e estendidas. Por fim, você obtém informações sobre os recursos avançados da ACL, inclusive ACLs dinâmicas, reflexivas e programáveis.]]></text>
+</component>
+
+<component id="ID_txt09">
+         <text><![CDATA[<b>Visão geral do curso (continuação)</b><br/><br/><b>Capítulo 6 Serviços de funcionário remoto</b> – O Capítulo 6 aborda as tecnologias de banda larga da perspectiva de um funcionário à distância. Mais especificamente, você obterá informações sobre opções de cabo, DSL e banda larga sem fio. Você também explorará como são utilizadas VPNs para proteger conexões de banda larga.<br/><br/><b>Capítulo 7 Serviços de endereçamento IP</b> – O Capítulo 7 aborda como uma filial pode fornecer serviços de endereçamento IP para usuários.Você identificará os requisitos de funcionário remoto e as arquiteturas recomendadas para fornecer serviços de trabalho remoto. Mais especificamente, você aprenderá a configurar um roteador para ser um servidor de protocolo DHCP e a integrar os endereços privados e a Tradução de Endereço de Rede (NAT).  Você terminará com uma visão geral de IPv6 e como configurar roteadores para trocar rotas IPv6 usando RIPng.<br/><br/><b>Capítulo 8 Identificação e solução de problemas de rede</b> – O Capítulo 8 é o principal capítulo do curso. Você aprenderá a estabelecer uma linha de base de rede e a desenvolver uma documentação de rede para ajudar na identificação e na solução de problemas de rede. Você também desenvolverá suas habilidades de identificação e solução de problemas de rede, revisando a metodologia de solução de problemas. Você irá identificar e solucionar problemas comuns de implementação de rede empresarial usando uma abordagem de modelo de camadas.]]></text>
+</component>
+
+<component id="ID_page1_text">
+         <text><![CDATA[<b>Bem-vindo a CCNA Exploration Acessando a WAN</b>]]></text>
+</component>
+
+<component id="ID_page2_text">
+         <text><![CDATA[<b>Mantenha a sua mente bem aberta™<br/><br/>Use o material do curso sempre. Fale sobre os conceitos para aprofundar a sua compreensão.</b>]]></text>
+</component>
+
+<component id="ID_page3_text">
+         <text><![CDATA[<b>Mind Wide Open®</b><br/><br/>Bem-vindo a Protocolos e conceitos de roteamento do CCNA Exploration</b>]]></text>
+</component>
+
+<component id="ID_page4_text">
+         <text><![CDATA[<b>Bem-vindo aos Fundamentos da Rede do CCNA Exploration</b>]]></text>
+</component>
+
+<component id="ID_page5_text">
+         <text><![CDATA[<b>Bem-vindo aos Fundamentos da Rede do CCNA Exploration</b>]]></text>
+</component>
+
+</textcomponents>

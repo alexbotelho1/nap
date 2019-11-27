@@ -1,0 +1,43 @@
+<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Controlando a latência de rede</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Removendo gargalos de rede</B>]]></text> 
+</component>
+
+
+
+
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>Servidor com uma placa de rede 1000 Mb/s</b>]]></text>
+</component>
+<component id="ID_txt02_02">
+  <text><![CDATA[<b>Servidor com cinco placas de rede 1000 Mb/s</b>]]></text> 
+  </component>
+<component id="ID_txt03_02">
+  <text><![CDATA[<b>Largura de banda da placa de rede de 167 Mb/s por computador</b>]]></text> 
+  </component>
+<component id="ID_txt04_02">
+  <text><![CDATA[<b>Largura de banda da placa de rede de 833 Mb/s por computador </b>]]></text> 
+  </component>
+
+<component id="ID_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><B>Controlando a latência de rede</B></font></td></tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><B>- Considere a latência causada por cada dispositivo na rede.</B><ul><li>Um switch de núcleo que suporta 48 portas, executando em full duplex de 1000 Mb/s exige a produtividade interna de 96 Gb/s caso deva manter a taxa de transferência nominal máxima (wire-speed) completa em todas as portas simultaneamente.</li></ul><br><B>- Os dispositivos das camadas superiores do modelo OSI também podem aumentar a latência em uma rede.</B><ul><li>Um roteador deve retirar os campos da Camada 2 em um quadro para interpretar as informações de endereçamento da camada 3. O tempo de processamento adicional causa latência.</li><li>Equilibre o uso dos dispositivos das camadas mais altas para reduzir a latência de rede com a necessidade de impedir a contenção do tráfego de broadcast ou as altas taxas de colisão.
+</li></ul></td>
+  </tr>
+</table>]]></text>
+</component>
+
+
+
+
+
+</textcomponents>

@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 08:12:12">
+<title><content-text><![CDATA[5.2.1 - Entering Criteria Statements]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts entering criteria statements for extended ACL's.<br><br>Network Topology:<br>There are two LAN's with switches S1 and S2. PC1 and PC2 are interconnected by router R1. The S1 LAN is 192.168.10.0/24, and the S2 LAN is 192.168.11.0/24.<br>- PC1 is connected to switch S1, which is connected to router R1 on its FA0/0 interface.<br>- PC2 is connected to switch S2, which is connected to router R1 on its FA0/1 interface.<br><br>ACL 101:<br>Access-list 101 permit i p 192.168.10.0 0.0.0.255 192.168.30.0 0.0.0.255<br><br>ACL 102:<br>Access-list 102 permit i p 192.168.10.0 0.0.0.255 192.168.30.0 0.0.0.255<br>Access-list 102 deny i p any any<br><br>In the above examples, the two ACL's (101 and 102) have the same effect. Network 192.168.10.0 is permitted to access network 192.168.30.0, and 192.168.11.0 is not allowed.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

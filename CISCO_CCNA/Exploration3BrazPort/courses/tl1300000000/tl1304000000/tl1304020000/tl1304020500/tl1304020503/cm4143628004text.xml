@@ -1,0 +1,27 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do switch</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Corte de VTP habilitado</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para exibir as configurações do switch com o corte de VTP habilitado.</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Switch S1</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Switch S2</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Switches habilitados por VTP</b>]]></text>
+</component>
+
+
+</textcomponents>

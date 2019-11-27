@@ -1,0 +1,130 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>WAN Connection Option: Leased Lines</B>]]></text> 
+</component>
+
+<component id="ID_header">
+  <text><![CDATA[<B>Statement: Leased Lines</B>]]></text> 
+</component>
+
+<!-- instructions -->
+<component id="ID_instructions">
+	<text><![CDATA[<font size="14"><b>Activity</b></font><br/><br/>Click the appropriate column in the table to identify whether the corresponding statement about leased lines is true or false.]]></text>
+</component>
+
+<!-- buttons -->
+<component id="ID_Button01">
+	<text><![CDATA[<b>Check</b>]]></text>
+</component>
+
+<component id="ID_Button02">
+	<text><![CDATA[<b>Reset</b>]]></text>
+</component>
+
+<!--Number of rows in the table-->
+<component id="txt_numrows">
+	<text><![CDATA[8]]></text>
+</component>
+
+<!--Number of columns for the answers in the table. Do not count the question column-->
+<component id="txt_numcols">
+	<text><![CDATA[2]]></text>
+</component>
+
+<!--Answer column headers-->
+<component id="txt_col1">
+	<text><![CDATA[<b>True</b>]]></text>
+</component>
+
+<component id="txt_col2">
+	<text><![CDATA[<b>False</b>]]></text>
+</component>
+
+!--Question text - blockindent code moves the text away from the left edge a bit-->
+<!--Question text - If questions are numbered, use blockindent for hanging indents-->
+<component id="txt_q1">
+	<text><![CDATA[1. <textformat blockindent='13'>are considered dedicated WAN links.</textformat>]]></text>
+</component>
+
+<component id="txt_q2">
+	<text><![CDATA[2. <textformat blockindent='13'>can operate at very high bit rates.</textformat>]]></text>
+</component>
+
+<component id="txt_q3">
+	<text><![CDATA[3. <textformat blockindent='13'>do not require any call setup as they are always on.</textformat>]]></text>
+</component>
+
+<component id="txt_q4">
+	<text><![CDATA[4. <textformat blockindent='13'>have lower latency and jitter compared to other WAN links.</textformat>]]></text>
+</component>
+
+<component id="txt_q5">
+	<text><![CDATA[5. <textformat blockindent='13'>are best used to connect users over a great distance.</textformat>]]></text>
+</component>
+
+<component id="txt_q6">
+	<text><![CDATA[6. <textformat blockindent='13'>consist of many switched virtual circuits.</textformat>]]></text>
+</component>
+
+<component id="txt_q7">
+	<text><![CDATA[7. <textformat blockindent='13'>are the lowest cost WAN links for interconnections.</textformat>]]></text>
+</component>
+
+<component id="txt_q8">
+	<text><![CDATA[8. <textformat blockindent='13'>are most often used as backup for dialup circuits.</textformat>]]></text>
+</component>
+
+<!--Answers - Give the column number(s), column numbering start with 1 not 0-->
+<!--Answers - For MCMA separate the correct answers with commas [2, 4, 5] -->
+<component id="txt_a1">
+	<text><![CDATA[1]]></text>
+</component>
+
+<component id="txt_a2">
+	<text><![CDATA[2]]></text>
+</component>
+
+<component id="txt_a3">
+	<text><![CDATA[2]]></text>
+</component>
+
+<component id="txt_a4">
+	<text><![CDATA[1]]></text>
+</component>
+
+<component id="txt_a5">
+	<text><![CDATA[1]]></text>
+</component>
+
+<component id="txt_a6">
+	<text><![CDATA[1]]></text>
+</component>
+
+<component id="txt_a7">
+	<text><![CDATA[2]]></text>
+</component>
+
+<component id="txt_a8">
+	<text><![CDATA[2]]></text>
+</component>
+
+<!-- Correct Feedback -->
+<component id="ID_correctTitle">
+	<text><![CDATA[Correct]]></text>
+</component>
+
+<component id="ID_correctText">
+	<text><![CDATA[You have answered all the questions correctly.]]></text>
+</component>
+
+<!-- Incorrect Feedback -->
+<component id="ID_incorrectTitle">
+	<text><![CDATA[Incorrect]]></text>
+</component>
+
+<component id="ID_incorrectText">
+	<text><![CDATA[Incorrect, please try again.]]></text>
+</component>
+
+</textcomponents>

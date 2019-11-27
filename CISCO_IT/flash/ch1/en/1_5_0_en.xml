@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="1_5_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_NETWORK ">
+        <source>Network Connector</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE1">
+        <source>Serial Connector</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE2">
+        <source>USB Connectors </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE3">
+        <source>FireWire Connectors</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE4">
+        <source>Parallel Cable</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TITLE5">
+        <source>SCSI Connectors</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TITLE7">
+        <source>PS/2 Ports</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TITLE8">
+        <source>Audio Ports</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TITLE9">
+        <source>Video Ports</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TITLE10">
+        <source>Connectors Activity</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_01">
+        <source>68-Pin SCSI Connector</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_02">
+        <source>50-Pin SCSI Connector</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_03">
+        <source>25-Pin SCSI Connector</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_04">
+        <source>Pin80</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_05">
+        <source>Pin2</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_06">
+        <source>Pin1</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_07">
+        <source>68</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_09">
+        <source>35</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_10">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_11">
+        <source>34</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_12">
+        <source>50</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_13">
+        <source>26</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_14">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_15">
+        <source>25</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_16">
+        <source>Line In</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_17">
+        <source>Microphone In</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_18">
+        <source>Line Out</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_19">
+        <source>Auxiliary In</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_20">
+        <source>gameport/MIDI</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_21">
+        <source>Mouse Port</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_22">
+        <source>VGA</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_23">
+        <source>DVI</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

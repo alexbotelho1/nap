@@ -1,0 +1,65 @@
+<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Densidade de porta</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Taxas de encaminhamento</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Agregação de link</B>]]></text> 
+</component>
+
+
+<component id="ID_title">
+  <text><![CDATA[<B>Desempenho</B>]]></text> 
+</component>
+
+<component id="ID_title2">
+  <text><![CDATA[<B>Densidade de porta é o número de portas disponíveis em um único switch.</B>]]></text> 
+</component>
+
+
+<component id="ID_bubble01">
+<text><![CDATA[<b>Portas agregadas para melhor desempenho</b>]]></text>
+</component>
+<component id="ID_bubble02">
+  <text><![CDATA[<b>Única porta</b>]]></text> 
+  </component>
+
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Switch de 24 portas</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Switch de 48 portas</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Switch modular com até mais de 1000 portas</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt04">
+  <text><![CDATA[<b>Switch Gigabit Ethernet de 24 portas</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt05">
+  <text><![CDATA[<b>Switch Gigabit Ethernet de 48 portas</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt06">
+  <text><![CDATA[<b><ul><li>Capaz de comutar 24 Gb/s de tráfego</li></ul></b>]]></text> 
+  </component>
+  
+  <component id="ID_txt07">
+  <text><![CDATA[<b><ul><li>Capaz de comutar 48 Gb/s de tráfego</li></ul></b>]]></text> 
+  </component>
+
+
+
+
+
+
+</textcomponents>

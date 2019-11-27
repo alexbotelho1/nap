@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="14_2_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Printer and Scanner Installation</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>Connect device </source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_01A">
+        <source>(USB, Firewire (IEEE 1384), LPT (IEEE 1284), Serial (RS232), Print Server)</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_02">
+        <source>Use Windows XP&apos;s PnP driver</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_03">
+        <source>Add software from manufacturer</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_04">
+        <source>Check for driver updates on the Internet</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_05">
+        <source>Change default settings</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_06">
+        <source>Make test print</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_07">
+        <source>Scan a picture</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_08">
+        <source>Print the scanned picture</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_09">
+        <source>Printer and Scanner Installation  </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

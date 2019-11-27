@@ -1,0 +1,58 @@
+<textcomponents>
+
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Preâmbulo</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Destino<br>Endereço</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Origem<br>Endereço</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Tipo</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Dados</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>FCS</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Tamanho do campo em bytes</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>Ethernet</b>]]></text>
+</component>
+
+<component id="ID_txt01_2">
+<text><![CDATA[<b>Preâmbulo</b>]]></text>
+</component>
+<component id="ID_txt02_2">
+<text><![CDATA[<b>Destino<br>Endereço</b>]]></text>
+</component>
+<component id="ID_txt03_2">
+<text><![CDATA[<b>Origem<br>Endereço</b>]]></text>
+</component>
+<component id="ID_txt04_2">
+<text><![CDATA[<b>Tamanho</b>]]></text>
+</component>
+<component id="ID_txt05_2">
+<text><![CDATA[<b>Cabeçalho e dados 802.2</b>]]></text>
+</component>
+<component id="ID_txt06_2">
+<text><![CDATA[<b>FCS</b>]]></text>
+</component>
+<component id="ID_txt07_2">
+<text><![CDATA[<b>Tamanho do campo em bytes</b>]]></text>
+</component>
+<component id="ID_txt08_2">
+<text><![CDATA[<b>IEEE 802.3</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Campos de quadro Ethernet</b>]]></text>
+</component>
+
+</textcomponents>

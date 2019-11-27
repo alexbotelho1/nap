@@ -1,0 +1,16 @@
+<textcomponents>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Neste capítulo, você aprendeu:</b></font></td></tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>As VLANs separam domínios de broadcast em switches.</li><li>As VLANs melhoram o desempenho, o gerenciamento e a segurança da rede.</li><li>Uma VLAN pode ser usada para  dados, voz e rede, além do tráfego de gerenciamento de rede.</li><li>Há três modos de associação diferentes: Estático, Dinâmico e VLAN de voz.</li><li>Os roteadores ou switches da Camada 3 são obrigatórios para a comunicação entre VLANs.</li><li>Os troncos permitem que várias VLANs percorram um único link para simplificar a comunicação intra-VLAN em vários switches.</li><li>IEEE 802.1Q é o protocolo de entroncamento padrão.</li><li>802.1Q usa um processo de quadro marcado para manter o tráfego VLAN separado na medida em que passa pelo link de tronco.</li><li>802.1Q não marca o tráfego VLAN nativo, o que pode resultar em problemas quando o entroncamento está configurado incorretamente.</li></ul></td>
+  </tr>
+</table>]]></text>
+</component>
+
+<component id="ID_title"><text><![CDATA[<b></b>]]></text>
+</component>
+</textcomponents>

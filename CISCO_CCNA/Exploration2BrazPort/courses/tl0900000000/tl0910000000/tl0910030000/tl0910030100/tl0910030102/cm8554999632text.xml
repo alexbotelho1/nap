@@ -1,0 +1,331 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para saber a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para ver a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+
+
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) Por que um protocolo de roteamento do vetor de distância é como um sinal de estrada?]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 10.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[Porque roteadores que usam protocolos de roteamento do vetor de distância têm apenas informações relativas à distância (métrica) da rede e ao roteador do próximo salto (vetor) para o qual esses pacotes devem ser encaminhados. Esses roteadores não visualizam a rede além dos vizinhos diretamente conectados a eles.]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2) Por que um protocolo de roteamento link-state é como um mapa de estrada?]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 10.1)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[Roteadores que usam protocolos de roteamento link-state trocam informações link-state. Isso permite que o algoritmo SPF crie uma árvore SPF ou um mapa topológico da rede. Esses roteadores visualizam a rede além dos vizinhos diretamente conectados a eles.]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q2_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) Que algoritmo os protocolos de roteamento link-state usam?]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 10.1)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[protocolos de roteamento link-state usam o algoritmo de caminho mais curto primeiro (SPF), que foi desenvolvido por E.W. Dijkstra. Esse algoritmo também é conhecido como algoritmo de Dijkstra.]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) Na terminologia link-state, o que é um link?]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 10.1)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[Um link é uma interface em um roteador.]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[5) Na terminologia de roteamento link-state, o que é um link-state? ]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[(de 10.1)]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[Um link-state são as informações relativas àquele link. Isso pode incluir o endereço IP do roteador, o tipo de rede, o custo do link, e se há algum roteador vizinho naquele link.]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q5_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[6) Na terminologia de roteamento link-state, o que é um vizinho e como vizinhos são detectados? ]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[(de 10.1)]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[Um vizinho é um roteador que compartilha um link, uma rede diretamente conectada com outro roteador. Roteadores detectam seus vizinhos usando os pacotes Hello de um protocolo de roteamento específico.]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q6_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+
+<!-- Question 7 -->
+
+
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[7) O que faz o processo de inundação link-state? Qual é o resultado desse processo?]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[(de 10.1)]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[Sempre que um roteador recebe um LSP de outro vizinho, esse roteador imediatamente envia o LSP para todas as interfaces, exceto a interface da qual o LSP foi recebido. O resultado é que todos os roteadores na área de roteamento recebem o LSP.]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q7_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 8 -->
+
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q8_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[8) Onde os LSPs são armazenados e como são usados?]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[(de 10.1)]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[Roteadores armazenam LSPs em bancos de dados link-state, também conhecidos como bancos de dados topológicos. O algoritmo SPF é executado com o uso desses LSPs para criar a árvore SPF e determinar o caminho mais curto para cada rede.]]></text>
+</component>
+<component id="ID_Q8_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q8_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 9 -->
+
+
+<component id="ID_Q9_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q9_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q9_txt03">
+<text><![CDATA[9) Protocolos de roteamento link-state enviam atualizações periódicas?]]></text>
+</component>
+<component id="ID_Q9_txt04">
+<text><![CDATA[(de 10.1)]]></text>
+</component>
+<component id="ID_Q9_txt05">
+<text><![CDATA[Não, protocolos de roteamento link-state não enviam atualizações periódicas comuns como o RIP e o IGRP. Roteadores OSPF enviam seus próprios LSPs a cada 30 minutos; porém isso é usado diferentemente de uma atualização periódica. Atualizações paranóicas são discutidas no capítulo em OSPF. Lembre-se: nem todos os protocolos de roteamento do vetor de distância enviam atualizações periódicas. O EIGRP não envia atualizações periódicas.]]></text>
+</component>
+<component id="ID_Q9_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q9_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 10 -->
+
+
+<component id="ID_Q10_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q10_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q10_txt03">
+<text><![CDATA[10) Quais são as vantagens de um protocolo de roteamento link-state, comparado com um protocolo do vetor de distância?]]></text>
+</component>
+<component id="ID_Q10_txt04">
+<text><![CDATA[(de 10.2)]]></text>
+</component>
+<component id="ID_Q10_txt05">
+<text><![CDATA[<ul><li>Uso de um mapa topológico, árvore SPF da rede.</li><li>Convergência mais rápida (EIGRP é uma exceção)</li><li>Nenhuma atualização periódica, ao contrário de alguns protocolos de roteamento do vetor de distância.</li><li>LSP específico inundado apenas quando há uma mudança na topologia.</li></ul>]]></text>
+</component>
+<component id="ID_Q10_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q10_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 11 -->
+
+
+<component id="ID_Q11_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q11_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q11_txt03">
+<text><![CDATA[11) Quais são os requisitos para o uso de um protocolo de roteamento link-state? O que pode ajudar a minimizar esses requisitos?]]></text>
+</component>
+<component id="ID_Q11_txt04">
+<text><![CDATA[(de 10.2)]]></text>
+</component>
+<component id="ID_Q11_txt05">
+<text><![CDATA[<ul><li>Mais memória para o banco de dados link-state.</li><li>Mais processamento de CPU para o algoritmo SPF.</li><li>Mais largura de banda para inundação de LSPs.</li></ul> Podem ser usadas áreas múltiplas para minimizar esses requisitos.]]></text>
+</component>
+<component id="ID_Q11_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q11_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 12 -->
+
+
+<component id="ID_Q12_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q12_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q12_txt03">
+<text><![CDATA[12) Quais são os dois protocolos de roteamento link-state comumente usados hoje no roteamento de IP.]]></text>
+</component>
+<component id="ID_Q12_txt04">
+<text><![CDATA[(de 10.2)]]></text>
+</component>
+<component id="ID_Q12_txt05">
+<text><![CDATA[<ul><li>Protocolo OSPF</li><li>Sistema intermediário para sistema intermediário (IS-IS)</li></ul>]]></text>
+</component>
+<component id="ID_Q12_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q12_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Isto conclui as perguntas da seção Problemas e Discussão deste capítulo.</b>]]></text>
+</component>
+
+
+</textcomponents>

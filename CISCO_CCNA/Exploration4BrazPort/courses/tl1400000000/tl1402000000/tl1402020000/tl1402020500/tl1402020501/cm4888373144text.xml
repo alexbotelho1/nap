@@ -1,0 +1,158 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>O processo de negociação de link LCP</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Estabelecendo o link</b>]]></text>
+</component>
+
+<!-- slide 1-->
+<!-- row 1 -->
+<component id="ID_txt01">
+<text><![CDATA[Iniciar configuração LCP]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[Concluir configuração]]></text> 
+</component>
+<component id="ID_txt03">
+<text><![CDATA[(configuração NCP)]]></text> 
+</component>
+<component id="ID_txt04">
+<text><![CDATA[Responder ao teste de eco]]></text> 
+</component>
+<component id="ID_txt05">
+<text><![CDATA[Enviar e receber dados]]></text> 
+</component>
+<component id="ID_txt06">
+<text><![CDATA[Receba a solicitação de fechamento de IP;<br />Notificar outro dispositivo]]></text> 
+</component>
+<component id="ID_txt07">
+<text><![CDATA[Finalizar link]]></text> 
+</component>
+
+<!-- row 2 -->
+<component id="ID_txt08">
+<text><![CDATA[Configure-Request LCP]]></text> 
+</component>
+<component id="ID_txt09">
+<text><![CDATA[Configure-Ack LCP]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[Configuração NCP]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[Echo-Request]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[Echo-Reply]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[Dados]]></text>
+</component>
+<component id="ID_txt14">
+<text><![CDATA[Code-Reject]]></text>
+</component>
+<component id="ID_txt15">
+<text><![CDATA[Dados]]></text>
+</component>
+<component id="ID_txt16">
+<text><![CDATA[Terminate-Request LCP]]></text>
+</component>
+<component id="ID_txt17">
+<text><![CDATA[Terminate-Ack LCP]]></text>
+</component>
+
+<!-- row 3 -->
+<component id="ID_txt18">
+<text><![CDATA[Processar solicitação de configuração]]></text>
+</component>
+<component id="ID_txt19">
+<text><![CDATA[(configuração NCP)]]></text>
+</component>
+<component id="ID_txt20">
+<text><![CDATA[Iniciar teste de loopback]]></text>
+</component>
+<component id="ID_txt21">
+<text><![CDATA[Confirmar funcionamento do link]]></text>
+</component>
+<component id="ID_txt22">
+<text><![CDATA[Enviar e receber dados]]></text>
+</component>
+<component id="ID_txt23">
+<text><![CDATA[Finalizar link]]></text>
+</component>
+
+<!-- legend -->
+<component id="ID_txt24">
+<text><![CDATA[<b>Troca de mensagens LCP</b>]]></text>
+</component>
+
+<component id="ID_txt25">
+<text><![CDATA[<b>Troca de mensagens NCP</b>]]></text>
+</component>
+
+
+<!-- slide 2 -->
+<component id="ID2_txt01">
+<text><![CDATA[Remetente envia uma mensagem <b><i>Configure-request</i></b>]]></text>
+</component>
+<component id="ID2_txt02">
+<text><![CDATA[Destinatário processa uma mensagem <b><i>Configure-request</i></b>]]></text>
+</component>
+<component id="ID2_txt03">
+<text><![CDATA[As opções são aceitáveis?]]></text>
+</component>
+<component id="ID2_txt04">
+<text><![CDATA[Destinatário envia uma mensagem <b><i>Configure-Ack</i></b>]]></text>
+</component>
+<component id="ID2_txt05">
+<text><![CDATA[Remetente recebe uma mensagem <b><i>Configure-request</i></b>]]></text>
+</component>
+<component id="ID2_txt06">
+<text><![CDATA[Destinatário envia uma mensagem <b><i>Configure-Nak</i></b>]]></text>
+</component>
+<component id="ID2_txt07">
+<text><![CDATA[Todas as opções são reconhecidas?]]></text>
+</component>
+<component id="ID2_txt08">
+<text><![CDATA[Dispositivos passam para a fase de <i>autenticação</i> (opcional)]]></text>
+</component>
+<component id="ID2_txt09">
+<text><![CDATA[A opção de autenticação está sendo utilizada?]]></text>
+</component>
+<component id="ID2_txt10">
+<text><![CDATA[Remetente processa resposta, determina novos parâmetros de negociação]]></text>
+</component>
+<component id="ID2_txt11">
+<text><![CDATA[Destinatário envia uma mensagem <b><i>Configure-Reject</i></b>]]></text>
+</component>
+<component id="ID2_txt12">
+<text><![CDATA[O link é estabelecido. NCP estabelece parâmetros da Camada 3]]></text>
+</component>
+<component id="ID_yes1">
+<text><![CDATA[Sim]]></text>
+</component>
+<component id="ID_no1">
+<text><![CDATA[Não]]></text>
+</component>
+<component id="ID_yes2">
+<text><![CDATA[Sim]]></text>
+</component>
+<component id="ID_no2">
+<text><![CDATA[Não]]></text>
+</component>
+<component id="ID_yes3">
+<text><![CDATA[Sim]]></text>
+</component>
+<component id="ID_no3">
+<text><![CDATA[Não]]></text>
+</component>
+<component id="ID_btn1">
+  <text><![CDATA[Estabelecimento de um link]]></text> 
+  </component>
+<component id="ID_btn2">
+<text><![CDATA[Negociação de link]]></text>
+</component>
+</textcomponents>

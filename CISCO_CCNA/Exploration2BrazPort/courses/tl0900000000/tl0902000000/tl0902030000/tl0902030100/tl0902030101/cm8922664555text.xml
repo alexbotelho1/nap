@@ -1,0 +1,31 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Clique para ver as tabelas de roteamento.</b>]]></text>
+</component>
+
+
+
+<component id="ID_Title02">
+<text><![CDATA[<b>Tabela de roteamento atual para R1</b>]]></text>
+</component>
+
+<component id="ID_Title03">
+<text><![CDATA[<b>Tabela de roteamento atual para R2</b>]]></text>
+</component>
+
+
+
+<component id="slide1">
+<text><![CDATA[<b>Tabela de roteamento R1</b>]]></text>
+</component>
+<component id="slide2">
+<text><![CDATA[<b>Tabela de roteamento R2</b>]]></text>
+</component>
+
+
+
+
+<component id="ID_buttonText">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,68 @@
+﻿<textcomponents>
+<component id="ID_caption01">
+<text><![CDATA[<b>Configurar o modo duplex e a velocidade</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[S1 - F0/1 é:<br/>Modo full duplex<br/>100 Mb/s]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[S2 - F0/1 é:<br/>Modo full duplex<br/>100 Mb/s]]></text>
+</component>
+
+<component id="tableHTML">
+  <text><![CDATA[
+ <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+ 	
+ 	<tr>
+ 		
+ 				<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Sintaxe de comando da CLI do Cisco IOS</b></font></td>
+ 				<td width="260" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b></b></font></td>
+ 	</tr>			
+
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Alterne do modo EXEC privilegiado para o modo de configuração global.</td>
+		<td width="260" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>S1#<b>configure terminal</b></font></td>
+			
+	</tr>
+	
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Entre no modo de configuração da interface.</td>
+		<td width="260" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>S1(config)#<b>Interface fastethernet 0/1</b></font></td>
+		
+				
+	</tr>
+	<tr>
+			
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Configure o modo duplex da interface para habilitar a configuração AUTO (auto-negociação).</td>
+		<td width="260" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>S1(config-if)#<b>duplex auto</b></font></td>
+		
+				
+	</tr>
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Configure a velocidade da interface e habilite a configuração de velocidade AUTO (auto-negociação).</td>
+		<td width="260" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>S1(config-if)#<b>speed auto</b></font></td>
+		
+				
+	</tr>
+	<tr>
+			
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Volte a modo EXEC privilegiado. </td>
+		<td width="260" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>S1(config-if)#<b>end</b></font></td>
+		
+				
+	</tr>
+	
+	<tr>
+			
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Salve a configuração de execução na configuração de inicialização do switch.</td>
+		<td width="260" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>S1#<b>copy running-config startup-config</b></font></td>		
+				
+	</tr>		
+	
+	
+</table>
+]]></text> 
+  </component>
+</textcomponents>

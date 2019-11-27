@@ -1,0 +1,45 @@
+<textcomponents>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Acesso aberto</b></font></td>
+	  	  	<td width="160" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>Criptografia da primeira geração</b></font></td>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Ínterim</b></font></td>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Presente</b></font></td>
+  </tr>
+  <tr bgcolor="#888888">
+	<td valign='top' glow='false' bgcolor='#888888' glowcolor='#FCA92E' type='dynamic'><font color="#FFFFFF"><b>SSID</b></font></td>
+        <td width="160" valign='top' bgcolor='#888888' glow='false' glowcolor='#FCA92E' type='dynamic'><font color="#FFFFFF"><b>WEP</b></font></td>
+    <td valign='top' glow='false' bgcolor='#888888' glowcolor='#FCA92E' type='dynamic'><font color="#FFFFFF"><b>WPA</b></font></td>
+        <td valign='top' glow='false' bgcolor='#888888' glowcolor='#FCA92E' type='dynamic'><font color="#FFFFFF"><b>802.11i/WPA2</b></font></td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Sem criptografia</li><li>Autenticação básica</li><li>Não é um processador de segurança</li></ul></td>
+	  <td width="160" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><ul><li>Nenhuma autenticação forte</li><li>Chaves estáticas, quebraveis</li><li>Não escalável</li></ul></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Padronizado</li><li>Criptografia aprimorada</li><li>Autenticação forte, com base no usuário (por exemplo, LEAP, PEAP, EAP-FAST)</li></ul></td><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Criptografia de AES</li><li>autenticação de 802.1X</li><li>Gerenciamento de chave dinâmico</li><li>WPA2 é a implementação Wi-Fi Alliance de 802.11i</li></ul></td>
+  </tr>
+</table>]]></text>
+</component>
+
+<component id="ID_title"><text><![CDATA[<b>Visão geral do protocolo de rede sem fio</b>]]></text>
+</component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Passos importantes para proteger WLANs</b>]]></text>
+</component>
+
+<component id="ID_txt03"><text><![CDATA[<b>1997</b>]]></text>
+</component>
+<component id="ID_txt04"><text><![CDATA[<b>Período de padrões interinos</b>]]></text>
+</component>
+<component id="ID_txt05"><text><![CDATA[<b>Presente</b>]]></text>
+</component>
+<component id="ID_txt06"><text><![CDATA[<b>Etapas provisórias:</b>]]></text>
+</component>
+<component id="ID_txt07"><text><![CDATA[<b>Cisco LEAP</b><br/>Chaves WEP dinâmicas<br/> Autenticação mútua]]></text>
+</component>
+<component id="ID_txt08"><text><![CDATA[<b>EAP 802.1x</b><br/>Chaves WEP dinâmicas<br/> Autenticação de usuário/RADIUS]]></text>
+</component>
+
+</textcomponents>

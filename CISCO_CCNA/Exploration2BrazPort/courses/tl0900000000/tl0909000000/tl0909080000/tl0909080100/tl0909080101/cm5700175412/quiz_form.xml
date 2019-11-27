@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13260" dateexported="07/12/2009">
+		<name>Teste do Módulo 9</name>
+		<form id="23017" lang="pt"><form-item order="fixed">
+			<ai id="73672" type="mc-sa"><question><![CDATA[Qual é a finalidade do PDM do EIGRP?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[PDM é o protocolo de camada 4 usado pelo EIGRP para compartilhar informações de roteamento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[PDM é o mecanismo usado pelo EIGRP para garantir a disponibilidade dos roteadores vizinhos. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[PDM é o mecanismo de algoritmo usado pelo EIGRP para criar tabelas de roteamento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[PDM oferece suporte modular aos protocolos de camada 3.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[PDM é a distância até um destino conforme relatada por um roteador vizinho. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="73917" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="73917" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Tabela de vizinhos (Neighbor table)</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Tabela de topologia (Topology table)</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Tabela de roteamento (Routing table)</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Rota sucessora (Successor route)</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Rota sucessora plausível (Feasible successor route)</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Rota de resumo (Summary route)</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>contém as rotas EIGRP a serem usadas para encaminhamento de pacotes</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>a rota principal a ser usada, selecionada pelo DUAL</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>a mais importante origem de dados do EIGRP, lista roteadores adjacentes</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>caminho de backup até uma rede de destino</mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>contém todas as rotas aprendidas para todas as redes de destino</mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="760"><material><mattext>Faça a correspondência entre os termos e conceitos do EIGRP e as descrições corretas, arrastando as opções da esquerda para os alvos corretos na direita. Nem todas as opções serão usadas.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-111.5" targetYspacing="16" yspacing="55" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="135"/><display componentIdent="3" xpos="200" ypos="195"/><display componentIdent="4" xpos="200" ypos="255"/><display componentIdent="5" xpos="200" ypos="315"/><display componentIdent="6" xpos="200" ypos="375"/></options><targets><display componentIdent="1" xpos="600" ypos="75"/><display componentIdent="2" xpos="600" ypos="127"/><display componentIdent="3" xpos="600" ypos="179"/><display componentIdent="4" xpos="600" ypos="231"/><display componentIdent="5" xpos="600" ypos="283"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident></scoringzone><scoringzone ident ="2"><componentident>2</componentident></scoringzone><scoringzone ident ="3"><componentident>3</componentident></scoringzone><scoringzone ident ="4"><componentident>4</componentident></scoringzone><scoringzone ident ="5"><componentident>5</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="obs1" maxvalue ="1"><title>sem título</title></decvar><interpretvar varname="obs1" view="All">nenhuma descrição fornecida</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="5"><componentident>2</componentident></scoringzonecontains></conditionvar><setvar varname="obs1" action="Set">1</setvar><scoringdescription>1 tabela de roteamento, rota sucessora, tabela de vizinhos, plausível, topologia</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="73628" type="mc-sa"><question><![CDATA[Qual tipo de pacote EIGRP é usado para descobrir, verificar e redescobrir roteadores vizinhos?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[acknowledgment ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[hello  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[query ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[reply ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="73634" type="mc-sa"><question><![CDATA[Se uma rota EIGRP ficar inoperante e se não for encontrada uma rota feasible successor na tabela de topologia, como o DUAL marca a rota que falhou?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[recomputed (recalculada) ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[passive (passiva) ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[active (ativa)  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[down (inoperante) ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[unreachable (inalcançável) ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[successor (sucessora) ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="73662" type="mc-ma"><question><![CDATA[Quais das tabelas a seguir são mantidas por um roteador que executa EIGRP? (Escolha três.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Tabela DUAL ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Tabela de distâncias plausíveis ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Tabela de vizinhos  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Tabela OSPF ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Tabela de roteamento  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Tabela de topologia  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="73670" type="mc-sa"><question><![CDATA[Qual é a finalidade das tabelas de vizinhos e de topologia do EIGRP?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[As tabelas de vizinhos e de topologia são usadas pelo DUAL para criar a tabela de roteamento.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A tabela de vizinhos é enviada a todos os roteadores vizinhos, que a utilizam para criar tabelas de topologia. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A tabela de topologia é enviada a todos os roteadores listados na tabela de vizinhos. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A tabela de vizinhos é usada pelo DUAL para criar a tabela de topologia. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A tabela de vizinhos é enviada por broadcast aos roteadores vizinhos, enquanto a tabela de topologia é enviada por broadcast a todos os outros roteadores. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159809" type="mc-sa"><question><![CDATA[Consulte a exibição. O que o valor 255/255 representa na saída? <br/><img src="i159809n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[o número de vezes em que o enlace esteve em funcionamento durante 255 polls ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[a taxa de falha do enlace em 255 segundos ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[a probabilidade do enlace continuar em funcionamento  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[um valor estático que representa a confiabilidade normal de um tipo de interface ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="159812" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="159812" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Sucessor viável</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Sucessor</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Distância relatada</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Distância viável</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Tabela de roteamento</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Tabela de topologia</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>um caminho de backup viável para uma rede  </mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>rota usada no encaminhamento de pacotes, sendo a rota de menor custo</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>menor métrica calculada para alcançar a rede de destino</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>tabela que contém sucessores e possíveis sucessores</mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>tabela que contém apenas sucessores</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="760"><material><mattext>Compare o termo DUAL (Diffusing Update Algorithm, Algoritmo de atualização por difusão) na coluna à direita com a definição correta na coluna à esquerda.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-117.5" targetYspacing="11" yspacing="50" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="135" /><display componentIdent="3" xpos="200" ypos="195" /><display componentIdent="4" xpos="200" ypos="255" /><display componentIdent="5" xpos="200" ypos="315" /><display componentIdent="6" xpos="200" ypos="375" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="127" /><display componentIdent="3" xpos="600" ypos="179" /><display componentIdent="4" xpos="600" ypos="231" /><display componentIdent="5" xpos="600" ypos="283" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><scoringzone ident="5"><componentident>5</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="198956" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="198956" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="5"><componentident>5</componentident></scoringzonecontains></conditionvar><setvar varname="198956" action="Set">1</setvar><scoringdescription>1 sucessor viável 2 sucessor 3 distância viável 4 tabela de topologia 5 tabela de roteamento</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="159811" type="mc-sa"><question><![CDATA[Um administrador de rede está solucionando um problema de roteamento do protocolo EIGRP. Que comando irá mostrar ao administrador todos os caminhos possíveis para um destino?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[<b>show ip route</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>show ip eigrp topology active</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>show ip eigrp neighbors detail</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[<b>show ip eigrp topology all-links</b>  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>show ip eigrp topology summary</b> ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159810" type="mc-sa"><question><![CDATA[Consulte a exibição. Que distância informada é o sucessor viável para o anúncio da rede 192.168.1.0? <br/><img src="i159810n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[28160 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[3014400 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[2172416  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[41026560 ]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam> 

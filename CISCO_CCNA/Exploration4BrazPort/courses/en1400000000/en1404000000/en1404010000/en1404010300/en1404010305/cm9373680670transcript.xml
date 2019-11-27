@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:43">
+<title><content-text><![CDATA[4.1.3  - Types of Network Attacks]]></content-text></title>
+<brief><content-text><![CDATA[The animation depicts malicious code attacks. The primary vulnerabilities for end-user workstations are worm, virus, and Trojan horse attacks.<br><br>Worm:<br>A worm executes arbitrary code and installs copies of itself in the infected computer's memory, which infects other hosts.<br><br>Virus:<br>A virus is malicious software that is attached to another program to execute a particular unwanted function on a user's workstation.<br><br>Trojan horse:<br>A Trojan horse is different only in that the entire application was written to look like something else, when, in fact, it is an attack tool.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

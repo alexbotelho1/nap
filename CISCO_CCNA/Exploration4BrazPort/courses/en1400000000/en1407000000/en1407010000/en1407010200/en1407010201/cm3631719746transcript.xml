@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:40">
+<title><content-text><![CDATA[7.1.2 - DHCP Operation]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts DCHP operation and the client-server processes that occur. A client PC is shown connected to a DHCP server through a switch.<br><br>Client / Server DCHP process:<br>Step 1. Discover: Client broadcasts a DHCP DISCOVER message.<br>Step 2. Offer: DHCP server sends a DHCP OFFER message as a unicast.<br>Step 3. Request: Client broadcasts a DHCP REQUEST message and says: "I have looked your offer over, and I accept it."<br>Step 4. Acknowledge: DHCP server sends a DHCP ACK message as a unicast and says: "We are good to go! Here is your configuration."<br><br>Client configuration received from DHCP Server:<br>IP address: 192.168.10.15<br>Subnet mask: 255.255.255.0<br>Default gateway: 192.168.10.1<br>DNS Servers: <br>Lease time: 3 days]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

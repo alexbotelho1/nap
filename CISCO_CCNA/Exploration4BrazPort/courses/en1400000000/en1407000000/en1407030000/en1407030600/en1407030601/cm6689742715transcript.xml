@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:05">
+<title><content-text><![CDATA[7.3.6 - Routing Configurations with IPv6]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts IPv6 routing considerations. A router is shown with an upper level plane through it labeled Control Plane and a lower level plane labeled Data Plane. Above the Control Plane are the terms ACL, Q o S, and so on.<br><br>On the Control Plane is a cloud labeled "View of Network Topology" and text bubbles pointing to it labeled Routing Table, Neighbor Information, and Network Management. <br><br>On the Data Plane is a packet being forwarded and the labels "Forwarding Mechanisms" and "Cisco Express Forwarding". An arrow labeled "Decision" comes down from the Control Plane to the Data Plane.<br><br>Control Plane Considerations:<br>-	IPv6 Address Size<br>-	Multiple IPv6 Node Addresses<br>-	IPv6 Routing Protocols<br>-	Routing Table Size<br><br>Forwarding Data Plane Considerations:<br>-	Parsing IPv6 Extension Headers<br>-	IPv6 Address Lookup<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,78 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Encapsulamento WAN</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Camada de rede (3)]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Camada de enlace de dados(2)]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Pacote IP (por exemplo, solicitação Web)]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Dados]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Endereço]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Controle]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[FCS]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Flag]]></text>
+</component>
+<component id="ID_txt08_2">
+<text><![CDATA[Flag]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Dados de rede são encapsulados em um quadro HDLC</b>]]></text>
+</component>
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para visualizar a animação.</b>]]></text>
+</component>
+
+<!-- controller -->
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+</textcomponents>

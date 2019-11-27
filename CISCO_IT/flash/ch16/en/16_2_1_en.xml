@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="16_2_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S3_TXT_1">
+        <source>1BAF55D000EF795...</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S3_TXT_2">
+        <source>1AG65B00BDE735...</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S4_TXT_1">
+        <source>TOKEN</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE1">
+        <source>Hash Encoding </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE2">
+        <source>Symmetric Encryption  </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TITLE3">
+        <source>Asymmetric Encryption</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TITLE4">
+        <source>Virtual Private Network </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_01">
+        <source>&quot;Here is the quote you requested...&quot;</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_02">
+        <source>A7DE89DCA00ACB...</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_03">
+        <source>Sender enters message
+to be hash encoded</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_04">
+        <source>If digest is not identical, message has been changed or tampered with</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_05">
+        <source>Hash algorithm 
+produces 
+message digest</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_06">
+        <source>Message  transmitted over 
+network (secure or unsecure)</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_07">
+        <source>Sender sends message digest along with message</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_08">
+        <source>Hash algorithm 
+(SHA or MD5) produces a message digest</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_09">
+        <source>Receiver recovers 
+sent message</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_10">
+        <source>A7DE89DCA00ACB...</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_11">
+        <source>&quot;Here is the quote you requested...&quot;</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_12">
+        <source>&quot;Here is the quote you requested...&quot;</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_13">
+        <source>A7DE89DCA00ACB...</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_14">
+        <source>Sender enters message
+to be hash encoded</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_15">
+        <source>Receiver enters identical secret key to decode encrypted message</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_16">
+        <source>Unsecure Network</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_17">
+        <source>Sender enters
+secret encryption
+key to encode
+message</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_18">
+        <source>Receiver recovers decrypted message</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_19">
+        <source>1AG65B00BDE735...</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_20">
+        <source>&quot;Here is the quote you requested...&quot;</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_21">
+        <source>Receiver enters sender&apos;s readily available public key to decode message</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_22">
+        <source>Sender enters
+secret private
+key to encode 
+message</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_23">
+        <source>Receiver provides valid token</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_24">
+        <source>Sender provides 
+valid token</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_25">
+        <source>Secure Tunnel through Unsecure Network</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_104">
+        <source>Sender enters message
+to be encrypted</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_108">
+        <source>Receiver 
+recovers
+message</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

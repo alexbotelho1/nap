@@ -1,0 +1,60 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>Componentes do VTP</B>]]></text> 
+</component>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Domínio de VTP</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Anúncios de VTP</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Modos de VTP</B>]]></text> 
+</component>
+
+<component id="ID_button_04">
+  <text><![CDATA[<B>Servidor de VTP</B>]]></text> 
+</component>
+
+<component id="ID_button_05">
+  <text><![CDATA[<B>Cliente de VTP</B>]]></text> 
+</component>
+
+<component id="ID_button_06">
+  <text><![CDATA[<B>VTP Transparente</B>]]></text> 
+</component>
+
+<component id="ID_button_07">
+  <text><![CDATA[<B>Corte de VTP</B>]]></text> 
+</component>
+
+<component id="ID_caption">
+  <text><![CDATA[<B></B>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<B>Domínio de VTP 1</B>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<B>Domínio de VTP 2</B>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<B>Servidor de VTP</B>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<B>Cliente de VTP</B>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<B>VTP Transparente</B>]]></text> 
+</component>
+
+
+</textcomponents>

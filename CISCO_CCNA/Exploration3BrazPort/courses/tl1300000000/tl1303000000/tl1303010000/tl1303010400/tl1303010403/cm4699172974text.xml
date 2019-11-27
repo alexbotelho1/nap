@@ -1,0 +1,150 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Controlando domínios de broadcast com VLANs e encaminhamento da camada 3</b>]]></text>
+</component>
+
+<component id="ID_title2">
+<text><![CDATA[<b>Encaminhamento da camada 3</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique no botão Reproduzir para avançar a animação.</b>]]></text>
+</component>
+
+<component id="ID_reply">
+<text><![CDATA[<b>Resposta ARP</b>]]></text>
+</component>
+
+<component id="ID_request">
+<text><![CDATA[<b>Solicitação ARP</b>]]></text>
+</component>
+
+<component id="ID_unicast">
+<text><![CDATA[<b>Quadro unicast</b>]]></text>
+</component>
+
+
+<component id="ID_button_01">
+<text><![CDATA[<b>Switch da camada 3</b>]]></text>
+</component>
+
+<component id="ID_button_02">
+<text><![CDATA[<b>Exemplo de encaminhamento da camada 3</b>]]></text>
+</component>
+
+<component id="ID_txt01_3.1.4.3">
+<text><![CDATA[<b>Switch da camada 3 Cisco 3750</b>]]></text>
+</component>
+
+<component id="ID_txt02_3.1.4.3">
+<text><![CDATA[<b>Ícone para uma switch da camada 3</b>]]></text>
+</component>
+
+<component id="ID_txt10_3.1.4.3">
+<text><![CDATA[<b>Etapa 1</b>]]></text>
+</component>
+
+<component id="ID_txt11_3.1.4.3">
+<text><![CDATA[<b>Etapa 2</b>]]></text>
+</component>
+
+<component id="ID_txt12_3.1.4.3">
+<text><![CDATA[<b>Etapa 3</b>]]></text>
+</component>
+
+<component id="ID_txt13_3.1.4.3">
+<text><![CDATA[<b>Etapa 4</b>]]></text>
+</component>
+
+<component id="ID_txt14_3.1.4.3">
+<text><![CDATA[<b>Etapa 5</b>]]></text>
+</component>
+
+<component id="ID_txt15_3.1.4.3">
+<text><![CDATA[<b>Etapa 6</b>]]></text>
+</component>
+
+<component id="ID_txt15b_3.1.4.3">
+<text><![CDATA[<b>Etapa 7</b>]]></text>
+</component>
+
+<component id="ID_txt16_3.1.4.3">
+<text><![CDATA[<b><font size='12'>SVI de<br/>VLAN 10</font></b>]]></text>
+</component>
+
+<component id="ID_txt17_3.1.4.3">
+<text><![CDATA[<b><font size='12'>Corpo docente<br/>VLAN 10 -<br/>172.17.10.21</font></b>]]></text>
+</component>
+
+<component id="ID_txt18_3.1.4.3">
+<text><![CDATA[<b><font size='12'>Corpo docente<br/>VLAN 10 -<br/>172.17.10.24</font></b>]]></text>
+</component>
+
+<component id="ID_txt19_3.1.4.3">
+<text><![CDATA[<b><font size='12'>Aluno<br/>VLAN 20 -<br/>172.17.20.22</font></b>]]></text>
+</component>
+
+<component id="ID_txt20_3.1.4.3">
+<text><![CDATA[<b><font size='12'>Aluno<br/>VLAN 20 -<br/>172.17.20.25</font></b>]]></text>
+</component>
+
+<component id="ID_txt21_3.1.4.3">
+<text><![CDATA[<b><font size='12'>Troncos VLAN configurados para suporte: VLAN 10, 20</font></b>]]></text>
+</component>
+
+<component id="ID_txt22_3.1.4.3">
+<text><![CDATA[<b><font size='12'>SVI de<br/>VLAN 20</font></b>]]></text>
+</component>
+
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<component id="play2">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause2">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind2">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward2">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute2">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute2"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous2"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next2">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript2">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+	<component id="ID_cont">
+		<text><![CDATA[Clique em Reproduzir para continuar.]]></text>
+	</component>
+
+</textcomponents>

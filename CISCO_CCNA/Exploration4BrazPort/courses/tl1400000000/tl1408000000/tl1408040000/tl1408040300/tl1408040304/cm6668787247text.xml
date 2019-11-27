@@ -1,0 +1,71 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Identificação e solução de problemas de Camada 2 (Frame Relay)</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[Clique para exibir as etapas de identificação e solução de problemas para tecnologia Frame Relay.]]></text> 
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Etapa 1</b>]]></text> 
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Etapa 2</b>]]></text> 
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Etapa 3</b>]]></text> 
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<b>Etapa 4</b>]]></text> 
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_txt01">
+<text><![CDATA[Verifique se todos os LEDs de status na unidade de CSU/DSU estão verdes.]]></text>
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[Use um testador de cabo para verificar a conexão física entre roteador e CSU/DSU.]]></text>
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[Etapa 1: Verifique a conexão física entre o CSU/DSU e o roteador.]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_S2_txt01">
+<text><![CDATA[<b>Sem erros</b>]]></text>
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[<b>Solicitações de status = mensagens de status recebidas</b>]]></text>
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[Etapa 2: Verifique se a troca de informações de LMI está correta entre cada roteador e o switch FR.]]></text>
+</component>
+
+<!-- slide 3 -->
+<component id="ID_S3_txt01">
+<text><![CDATA[Etapa 3: Verifique se o status PVC está ativo.]]></text>
+</component>
+
+<!-- slide 4 -->
+<component id="ID_S4_txt01">
+<text><![CDATA[<b>Incompatibilidade de encapsulamento!</b>]]></text>
+</component>
+
+<component id="ID_S4_txt02">
+<text><![CDATA[Etapa 4: Verifique se o encapsulamento de Frame Relay corresponde em ambos os roteadores.]]></text>
+</component>
+
+<!-- topology -->
+<component id="ID_top_txt01">
+<text><![CDATA[<b>Provedor de Frame Relay</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="1_3_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Power Supply</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Power Color Code</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Power Supply Capacitors</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE4">
+        <source>Ohm&apos;s Law Activity</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_01">
+        <source>Voltage</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_02">
+        <source>Wire Color</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_03">
+        <source>Use</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_04">
+        <source>Power Supply Form</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_05">
+        <source> AT          ATX         ATXv12</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_06">
+        <source>+12V</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_07">
+        <source>Yellow</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_08">
+        <source>Disk drive motors, fans, cooling devices, and the system bus slots</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_09">
+        <source>*</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_009">
+        <source>CAPACITORS</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_12">
+        <source>-12V</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_13">
+        <source>Blue</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_14">
+        <source>Some types of serial port circuits and early programmable read only memory (PROM)</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_15">
+        <source>+3.3V</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_16">
+        <source>Orange</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_17">
+        <source>Most newer CPUs, some types of system memory, and AGP video cards</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_18">
+        <source>+5V</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_19">
+        <source>Red</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_20">
+        <source>Motherboard, Baby AT and earlier CPUs, and many motherboard components</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_21">
+        <source>-5V</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_22">
+        <source>White</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_23">
+        <source>ISA bus cards and early PROMS</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_24">
+        <source>0V</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_25">
+        <source>Black</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_26">
+        <source>Ground -Used to complete circuits with the other voltages</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

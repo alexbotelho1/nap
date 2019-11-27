@@ -1,0 +1,72 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Clique nos botões para ver os slides.]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Sobrecarga de NAT</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Traduções de NAT</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Estatísticas de NAT</b>]]></text>
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<b>NAT apagado</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_title">
+<text><![CDATA[<b>Exemplo de configuração de sobrecarga de NAT</b>]]></text>
+</component>
+
+<component id="ID_S1_txt01">
+<text><![CDATA[<b>Rede<br/>interna</b>]]></text>
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_S2_title">
+<text><![CDATA[<b>Exemplo de traduções de NAT</b>]]></text>
+</component>
+
+<!-- slide 3 -->
+<component id="ID_S3_title">
+<text><![CDATA[<b>Exemplo de traduções de NAT</b>]]></text>
+</component>
+
+<!-- slide 4 -->
+<component id="ID_S4_title">
+<text><![CDATA[<b>Apagando as traduções de NAT</b>]]></text>
+</component>
+
+<component id="ID_S4_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Comando</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Descrição</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><b>clear ip nat translation *</b></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Limpa todas as entradas de tradução de endereço dinâmico da tabela de tradução de NAT</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><b>clear ip nat translation inside</b> <i>global-ip local-ip</i> [<b>outside</b> <i>local-ip global-ip</i>]</font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Limpa uma entrada de tradução dinâmica simples que contenha uma tradução interna ou uma tradução interna e externa</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><b>clear ip nat translation</b> <i>protocol</i> <b>inside</b> <i>global-ip global-port local-ip local-port</i> [<b>outside</b> <i>local-ip local-port global-ip global-port</i>]</font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Limpa uma entrada de tradução dinâmica estendida</td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

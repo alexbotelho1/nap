@@ -1,0 +1,68 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Temporizadores de BPDU</b>]]></text>
+</component>
+
+<component id="btn1">
+  <text><![CDATA[Temporizadores de BPDU]]></text> 
+</component>
+<component id="btn2">
+  <text><![CDATA[Funções e Temporizadores]]></text> 
+</component>
+
+<component id="btn3">
+  <text><![CDATA[Configurar diâmetro de rede]]></text> 
+</component>
+
+
+
+<!-- Slide 1 -->
+
+<component id="ID_txt02">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td colspan="2" valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>   </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td width="100" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b> Hello time</b></td>
+        <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>O hello time é o tempo entre cada quadro de BPDU que é enviado em uma porta. <br />Equivale a 2 segundos por padrão, mas pode ser ajustado para estar entre 1 e 10 segundos. </td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td width="100" valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><b>Forward delay </b></td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>O atraso de encaminhamento é o tempo gasto no estado de escuta e aprendizagem. <br />Equivale a 15 segundos para cada estado, por padrão, mas pode ser ajustado para estar entre 4 e 30 segundos. </td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td width="100" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b>Maximum age </b></td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>O temporizador de max age controla o período de tempo máximo em que uma porta de switch salva as informações do BPDU de configuração. <br />São 20 segundos por padrão, mas pode ser ajustado para estar entre 6 e 40 segundos. </td>
+  </tr>
+</table>]]></text> 
+  </component>
+  
+  
+<!-- Slide 2 -->
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Bloqueio</b><br/>(perda de BPDU detectada)<br/>(idade máxima = 20 segundos)]]></text> 
+  </component>
+  <component id="ID_txt04">
+  <text><![CDATA[<b>Escuta</b><br/>(atraso de encaminhamento = 15 segundos)]]></text> 
+  </component>
+  <component id="ID_txt05">
+  <text><![CDATA[<b>Aprendizagem</b><br/>(atraso de encaminhamento = 15 segundos)]]></text> 
+  </component>
+  <component id="ID_txt06">
+  <text><![CDATA[<b>Encaminhamento</b>]]></text> 
+  </component>
+  <component id="ID_txt07">
+  <text><![CDATA[<b>Bloqueio</b><br/>(muda para o estado de escuta depois de decidir se é a porta raiz ou uma porta designada)]]></text> 
+  </component>
+    <component id="ID_txt08">
+  <text><![CDATA[Ativa um link]]></text> 
+  </component>
+  
+  
+  
+  
+  
+  
+</textcomponents>

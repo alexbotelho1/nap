@@ -1,0 +1,5 @@
+<transcript lastedited="11.21.08 08:11:01">
+<title><content-text><![CDATA[3.1.4  - Frame Relay Topologies]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts two full mesh topologies. One uses leased-line, dedicated links, and one uses Frame Relay.<br><br>Full Mesh:<br>The diagram shows a full mesh topology with five locations. Each location has a link to the other four locations, resulting in four physical leased-lines per location. The locations are Toronto, New York, Dallas, Mexico City, and San Jose.<br><br>Frame Relay Full Mesh:<br>The diagram shows a full mesh topology with five locations. Each location has a single link physically connecting to the Frame Relay cloud. Each D T E has one physical link carrying four VC's. <br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

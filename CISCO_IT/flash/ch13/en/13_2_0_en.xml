@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="13_2_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_1">
+        <source>Repair Methods for Laptops and Portable Devices
+
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_2">
+        <source>CRU</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_3">
+        <source>FRU</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_4">
+        <source>Service Center</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_5">
+        <source>Manufacturer</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TITLE1">
+        <source>Repair Methods  </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

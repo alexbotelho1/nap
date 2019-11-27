@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="4_2_7.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CLICK 01">
+        <source>A caixa de diálogo Propriedades do sistema lista as propriedades de todos os dispositivos de hardware conectados à placa-mãe do laptop.  Isso pode ser de grande ajuda na solução de problemas de desempenho do laptop.    Para acessar as Propriedades do sistema, vá para </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CLICK 02">
+        <source>Iniciar &gt; Painel de controle &gt; Desempenho e manutenção &gt; Sistema</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CLICK 03">
+        <source>O Gerenciador de dispositivos lista todos os serviços conectados ao PC.  Os dispositivos com problemas são facilmente reconhecidos por um ponto de exclamação ao lado.  Para acessar o Gerenciador de dispositivos, vá para </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_CLICK 04">
+        <source>Iniciar &gt; Painel de controle &gt; Desempenho e manutenção &gt; Sistema &gt; Hardware &gt; Gerenciador de dispositivos</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_CLICK 05">
+        <source>O recurso Visualizador de eventos registra um histórico dos eventos relacionados aos aplicativos, à segurança e ao sistema. Esses arquivos de registro são uma valiosa ferramenta de solução de problemas. Para acessar o recurso Visualizador de eventos, vá para </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_CLICK 06">
+        <source>Iniciar &gt; Painel de controle &gt; Desempenho e manutenção &gt; Ferramentas administrativas &gt; Visualizador de eventos</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_CLICK 07">
+        <source>Todos os serviços executados no computador são listados nesta guia.  Use para interromper os serviços não desejados na inicialização.  Para acessar os Serviços, vá para </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_CLICK 08">
+        <source>Iniciar &gt; Painel de controle &gt; Desempenho e manutenção &gt; Ferramentas administrativas &gt; Serviços</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_CLICK 09">
+        <source>A caixa de diálogo Desempenho pode ser usada para ajustar o tamanho do arquivo de paginação ou o desempenho do sistema operacional. Para acessar o Gerenciador de dispositivos, vá para </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_CLICK 10">
+        <source>Iniciar &gt; Painel de controle &gt; Desempenho e manutenção &gt; Sistema &gt; Avançado &gt; Desempenho</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_CLICK 11">
+        <source>O utilitário Configuração do sistema (msconfig.exe) automatiza as etapas de solução de problemas de rotina e é usado para diagnosticar os problemas de configuração do sistema. Para acessar o utilitário Configuração do sistema, vá para </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_CLICK 12">
+        <source>Iniciar&gt; Executar, digite msconfig na caixa Abrir e clique em OK.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_CONTENT 01">
+        <source>Converse com o cliente sobre a solução implementada.
+
+Peça ao cliente para verificar se o problema foi solucionado.
+
+Forneça toda a documentação ao cliente.
+
+Documente as etapas para solucionar o problema na ordem de trabalho e no diário do técnico.
+
+Documente todos os componentes usados no reparo.
+
+Documente o tempo gasto para solucionar o problema.
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_ISLQ3-QCORRECT_TEXT">
+        <source>&lt;b&gt;Correto!&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_ISLQ3-QOPTION_TEXT1">
+        <source>Coletar dados do cliente</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_ISLQ3-QOPTION_TEXT2">
+        <source>Verificar os problemas óbvios</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_ISLQ3-QOPTION_TEXT3">
+        <source>Tentar aplicar primeiro soluções rápidas</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_ISLQ3-QOPTION_TEXT4">
+        <source>Coletar dados do computador</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_ISLQ3-QOPTION_TEXT5">
+        <source>Avaliar o problema e implementar a solução</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_ISLQ3-QOPTION_TEXT6">
+        <source>Encerrar a questão com o cliente</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_ISLQ3-QOPTION_TEXT7">
+        <source>Cumprimentar o cliente</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_ISLQ3-QOPTION_TEXT8">
+        <source>Pesquisar soluções primeiro</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_ISLQ3-QOPTION_TEXT9">
+        <source>Coletar dados de fontes externas</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_ISLQ3-QOPTION_TEXT10">
+        <source>Coletar soluções do cliente</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_ISLQ3-QQUESTION_TEXT">
+        <source>&lt;b&gt;Selecione sua resposta arrastando as opções até a posição desejada e clique em Verificar.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_ISLQ3-QSLOTLABEL_TEXT1">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_ISLQ3-QSLOTLABEL_TEXT2">
+        <source>2</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_ISLQ3-QSLOTLABEL_TEXT3">
+        <source>3</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_ISLQ3-QSLOTLABEL_TEXT4">
+        <source>4</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_ISLQ3-QSLOTLABEL_TEXT5">
+        <source>5</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_ISLQ3-QSLOTLABEL_TEXT6">
+        <source>6</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_ISLQ3-QTITLE_TEXT">
+        <source>Processo de solução de problemas</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_ISLQ3-QTRYAGAIN_TEXT">
+        <source>&lt;b&gt;Tente novamente.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_S1_TXT_1">
+        <source>Avaliar o problema e implementar a solução </source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_S1_TXT_2">
+        <source>O problema foi solucionado?
+                                                                               </source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_S1_TXT_3">
+        <source>Encerrar a questão com o cliente                                                                       </source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_S1_TXT_4">
+        <source>Experiência na solução do problema anterior do computador Outros técnicos Mecanismo de pesquisa na Internet Novos grupos Perguntas freqüentes do fabricante Manuais do computador Manuais do dispositivo Fóruns e chats on-line e Sites técnicos na Web</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_S1_TXT_5">
+        <source>• 
+
+• • • • • • • •                                                                         </source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_S1_TXT_6">
+        <source>Não                                                                       </source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_S1_TXT_7">
+        <source>Sim                                                                            </source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_S1_TXT_8">
+        <source>2,5 mW                                                                           </source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_S1_TXT_9">
+        <source>~33 pés (10 m)                                                                             </source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_S1_TXT_10">
+        <source>Classe 3                                                                           </source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_S1_TXT_11">
+        <source>1 mW                                                                              </source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_S1_TXT_12">
+        <source>~3 pés (1 m)                                                                          </source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_S2_TXT1">
+        <source>Propriedades do sistema  </source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_S2_TXT2">
+        <source>Gerenciador de dispositivos </source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_S2_TXT3">
+        <source>Visualizador de eventos   </source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_S2_TXT4">
+        <source>Serviços  </source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_S2_TXT5">
+        <source>Desempenho  </source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_S2_TXT6">
+        <source>MSCONFIG </source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_S2_TXT8">
+        <source>Recursos compartilhados dos computadores em rede</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_STEP 01">
+        <source>Coletar dados do cliente </source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_STEP 02">
+        <source>Verificar os problemas óbvios</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_STEP 03">
+        <source>Tentar aplicar primeiro soluções rápidas</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_STEP 04">
+        <source>Coletar dados do computador </source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_STEP 05">
+        <source>Avaliar o problema e implementar a solução</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_STEP 06">
+        <source>Encerrar a questão com o cliente</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_STEP NUMBER 01">
+        <source>Etapa 1</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_STEP NUMBER 02">
+        <source>Etapa 2</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_STEP NUMBER 03">
+        <source>Etapa 3</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_STEP NUMBER 04">
+        <source>Etapa 4</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_STEP NUMBER 05">
+        <source>Etapa 5</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_STEP NUMBER 06">
+        <source>Etapa 6</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_TITLE1">
+        <source>Encerrar a questão com o cliente </source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_TITLE2">
+        <source>Processo de solução de problemas</source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_TITLE3">
+        <source>Gerenciador de dispositivos </source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>Processo de solução de problemas </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

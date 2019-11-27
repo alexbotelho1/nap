@@ -1,0 +1,12 @@
+<textcomponents>
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Neste capítulo, você aprenderá a:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Descrever os conceitos fundamentais da comunicação serial ponto-a-ponto.</li><li>Descrever os principais conceitos PPP.</li><li>Configurar encapsulamento PPP.</li><li>Explicar e configurar autenticação PAP e CHAP.</li></ul><BR/></td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

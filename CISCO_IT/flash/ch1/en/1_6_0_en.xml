@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="1_6_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>• Problem Solving Experience
+• Other Technicians
+• Internet Search
+• News Groups
+• Manufacturer FAQs
+• Computer Manuals
+• Device Manuals
+• Online Forums
+• Technical Websites</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_NETWORK ">
+        <source>Network </source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_1">
+        <source>Evaluate the Problem and Implement the Solution </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_2">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_002">
+        <source>Is the Problem Solved?</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_3">
+        <source>Close with
+ the Customer                                                                       </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_4">
+        <source>Previous computer problem solving experience
+Other technicians
+Internet search engine
+News groups
+Manufacturer FAQs
+Computer manuals
+Device manuals
+Online forums and chat
+Technical websites</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_5">
+        <source>•  </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_005">
+        <source>•  </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_006">
+        <source>NO</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_7">
+        <source>Yes                                                                            </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TITLE1">
+        <source>Digital Cameras</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TITLE1SS">
+        <source>Troubleshooting Process </source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TITLE2">
+        <source>Fingerprint Scanner</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TITLE3">
+        <source>Fingerprint Scanner</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TITLE4">
+        <source>Touch Screen</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TITLE5">
+        <source>Input Device Activity</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TITLE7">
+        <source>PS/2 </source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TITLE8">
+        <source>Audio</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TITLE9">
+        <source>Video Ports</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TITLE10">
+        <source>Connectors Activity</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_00">
+        <source>Gather data from the Customer</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_001">
+        <source>Evaluate the Problem and Implement the Solution </source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_002">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

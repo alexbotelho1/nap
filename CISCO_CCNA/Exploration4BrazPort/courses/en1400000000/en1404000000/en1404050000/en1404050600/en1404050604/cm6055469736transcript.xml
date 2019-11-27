@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:41">
+<title><content-text><![CDATA[4.5.6  - Troubleshooting Cisco I O S Configurations]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts considerations when using the debug command.<br><br>- debug gets CPU priority. Plan debug use carefully.<br>- debug can help resolve persistent issues, outweighing its effect on network performance.<br>- debug can generate too much output. Know what you are looking for before you start.<br>- Different debugs generate different output formats. Do not be caught by surprise.<br>- Plan the use of the debug command. Use it with great care.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:28">
+<title><content-text><![CDATA[4.4.6  - Locking Down a Router with Cisco SDM]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts locking down a router with Cisco SDM. Multiple steps are required as follows:<br><br>Step 1. Select Configure.<br>Step 2. Select Security Audit.<br>Step 3. Click One-step lockdown.<br>Step 4. In the SDM Warning dialog box, select yes.<br>Step 5. SDM reviews the current configuration and compares against best-known security practices. <br>Step 6. SDM displays a list of recommenced settings.<br>Step 7. The commands are prepared for delivery to the router.<br>Step 8. The commands are delivered to the router.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

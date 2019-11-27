@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="9_3_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>The computer is on and the CPU is running.</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CONTENT 02">
+        <source>ACPI Standard</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CONTENT 03">
+        <source>Power Management State:</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_CONTENT 04">
+        <source>The computer not running. However the CPU and RAM are still receiving power.</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_CONTENT 05">
+        <source>The CPU is off, but the RAM is refreshed. The system is in a lower mode than S1.</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_CONTENT 06">
+        <source>The CPU is off, and the RAM is set to a slow refresh rate. This mode is often called &quot;Save to RAM&quot;. In Windows XP, this state is known as the Standby mode.</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_CONTENT 07">
+        <source>The CPU and RAM are off. The contents of RAM have been saved to a temporary file on the hard disk. This mode is also called &quot;Saved to Disk&quot;.    In Windows XP, this state is known as the Hibernate mode.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_CONTENT 08">
+        <source>The computer is off and nothing has been saved.</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_STEP 01">
+        <source>S0</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_STEP 02">
+        <source>S1</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_STEP 03">
+        <source>S2</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_STEP 04">
+        <source>S3</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_STEP 05">
+        <source>S4</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_STEP 06">
+        <source>S5</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TITLE1">
+        <source>Secured Connection
+</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TITLE2">
+        <source>Firewall
+</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TITLE3">
+        <source>FAT32 and NTFS Comparison</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TITLE4">
+        <source>Offsite Data Backup Storage</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TITLE5">
+        <source>File System Comparison</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TITLE6">
+        <source>Critical Battery Alarm Actions</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>ACPI Standards Define the Power Management States</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_01">
+        <source>Security</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_02">
+        <source>Compatibility</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_03">
+        <source>File Size</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_04">
+        <source>Files Per Volume</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_05">
+        <source>File Size Efficiency</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_06">
+        <source>Reliability</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_07">
+        <source>Little Security</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_08">
+        <source>Compatible with Windows 95/98/ME can be read/written to by Linux, Mac OS users as well.</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_09">
+        <source>Limit 4 GB files / 32 GB volumes.</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_10">
+        <source>4.17 million</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_11">
+        <source>Large clusters waste some space.</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_12">
+        <source>File allocation Tables  (FAT) are non-journaling (do not record file transfer history for use in re-construction after errors).</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_13">
+        <source>File and Folder Level permissions, encryption.</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_14">
+        <source>Only compatible with Windows (NT, 2000, XP, Vista); Linux/Unix read only.</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_15">
+        <source>Limit of 16 Terabyte files/ 256 Terabyte volumes.</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_16">
+        <source>4,29 billion (4,294,967,295)</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_17">
+        <source>Smaller clusters use more of the available space; built in compression maximises space.</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_18">
+        <source>New Technology File System (NTFS) includes journaling to rebuild after errors.</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

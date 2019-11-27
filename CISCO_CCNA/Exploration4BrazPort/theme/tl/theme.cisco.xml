@@ -1,0 +1,45 @@
+<theme>
+	<language><content-text>Português</content-text></language>
+	<nindex><content-text>Índice do curso</content-text></nindex>
+	<nsearch><content-text>Pesquisar</content-text></nsearch>
+	<nglossary><content-text>Glossário</content-text></nglossary>
+	<ntools><content-text>Ferramentas globais</content-text></ntools>
+	<ntranslate><content-text>Alterar idioma para</content-text></ntranslate>
+	<next><content-text>Avançar</content-text></next>
+	<prev><content-text>Voltar</content-text></prev>
+	<copyright><content-text>All contents copyright © 2007-2009 Cisco Systems, Inc. | Traduzido por Cisco Networking Academy.</content-text></copyright>
+	<copyrightnotrans><content-text>All contents copyright © 2007-2009 Cisco Systems, Inc. </content-text></copyrightnotrans>
+	<about><content-text>Sobre</content-text></about>
+	<abouttitle><content-text>Sobre</content-text></abouttitle>
+	<indextitle><content-text>Índice do curso</content-text></indextitle>
+	<searchtitle><content-text>Pesquisar</content-text></searchtitle>
+	<glossaryseealso><content-text>Consulte também: </content-text></glossaryseealso>
+	<glossarytitle><content-text>Glossário</content-text></glossarytitle>
+	<globaltitle><content-text>Ferramentas globais</content-text></globaltitle>
+	<indexoutline><content-text>Estrutura</content-text></indexoutline>
+	<indexactivity><content-text>Atividades</content-text></indexactivity>
+	<indexlab><content-text>Laboratórios</content-text></indexlab>
+	<indexmainmenu><content-text>Menu do curso</content-text></indexmainmenu>
+	<indexcourseall><content-text>Todo o curso</content-text></indexcourseall>
+	<searchline><content-text>Informe os termos de pesquisa aqui</content-text></searchline>
+	<searchbtn><content-text>Pesquisar</content-text></searchbtn>
+	<indexpage><content-text>Página</content-text></indexpage><!-- to change position of page number in lists insert {{$PAGEVAR}} into text.  Ex. <content-text>pre {{$PAGEVAR}} post</content-text> will display "pre 1 post" -->
+	<!-- added -->
+	<selectbtn><content-text>Selecionar</content-text></selectbtn>
+	<resetbtn><content-text>Resetar</content-text></resetbtn>
+	<searchfield><content-text>Campo de pesquisa</content-text></searchfield>
+	<searchresults><content-text>Resultados de pesquisa</content-text></searchresults>
+	<nomatch><content-text>Nenhuma correspondência encontrada</content-text></nomatch>
+	<closesearch><content-text>Fechar pesquisa</content-text></closesearch>
+	<glossaryindex><content-text>Índice do glossário</content-text></glossaryindex>
+	<termlabel><content-text>Termo</content-text></termlabel>
+	<deflabel><content-text>Definição</content-text></deflabel>
+	<closeglossary><content-text>Fechar glossário</content-text></closeglossary>
+	<togglelangto><content-text>Alternar idioma para</content-text></togglelangto>
+	<notranscript><content-text>Nenhuma transcrição disponível para este item.</content-text></notranscript>
+	<gotonext><content-text>Ir para a próxima</content-text></gotonext>
+	<gotoprev><content-text>Ir para a anterior</content-text></gotoprev>
+	<scrolltop><content-text>Ir para a parte superior</content-text></scrolltop>
+	<viewtranscript><content-text>Mostrar transcrição do texto de meio</content-text></viewtranscript>
+	<viewmedia><content-text>Exibir meio visual</content-text></viewmedia>
+</theme>

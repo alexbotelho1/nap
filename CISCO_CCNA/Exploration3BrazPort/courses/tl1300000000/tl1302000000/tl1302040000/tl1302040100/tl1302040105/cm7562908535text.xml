@@ -1,0 +1,8 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[O sistema foi interrompido antes de inicializar o sistema de arquivos da memória flash. Os comandos a seguir inicializarão o sistema de arquivos de memória flash e concluirão o carregamento do software do sistema operacional:]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Habilitar recuperação de senha</b>]]></text> 
+  </component>
+</textcomponents>

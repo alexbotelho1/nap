@@ -1,0 +1,119 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Os campos BPDU</b>]]></text>
+</component>
+<component id="ID_table">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	    	  <td width="80" valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><b><font color="#FFFFFF">Campo #</font></b></td>
+	  	  <td width="80" valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><b><font color="#FFFFFF">Bytes</font></b></td>
+	  	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><font color="#FFFFFF">Campo</font></b></td>
+	  	  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td rowspan="4" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>1-4</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><div align="left">2</div></td>
+        <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><div align="left">ID de protocolo</div></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>1</td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Versão</td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>1</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Tipo de mensagem</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>1</td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Flags</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td rowspan="4" valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>5-8</td>
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>8</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>ID de raiz</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>4</td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Custo de caminho</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>8</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>ID de bridge</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>2</td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>ID de porta</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td rowspan="4" valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>9-12</td>
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>2</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Idade da mensagem</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>2</td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Idade máx.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>2</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Tempo hello</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>2</td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Atraso de encaminhamento</td>
+  </tr>
+</table>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Passe o mouse sobre os campos de BPDU.</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[Campos BPDU]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[Exemplo de BPDU]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[O campo ID de protocolo indica o tipo de protocolo utilizado. Este campo contém o valor zero.]]></text> 
+</component>
+<component id="ID_txt07">
+  <text><![CDATA[O campo Versão indica o versão do protocolo. Este campo contém o valor zero.]]></text> 
+</component>
+<component id="ID_txt08">
+  <text><![CDATA[O campo Tipo de mensagem indica o tipo de mensagem. Este campo contém o valor zero.]]></text> 
+</component>
+<component id="ID_txt09">
+  <text><![CDATA[O campo Flags inclui um dos seguintes:<br/>Bit de mudança de topologia (TC), que sinaliza uma mudança na topologia no caso de um caminho para a bridge raiz ser interrompido.<br/>Bit de confirmação de mudança de topologia (TCA), que é definido para confirmar o recebimento de uma mensagem de configuração com o conjunto de bits de TC.]]></text> 
+</component>
+<component id="ID_txt10">
+  <text><![CDATA[O campo ID de raiz indica a bridge raiz listando sua prioridade de 2 bytes seguida por sua ID de endereço MAC de 6 bytes. Quando um switch inicializar pela primeira vez, a root ID é igual à ID de bridge. Entretanto, como ocorre o processo de eleição, a ID de bridge mais baixa substitui a root ID local para identificar o switch de bridge raiz.]]></text> 
+</component>
+<component id="ID_txt11">
+  <text><![CDATA[O campo Custo de caminho indica o custo do caminho da bridge que envia a mensagem de configuração até a bridge raiz. O campo custo de caminho é atualizado por cada switch ao longo do caminho para a bridge raiz.]]></text> 
+</component>
+<component id="ID_txt12">
+  <text><![CDATA[O campo ID de bridge indica a prioridade e a ID de endereço MAC da bridge que envia a mensagem. Este rótulo serve para que a bridge raiz identifique onde o BPDU foi originado, bem como para identificar os vários caminhos do switch até a bridge raiz. Quando a bridge raiz recebe mais de um BPDU de um switch com custos de caminho diferentes, ele sabe que existem dois caminhos distintos e utiliza o de menor custo.]]></text> 
+</component>
+<component id="ID_txt13">
+  <text><![CDATA[O campo ID de porta indica o número da porta da qual a mensagem de configuração foi enviada. Este campo permite que os loops criados por diversas bridges anexadas sejam detectados e corrigidos.]]></text> 
+</component>
+<component id="ID_txt14">
+  <text><![CDATA[O campo Idade da mensagem indica a quantidade de tempo que decorreu desde que a raiz enviou a mensagem de configuração na qual a mensagem de configuração atual está baseada.]]></text> 
+</component>
+<component id="ID_txt15">
+  <text><![CDATA[O campo Idade máx. indica quando a mensagem de configuração atual deve ser excluída. Quando a idade de mensagem alcançar a idade máxima, o switch expira a configuração atual e inicia uma nova eleição para determinar uma nova bridge raiz, desde que ele suponha que ela tenha sido desconectada da bridge raiz. São 20 segundos por padrão, mas pode ser ajustado para valores entre 6 e 40 segundos.]]></text> 
+</component>
+<component id="ID_txt16">
+  <text><![CDATA[O campo Tempo hello indica o tempo entre as mensagens de configuração da bridge raiz. O intervalo define quanto tempo a bridge raiz espera entre os envios dos BPDUs das mensagens de configuração. Equivale a 2 segundos por padrão, mas pode ser ajustado para valores entre 1 e 10 segundos.]]></text> 
+</component>
+<component id="ID_txt17">
+  <text><![CDATA[O campo Atraso de encaminhamento indica o período de tempo que os bridges devem esperar antes de fazer a transição para um novo estado após uma mudança na topologia. Se uma bridge fizer a transição muito cedo, é possível que nem todos os links de rede estejam prontos para mudar seu estado, podendo resultar em loops. Equivale a 15 segundos para cada estado, por padrão, mas pode ser ajustado para valores entre 4 e 30 segundos.]]></text> 
+</component>
+
+<component id="ID_txt18">
+  <text><![CDATA[<b>     </b>]]></text> 
+</component>
+
+
+
+
+
+</textcomponents>

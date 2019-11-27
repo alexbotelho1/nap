@@ -1,0 +1,60 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Identificação e solução de problemas de Camada 2 (PPP)</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[Clique para exibir as etapas de identificação e solução de problemas para tecnologia PPP.]]></text> 
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Etapa 1</b>]]></text> 
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Etapa 2</b>]]></text> 
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Etapa 3</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_01">
+<text><![CDATA[<b>Problema: O encapsulamento de R2 foi configurado incorretamente como HDLC.</b>]]></text> 
+</component>
+
+<component id="ID_txt02_01">
+<text><![CDATA[<b>Etapa 1: Verifique se o encapsulamento correto está sendo usado nas duas extremidades.</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>O encapsulamento de R2 foi corrigido para PPP. "LCP Aberto" mostra que as negociações de LCP tiveram sucesso.</b>]]></text> 
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>Etapa 2: Confirme que as negociações de LCP (Link Control Protocol) foram bem-sucedidas.</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_03">
+<text><![CDATA[<b>Problema: a autenticação CHAP foi configurada incorretamente em R1.</b>]]></text> 
+</component>
+
+<component id="ID_txt02_03">
+<text><![CDATA[<b>Etapa 3. Verifique a autenticação nos dois lados do link.</b>]]></text> 
+</component>
+
+<component id="ID_txt03_03">
+<text><![CDATA[<b>Autenticação?</b>]]></text> 
+</component>
+
+
+
+<!-- topology -->
+<component id="ID_top_txt01">
+<text><![CDATA[<b>PPP</b>]]></text>
+</component>
+
+</textcomponents>

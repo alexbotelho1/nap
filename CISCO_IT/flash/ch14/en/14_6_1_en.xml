@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="14_6_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>Customer Information
+  •  Company Name
+  •  Contact Name
+  •  Address
+  •  Phone Number
+
+Printer Configuration
+  •  Printer Manufacturer and Model
+  •  Connection Type
+  •  Print Server Manufacturer and Model
+  •  Customer operating system
+  •  Printer Driver and software information
+
+Problem Description</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE1">
+        <source>Open-Ended Questions</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE4">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE5">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE6">
+        <source>Evaluate the Problem and Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TITLE7">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_01">
+        <source>What type of printer do you have?
+
+What type of paper are you using?
+
+What problems are you experiencing with this printer? 
+
+What error messages have you received? 
+
+What changes have been made recently? 
+
+What have you done to maintain the printer? </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_02">
+        <source>Does the problem appear on every page? 
+
+Has the paper been changed recently? 
+
+How old is the printer? 
+
+Is the problem only with this printer? 
+
+What application were you using? 
+
+Does the problem occur when you use other applications? </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_03">
+        <source>What make and model of printer is it? 
+
+Is the printer local or networked? 
+
+What is the location of the printer? </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_04">
+        <source>Check that the data cable is the correct cable and installed correctly.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_04A">
+        <source>Make sure that the printer is not plugged into a UPS.</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_04B">
+        <source>Check that the glass surfaces are not dirty 
+on the printer or scanner.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_04C">
+        <source>Make sure that the toner cartridge is full.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_04D">
+        <source>Check the age of the toner cartridge. </source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_04E">
+        <source>Make sure that the ink cartridge is full.</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_04F">
+        <source>Make sure that the wiper bar and the inside 
+of the printer are clean. </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_04G">
+        <source>Check that the scanner arm is not taped or 
+blocked in place.</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_05">
+        <source>Restart the equipment.</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_05A">
+        <source>Cycle the power.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_05B">
+        <source>Clear jobs in the printer queue.</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_05C">
+        <source>Restart the print spooler service.</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_05D">
+        <source>Remove and reinsert data cables.</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_05E">
+        <source>Shake the toner cartridge.</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_05F">
+        <source>Reinstall printer software.</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_05G">
+        <source>Reinsert paper.</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_05H">
+        <source>Remove tape from inkjet cartridge nozzles.</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_06">
+        <source>Problem solving experience</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_06A">
+        <source>Other technicians</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_06B">
+        <source>Internet search</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_06C">
+        <source>News groups</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_06D">
+        <source>Manufacturer FAQs</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_06E">
+        <source>Computer manuals</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_06F">
+        <source>Device manuals</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_06G">
+        <source>Online forums</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_06H">
+        <source>Technical websites</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_07">
+        <source>Discuss solution implemented with customer.</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_07A">
+        <source>Have customer verify that the problem has been solved.</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_07B">
+        <source>Provide customer with all paperwork.</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_07C">
+        <source>Document steps taken to solve the problem in the work order and the technician’s journal.</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_07D">
+        <source>Document any components used in the repair.</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_07E">
+        <source>Document time spent to resolve the problem.</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_70">
+        <source>Printer settings</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_71">
+        <source>Network settings</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TXT_72">
+        <source>Device manager</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TXT_73">
+        <source>Errors in queue</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TXT_74">
+        <source>User permissions</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TXT_75">
+        <source>Application print settings</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TXT_B1">
+        <source>Gather Data from the Customer </source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TXT_B2">
+        <source>Verify the Obvious Issues </source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TXT_B3">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TXT_B4">
+        <source>Gather data
+from the
+computer</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TXT_B5">
+        <source>Evaluate the
+problem and
+implement the
+solution</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TXT_B6">
+        <source>Close with
+the Customer</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TXT_HEADING1">
+        <source>List of open-ended questions about printer and scanner errors. (This list is NOT comprehensive.)</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TXT_HEADING2">
+        <source>List of closed-ended questions about printer and scanner errors. (This list is NOT comprehensive.)</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TXT_HEADING3">
+        <source>Troubleshooting Process </source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TXT_STEP1">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_TXT_STEP2">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_TXT_STEP3">
+        <source>Step3</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_TXT_STEP4">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_TXT_STEP5">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_TXT_STEP6">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_TITLE3">
+        <source>Verify the Obvious Solutions</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

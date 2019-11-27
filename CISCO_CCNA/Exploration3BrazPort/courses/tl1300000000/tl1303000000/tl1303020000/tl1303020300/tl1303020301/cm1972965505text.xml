@@ -1,0 +1,75 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[Porta F0/3 é configurada com <font face='_typewriter'><b>switchport mode dynamic auto</b></font>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[Porta F0/3 é configurada com <font face='_typewriter'><b>switchport mode dynamic auto</b></font>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[Porta F0/1 é configurada com <font face='_typewriter'><b>switchport mode trunk</b></font>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[Porta F0/1 é configurada com <font face='_typewriter'><b>switchport mode trunk</b></font>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[Este link é um tronco.<br/><br/>As portas são configuradas com <font face='_typewriter'><b>switchport mode trunk</b></font> força, de fato, ambas as portas a permanecer no modo de tronco.]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[Este link não é um tronco.<br/><br/>As portas são configuradas com <font face='_typewriter'><b>switchport mode dynamic auto</b></font> resulta em um link de tronco inativo.]]></text> 
+  </component>
+<component id="btn1">
+<text><![CDATA[Configuração de porta inicial]]></text>
+</component>
+<component id="btn2">
+<text><![CDATA[Qual link será configurado como um tronco?]]></text>
+</component>
+<component id="btn3">
+<text><![CDATA[Modos DTP]]></text>
+</component>
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'> </td>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b><font  color="#FFFFFF">Dinâmico automático</font></b></td>
+	   	    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b><font color="#FFFFFF">Dinâmico desejável</font></b></td>
+	   	    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b><font color="#FFFFFF">Tronco</font></b></td>
+	   	    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b><font color="#FFFFFF">Acesso</font></b></td>
+    	</tr>
+	<tr>
+		<td bgcolor='#666666' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b><font  color="#FFFFFF">Dinâmico automático</font></b></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Acesso</td>	
+	    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Tronco</td>
+	    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Tronco</td>
+	    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Acesso</td>
+	</tr>
+	<tr>
+		<td bgcolor='#333333' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b><font color="#FFFFFF">Dinâmico desejável</font></b></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Tronco</td>	
+	    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Tronco</td>
+	    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Tronco</td>
+	    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Acesso</td>
+	</tr>
+	<tr>
+	  <td bgcolor='#666666' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b><font color="#FFFFFF">Tronco</font></b></td>
+	  <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Tronco</td>
+      <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Tronco</td>
+      <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Tronco</td>
+      <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Não recomendado</td>
+  </tr>
+	<tr>
+	  <td bgcolor='#333333' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b><font color="#FFFFFF">Acesso</font></b></td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Acesso</td>
+      <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Acesso</td>
+      <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Não recomendado</td>
+      <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Acesso</td>
+  </tr>
+	<tr>
+	  <td colspan="5" valign='top' bgcolor='#FFFFFF' glow='false' glowcolor='#FCA92E' type='dynamic'><b>Nota: A tabela supõe que DTP esteja habilitado em ambas as extremidades.</b><br /><font face="_typewriter"><b>* show dtp interface</b></font> - para determinar as configurações atuais</td>
+  </tr>
+	</table>
+    ]]></text>
+</component>
+<component id="ID_title">
+<text><![CDATA[Interações do modo de porta de switch DTP]]></text>
+</component>
+</textcomponents>

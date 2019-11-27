@@ -1,0 +1,29 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Sobre a área do roteador</b>]]></text>
+</component>
+
+<component id="ID_inst01">
+<text><![CDATA[<b>Clique nos botões à esquerda para ampliar as áreas do gráfico.</b>]]></text>
+</component>
+
+
+<component id="ID_button1">
+  <text><![CDATA[<b>Main</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Host<br/>Name</b>]]></text> 
+</component>
+<component id="ID_button3">
+  <text><![CDATA[<b>About Your<br/>Router</b>]]></text> 
+</component>
+<component id="ID_button4">
+  <text><![CDATA[<b>Hardware</b>]]></text> 
+</component>
+<component id="ID_button5">
+  <text><![CDATA[<b>Software</b>]]></text> 
+</component>
+
+
+</textcomponents>

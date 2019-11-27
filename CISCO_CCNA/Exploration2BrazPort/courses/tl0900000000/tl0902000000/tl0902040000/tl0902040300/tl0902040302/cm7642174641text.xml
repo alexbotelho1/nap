@@ -1,0 +1,33 @@
+<textcomponents>
+<component id="ID_title01">
+<text><![CDATA[<b>Configurando rotas estáticas R2 e R3</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Verificando se as rotas estáticas estão nas tabelas de roteamento</b>]]></text>
+</component>
+
+<component id="ID_title03a">
+<text><![CDATA[<b>Verificando a conectividade fim-a-fim</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[***saída de comando omitida***]]></text>
+</component>
+
+<component id="ID_routerOutput">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+
+<component id="button1">
+<text><![CDATA[<b>Rotas estáticas R2 e R3</b>]]></text>
+</component>
+
+<component id="button2">
+<text><![CDATA[<font face="_typewriter"><b>show ip route</b></font>]]></text>
+</component>
+
+<component id="button3">
+<text><![CDATA[<font face="_typewriter"><b>ping</b></font>]]></text>
+</component>
+</textcomponents>

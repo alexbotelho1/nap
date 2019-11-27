@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 11:11:29">
+<title><content-text><![CDATA[2.1.4  - D T E and DCE]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts serial DCE and D T E WAN connections. A router (D T E) on the left is connected to a modem (DCE) with a link that passes through the WAN cloud to a modem (DCE) and then a router (D T E) on the right.<br><br>Data Terminal Equipment (D T E):<br>- End of the user's device on the WAN link.<br><br>Data Communications Equipment (DCE):<br>- End of the WAN provider's side of the communication facility.<br>- Responsible for providing a clocking signal.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

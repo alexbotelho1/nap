@@ -1,0 +1,8 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[Tipos de ataques Telnet:<br/> -<TEXTFORMAT BLOCKINDENT='8'>Ataques de força bruta de senha</textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>Ataques DoS</textformat><br/><br/>Protegendo-se contra um ataque de força bruta de senha:<br/> -<TEXTFORMAT BLOCKINDENT='8'>altere as suas senhas sempre </textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>use senhas fortes </textformat><br/> -<TEXTFORMAT BLOCKINDENT='8'>limite quem pode se comunicar usando linhas vty</textformat><br/><br/>Protegendo-se contra um ataque DoS:<br/> -<TEXTFORMAT BLOCKINDENT='8'>Atualize para a versão mais nova do software Cisco IOS</textformat>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Ataques Telnet</b>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,111 @@
+<textcomponents>
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para ver a animação.</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>TTL em vigor</b>]]></text>
+</component>
+
+<component id="ID_txt02_1">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="ID_txt02_2">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_txt02_3">
+<text><![CDATA[<b>Salto</b>]]></text>
+</component>
+
+
+
+
+<component id="ID_txt09_1">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="ID_txt09_2">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_txt09_3">
+<text><![CDATA[<b>Salto</b>]]></text>
+</component>
+
+
+<component id="ID_txt16_1">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="ID_txt16_2">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_txt16_3">
+<text><![CDATA[<b>Salto</b>]]></text>
+</component>
+
+<!-- Packets -->
+<component id="ID_txt27">
+<text><![CDATA[<b>TTL=10</b>]]></text>
+</component>
+<component id="ID_txt28">
+<text><![CDATA[<b>TTL=9</b>]]></text>
+</component>
+<component id="ID_txt29">
+<text><![CDATA[<b>TTL=8</b>]]></text>
+</component>
+<component id="ID_txt30">
+<text><![CDATA[<b>TTL=7</b>]]></text>
+</component>
+<component id="ID_txt31">
+<text><![CDATA[<b>TTL=6</b>]]></text>
+</component>
+<component id="ID_txt32">
+<text><![CDATA[<b>TTL=5</b>]]></text>
+</component>
+<component id="ID_txt33">
+<text><![CDATA[<b>TTL=4</b>]]></text>
+</component>
+<component id="ID_txt34">
+<text><![CDATA[<b>TTL=3</b>]]></text>
+</component>
+<component id="ID_txt35">
+<text><![CDATA[<b>TTL=2</b>]]></text>
+</component>
+<component id="ID_txt36">
+<text><![CDATA[<b>TTL=1</b>]]></text>
+</component>
+<component id="ID_txt37">
+<text><![CDATA[<b>TTL=0</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,162 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Número de revisão incorreto</b>]]></text>
+</component>
+
+<component id="ID_button_01">
+<text><![CDATA[<b>Número de revisão incorreto</b>]]></text>
+</component>
+
+<component id="ID_button_02">
+<text><![CDATA[<b>Redefinir número de revisão</b>]]></text>
+</component>
+
+<component id="ID_button_03">
+<text><![CDATA[<b>Verificar número de revisão</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Servidor VTP</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Cliente VTP</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Cliente VTP</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Cliente VTP</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Domínio VTP = cisco1<br/>Número de revisão = 17<br/>VLANs: 10, 20</b>]]></text>
+</component>
+
+<component id="ID_txt05-2">
+<text><![CDATA[<b>Domínio VTP = cisco1<br/>Número de revisão = <font color='#FF0000'>17</font><br/>VLANs: <font color='#FF0000'>10, 20</font></b>]]></text>
+</component>
+
+<component id="ID_txt05-3">
+<text><![CDATA[<b>Domínio VTP = cisco1<br/>Número de revisão = <font color='#FF0000'>35</font><br/>VLANs: <font color='#FF0000'>30, 40</font></b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Domínio VTP = cisco1<br/>Número de revisão = 17<br/>VLANs: 10, 20</b>]]></text>
+</component>
+
+<component id="ID_txt06-2">
+<text><![CDATA[<b>Domínio VTP = cisco1<br/>Número de revisão = <font color='#FF0000'>17</font><br/>VLANs: <font color='#FF0000'>10, 20</font></b>]]></text>
+</component>
+
+<component id="ID_txt06-3">
+<text><![CDATA[<b>Domínio VTP = cisco1<br/>Número de revisão = <font color='#FF0000'>35</font><br/>VLANs: <font color='#FF0000'>30, 40</font></b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Domínio VTP = cisco1<br/>Número de revisão = 17<br/>VLANs: 10, 20</b>]]></text>
+</component>
+
+<component id="ID_txt07-2">
+<text><![CDATA[<b>Domínio VTP = cisco1<br/>Número de revisão = <font color='#FF0000'>17</font><br/>VLANs: <font color='#FF0000'>10, 20</font></b>]]></text>
+</component>
+
+<component id="ID_txt07-3">
+<text><![CDATA[<b>Domínio VTP = cisco1<br/>Número de revisão = <font color='#FF0000'>35</font><br/>VLANs: <font color='#FF0000'>30, 40</font></b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Domínio VTP = cisco1<br/>Número de revisão = <font color='#FF0000'>35</font><br/>VLANs: <font color='#FF0000'>30, 40</font></b>]]></text>
+</component>
+
+<component id="ID_txt08-2">
+<text><![CDATA[<b>Domínio VTP = cisco1<br/>Número de revisão = 35<br/>VLANs: 30, 40</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Antes de adicionar um switch a uma rede habilitada para VTP, redefina o número de revisão em um switch utilizando estes comandos:</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[
+	   <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Sintaxe de comando do Cisco IOS</b></font></td>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b></b></font></td>
+	   	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Acessar o modo de configuração global</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>#<b>configure terminal</b></font></td>	
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Configurar nome de domínio do VTP</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>(config)#<b>vtp domain </b><i>domain-name</i></font></td>	
+	</tr>
+	</table>
+]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Veja aqui um exemplo que mostra como redefinir o número de revisão no switch S4:</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<font face = "_typewriter">S4(config)#<b>vtp domain test</b><br />S4(config)#<b>vtp domain cisco1</font></b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>A área superior destacada mostra o número de revisão redefinido para zero.<br />A área inferior destacada mostra que as VLANs foram removidas.</b>]]></text>
+</component>
+
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<component id="play2">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause2">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind2">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward2">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute2">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute2"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous2"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next2">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript2">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+</textcomponents>

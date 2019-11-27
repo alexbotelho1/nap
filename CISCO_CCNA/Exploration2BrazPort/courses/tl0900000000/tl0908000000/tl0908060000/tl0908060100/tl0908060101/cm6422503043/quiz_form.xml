@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13259" dateexported="07/12/2009">
+		<name>Teste do Módulo 8</name>
+		<form id="23016" lang="pt"><form-item order="fixed">
+			<ai id="159802" type="mc-ma"><question><![CDATA[Consulte a exibição. Quais são os três tipos de rota exibidos nesta tabela de roteamento? (Escolha três). <br/><img src="i159802n1v1.jpg" /> ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[redes locais do roteador  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[a rota padrão do roteador ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[rotas estáticas do roteador  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[rotas móveis ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[rotas aprendidas com protocolos de roteamento dinâmicos  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[rotas aprendidas com roteador que não seja cisco ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159803" type="mc-sa"><question><![CDATA[Que característica pode ser usada para determinar se uma rota é uma ultimate route?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[A rota exibe uma máscara de sub-rede. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A rota é uma rota primária. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A rota foi configurada por um administrador. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[A rota inclui uma interface de saída.  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159804" type="mc-ma"><question><![CDATA[Consulte a exibição. Quais são as duas rotas consideradas rotas primárias? (Escolha duas.) <br/><img src="i159804n1v1.jpg" /> ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[172.16.0.0/24  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[172.16.4.0 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[172.16.1.0 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[10.0.0.0/16  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[192.168.1.0/24 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[192.168.100.0/24 ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159799" type="mc-sa"><question><![CDATA[O Roteador R1 está configurado com R1(config)#<b> ip classless</b> e R1(config)#<b> ip route 0.0.0.0 0.0.0.0 s0/0/0</b>. O que R1 fará com um pacote que corresponde a uma rota primária mas não corresponde a quaisquer rotas secundárias associadas?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[encaminhar o pacote que usa a correspondência de rota primária mais longa ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[encaminhar o pacote usando a rota padrão  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[devolver o pacote usando uma mensagem icmp &quot;destination unreachable&quot; para o endereço de origem ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[descartar o pacote ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159805" type="mc-sa"><question><![CDATA[Que ação irá permitir o comportamento de roteamento classful em um roteador?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[configuração do protocolo RIPv1 ou IGRP ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[configuração de um protocolo de roteamento link-state ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[uso apenas de máscaras de rede classful em todas as redes ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[emissão do comando <b>no ip classless</b>  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159800" type="mc-sa"><question><![CDATA[No processo de pesquisa da rota, o que constitui a rota preferencial?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[a ultimate route ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[a correspondência mais longa dos bits à esquerda  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[o comprimento do prefixo mais curto ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[a primeira rota resolvida para uma interface de saída ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159832" type="mc-sa"><question><![CDATA[Se um pacote corresponder a uma rota primária Nível 1 na tabela de roteamento, o que irá ocorrer em seguida no processo de pesquisa?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[O roteador irá descartar o pacote, porque o nível 1 exige uma interface de saída. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O roteador irá procurar a rota secundária Nível 2 usando uma interface de saída.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O roteador irá enviar o pacote por todas as interfaces, exceto aquela em que ele foi recebido. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O roteador irá aplicar o protocolo ARP (Address Resolution Protocol, Protocolo de resolução de endereços) para localizar a interface com destino nele. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159797" type="mc-sa"><question><![CDATA[O que fazem os comandos <b>ip classless</b> e <b>no ip classless</b>?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[determinam o comportamento de pesquisa de endereço do processo de roteamento  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[especificam se o roteador irá aceitar máscaras de sub-rede nas atualizações de roteamento ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[restringem o uso de protocolos de roteamento classful ou classless ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[permitem ao roteador aceitar ou não VLSM (Variable Length Subnet Masking, Mascaramento de sub-rede de tamanho variável) em endereços de interface ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159798" type="mc-sa"><question><![CDATA[O Roteador R1 está configurado com R1(config)#<b> no ip classless</b> e R1(config)#<b> ip route 0.0.0.0 0.0.0.0 s0/0/0</b>. O que R1 fará com um pacote que corresponde a uma rota primária mas não corresponde a quaisquer rotas secundárias associadas?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[encaminhar o pacote que usa a correspondência de rota primária mais longa ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[encaminhar o pacote usando a rota padrão ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[devolver o pacote usando uma mensagem icmp &quot;destination unreachable&quot; para o endereço de origem ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[descartar o pacote  ]]></text>
+							
+						</choice></choices></ai></form-item></form></exam> 

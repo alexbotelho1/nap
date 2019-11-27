@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="14_4_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Resolution Settings</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Output Options</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_01">
+        <source>Scan Settings </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_02">
+        <source>Save Settings </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_03">
+        <source>Preferences</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_04">
+        <source>Scan For: Image Type</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_05">
+        <source>Resolution (ppi)</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_06">
+        <source>Output Type</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_07">
+        <source>Picture</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_08">
+        <source>200</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_09">
+        <source>Milions of colors(24-bits)</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_10">
+        <source>A profile of scan settings may be  saved from the Scan Preview and chosen here for future scans.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_11">
+        <source>Apply Scan Profile:</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_12">
+        <source>View Scan Profile....</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_13">
+        <source>Restore Defaults</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_14">
+        <source>OK</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_15">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_16">
+        <source>Apply</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_17">
+        <source>Jpeg Image [.*jpg]</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_18">
+        <source>Jpeg Image [.*bmp]
+Tiff Image [.*tif]
+Tiff Image [compressed] [.*tif]
+
+Gif Image [.*gif]
+</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_19">
+        <source>Save as File Type:</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_20">
+        <source>Use Montly Sub-Folder </source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_0021">
+        <source>Options...</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_21">
+        <source>C:\ Documents and Settings\My Documents </source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_22">
+        <source>Save To:</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_23">
+        <source>Browse...</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_24">
+        <source>Where do you want to save the picture?</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_25">
+        <source>Scan Settings </source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_26">
+        <source>Save Settings </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

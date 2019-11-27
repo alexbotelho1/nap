@@ -1,0 +1,73 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Autenticação à rede local sem fio</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[Agora, frames 802.1x podem ser trocados entre o cliente e o ponto de acesso]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Cliente</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Ponto de acesso</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Servidor AAA</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Cliente e ponto de acesso se associam ("porta" Virtual criada)</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Associação</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>EAP</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Suplicante</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Autenticação</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Servidor de autenticação</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>Solicitação de identidade</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Resposta de identidade</b>]]></text>
+</component>
+<component id="ID_txt14">
+<text><![CDATA[<b>Solicitação EAP – Tipo de EAP</b>]]></text>
+</component>
+<component id="ID_txt15">
+<text><![CDATA[<b>Resposta EAP – Tipo de EAP</b>]]></text>
+</component>
+<component id="ID_txt16">
+<text><![CDATA[<b>EAP - Sucesso</b>]]></text>
+</component>
+<component id="ID_txt17">
+<text><![CDATA[<b>Encaminhar identidade</b>]]></text>
+</component>
+<component id="ID_txt18">
+<text><![CDATA[<b>Solicitação EAP – Tipo de EAP</b>]]></text>
+</component>
+<component id="ID_txt19">
+<text><![CDATA[<b>Resposta EAP – Tipo de EAP</b>]]></text>
+</component>
+<component id="ID_txt20">
+<text><![CDATA[<b>EAP - Sucesso</b>]]></text>
+</component>
+<component id="ID_txt21">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td colspan="2" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>Extensible Authentication Protocol (EAP)</b></font></td>
+	  	  	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><div align="left">802.1x</div></td>
+        <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><div align="left">RADIUS</div></td>
+  </tr>
+</table>]]></text>
+</component>
+</textcomponents>

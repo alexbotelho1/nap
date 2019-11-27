@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="9_2_7.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_1">
+        <source>SYN flood attack</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_2">
+        <source>DoS attacks</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_3">
+        <source>DDoS attacks</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_4">
+        <source>Spoofing</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_5">
+        <source>Man-in-the-middle attacks</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_6">
+        <source>Replay attacks</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_7">
+        <source>DNS poisoning</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TITLE1">
+        <source>Common TCP/IP Attacks</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

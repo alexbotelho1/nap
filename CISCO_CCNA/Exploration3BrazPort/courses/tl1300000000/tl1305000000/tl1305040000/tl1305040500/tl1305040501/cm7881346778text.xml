@@ -1,0 +1,53 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Tipos de link</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[Porta de extremidade]]></text> 
+  </component>
+  <component id="ID_txt07">
+  <text><![CDATA[Porta alternativa (DIS)]]></text> 
+  </component>
+  <component id="ID_txt08">
+  <text><![CDATA[Porta raiz (F)]]></text> 
+  </component>
+  <component id="ID_txt09">
+  <text><![CDATA[Porta raiz (F)]]></text> 
+  </component>
+  <component id="ID_txt10">
+  <text><![CDATA[<b>Bridge raiz</b>]]></text> 
+  </component>
+  <component id="ID_txt11">
+  <text><![CDATA[Portas designadas (F)]]></text> 
+  </component>
+  <component id="ID_txt12">
+  <text><![CDATA[Porta raiz (F)]]></text> 
+  </component>
+  <component id="ID_txt13">
+  <text><![CDATA[Porta designada (F)]]></text> 
+  </component>
+ 
+ <component id="ID_box1_title">
+  <text><![CDATA[<b>Tipo de conexão ponto-a-ponto</b>]]></text> 
+  </component>
+  
+  <component id="ID_box1_body">
+  <text><![CDATA[Este link é anexado a portas de switch que estão operando no modo full duplex.<br/><br/>Este link se conecta a um único dispositivo de switch.]]></text> 
+  </component>
+  
+  <component id="ID_box2_title">
+  <text><![CDATA[<b>Tipo de link compartilhado</b>]]></text> 
+  </component>
+  
+  <component id="ID_box2_body">
+  <text><![CDATA[Este link é anexado a uma porta que está operando no modo half-duplex.<br/><br/>A porta é conectada a uma mídia compartilhada onde podem existir diversos switches.]]></text> 
+  </component>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Passe o mouse sobre os links para ver seus tipos de link.<b>]]></text> 
+  </component>
+
+
+
+</textcomponents>

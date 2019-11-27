@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="7_2_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Printer Wizard</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Printer Firmware</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Printer RAM</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_01">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_02">
+        <source>2</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_03">
+        <source>3</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_04">
+        <source>4</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_05">
+        <source>5</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_06">
+        <source>6</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_07">
+        <source>7</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_08">
+        <source>8</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_09">
+        <source>9</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_10">
+        <source>Turn off the printer.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_11">
+        <source>Disconnect all cables.</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_12">
+        <source>Open the memory compartment.</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_13">
+        <source>Replace memory modules or add new modules.</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_14">
+        <source>Close the memory compartment.</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_15">
+        <source>Reconnect all cables.</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_16">
+        <source>Power on printer.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_17">
+        <source>Run a self-test.</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_18">
+        <source>Print a test page. </source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_19">
+        <source>Printer Firmware</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_20">
+        <source>Printer RAM</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

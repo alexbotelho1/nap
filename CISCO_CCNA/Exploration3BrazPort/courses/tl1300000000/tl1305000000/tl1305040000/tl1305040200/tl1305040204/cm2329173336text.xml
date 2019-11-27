@@ -1,0 +1,71 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Detalhes da configuração</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Configurar PVST+</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Bridges de raiz primária e secundária</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Prioridade do switch de PVST+</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Verificar</b>]]></text>
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<b><font face='_typewriter'>show run</b></font>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Bridge raiz primária para a VLAN 20<br/>Bridge raiz secundária para a VLAN 10</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Bridge raiz primária para a VLAN 10<br/>Bridge raiz secundária para a VLAN 20</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Tronco de 802.1Q</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>VLAN 10</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>VLAN 20</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Este comando força o switch S3 a ser a raiz primária para a VLAN 20.]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Este comando força o switch S3 a ser a raiz secundária para a VLAN 10.]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Este comando força o switch S1 a ser a raiz primária para a VLAN 10.]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Este comando força o switch S1 a ser a raiz secundária para a VLAN 20.]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Este comando define a prioridade para o switch S3 para que ele seja o menor possível, fazendo com que seja mais provável que o switch S3 seja a raiz primária para a VLAN 20.]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[Este comando define a prioridade para o switch S1 para que ele seja o menor possível, fazendo com que seja mais provável que o switch S1 seja a raiz primária para a VLAN 10.]]></text>
+</component>
+
+
+</textcomponents>

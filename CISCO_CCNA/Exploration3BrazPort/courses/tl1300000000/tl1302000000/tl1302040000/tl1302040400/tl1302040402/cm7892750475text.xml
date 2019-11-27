@@ -1,0 +1,31 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[1)<TEXTFORMAT BLOCKINDENT='20'>  Um invasor ativa um servidor DHCP em um segmento de rede.</textformat><br/>2)<TEXTFORMAT BLOCKINDENT='20'>  O cliente difunde uma solicitação para obter informações de configuração DHCP.</textformat><br/>3)<TEXTFORMAT BLOCKINDENT='20'>  O servidor DHCP invasor responde antes que o servidor DHCP legítimo possa responder, atribuindo informações de configuração IP definidas pelo invasor.</textformat><br/>4)<TEXTFORMAT BLOCKINDENT='20'>  Os pacotes de host são redirecionados para o endereço do invasor à medida que ele emula um gateway padrão para o endereço DHCP fornecido para o cliente.</textformat>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[-<TEXTFORMAT BLOCKINDENT='13'>  A opção DHCP Snooping permite a configuração de portas como confiáveis ou não confiáveis.</textformat><br/><TEXTFORMAT BLOCKINDENT='13'>•<TEXTFORMAT BLOCKINDENT='22'> As portas confiáveis podem enviar solicitações DHCP e confirmações.</textformat></textformat><br/><TEXTFORMAT BLOCKINDENT='13'>•<TEXTFORMAT BLOCKINDENT='22'> As portas não confiáveis só podem encaminhar solicitações DHCP.</textformat></textformat><br/>-<TEXTFORMAT BLOCKINDENT='13'>  A opção DHCP Snooping permite ao switch criar uma tabela de associação DHCP que mapeia um endereço MAC de cliente, endereço IP, VLAN e ID de porta. </textformat><br/>-<TEXTFORMAT BLOCKINDENT='13'>  Use o comando <b><font face='_typewriter'>ip dhcp snooping</font></b>.</textformat>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Invasor DHCP</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Cliente</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Servidor DHCP legítimo</b>]]></text>
+</component>
+
+<component id="ID_untrust">
+<text><![CDATA[<b>Porta não confiável</b>]]></text>
+</component>
+<component id="ID_trust">
+<text><![CDATA[<b>Porta confiável</b>]]></text>
+</component>
+
+<component id="btn1">
+  <text><![CDATA[<b>Falsificação</b>]]></text> 
+  </component>
+ <component id="btn2">
+  <text><![CDATA[<b>Detecção DHCP</b>]]></text> 
+ </component>
+</textcomponents>

@@ -1,0 +1,177 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para visualizar a resposta.</li><li>Clique em <b>Próxima pergunta</b> para avançar para a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) Liste os quatro tipos de ataques de reconhecimento e forneça um exemplo de uma ferramenta que pode ser utilizada em cada tipo de ataque.]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 4.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Consultas de informações de Internet</b><ul><li>nslookup ou whois</li></ul><b>Verificações de ping</b><ul><li>fping ou gping</li></ul><b>Verificações de porta</b><ul><li>Nmap ou Superscan</li></ul><b>Sniffers de pacote</b><ul><li>Wireshark</li></ul>]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>pergunta</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2) Liste os quatro tipos de ataques de acesso.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 4.1)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<ul><li>Ataque de senha</li><li>Ataque de exploração de confiança</li><li>Ataque de redirecionamento de porta</li><li>Ataque de interceptação</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Pergunta<br/>anterior</b>]]></text>
+</component>
+<component id="ID_Q2_txt07">
+<text><![CDATA[<b>Próxima<br/>pergunta</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) Liste três tipos de ataques DoS e três tipos de ataques DDoS.]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 4.1)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Ataques DoS</b><ul><li>Ataque de ping da morte</li><li>Ataque de envio SYN</li><li>Ataque de fragmentação e remontagem do pacote</li><li>Ataque de bombardeamento de email</li><li>Ataque de monopolização da CPU</li><li>Ataque de applet malicioso</li></ul><b>Ataques DDoS</b><ul><li>Ataque SMURF</li><li>Tribe Flood Network (TFN)</li><li>Stacheldraht</li><li>MyDoom</li></ul>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Pergunta<br/>anterior</b>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>pergunta</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) Liste e explique a anatomia de um ataque de worm e as quatro etapas para atenuar esse tipo de ataque.]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 4.1)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>A anatomia de um ataque de worm é a seguinte:</b><ul><li>A vulnerabilidade de habilitação – um worm se instala, explorando vulnerabilidades conhecidas em sistemas, como usuários finais ingênuos que abrem anexos de executáveis não verificados em emails.</li><li>Mecanismo de propagação – depois de obter acesso a um host, um worm se copia para esse host e, em seguida, escolhe novos destinos.</li><li>Payload – depois que um host é infectado por um worm, o atacante tem acesso ao host, normalmente como um usuário privilegiado. Os atacantes poderiam utilizar uma exploração local para escalonar seu nível de privilégio até administrador.</li></ul><b>Estas são as etapas recomendadas para a atenuação de ataques de worm:</b><ul><li>Etapa 1 Contenção – contenha a difusão do worm dentro e fora da sua rede. Isole as partes não infectadas da sua rede.</li><li>Etapa 2. Inoculação – comece aplicando patches a todos os sistemas e, se possível, verificando se há sistemas vulneráveis.</li><li>Etapa 3 Quarentena – monitore todas as máquina infectadas dentro da sua rede. Desconecte, remova ou bloqueie máquinas infectadas na rede.</li><li>Etapa 4 Tratamento – Limpe e aplique um patch a todos os sistemas infectados. Alguns worms podem exigir reinstalações completas para limpar o sistema.</li></ul>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Pergunta<br/>anterior</b>]]></text>
+</component>
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>pergunta</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[5) Consulte a exibição. Para aumentar a segurança do acesso administrativo, você aplicou a seguinte configuração. No entanto, você não pode estabelecer uma conexão SSH com o roteador R1. Consideremos que você fosse capaz de executar telnet no roteador antes e que o hostname, o nome de domínio IP e a chave de criptografia tenham sido configurados corretamente.  Quais alterações corrigiriam este problema?]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[(de 4.2)]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>No roteador R1</b><ul><li>O comando transport input deveria ter sido transport input ssh.</li><li>O comando login local está faltando no line vty 0 4 no modo de configuração.</li><li>O número de porta SSH na janela do Tera Term deveria se referir à porta TCP 22.</li></ul>]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Pergunta<br/>anterior</b>]]></text>
+</component>
+<component id="ID_Q5_txt07">
+<text><![CDATA[<b>Próxima<br/>pergunta</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[6) Liste os cinco serviços de rede do Cisco IOS vulneráveis e forneça as práticas recomendadas associadas a eles. Por exemplo, interfaces não utilizadas devem ser desabilitadas.]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[(de 4.3)]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<ul><li>Serviços pequenos, como echo, discard e chargen, devem ser desabilitados</li><li>BOOTP deve ser desabilitado</li><li>Finger deve ser desabilitado</li><li>Protocolo de Transporte de Hipertexto (HTTP) deve ser desabilitado e HTTPS seguro, configurado (se necessário)</li><li>Protocolo de gerenciamento de rede comum (SNMP) v1 e v2 devem ser desabilitados e SNMPv3, configurado</li><li>Cisco Discovery Protocol (CDP) deve ser desabilitado, a menos que seja obrigatório</li><li>Configuração remota deve ser desabilitada</li><li>Roteamento de origem deve ser desabilitado</li><li>Roteamento classless deve ser desabilitado</li><li>no ip directed-broadcast deve ser configurado para parar ataques SMURF</li><li>no ip proxy-arp deve ser configurado para parar ataques de roteamento ad hoc</li></ul>]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Pergunta<br/>anterior</b>]]></text>
+</component>
+<component id="ID_Q6_txt07">
+<text><![CDATA[<b>Próxima<br/>pergunta</b>]]></text>
+</component>
+
+<!-- Question 7 -->
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[7) Liste as cinco etapas obrigatórias para habilitar o recurso de bloqueio do SDM.]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[(de 4.4)]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[1) Selecione <b>Configure</b>.<br />2) Selecione <b>Security Audit</b>.<br />3) Clique em <b>One-step lockdown</b>.<br />4) Na caixa de diálogo Cisco SDM Warning, selecione <b>Yes</b>.<br />5) Forneça comandos para o roteador.]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Pergunta<br/>anterior</b>]]></text>
+</component>
+<component id="ID_Q7_txt07">
+<text><![CDATA[<b>Próxima<br/>pergunta</b>]]></text>
+</component>
+
+<!-- Question 8 -->
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[8) Liste as três etapas obrigatórias para atualizar um roteador com um novo arquivo de imagem do Cisco IOS localizado em um servidor TFTP.]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[(de 4.5)]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[1) <block indent="20">Execute ping no servidor TFTP para ter certeza de que você tenha acesso a ele.</block><br />2) <block indent="20">Utilize o comando show flash: para verificar se o roteador tem espaço suficiente na memória flash para acomodar o arquivo de imagem do Cisco IOS.</block><br />3) <block indent="20">Copie a nova imagem do Cisco IOS do servidor TFTP utilizando o comando copy tftp flash: no modo EXEC privilegiado.</block>]]></text>
+</component>
+<component id="ID_Q8_txt06">
+<text><![CDATA[<b>Pergunta<br/>anterior</b>]]></text>
+</component>
+<component id="ID_conclusion">
+<text><![CDATA[<b>Assim são concluídas as perguntas da seção “Verifique a sua compreensão” deste capítulo.</b>]]></text>
+</component>
+
+</textcomponents>

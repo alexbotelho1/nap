@@ -1,0 +1,40 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>O que é RSTP?</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[RSTP]]></text>
+</component>
+<component id="ID_button02">
+<text><![CDATA[Características de RSTP]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Porta raiz (F)</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Porta designada (F)</b>]]></text>
+</component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Bridge raiz</b>]]></text> 
+  </component>
+  <component id="ID_txt04">
+  <text><![CDATA[<b>Porta designada (F)</b>]]></text> 
+  </component>
+  <component id="ID_txt05">
+  <text><![CDATA[<b>Porta designada (F)</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Porta alternativa (DIS)</b>]]></text> 
+  </component>
+  <component id="ID_txt07">
+  <text><![CDATA[<b>Porta raiz (F)</b>]]></text> 
+  </component>
+
+  <component id="ID_txt09">
+  <text><![CDATA[<b>Características de RSTP:<br/><ul><li>É o protocolo preferido para evitar loops de Camada 2 em uma rede comutada.</li><li>Integra os aprimoramentos de propriedade da Cisco de forma transparente, tais como as Propostas e Acordos enviados pelos BPDUs para os switches vizinhos.</li><li>Funciona melhor do que os aprimoramentos anteriores de propriedade da Cisco.</li><li>Não é compatível com alguns aprimoramentos de propriedade da Cisco, tais como o UplinkFast e o BackboneFast.</li><li>Define diferentes estados e funções de porta.</li><li>É compatível com o 802.1D anterior.</li><li>Mantém a maioria dos parâmetros de configuração inalterados.</li><li>Possui o mesmo formato de BPDU que o BPDU do IEEE 802.1D.</li><li>Não necessita de temporizadores de 802.1D.</li></ul></b>]]></text> 
+  </component>
+  
+</textcomponents>

@@ -1,0 +1,119 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Hello</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Hello</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Hello</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Atualizar</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Atualizar</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>ACK</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>ACK</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>ACK</b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>ACK</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Consulta</b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Consulta</b>]]></text> 
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Resposta</b>]]></text> 
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Resposta</b>]]></text> 
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>R1</b>]]></text> 
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>R2</b>]]></text> 
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>R3</b>]]></text> 
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[<b>Hello</b>]]></text> 
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[<b>Atualização e ACK</b>]]></text> 
+</component>
+
+<component id="ID_button3">
+<text><![CDATA[<b>Consulta e resposta</b>]]></text> 
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Tipos de pacote EIGRP</b>]]></text> 
+</component>
+
+<component id="ID_instruct2">
+<text><![CDATA[<b>Clique em Hello na figura.</b>]]></text> 
+</component>
+
+<component id="ID_instruct3">
+<text><![CDATA[<b>Clique em Atualizar e ACK na figura.</b>]]></text> 
+</component>
+
+<component id="ID_instruct1">
+<text><![CDATA[<b>Clique em Consulta e Resposta na figura.</b>]]></text> 
+</component>
+
+<component id="myTable1">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td>
+	</tr><tr>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><b>Pacote Hello</b><br/><li>Utilize para detectar vizinhos e formar adjacências</li></ul><ul><li>Não confiável; portanto, nenhuma resposta é exigida do destinatário</li></ul></table>]]></text> 
+</component>
+
+<component id="myTable2">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td>
+	</tr><tr>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><b>Pacote de atualização</b><br/><li>Utilizado para propagar informações de roteamento depois de uma alteração no pacote de confirmação (ACK)</li></ul><ul><li>Enviado automaticamente quando o RTP confiável é utilizado</li></ul></table>]]></text> 
+</component>
+
+<component id="myTable3">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td>
+	</tr><tr>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><b>Pacote de consulta</b><br/><li>Utilizado pelo DUAL ao procurar redes ou outras tarefas</li></ul><ul><b>Pacote de resposta</b><li>Enviado automaticamente em resposta ao pacote de consulta</li></ul><ul><b>Pacote de confirmação (ACK)</b><li>Enviado automaticamente quando o RTP confiável é utilizado</li></ul></table>]]></text> 
+</component>
+
+</textcomponents>

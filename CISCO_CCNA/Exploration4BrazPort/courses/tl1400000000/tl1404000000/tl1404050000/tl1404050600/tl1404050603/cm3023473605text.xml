@@ -1,0 +1,26 @@
+<textcomponents>
+<component id="title">
+<text><![CDATA[<b>Utilizando o comando <font face='_typewriter'>debug</font></b>]]></text>
+</component>
+
+<component id="systemadmin">
+  <text><![CDATA[Administrador do sistema]]></text> 
+  </component>
+<component id="ID_routerIcon">
+  <text><![CDATA[<b>Saída do roteador</b>]]></text> 
+</component>
+<component id="tftpserver">
+  <text><![CDATA[<b>Servidor WEB/TFTP</b>]]></text> 
+</component>
+
+<component id="ID_s1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s3">
+<text><![CDATA[<b>S3</b>]]></text>
+</component>
+<component id="ID_isp">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+</textcomponents>

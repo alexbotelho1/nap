@@ -1,0 +1,11 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Processo de Roteamento Link-State</b>]]></text>
+</component>
+<component id="TableTitle">
+<text><![CDATA[<b>Processo de Roteamento Link-State</b>]]></text>
+</component> 
+<component id="myTable">
+<text><![CDATA[1.<TEXTFORMAT BLOCKINDENT='15'> Cada roteador obtém informações sobre suas próprias redes diretamente conectadas.</textformat><br>2.<TEXTFORMAT BLOCKINDENT='15'> Cada roteador é responsável por "dizer olá" a seus vizinhos em redes diretamente conectadas.</textformat><br>3.<TEXTFORMAT BLOCKINDENT='15'> Cada roteador cria um pacote link-state que contém o estado de cada link diretamente conectado.</textformat><br>4.<TEXTFORMAT BLOCKINDENT='15'> Cada roteador inunda o LSP em todos os vizinhos, que armazenam todos os LSPs recebidos em um banco de dados.</textformat><br>5.<TEXTFORMAT BLOCKINDENT='15'> Cada roteador usa o banco de dados para criar um mapa completo da topologia e computa o melhor caminho para cada rede de destino.</textformat>]]></text> 
+</component>
+</textcomponents>

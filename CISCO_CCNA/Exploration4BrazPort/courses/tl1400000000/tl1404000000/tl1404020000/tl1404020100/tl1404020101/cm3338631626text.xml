@@ -1,0 +1,30 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>A função dos roteadores na segurança de rede</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Servidor TFTP</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>R1 fornece acesso aos hosts da rede 192.168.10.0 para as outras redes</b>]]></text>
+</component>
+
+
+<component id="ID_txt03">
+<text><![CDATA[<b>R2 é o gateway entre as redes internas e a Internet</b>]]></text>
+</component>
+
+<component id="ID_s1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s3">
+<text><![CDATA[<b>S3</b>]]></text>
+</component>
+<component id="ID_isp">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,67 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<b>Escolhendo uma conexão de link WAN</b>]]></text> 
+</component>
+
+<component id="ID_header1">
+  <text><![CDATA[<b>Opção</b>]]></text> 
+</component>
+
+<component id="ID_header2">
+  <text><![CDATA[<b>Descrição</b>]]></text> 
+</component>
+
+<component id="ID_header3">
+  <text><![CDATA[<b>Vantagens</b>]]></text> 
+</component>
+
+<component id="ID_header4">
+  <text><![CDATA[<b>Desvantagens</b>]]></text> 
+</component>
+
+<component id="ID_header6">
+  <text><![CDATA[<b>Exemplos de protocolos utilizados</b>]]></text> 
+</component>
+
+
+<component id="ID_table1">
+<text><![CDATA[<table bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+<tr>
+<td bgcolor='#F2F2F2'>Linha alugada</td>
+<td bgcolor='#F2F2F2'>Conexão ponto-a-ponto entre dois computadores ou redes locais (LANs).</td>
+<td bgcolor='#F2F2F2'>Mais seguro</td>
+<td bgcolor='#F2F2F2'>Barato</td>
+<td bgcolor='#F2F2F2'>PPP, HDLC, SDLC, HNAS</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD'>Comutação de circuitos</td>
+<td bgcolor='#DDDDDD'>Um caminho de circuito dedicado é criado entre extremidades. O melhor exemplo é a conexão dial-up.</td>
+<td bgcolor='#DDDDDD'>Mais barato</td>
+<td bgcolor='#DDDDDD'>Configuração de chamada</td>
+<td bgcolor='#DDDDDD'>PPP, ISDN</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2'>Comutação de pacotes</td>
+<td bgcolor='#F2F2F2'>Dispositivos transportam pacotes por meio de um único link ponto-a-ponto (point-to-point) ou ponto-a-vários-pontos (point-to-multipoint) na rede da operadora. Os pacotes de comprimento variável são transmitidos em circuitos virtuais permanentes (PVCs) ou circuitos virtuais comutados (SVCs).</td>
+<td bgcolor='#F2F2F2'>Amplamente suportado e mais barato que linha alugada</td>
+<td bgcolor='#F2F2F2'>Link com meio compartilhado</td>
+<td bgcolor='#F2F2F2'>X.25, Frame Relay</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD'>Cell relay</td>
+<td bgcolor='#DDDDDD'>Semelhante à comutação de pacotes, mas utiliza células de comprimento fixo, e não pacotes de comprimento variável. Os dados são divididos em células de comprimento fixo e, em seguida, transportados em circuitos virtuais.</td>
+<td bgcolor='#DDDDDD'>Melhor para uso simulado de voz e dados</td>
+<td bgcolor='#DDDDDD'>Sobrecarga pode ser considerável</td>
+<td bgcolor='#DDDDDD'>ATM</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2'>Internet</td>
+<td bgcolor='#F2F2F2'>A comutação de pacotes sem conexão utilizando a Internet como a infra-estrutura WAN, utiliza endereçamento de rede para entregar pacotes. Por conta de problemas de segurança, a tecnologia VPN deve ser utilizada.</td>
+<td bgcolor='#F2F2F2'>Disponibilidade global mais barata</td>
+<td bgcolor='#F2F2F2'>Menos seguro</td>
+<td bgcolor='#F2F2F2'>VPN, DSL, modem a cabo, sem fio</td>
+</tr>
+</table>]]></text>
+</component>
+</textcomponents>

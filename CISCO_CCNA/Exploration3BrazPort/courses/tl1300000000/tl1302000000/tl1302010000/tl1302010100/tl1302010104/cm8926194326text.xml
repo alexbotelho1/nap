@@ -1,0 +1,11 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Configurações de porta de switch</b>]]></text>
+</component>
+
+<component id="ID_txt02"><text><![CDATA[<ul><b>As portas em um switch Cisco da série Catalyst 2960 podem ser definidas com estas configurações:</b><br><br><li>A opção <b><font face='_typewriter'>auto</font></b> permite as duas portas se comunicarem para decidir o modo (auto-negociação).</li><li>A opção <b><font face='_typewriter'>full</font></b> define o modo full duplex.</li><li>A opção <b><font face='_typewriter'>half</font></b> define o modo half duplex.</li></ul></b>]]></text>
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,41 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Vulnerable Router Interfaces</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>! ----- IP and network services Section</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<font face="_typewriter">no cdp run<br />no ip source-route<br />no ip classless<br />no service tcp-small-servers<br />no service udp-small-servers<br />no ip finger<br />no service finger<br />no ip bootp server<br />no ip http server<br />no ip name-server</font>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>! ----- Boot control section</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<font face="_typewriter">no boot network<br />no service config</font>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>! ----- SNMP Section (for totally disabling SNMP)<br />! set up totally restrictive access list</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<font face="_typewriter">no access-list 70<br />access-list 70 deny any</font><br /><b>! make SNMP read-only and subject to access list</b><br /><font face="_typewriter">snmp-server community aqiytj1726540942 ro 11</font>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>! disable SNMP trap and system-shutdown features</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<font face="_typewriter">no snmp-server enable traps<br />no snmp-server system-shutdown<br />no snmp-server trap-auth</font>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>! turn off SNMP altogether</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<font face="_typewriter">no snmp-server</font>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>! ----- Per-interface services section</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<font face="_typewriter">interface eth 0/0<br />description Outside interface to 14.1.0.0/16 net<br />no ip proxy-arp<br />no ip directed-broadcast<br />no ip unreachable<br />no ip redirect</font>]]></text>
+</component>
+</textcomponents>

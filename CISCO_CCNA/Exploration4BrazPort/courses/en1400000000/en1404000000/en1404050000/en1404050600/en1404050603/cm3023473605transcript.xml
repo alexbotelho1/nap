@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:18">
+<title><content-text><![CDATA[4.5.6  - Troubleshooting Cisco I O S Configurations]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts using the Cisco I O S debug command.<br><br>Network Topology:<br>Two inside LAN's are connected by routers running RIP. LAN 1 consists of PC1 connected to switch S1, which is connected to router R1. LAN 2 network 192.168.30.0 /24 consists of PC3 connected to switch S3, which is connected to router R3. Routers R1 and R3 connect to router R2. Router R2 routes between the two LAN's and is the gateway to the Internet and an external Web/TFTP server. <br><br>A system administrator laptop is connected to router R1. A text bubble for the system administrator laptop shows the command: R1# debug i p rip.<br><br>The debug i p rip command output is displayed in a terminal window as an example, and the no debug all command is used to turn debugging off.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

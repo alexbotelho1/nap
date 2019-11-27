@@ -1,0 +1,92 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>ID de bridge do PVST+</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[ID de bridge do PVST+]]></text>
+</component>
+<component id="ID_button02">
+<text><![CDATA[Exemplo de ID de bridge de PVST+]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[ID de bridge = 8 bytes]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[ID de bridge sem a<br/>ID de sistema estendido]]></text>
+</component>
+<component id="ID_txt03">
+  <text><![CDATA[Prioridade de<br/>bridge]]></text> 
+  </component>
+  <component id="ID_txt04">
+  <text><![CDATA[Endereço MAC]]></text> 
+  </component>
+  <component id="ID_txt05">
+  <text><![CDATA[2 bytes]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[6 bytes]]></text> 
+  </component>
+  <component id="ID_txt07">
+  <text><![CDATA[ID de bridge = 8 bytes]]></text> 
+  </component>
+  <component id="ID_txt08">
+  <text><![CDATA[ID de bridge estendido<br/>com ID de sistema]]></text> 
+  </component>
+  <component id="ID_txt09">
+  <text><![CDATA[Prioridade de<br/>bridge]]></text> 
+  </component>
+  <component id="ID_txt10">
+  <text><![CDATA[ID de Sistema<br/>Estendido]]></text> 
+  </component>
+  <component id="ID_txt11">
+  <text><![CDATA[Endereço MAC]]></text> 
+  </component>
+  <component id="ID_txt12">
+  <text><![CDATA[4 bits]]></text> 
+  </component>
+    <component id="ID_txt13">
+  <text><![CDATA[12 bits]]></text> 
+  </component>
+  <component id="ID_txt14">
+  <text><![CDATA[48 bits]]></text> 
+  </component>
+  <component id="ID_txt15">
+  <text><![CDATA[ID de sistema = VLAN]]></text> 
+  </component>
+    <component id="ID_txt16">
+  <text><![CDATA[<b>2 bytes</b>]]></text> 
+  </component>
+  <component id="ID_txt17">
+  <text><![CDATA[<b>6 bytes</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt18_5422">
+  <text><![CDATA[<b>Prioridade + ID de VLAN + endereço MAC = BID<br/>32768    + 10      + 000A00333333 = 32778.000A00333333<br/>32768    + 20      + 000A00333333 = 32788.000A00333333</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt19_5422">
+  <text><![CDATA[<b>Raiz para a VLAN 20</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt20_5422">
+  <text><![CDATA[<b>Raiz para a VLAN 10</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt21">
+  <text><![CDATA[<b>VLAN 10</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt22">
+  <text><![CDATA[<b>VLAN 20</b>]]></text> 
+  </component>
+ 
+ 
+
+
+
+
+
+</textcomponents>

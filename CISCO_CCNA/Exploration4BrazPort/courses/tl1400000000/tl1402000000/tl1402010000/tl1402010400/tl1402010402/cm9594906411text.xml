@@ -1,0 +1,184 @@
+<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Modem nulo</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Cabos seriais</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>DB-60</B>]]></text> 
+</component>
+
+<component id="ID_button_04">
+  <text><![CDATA[<B>Smart Serial</B>]]></text> 
+</component>
+
+<component id="ID_button_05">
+  <text><![CDATA[<B>Roteador-a-roteador</B>]]></text> 
+</component>
+
+
+<component id="ID_inst">
+  <text><![CDATA[<B>Clique em um botão para ver um tipo de cabo.</B>]]></text> 
+</component>
+
+<component id="ID_title00">
+  <text><![CDATA[<B>Modem nulo para conectar 2 DTEs</B>]]></text> 
+</component>
+
+<component id="ID_title01">
+  <text><![CDATA[<B>Opções de conexão seriais WAN</B>]]></text> 
+</component>
+
+<component id="ID_title02">
+  <text><![CDATA[<B>Conexão do roteador DB-60</B>]]></text> 
+</component>
+
+<component id="ID_title03">
+  <text><![CDATA[<B>Conector Smart Serial</B>]]></text> 
+</component>
+
+<component id="ID_title04">
+  <text><![CDATA[<B>Conector Smart Serial</B>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01_00">
+  <text><![CDATA[<B>DB 9</B>]]></text> 
+</component>
+
+<component id="ID_txt02_00">
+  <text><![CDATA[<B>DB 9</B>]]></text> 
+</component>
+
+<component id="ID_txt03_00">
+  <text><![CDATA[<B>Conector 1</B>]]></text> 
+</component>
+
+<component id="ID_txt04_00">
+  <text><![CDATA[<B>Conector 2</B>]]></text> 
+</component>
+
+<component id="ID_txt05_00">
+  <text><![CDATA[<B>Função</B>]]></text> 
+</component>
+
+<component id="ID_txt06_00">
+  <text><![CDATA[<B>Sinal de terra</B>]]></text> 
+</component>
+
+<component id="ID_txt07_00">
+  <text><![CDATA[<B>Observe os links cruzados: pino 2 para pino 3 e pino 3 para pino 2</B>]]></text> 
+</component>
+
+
+
+
+<component id="ID_txt01_01">
+  <text><![CDATA[<B>Serviço<br>Provedor</B>]]></text> 
+</component>
+
+<component id="ID_txt02_01">
+  <text><![CDATA[<B>Conexões do roteador</B>]]></text> 
+</component>
+
+<component id="ID_txt03_01">
+  <text><![CDATA[<B>Conexões de rede na CSU/DSU</B>]]></text> 
+</component>
+
+
+
+
+<component id="ID_txt01_02">
+  <text><![CDATA[<B>Flag</B>]]></text> 
+</component>
+
+<component id="ID_txt02_02">
+  <text><![CDATA[<B>Endereço</B>]]></text> 
+</component>
+
+<component id="ID_txt03_02">
+  <text><![CDATA[<B>Controle</B>]]></text> 
+</component>
+
+<component id="ID_txt04_02">
+  <text><![CDATA[<B>ID de protocolo</B>]]></text> 
+</component>
+
+<component id="ID_txt05_02">
+  <text><![CDATA[<B>Pacote de dados</B>]]></text> 
+</component>
+
+<component id="ID_txt06_02">
+  <text><![CDATA[<B>FCS</B>]]></text> 
+</component>
+
+<component id="ID_txt07_02">
+  <text><![CDATA[<B>Flag</B>]]></text> 
+</component>
+
+<component id="ID_txt01_03">
+  <text><![CDATA[<B>Nessa fase, o LCP testa o link para determinar se possui qualidade suficiente para carregar os protocolos da camada de rede</B>]]></text> 
+</component>
+
+<component id="ID_txt02_03">
+  <text><![CDATA[<B>O NCP apropriado pode configurar separadamente os protocolos da camada de rede, carregando-os e desativando-os a qualquer momento.</B>]]></text> 
+</component>
+
+<component id="ID_txt03_03">
+  <text><![CDATA[<B>Antes do PPP trocar diagramas da camada de rede (por exemplo, IP), o LCP deve abrir a conexão e negociar as opções de configuração.</B>]]></text> 
+</component>
+
+<component id="ID_txt04_03">
+  <text><![CDATA[<B>O LCP pode atrasar a transmissão das informações do protocolo da camada de rede até a conclusão dessa fase.</B>]]></text> 
+</component>
+
+<component id="ID_txt05_03">
+  <text><![CDATA[<B>Essa fase é concluída quando o roteador de recebimento envia um quadro de confirmação da configuração de volta para o roteador que inicia a conexão.</B>]]></text> 
+</component>
+
+<component id="ID_txt06_03">
+  <text><![CDATA[<B>Estabelecimento de link e negociação da configuração</B>]]></text> 
+</component>
+
+<component id="ID_txt07_03">
+  <text><![CDATA[<B>Determinação da qualidade do link (opcional)</B>]]></text> 
+</component>
+
+<component id="ID_txt08_03">
+  <text><![CDATA[<B>Negociação da configuração do protocolo da camada de rede</B>]]></text> 
+</component>
+
+
+
+
+<component id="ID_txt01_04">
+  <text><![CDATA[<B>Cabo DCE</B>]]></text> 
+</component>
+
+<component id="ID_txt02_04">
+  <text><![CDATA[<B>Cabo DTE</B>]]></text> 
+</component>
+
+<component id="ID_txt03_04">
+  <text><![CDATA[<B>Transmissão TX<br/>Recepção RX</B>]]></text> 
+</component>
+
+<component id="ID_txt04_04">
+  <text><![CDATA[<B>Conexões WAN seriais no laboratório</B>]]></text> 
+</component>
+
+<component id="ID_txt05_04">
+  <text><![CDATA[<b>Passe o mouse para ver a terminação do cabo.</b>]]></text> 
+</component>
+
+<component id="ID_rollover01">
+  <text><![CDATA[<b>Conexão DCE-DTE</b>]]></text> 
+</component>
+
+
+</textcomponents>

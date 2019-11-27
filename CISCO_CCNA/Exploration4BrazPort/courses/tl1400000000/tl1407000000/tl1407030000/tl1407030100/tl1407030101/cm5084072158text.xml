@@ -1,0 +1,112 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Clique nos botões para ver os slides.]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Blocos</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Redução</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Por que o IPv6</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_title">
+<text><![CDATA[<b>Blocos de endereço IP atribuídos</b>]]></text>
+</component>
+
+<!-- slide 1 controller -->
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<!-- slide 1 movie1 -->
+<component id="ID_S1_txt01">
+<text><![CDATA[<b>Blocos atribuídos – 1993</b>]]></text>
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[<b>Blocos atribuídos – 2000</b>]]></text>
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[<b>Blocos atribuídos – 2007</b>]]></text>
+</component>
+
+<component id="ID_S1_txt04">
+<text><![CDATA[<b>Alocado</b>]]></text>
+</component>
+
+<component id="ID_S1_txt05">
+<text><![CDATA[<b>Indisponível</b>]]></text>
+</component>
+
+<component id="ID_S1_txt06">
+<text><![CDATA[<b>Disponível</b>]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_S2_title">
+<text><![CDATA[<b>Reduzindo o espaço de endereços IP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt01">
+<text><![CDATA[<b>Disponível</b>]]></text>
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[<b>Alocado</b>]]></text>
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[<b>Indisponível</b>]]></text>
+</component>
+
+<!-- slide 3 -->
+<component id="ID_S3_title">
+<text><![CDATA[<b>Por que precisamos de um espaço de endereços maior?</b>]]></text>
+</component>
+
+<component id="ID_S3_header">
+<text><![CDATA[<b>Único motivo determinante: mais endereços IP!</b>]]></text>
+</component>
+
+<component id="ID_S3_bullets">
+<text><![CDATA[<ul><li>Para bilhões de novos usuários e novos dispositivos de clientes (Ásia, Europa e América) e telefones celulares, carros, PDAs, aparelhos domésticos e industriais, etc.</li><li>Para obter um acesso sempre ativo (cabo, xDSL, sem fio, Ethernet para local, etc.)</li><li>Para aplicativos que são difíceis, caros ou impossíveis de serem operados através da NAT (telefonia IP, Fax IP, jogo ponto-a-ponto, servidores locais, etc.)</li></ul>]]></text>
+</component>
+
+<component id="ID_S3_txt01">
+<text><![CDATA[<b>Esfera de endereçamento global</b>]]></text>
+</component>
+
+</textcomponents>

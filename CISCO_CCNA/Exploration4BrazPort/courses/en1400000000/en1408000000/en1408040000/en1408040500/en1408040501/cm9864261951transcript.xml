@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 13:12:22">
+<title><content-text><![CDATA[8.4.5 - Transport Layer Troubleshooting]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts symptoms of Transport Layer problems. The seven layers of the O S I model are shown with symptoms expanding from the Transport Layer.<br>Symptoms<br>-Intermittent network problems<br>-Security problems<br>-Address translation problems<br>-Problems with specific traffic types<br><br>The diagram depicts Transport Layer problems as they relate to common access list issues. A series of checks is provided.<br>Common ACL Issues<br>-Applied to incorrect traffic<br>-Incorrect control element order<br>-Implicit "deny any any"<br>-Addresses and wildcard masks<br>-TCP/UDP selection<br>-Source and destination ports<br>-Use of the established keyword<br>-Uncommon protocols]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

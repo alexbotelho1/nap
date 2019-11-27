@@ -1,0 +1,59 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="pt-br">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Conte&uacute;do</title>
+<base target="_self"> <link href="../../css/content.css" rel="stylesheet" type="text/css">
+</head>
+
+<body onLoad="window.focus();">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<!--  Start top title Lesson Bar -->
+	  <tr>
+	    <td width="18" class="toptitle01_white_bold" valign="top"> <img border="0" src="../../images/content_lines.gif" width="16" height="25"> <img border="0" src="../../images/transdot.gif" width="2" height="1"></td>
+
+    <td width="18" class="toptitle01_white_bold">8.8</td>
+	    <td class="toptitle01_white_bold"><img border="0" src="../../images/transdot.gif" width="10" height="1"></td>
+	    <td width="100%" class="toptitle01_white_bold">Explicar os modelos de dados OSI e TCP/IP</td>
+	    <td width="9" class="toptitle01_white_bold_margin">&nbsp;</td>
+	  </tr>
+	  <!--  End top title Lesson Bar -->
+	  <!--  Start top title Topic Bar -->
+ 	 <tr>
+	    <td width="18" height="25" class="toptitle02_white_bold">&nbsp;</td>
+
+    <td height="25"  class="toptitle02_white_bold">8.8.2</td>
+	    <td class="toptitle02_white_bold"><img border="0" src="../../images/transdot.gif" width="10" height="1"></td>
+	    <td width="100%" height="25" class="toptitle02_white_bold">Definir o modelo OSI</td>
+	    <td height="25" width="9" class="toptitle02_white_bold_margin">&nbsp;</td>
+	  </tr>
+	 <!--  End top title Topic Bar -->
+</table>
+
+	<!-- CONTENT -->
+	<table border="0" cellpadding="0" cellspacing="0" width="95%" >
+		<tr>
+			<td width="20"></td>
+			<td>
+        <table border="0" cellpadding="0" cellspacing="0"  width="95%">
+          <tr>
+
+          <td width="100%">
+            <p>O modelo OSI &eacute; uma estrutura padr&atilde;o da ind&uacute;stria usada para dividir as comunica&ccedil;&otilde;es de rede em sete camadas distintas. Embora existam outros modelos, a maioria dos fornecedores de rede atuais criam seus produtos usando essa estrutura.</p>
+            <p>Um sistema que implementa um comportamento de protocolos consistindo em uma s&eacute;rie dessas camadas &eacute; conhecido como uma pilha de protocolos. As pilhas de protocolos podem ser implementadas no hardware, no software, ou em uma combina&ccedil;&atilde;o de ambos. Geralmente, s&oacute; as camadas inferiores s&atilde;o implementadas no hardware, e as camadas superiores s&atilde;o implementadas no software.</p>
+            <p>Cada camada &eacute; respons&aacute;vel por parte do processo de prepara&ccedil;&atilde;o dos dados para transmiss&atilde;o na rede. O gr&aacute;fico na Figura 1 mostra o que cada camada do modelo OSI faz.</p>
+            <p>No modelo OSI, quando os dados s&atilde;o transferidos, diz-se que os dados viajam virtualmente para baixo nas camadas do modelo OSI do computador remetente, e para cima nas camadas do modelo OSI do computador receptor.</p>
+            <p>Quando um usu&aacute;rio quer enviar dados, como um e-mail, o processo de encapsulamento come&ccedil;a na camada Aplicativo. A camada Aplicativo &eacute; respons&aacute;vel por fornecer o acesso dos aplicativos &agrave; rede. As informa&ccedil;&otilde;es fluem pelas tr&ecirc;s camadas superiores e s&atilde;o consideradas dados quando chegam embaixo na camada Transporte.</p>
+            <p>Na camada Transporte, os dados s&atilde;o divididos em segmentos mais gerenci&aacute;veis, ou unidades de dados de protocolo (PDUs, protocol data units) da camada Transporte, para um transporte ordenado pela rede. Uma PDU descreve os dados conforme se move de uma camada do modelo OSI para outra. A PDU da camada Transporte tamb&eacute;m cont&eacute;m informa&ccedil;&otilde;es, como n&uacute;meros de portas, n&uacute;meros de seq&uuml;&ecirc;ncias e n&uacute;meros de reconhecimentos, que s&atilde;o usadas para um transporte confi&aacute;vel de dados.</p>
+            <p>Na camada Rede, cada segmento da camada Transporte se torna um pacote. O pacote cont&eacute;m endere&ccedil;amento l&oacute;gico, al&eacute;m de outras informa&ccedil;&otilde;es de controle da camada 3.</p>
+            <p>Na camada Link de Dados, cada pacote da camada Rede se torna um quadro. O quadro cont&eacute;m informa&ccedil;&otilde;es sobre o endere&ccedil;o f&iacute;sico e sobre corre&ccedil;&atilde;o de erros.</p>
+            <p>Na camada F&iacute;sica, o quadro &eacute; transformado em bits. Esses bits s&atilde;o transmitidos um por vez atrav&eacute;s de uma m&iacute;dia de rede.</p>
+            <p>No computador receptor, o processo de desencapsulamento reverte o processo de encapsulamento. Os bits chegam na camada F&iacute;sica do modelo OSI do computador receptor. O processo de viajar virtualmente para cima no modelo OSI do computador receptor trar&aacute; os dados para a camada Aplicativo, onde um programa de e-mail exibir&aacute; o e-mail.</p>
+            <p><span class="bold">OBSERVA&Ccedil;&Atilde;O:</span> Mnem&ocirc;nicos podem ajud&aacute;-lo a lembrar as sete camadas do OSI. Alguns exemplos incluem: "Falei lentamente rindo tudo sobre andorinhas amarelas" e "&Aacute;guas azuis sobre terrenos retos lentamente fluem".</p>
+            </td>
+          </tr>
+         </table>
+       </td>
+     </tr>
+	</table>

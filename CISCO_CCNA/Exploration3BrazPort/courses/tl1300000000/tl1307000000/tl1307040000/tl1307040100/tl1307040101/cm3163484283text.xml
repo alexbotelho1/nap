@@ -1,0 +1,39 @@
+<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Uma abordagem sistemática para a identificação e a solução de problemas de WLAN</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Situação</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Abordagem</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Começar</b>]]></text>
+</component>
+
+<component id="ID_lazyText01">
+<text><![CDATA[<b>Prática de identificação e solução de problemas padrão<br/>     Etapa 1 – Descarte a hipótese de que um dispositivo de cliente possa ser a origem do problema<br/>     Etapa 2 – Confirme o status físico dos dispositivos de WLAN.<br/>     Etapa 3. Inspecione links cabeados</b>]]></text>
+</component>
+
+<component id="ID_lazyText02">
+<text><![CDATA[<b>Prática de identificação e solução de problemas de WLAN<br/>     <font color='#0066CC'>Etapa 4</font> – Confirme a função de rádio do ponto de acesso e atualize <br/>                    Os drivers e o firmware do Ponto de Acesso<br/>     <font color='#0066CC'>Etapa 5</font> – Verifique a interferência de RF e as configurações de canal<br/>     <font color='#0066CC'>Etapa 6</font> – Verifique o modo de segurança de WLAN e as configurações de criptografia</b>]]></text>
+</component>
+
+<component id="ID_lazyText03">
+<text><![CDATA[<b><font color='#0066CC'>Etapa 4</font> – Confirme a função de rádio do ponto de acesso e atualize os drivers e o firmware<br/>               do ponto de acesso.</b>]]></text>
+</component>
+
+<component id="ID_lazyText04">
+<text><![CDATA[<b><ul><li>Verifique a energia do módulo PoE. O rádio poderá ficar inoperante se a energia for insuficiente</li><li>Verifique as configurações de transmissão de energia do ponto de acesso</li><li>Tente uma conexão com outro ponto de acesso</li><li>Leve em consideração drivers de rádio, firmware ou substituição</b>]]></text>
+</component>
+
+<component id="ID_lazyText05">
+<text><![CDATA[<b>Este laptop<br/> não tem conectividade.</b>]]></text>
+</component>
+
+</textcomponents>

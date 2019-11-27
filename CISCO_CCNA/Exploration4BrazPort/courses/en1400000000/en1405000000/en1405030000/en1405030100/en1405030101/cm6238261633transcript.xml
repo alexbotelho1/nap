@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 08:12:46">
+<title><content-text><![CDATA[5.3.1 - Extended ACL's]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts a flowchart on testing packets with extended ACL's. The decision points along the "YES" path of the flowchart are as follows:<br>- Is there an ACL on this interface?<br>- If yes, does the source address match the ACL list entry?<br>- If yes, do the protocol and port match?<br>- If yes, does the destination address match the ACL entry?<br>- If yes, do the protocol and port match?<br>- If yes, permit or deny?<br>- If deny, discard packet.<br>- If permit, is the destination IP address in the routing table?<br>- If no, discard packet.<br>- If yes, send to outgoing interface.<br><br>If the answer to each of the decisions is "yes" or "permit," the packet is sent to the outgoing interface.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

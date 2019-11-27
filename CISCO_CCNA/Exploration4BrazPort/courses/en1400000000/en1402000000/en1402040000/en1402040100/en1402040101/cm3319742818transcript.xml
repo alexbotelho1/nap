@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 11:11:20">
+<title><content-text><![CDATA[2.4.1 - P P P Authentication Protocols]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the optional P P P authentication protocols PAP and CHAP. <br><br>PAP Example: The central-site router R1 is communicating with the remote router R3 using P P P and PAP. <br><br>PAP uses a basic two-way handshake. R1 sends the username and password in plain text to R3. R3 either accepts or rejects the connection request.<br><br>CHAP Example: The central-site router R1 is communicating with the remote router R3 using P P P and CHAP. <br><br>CHAP uses a three-way handshake in which R3 challenges R1, and R1 sends an encrypted username and password in plain text. R3 either accepts or rejects the connection request.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

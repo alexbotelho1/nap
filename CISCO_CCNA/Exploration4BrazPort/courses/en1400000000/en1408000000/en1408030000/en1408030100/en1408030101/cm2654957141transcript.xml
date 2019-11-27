@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 13:12:08">
+<title><content-text><![CDATA[8.3.1 - WAN Communications]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts WAN communications. Two CSU/DSU's are connected to a WAN cloud. A protocol stack attached to each CSU/DSU is labeled Router and provides a bridge that goes from the WAN O S I Layer 1 to Layer 2 over Layer 3 and back down to Layer 2 and then to Layer 1 on the local LAN. Caption text: WAN technologies operate at the lower three layers of the O S I model.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

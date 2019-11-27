@@ -1,0 +1,185 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<b>Uma empresa em crescimento e sua rede</b>]]></text> 
+</component>
+
+<component id="ID_inst01">
+  <text><![CDATA[<b>Clique para ver vários estágios de crescimento de uma empresa e sua rede.</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_01">
+  <text><![CDATA[<b>Pequeno escritório<br/>(poucos funcionários)</b>]]></text> 
+</component>
+
+<component id="ID_txt02_01">
+  <text><![CDATA[<b>Acesso em banda larga à Internet</b>]]></text> 
+</component>
+
+<component id="ID_txt03_01">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_txt04_01">
+  <text><![CDATA[<b>Única rede local pequena para compartilhar periféricos e acesso à Internet</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_02">
+  <text><![CDATA[<b>Campus corporativo (Centenas de funcionários em um ou mais andares ou edifícios vizinhos)</b>]]></text> 
+</component>
+
+<component id="ID_txt02_02">
+  <text><![CDATA[<b>Várias redes locais (campus)</b>]]></text> 
+</component>
+
+<component id="ID_txt03_02">
+  <text><![CDATA[<b>Engenharia e produção</b>]]></text> 
+</component>
+
+<component id="ID_txt04_02">
+  <text><![CDATA[<b>Finanças e contabilidade</b>]]></text> 
+</component>
+
+<component id="ID_txt05_02">
+  <text><![CDATA[<b>Marketing e vendas</b>]]></text> 
+</component>
+
+<component id="ID_txt06_02">
+  <text><![CDATA[<b>Firewall</b>]]></text> 
+</component>
+
+<component id="ID_txt07_02">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_03">
+  <text><![CDATA[<b>Escritório central da corporação (Nova York)</b>]]></text> 
+</component>
+
+<component id="ID_txt02_03">
+  <text><![CDATA[<b>Empresa filial (Milhares de funcionários localizados em vários escritórios)</b>]]></text> 
+</component>
+
+<component id="ID_txt03_03">
+  <text><![CDATA[<b>Filial (São Francisco)</b>]]></text> 
+</component>
+
+<component id="ID_txt04_03">
+  <text><![CDATA[<b>Wide Area Network (rede de longa distância)</b>]]></text> 
+</component>
+
+<component id="ID_txt05_03">
+  <text><![CDATA[<b>Filial (Chicago)</b>]]></text> 
+</component>
+
+<component id="ID_txt06_03">
+  <text><![CDATA[<b>Filial (Cidade do México)</b>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01_03">
+  <text><![CDATA[<b></b>]]></text> 
+</component>
+
+<component id="ID_txt02_03">
+  <text><![CDATA[<b>Escritório central</b>]]></text> 
+</component>
+
+<component id="ID_txt03_03">
+  <text><![CDATA[<b>Filial</b>]]></text> 
+</component>
+
+<component id="ID_txt04_03">
+  <text><![CDATA[<b>Internet WAN</b>]]></text> 
+</component>
+
+<component id="ID_txt05_03">
+  <text><![CDATA[<b>Escritório remoto</b>]]></text> 
+</component>
+
+<component id="ID_txt06_03">
+  <text><![CDATA[<b>Escritório regional</b>]]></text> 
+</component>
+
+<component id="ID_txt07_03">
+  <text><![CDATA[<b>Escritórios residenciais</b>]]></text> 
+</component>
+
+<component id="ID_txt08_03">
+  <text><![CDATA[<b>Funcionários móveis</b>]]></text> 
+</component>
+
+<component id="ID_txt09_03">
+  <text><![CDATA[<b>Escritório principal</b>]]></text> 
+</component>
+
+<component id="ID_txt10_03">
+  <text><![CDATA[<b>Parceiros de negócios</b>]]></text> 
+</component>
+
+<component id="ID_txt11_03">
+  <text><![CDATA[<b>Empresa global (dezenas de milhares de funcionários distribuídos globalmente)</b>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01_04">
+  <text><![CDATA[<b>Filial<br/>Escritório</b>]]></text> 
+</component>
+
+<component id="ID_txt02_04">
+  <text><![CDATA[<b>Escritório<br/>Regional</b>]]></text> 
+</component>
+
+<component id="ID_txt03_04">
+  <text><![CDATA[<b>Escritório<br/>em casa</b>]]></text> 
+</component>
+
+<component id="ID_txt04_04">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_txt05_04">
+  <text><![CDATA[<b>Escritório<br/>Central</b>]]></text> 
+</component>
+
+<component id="ID_txt06_04">
+  <text><![CDATA[<b></b>]]></text> 
+</component>
+
+<component id="ID_txt07_04">
+  <text><![CDATA[<b>Filial<br/></b>]]></text> 
+</component>
+
+<component id="ID_txt08_04">
+  <text><![CDATA[<b>Filial<br/></b>]]></text> 
+</component>
+
+<component id="ID_txt09_04">
+  <text><![CDATA[<b>Escritório<br/>em casa</b>]]></text> 
+</component>
+
+<component id="ID_txt10_04">
+  <text><![CDATA[<b>Trabalhador à distância</b>]]></text> 
+</component>
+
+
+
+<component id="ID_button1">
+  <text><![CDATA[<b>Pequeno escritório</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Campus</b>]]></text> 
+</component>
+<component id="ID_button3">
+  <text><![CDATA[<b>Filial</b>]]></text> 
+</component>
+<component id="ID_button4">
+  <text><![CDATA[<b>Distribuído</b>]]></text> 
+</component>
+
+</textcomponents>

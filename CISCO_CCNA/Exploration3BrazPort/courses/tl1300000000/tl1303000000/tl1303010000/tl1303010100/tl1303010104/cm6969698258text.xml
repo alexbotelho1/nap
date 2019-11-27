@@ -1,0 +1,11 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b><ul><li type='circle'>ID de VLAN</li></ul>        - IDs de intervalo normal<br/>             • 1 – 1005<br/>             • 1002 -1005 reservados para VLANs Token Ring e FDDI<br/>             • 1 e 1002 a 1005 são criadas automaticamente, não podendo ser removidas<br/>             • Armazenados no arquivo vlan.dat na memória flash<br/>        - IDs de intervalo estendido<br/>             • 1006 – 4094<br/>             • Projetado para operadoras<br/>             • Têm menos opções que as VLANs de intervalo normal<br/>             • Armazenados no arquivo de configuração  corrente <ul><li>Um switch Cisco Catalyst 2960 suporta 255 VLANs de intervalos normal e estendido</li></ul></b>]]></text>
+</component>
+
+<component id="ID_title"><text><![CDATA[<b>Características de VLAN</b>]]></text>
+</component>
+
+
+</textcomponents>

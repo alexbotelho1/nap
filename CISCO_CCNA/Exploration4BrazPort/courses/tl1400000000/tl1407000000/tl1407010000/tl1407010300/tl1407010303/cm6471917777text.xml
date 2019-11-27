@@ -1,0 +1,64 @@
+<textcomponents>
+
+<component id="ID_button1">
+<text><![CDATA[<b>Detecção de DHCP</b>]]></text>
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[<b>Oferta de DHCP</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_title">
+<text><![CDATA[<b>Detecção e oferta de DHCP</b>]]></text>
+</component>
+
+<component id="ID_S1_txt01">
+<text><![CDATA[<b>Cliente A<br />IP: ??</b>]]></text>
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[<b>Servidor<br />192.168.1.254/24</b>]]></text>
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[Quadro Ethernet]]></text>
+</component>
+
+<component id="ID_S1_txt05">
+<text><![CDATA[MAC: Endereço de controle de acesso ao meio<br />CIADDR: Endereço IP do cliente<br />GIADDR: Endereço IP de gateway<br />CHADDR: Endereço de hardware do cliente]]></text>
+</component>
+
+<component id="ID_S1_txt06">
+<text><![CDATA[<font size='12'>O Cliente DHCP envia um broadcast IP local, com um pacote de detecção DHCP. No caso mais simples, há um servidor DHCP no mesmo segmento, que captará essa solicitação. O servidor observa que o campo GIADDR está em branco, então o cliente está no mesmo segmento. O servidor também observa o endereço de hardware do cliente no pacote de solicitação.</font>]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_S2_title">
+<text><![CDATA[<b>Como o DHCP funciona?</b>]]></text>
+</component>
+
+<component id="ID_S2_txt01">
+<text><![CDATA[<b>Cliente A<br />IP: ??</b>]]></text>
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[<b>Servidor<br />192.168.1.254/24</b>]]></text>
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[Quadro Ethernet]]></text>
+</component>
+
+<component id="ID_S2_txt04">
+<text><![CDATA[Oferta de DHCP]]></text>
+</component>
+
+<component id="ID_S2_txt05">
+<text><![CDATA[MAC: Endereço de controle de acesso ao meio<br />CIADDR: Endereço IP do cliente<br />GIADDR: Endereço IP de gateway<br />CHADDR: Endereço de hardware do cliente]]></text>
+</component>
+
+<component id="ID_S2_txt06">
+<text><![CDATA[<font size='12'>O servidor DHCP escolhe um endereço IP do conjunto de endereços disponível para esse segmento, bem como para o outro segmento e para os parâmetros globais. Ele os coloca nos campos apropriados do pacote DHCP. Em seguida, ele usa o endereço de hardware de A (no CHADDR) para criar um quadro apropriado para ser devolvido ao cliente.</font>]]></text>
+</component>
+</textcomponents>

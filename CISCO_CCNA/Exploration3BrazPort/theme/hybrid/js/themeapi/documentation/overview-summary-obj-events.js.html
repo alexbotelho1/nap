@@ -1,0 +1,369 @@
+<!doctype html public "-//W3C//DTD HTML 4.0 Frameset//EN""http://www.w3.org/TR/REC-html40/frameset.dtd">
+<html>
+<head>
+<title>
+ Visão geral
+</title>
+<link rel ="stylesheet" type="text/css" href="stylesheet.css" title="Style">
+<script>
+function asd() {
+	
+		parent.document.title="Visão geral de obj-events.js";
+	
+}
+</script>
+</head>
+<body bgcolor="white" onload="asd();">
+
+<!-- ========== START OF NAVBAR ========== --> <a name="navbar_top"><!-- --></a>
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr>
+<td colspan=2 bgcolor="#EEEEFF" class="NavBarCell1">
+<a name="navbar_top_firstrow"><!-- --></a>
+<table border="0" cellpadding="0" cellspacing="3">
+  <tr align="center" valign="top">
+  
+  
+  <td bgcolor="#EEEEFF" class="NavBarCell1">    <a href="overview-summary.html"><font class="NavBarFont1"><b>Visão geral</b></font></a> </td>
+  <td bgcolor="#FFFFFF" class="NavBarCell1Rev">	 <font class="NavBarFont1Rev"><b>Arquivo</b></font> </td>
+  
+
+  <td bgcolor="#FFFFFF" class="NavBarCell1"> 	<font class="NavBarFont1">Classe</font> </td>
+  <td bgcolor="#EEEEFF" class="NavBarCell1">    <a href="overview-tree.html"><font class="NavBarFont1"><b>Árvore</b></font></a> </td>
+  <td bgcolor="#EEEEFF" class="NavBarCell1">    <a href="index-all.html"--><font class="NavBarFont1"><b>Índice</b></font></a> </td>
+  <td bgcolor="#EEEEFF" class="NavBarCell1">    <a href="help-doc.html"><font class="NavBarFont1"><b>Ajuda</b></font></a> </td>
+  </tr>
+</table>
+</td>
+<td bgcolor="#EEEEFF" align="right" valign="top">
+<em><b></b></em>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="white" class="NavBarCell2"><font size="-2"> ANTERIOR   PRÓXIMO</font></td>
+<td bgcolor="white" class="NavBarCell2"><font size="-2"><a href="index.html" target="_top"><b>QUADROS</b></a>     <a href="overview-summary.html" target="_top"><b>SEM QUADROS</b></a>   
+<script>
+  <!--
+  if(window==top) {
+    document.writeln('<A HREF="allclasses-noframe.html" TARGET=""><B>Todas as classes</B></A>');
+  }
+  //-->
+</script>
+<noscript>
+<a href="allclasses-noframe.html" target=""><b>Todas as classes</b></a>
+</noscript>
+</font></td>
+</tr>
+</table>
+<!-- =========== END OF NAVBAR =========== -->
+
+<hr>
+<center>
+	
+	   <h2>obj-events.js</h2>
+	
+</center>
+
+	
+
+
+<h4>Resumo</h4>
+<p>
+	
+		Nenhuma visão geral de 'obj-events.js'<BR/><BR/>
+	
+</p>
+
+<hr>
+
+
+    <table border="1" cellpadding="3" cellspacing="0" width="100%">
+    <tr bgcolor="#CCCCFF" class="TableHeadingColor">
+    <td colspan=2><font size="+2">
+    
+        <b>Resumo da classe</b>
+    
+    </font></td>
+    </tr>
+    
+    <tr bgcolor="white" class="TableRowColor">
+    <td width="15%"><b><a href="EventObj.html">EventObj</a></b></td>
+    <td> </td>
+    </tr>
+    
+    </table>
+    <hr/> 
+
+
+<!-- ========== METHOD SUMMARY =========== -->
+
+<!-- ========== END METHOD SUMMARY =========== -->
+
+
+        <pre class="sourceview"><span class="comment">/**
+* Mantém todas as referências de objeto do evento e os controladores
+* <span class="attrib">@constructor</span>
+*
+* <span class="attrib">@author</span> mpollack
+* <span class="attrib">@version</span> 1.0
+*
+*/</span>
+<span class="reserved">function</span> EventObj() {
+<span class="comment">/*
+* conjunto this.watch depende do tipo de navegador.  Mozilla, naturalmente,
+* oferece suporte à funcionalidade de observação.  IE exige sua adição.
+* <span class="attrib">@type</span> method
+*/</span>
+	
+	<span class="reserved">if</span> (<span class="reserved">this</span>.watch) {
+		<span class="reserved">this</span>.watch(<span class="literal">"eventprop"</span>, EventObj.<span class="reserved">prototype</span>.eventWatcher);
+	} <span class="reserved">else</span> {
+		<span class="reserved">this</span>.ieWatch();
+	}
+<span class="comment">/**
+* variável de evento como observação
+* <span class="attrib">@type</span> boolean
+*/</span>
+	<span class="reserved">this</span>.eventprop = false;
+<span class="comment">/**
+* Arranjo de eventos para ativação em comactive
+* <span class="attrib">@type</span> array
+*/</span>
+	<span class="reserved">this</span>.comactiveEventObj = new Array();
+<span class="comment">/**
+* Arranjo de eventos para ativação em courseready
+* <span class="attrib">@type</span> array
+*/</span>
+	<span class="reserved">this</span>.coursereadyEventObj = new Array();
+<span class="comment">/**
+* Arranjo de eventos para ativação em pageready
+* <span class="attrib">@type</span> array
+*/</span>
+	<span class="reserved">this</span>.pagereadyEventObj = new Array();
+<span class="comment">/**
+* Arranjo de eventos para ativação em themeready
+* <span class="attrib">@type</span> array
+*/</span>
+	<span class="reserved">this</span>.themereadyEventObj = new Array();
+<span class="comment">/**
+* Arranjo de eventos para ativação em toggle
+* <span class="attrib">@type</span> array
+*/</span>
+	<span class="reserved">this</span>.toggleEventObj = new Array();
+<span class="comment">/**
+* Arranjo de eventos para ativação em globaltools
+* <span class="attrib">@type</span> array
+*/</span>
+	<span class="reserved">this</span>.globaltoolsreadyEventObj = new Array();
+<span class="comment">/**
+* Arranjo de eventos para ativação em glossary
+* <span class="attrib">@type</span> array
+*/</span>
+	<span class="reserved">this</span>.glossaryreadyEventObj = new Array();
+}
+<span class="comment">/**
+* Adiciona evento a um arranjo de eventos com base no tipo.  Se não
+* forem fornecidos dados o suficiente, um erro será lançado.
+* <span class="attrib">@param</span> {string} t Tipo de evento
+* <span class="attrib">@param</span> {method} e Evento a ser executado
+* <span class="attrib">@param</span> {string} i Identificador do evento
+*/</span>
+EventObj.<span class="reserved">prototype</span>.addEvent = <span class="reserved">function</span>(t,e,i) {
+	<span class="reserved">if</span> (!t || !e || !i) {
+		a = <span class="literal">"ERRO: EventObj.addEvent - não há propriedades o suficiente\n"</span>;
+		a+= <span class="literal">"syntax:\tEventObj.addEvent(EventType, ItemToExecute, EventID);\n\n"</span>;
+		a+= <span class="literal">"\tEventObj.addEvent(\"</span><span class="literal">"+t+"</span>\<span class="literal">",\"</span><span class="literal">"+e+"</span>\<span class="literal">",\"</span><span class="literal">"+i+"</span>\<span class="literal">");\n"</span>;
+		alert(a);
+	} <span class="reserved">else</span> {
+		switch(t) {
+			case <span class="literal">'courseready'</span>:
+				<span class="reserved">this</span>.coursereadyEventObj[i] = e;
+				break;
+			case <span class="literal">'comactive'</span>:
+				<span class="reserved">this</span>.comactiveEventObj[i] = e;
+				break;
+			case <span class="literal">'glossaryready'</span>:
+				<span class="reserved">this</span>.glossaryreadyEventObj[i] = e;
+				break;
+			case <span class="literal">'globaltoolsready'</span>:
+				<span class="reserved">this</span>.globaltoolsreadyEventObj[i] = e;
+				break;
+			case <span class="literal">'toggle'</span>:
+				<span class="reserved">this</span>.toggleEventObj[i] = e;
+				break;
+			case <span class="literal">'themeready'</span>:
+				<span class="reserved">this</span>.themereadyEventObj[i] = e;
+				break;
+			case <span class="literal">'pageready'</span>:
+				<span class="reserved">this</span>.pagereadyEventObj[i] = e;
+				break;
+			default:
+				a = <span class="literal">"ERRO: EventObj.addEvent - tratamento de evento incorreto\n"</span>;
+				a+= <span class="literal">"consulte a documentação para obter eventos válidos\n\n"</span>;
+				a+= <span class="literal">"\tEventObj.addEvent(\"</span><span class="literal">"+t+"</span>\<span class="literal">",\"</span><span class="literal">"+e+"</span>\<span class="literal">",\"</span><span class="literal">"+i+"</span>\<span class="literal">");\n"</span>;
+				alert(a);
+		}
+	}
+}
+<span class="comment">/**
+* Remove um evento de um arranjo de eventos com base no tipo e na ID.  Se não
+* forem fornecidos dados o suficiente, um erro será lançado.
+* <span class="attrib">@param</span> {string} t Tipo de evento
+* <span class="attrib">@param</span> {string} i Identificador do evento
+*/</span>
+EventObj.<span class="reserved">prototype</span>.removeEvent = <span class="reserved">function</span>(t,i) {
+	<span class="reserved">if</span> (!t || !i) {
+		a = <span class="literal">"ERRO: EventObj.removeEvent - não há propriedades o suficiente\n"</span>;
+		a+= <span class="literal">"syntax:\tEventObj.removeEvent(EventType, EventID);\n\n"</span>;
+		a+= <span class="literal">"\tEventObj.removeEvent(\"</span><span class="literal">"+t+"</span>\<span class="literal">",\"</span><span class="literal">"+i+"</span>\<span class="literal">");\n"</span>;
+		alert(a);
+	} <span class="reserved">else</span> {
+		switch(t) {
+			case <span class="literal">'courseready'</span>:
+				<span class="reserved">this</span>.coursereadyEventObj[i] = null;
+				break;
+			case <span class="literal">'comactive'</span>:
+				<span class="reserved">this</span>.comactiveEventObj[i] = null;
+				break;
+			case <span class="literal">'glossaryready'</span>:
+				<span class="reserved">this</span>.glossaryreadyEventObj[i] = null;
+				break;
+			case <span class="literal">'globaltoolsready'</span>:
+				<span class="reserved">this</span>.globaltoolsreadyEventObj[i] = null;
+				break;
+			case <span class="literal">'toggle'</span>:
+				<span class="reserved">this</span>.toggleEventObj[i] = null;
+				break;
+			case <span class="literal">'themeready'</span>:
+				<span class="reserved">this</span>.themereadyEventObj[i] = null;
+				break;
+			case <span class="literal">'pageready'</span>:
+				<span class="reserved">this</span>.pagereadyEventObj[i] = null;
+				break;
+			default:
+				a = <span class="literal">"ERRO: EventObj.removeEvent - tratamento de evento incorreto\n"</span>;
+				a+= <span class="literal">"consulte a documentação para obter eventos válidos\n\n"</span>;
+				a+= <span class="literal">"\tEventObj.addEvent(\"</span><span class="literal">"+t+"</span>\<span class="literal">",\"</span><span class="literal">"+e+"</span>\<span class="literal">",\"</span><span class="literal">"+i+"</span>\<span class="literal">");\n"</span>;
+				alert(a);
+		}
+	}
+}
+<span class="comment">/**
+* Observa eventprop em busca de alterações.  Quando eventprop registra uma alteração
+* um arranjo de evento é selecionado com base na propriedade newval.
+* Em seguida, esse arranjo de eventos com loops é executado.  O
+* eventprop é resetado em seguida.
+* <span class="attrib">@param</span> {string} prop Tipo de evento
+* <span class="attrib">@param</span> {string} oldval Identificador do evento
+* <span class="attrib">@param</span> {string} newval Identificador do evento
+* <span class="attrib">@returns</span> {boolean} Sempre retorna falso
+*/</span>
+EventObj.<span class="reserved">prototype</span>.eventWatcher = <span class="reserved">function</span>(prop, oldval, newval) {
+	eventarray = null;
+	switch(newval) {
+		case <span class="literal">'courseready'</span>:
+			eventarray = <span class="reserved">this</span>.coursereadyEventObj;
+			break;
+		case <span class="literal">'comactive'</span>:
+			eventarray = <span class="reserved">this</span>.comactiveEventObj;
+			break;
+		case <span class="literal">'pageready'</span>:
+			eventarray = <span class="reserved">this</span>.pagereadyEventObj;
+			break;
+		case <span class="literal">'globaltoolsready'</span>:
+			eventarray = <span class="reserved">this</span>.globaltoolsreadyEventObj;
+			break;
+		case <span class="literal">'toggle'</span>:
+			eventarray = <span class="reserved">this</span>.toggleEventObj;
+			break;
+		case <span class="literal">'themeready'</span>:
+			eventarray = <span class="reserved">this</span>.themereadyEventObj;
+			break;
+		case <span class="literal">'glossaryready'</span>:
+			eventarray = <span class="reserved">this</span>.glossaryreadyEventObj;
+			break;
+	}
+	<span class="reserved">if</span> (eventarray) {
+		<span class="reserved">for</span> (id in eventarray) {
+			eval(eventarray[id]);
+		}
+	}
+	<span class="reserved">return</span> false;
+}
+<span class="comment">/**
+* Inicia a observação de IE
+*/</span>
+EventObj.<span class="reserved">prototype</span>.ieWatch = <span class="reserved">function</span>() {
+	setInterval(<span class="reserved">this</span>.ieCheck,1000);
+}
+<span class="comment">/**
+* Processa observação para IE e, em caso de alteração,
+* chama eventWatcher.
+*/</span>
+EventObj.<span class="reserved">prototype</span>.ieCheck = <span class="reserved">function</span>() {
+	var newval = eventobj.eventprop;
+	<span class="comment">//dump("ieCheck: "+eventobj+" "+newval+"\n");</span>
+	<span class="reserved">if</span> (newval) {
+		eventobj.eventWatcher(<span class="literal">"null"</span>, <span class="literal">"null"</span>, newval);
+	}
+}
+
+
+eventobj = new EventObj();
+	
+
+</pre>
+	<hr>
+
+
+
+<!-- ========== START OF NAVBAR ========== --> <a name="navbar_top"><!-- --></a>
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr>
+<td colspan=2 bgcolor="#EEEEFF" class="NavBarCell1">
+<a name="navbar_top_firstrow"><!-- --></a>
+<table border="0" cellpadding="0" cellspacing="3">
+  <tr align="center" valign="top">
+  
+  
+  <td bgcolor="#EEEEFF" class="NavBarCell1">    <a href="overview-summary.html"><font class="NavBarFont1"><b>Visão geral</b></font></a> </td>
+  <td bgcolor="#FFFFFF" class="NavBarCell1Rev">	 <font class="NavBarFont1Rev"><b>Arquivo</b></font> </td>
+  
+
+  <td bgcolor="#FFFFFF" class="NavBarCell1"> <font class="NavBarFont1">Classe</font> </td>
+  <td bgcolor="#EEEEFF" class="NavBarCell1">    <a href="overview-tree.html"><font class="NavBarFont1"><b>Árvore</b></font></a> </td>
+  <td bgcolor="#EEEEFF" class="NavBarCell1">    <a href="index-all.html"--><font class="NavBarFont1"><b>Índice</b></font></a> </td>
+  <td bgcolor="#EEEEFF" class="NavBarCell1">    <a href="help-doc.html"><font class="NavBarFont1"><b>Ajuda</b></font></a> </td>
+  </tr>
+</table>
+</td>
+<td bgcolor="#EEEEFF" align="right" valign="top"><em><b></b></em>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="white" class="NavBarCell2"><font size="-2"> ANTERIOR   PRÓXIMO</font></td>
+<td bgcolor="white" class="NavBarCell2"><font size="-2"><a href="index.html" target="_top"><b>QUADROS</b></a>     <a href="overview-summary.html" target="_top"><b>SEM QUADROS</b></a>   
+<script>
+  <!--
+  if(window==top) {
+    document.writeln('<A HREF="allclasses-noframe.html" TARGET=""><B>Todas as classes</B></A>');
+  }
+  //-->
+</script>
+<noscript>
+<a href="allclasses-noframe.html" target=""><b>Todas as classes</b></a>
+</noscript>
+</font></td>
+</tr>
+</table>
+<!-- =========== END OF NAVBAR =========== -->
+
+<hr>
+<font size="-1">
+
+</font>
+<div class="jsdoc_ctime">Documentação gerada por <a href="http://jsdoc.sourceforge.net/" target="_parent">JSDoc</a> em Terça-feira, 4 de março de 2008 às 12:01:48</div>
+</body>
+</html>

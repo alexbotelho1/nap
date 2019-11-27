@@ -1,0 +1,104 @@
+<textcomponents>
+
+<component id="ID_activity">
+<text><![CDATA[<font size="+2"><B>Modos e conceitos de VTP</B></font><br/><br/>Arraste e solte a palavra ou expressão apropriada para completar as frases. Nem todas as respostas são usadas. Algumas respostas podem ser usadas mais de uma vez.]]></text>
+</component>
+
+
+<component id="ID_lay2">
+<text><![CDATA[Camada 2]]></text>
+</component>
+
+<component id="ID_ser">
+<text><![CDATA[servidor]]></text>
+</component>
+
+<component id="ID_open">
+<text><![CDATA[Código aberto]]></text>
+</component>
+
+<component id="ID_vlan">
+<text><![CDATA[Protocolo de entroncamento de VLAN]]></text>
+</component>5
+<component id="ID_tra">
+<text><![CDATA[transparente]]></text>
+</component>
+
+<component id="ID_tlan">
+<text><![CDATA[tradução]]></text>
+</component>
+
+<component id="ID_prop">
+<text><![CDATA[proprietário]]></text>
+</component>
+
+<component id="ID_virtual">
+<text><![CDATA[Protocolo de entroncamento virtual]]></text>
+</component>
+
+<component id="ID_clt">
+<text><![CDATA[cliente]]></text>
+</component>
+
+<component id="ID_lay3">
+<text><![CDATA[Camada 3]]></text>
+</component>
+
+<component id="element11text">
+<text><![CDATA[mestre]]></text>
+</component>
+
+
+<component id="ID_definition1">
+<text><![CDATA[<B>VTP é um acrônimo para __________________.</B>]]></text>
+</component>
+
+<component id="ID_definition2">
+<text><![CDATA[<B>VTP é um protocolo de transmissão de mensagens __________ que mantém a consistência de configuração de VLAN gerenciando a adição, exclusão e renomeação das VLANs através de diversos switches Cisco em uma rede.</B>]]></text>
+</component>
+
+<component id="ID_definition3">
+<text><![CDATA[<B>VTP é um protocolo __________ disponível somente em switches Cisco.</B>]]></text>
+</component>
+
+<component id="ID_definition4">
+<text><![CDATA[<B>No modo _________ VTP, você pode criar, modificar e excluir VLANs para todo o domínio VTP.</B>]]></text>
+</component>
+
+<component id="ID_definition5">
+<text><![CDATA[<B>No modo ____________ VTP, o switch não participa do VTP. Entretanto, o switch encaminha anúncios VTP através das interfaces de tronco.</B>]]></text>
+</component>
+
+<component id="ID_definition6">
+<text><![CDATA[<B>No modo _____________ VTP, você não pode criar, alterar ou excluir VLANs.</B>]]></text>
+</component>
+
+<component id="ID_definition7">
+<text><![CDATA[<B>No modo ____________ VTP, as configurações de VLAN não são salvas em NVRAM.</B>]]></text>
+</component>
+
+<component id="ID_definition8">
+<text><![CDATA[<B> O modo ______________ VTP permite que você crie, modifique e exclua VLANs em um único switch sem afetar o resto dos switches em sua rede.</B>]]></text>
+</component>
+
+<component id="ID_definition9">
+<text><![CDATA[<B>O modo _____________  VTP é o modo padrão para um switch Cisco.</B>]]></text>
+</component>
+
+<component id="ID_reset">
+<text><![CDATA[Redefinir]]></text>
+</component>
+<component id="ID_check">
+<text><![CDATA[Verificar]]></text>
+</component>
+
+<component id="ID_completedTitle">
+<text><![CDATA[<B>Concluído</B>]]></text>
+</component>
+
+<component id="ID_completed">
+<text><![CDATA[Você concluiu esta atividade.]]></text>
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,65 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Loops no wiring closet</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Núcleo</b>]]></text>
+</component>
+<component id="ID_txt02b">
+<text><![CDATA[<b>Núcleo</b>]]></text>
+</component>
+<component id="ID_txt02c">
+<text><![CDATA[<b>Núcleo</b>]]></text>
+</component>
+
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Distribuição</b>]]></text>
+</component>
+<component id="ID_txt03b">
+<text><![CDATA[<b>Distribuição</b>]]></text>
+</component>
+<component id="ID_txt03c">
+<text><![CDATA[<b>Distribuição</b>]]></text>
+</component>
+
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Acesso</b>]]></text>
+</component>
+<component id="ID_txt04b">
+<text><![CDATA[<b>Acesso</b>]]></text>
+</component>
+<component id="ID_txt04c">
+<text><![CDATA[<b>Acesso</b>]]></text>
+</component>
+
+
+<component id="ID_txt05">
+<text><![CDATA[<font size="12"><b>Rede hierárquica não-redundante</b></font>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<font size="12"><b>Loop de duas conexões com o mesmo switch</b></font>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<font size="12"><b>Loop de uma conexão com um segundo switch na mesma rede</b></font>]]></text>
+</component>
+
+
+<component id="ID_txt10">
+<text><![CDATA[Exemplo de uma topologia de rede hierárquica não-redundante.]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[Exemplo de um loop criado pela conexão de dois cabos de rede entre dois switches.]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[Exemplo de um loop criado pela conexão de um switch a dois switches diferentes na mesma rede.]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[Loop]]></text>
+</component>
+<component id="ID_txt14">
+<text><![CDATA[Loop]]></text>
+</component>
+
+</textcomponents>

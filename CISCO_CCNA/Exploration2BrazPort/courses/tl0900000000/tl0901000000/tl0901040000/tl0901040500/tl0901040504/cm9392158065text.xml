@@ -1,0 +1,377 @@
+<textcomponents>
+
+   <component id="ID_title01">
+      <text><![CDATA[<b>Um dia na vida de um pacote: Etapa 4</b>]]></text>
+   </component>
+
+   <component id="ID_txt01">
+      <text><![CDATA[<b>Dest. MAC 00-10</b>]]></text>
+   </component>
+
+   <component id="ID_txt02">
+      <text><![CDATA[<b>Origem MAC 0A-10</b>]]></text>
+   </component>
+
+   <component id="ID_header1">
+      <text><![CDATA[<b>Quadro do enlace de dados da Camada 2</b>]]></text>
+   </component>
+
+   <component id="ID_header2">
+      <text><![CDATA[<b>Dados da Camada 3 do pacote</b>]]></text>
+   </component>
+
+
+   <component id="ID_txt04">
+      <text><![CDATA[<b>Endereço<br>0x8F</b>]]></text>
+   </component>
+
+   <component id="ID_txt05">
+      <text><![CDATA[<b>Controle<br>0x00</b>]]></text>
+   </component>
+
+   <component id="ID_txt06">
+      <text><![CDATA[<b>Tipo<br>800</b>]]></text>
+   </component>
+   
+   <component id="ID_txt11">
+      <text><![CDATA[<b>Trailer</b>]]></text>
+   </component>
+   
+   
+   <component id="ID_txt04a_04">
+      <text><![CDATA[<b>Dest. MAC 0B-20</b>]]></text>
+   </component>
+
+   <component id="ID_txt05a_04">
+      <text><![CDATA[<b>Origem MAC 0C-22</b>]]></text>
+   </component>
+   
+   <component id="ID_txt06a_04">
+      <text><![CDATA[<b>Tipo<br>800</b>]]></text>
+   </component>
+   
+   <component id="ID_txt11_04">
+      <text><![CDATA[<b>Trailer</b>]]></text>
+   </component>
+   
+   <component id="ID_txt04a_05">
+      <text><![CDATA[<b>Dest. MAC 0B-20</b>]]></text>
+   </component>
+
+   <component id="ID_txt05a_05">
+      <text><![CDATA[<b>Origem MAC 0C-22</b>]]></text>
+   </component>
+
+   <component id="ID_txt11_05">
+      <text><![CDATA[<b>Trailer</b>]]></text>
+   </component>
+
+   <component id="ID_txt11a_05">
+      <text><![CDATA[<b>Trailer</b>]]></text>
+   </component>
+
+   <component id="ID_txt06a_05">
+      <text><![CDATA[<b>Tipo<br>800</b>]]></text>
+   </component>
+   
+   <component id="ID_txt11_02">
+      <text><![CDATA[<b>Trailer</b>]]></text>
+   </component>
+   
+   <component id="ID_txt06a_03">
+      <text><![CDATA[<b>Tipo<br>800</b>]]></text>
+   </component>
+   
+   <component id="ID_txt11_03">
+      <text><![CDATA[<b>Trailer</b>]]></text>
+   </component>
+   
+   <component id="ID_txt04b_03b">
+      <text><![CDATA[<b>Dest. MAC</b>]]></text>
+   </component>
+
+   <component id="ID_txt05b_03b">
+      <text><![CDATA[<b>MAC de origem</b>]]></text>
+   </component>
+
+   <component id="ID_txt06a_03b">
+      <text><![CDATA[<b>Tipo<br>800</b>]]></text>
+   </component>
+   
+   <component id="ID_txt11_02_03b">
+      <text><![CDATA[<b>Trailer</b>]]></text>
+   </component>
+
+
+   <component id="ID_txt07">
+      <text><![CDATA[<b>Dest. IP 192.168.4.10</b>]]></text>
+   </component>
+
+   <component id="ID_txt08">
+      <text><![CDATA[<b>Origem IP 192.168.1.10</b>]]></text>
+   </component>
+
+   <component id="ID_txt09">
+      <text><![CDATA[<b>Campos IP</b>]]></text>
+   </component>
+
+   <component id="ID_txt10">
+      <text><![CDATA[<b>Dados</b>]]></text>
+   </component>
+   
+    <component id="ID_txt07_02">
+      <text><![CDATA[<b>Dest. IP 192.168.4.10</b>]]></text>
+   </component>
+
+   <component id="ID_txt08_02">
+      <text><![CDATA[<b>Origem IP 192.168.1.10</b>]]></text>
+   </component>
+
+   <component id="ID_txt09_02">
+      <text><![CDATA[<b>Campos IP</b>]]></text>
+   </component>
+
+   <component id="ID_txt10_02">
+      <text><![CDATA[<b>Dados</b>]]></text>
+   </component>
+   
+   <component id="ID_txt07_03">
+      <text><![CDATA[<b>Dest. IP 192.168.4.10</b>]]></text>
+   </component>
+
+   <component id="ID_txt08_03">
+      <text><![CDATA[<b>Origem IP 192.168.1.10</b>]]></text>
+   </component>
+
+   <component id="ID_txt09_03">
+      <text><![CDATA[<b>Campos IP</b>]]></text>
+   </component>
+
+   <component id="ID_txt10_03">
+      <text><![CDATA[<b>Dados</b>]]></text>
+   </component>
+
+   
+   
+
+
+
+   <component id="ID_txt17">
+      <text><![CDATA[<b>Dest. Adicionar FF-FF</b>]]></text>
+   </component>
+
+   <component id="ID_txt18">
+      <text><![CDATA[<b>Endereço de origem</b>]]></text>
+   </component>
+
+   <component id="ID_txt19">
+      <text><![CDATA[<b>Tabela de roteamento de R3</b>]]></text>
+   </component>
+
+   <component id="ID_txt20">
+      <text><![CDATA[Rede]]></text>
+   </component>
+
+   <component id="ID_txt21">
+      <text><![CDATA[Saltos]]></text>
+   </component>
+
+   <component id="ID_txt22">
+      <text><![CDATA[IP de próximo salto]]></text>
+   </component>
+
+   <component id="ID_txt23">
+      <text><![CDATA[Interface de saída]]></text>
+   </component>
+
+   <component id="ID_txt24">
+      <text><![CDATA[Dir. Conexão.]]></text>
+   </component>
+
+   <component id="ID_txt25">
+      <text><![CDATA[Dir. Conexão.]]></text>
+   </component>
+   
+   <component id="ID_txt19_02">
+      <text><![CDATA[<b>Tabela de roteamento de R3</b>]]></text>
+   </component>
+
+   <component id="ID_txt20_02">
+      <text><![CDATA[Rede]]></text>
+   </component>
+
+   <component id="ID_txt21_02">
+      <text><![CDATA[Saltos]]></text>
+   </component>
+
+   <component id="ID_txt22_02">
+      <text><![CDATA[IP de próximo salto]]></text>
+   </component>
+
+   <component id="ID_txt23_02">
+      <text><![CDATA[Interface de saída]]></text>
+   </component>
+
+   <component id="ID_txt24_02">
+      <text><![CDATA[Dir. Conexão.]]></text>
+   </component>
+
+   <component id="ID_txt25_02">
+      <text><![CDATA[Dir. Conexão.]]></text>
+   </component>
+   
+   <component id="ID_txt19_03">
+      <text><![CDATA[<b>Tabela de roteamento de R3</b>]]></text>
+   </component>
+
+   <component id="ID_txt20_03">
+      <text><![CDATA[Rede]]></text>
+   </component>
+
+   <component id="ID_txt21_03">
+      <text><![CDATA[Saltos]]></text>
+   </component>
+
+   <component id="ID_txt22_03">
+      <text><![CDATA[IP de próximo salto]]></text>
+   </component>
+
+   <component id="ID_txt23_03">
+      <text><![CDATA[Interface de saída]]></text>
+   </component>
+
+   <component id="ID_txt24_03">
+      <text><![CDATA[Dir. Conexão.]]></text>
+   </component>
+
+   <component id="ID_txt25_03">
+      <text><![CDATA[Dir. Conexão.]]></text>
+   </component>
+   
+   <component id="ID_txt19_04">
+      <text><![CDATA[<b>Tabela de roteamento de R3</b>]]></text>
+   </component>
+
+   <component id="ID_txt20_04">
+      <text><![CDATA[Rede]]></text>
+   </component>
+
+   <component id="ID_txt21_04">
+      <text><![CDATA[Saltos]]></text>
+   </component>
+
+   <component id="ID_txt22_04">
+      <text><![CDATA[IP de próximo salto]]></text>
+   </component>
+
+   <component id="ID_txt23_04">
+      <text><![CDATA[Interface de saída]]></text>
+   </component>
+
+   <component id="ID_txt24_04">
+      <text><![CDATA[Dir. Conexão.]]></text>
+   </component>
+
+   <component id="ID_txt25_04">
+      <text><![CDATA[Dir. Conexão.]]></text>
+   </component>
+
+   <component id="ID_txt26">
+      <text><![CDATA[Cache ARP de R3]]></text>
+   </component>
+
+   <component id="ID_txt27">
+      <text><![CDATA[Endereço IP]]></text>
+   </component>
+
+   <component id="ID_txt28">
+      <text><![CDATA[Endereço MAC]]></text>
+   </component>
+
+   <component id="ID_txt29">
+      <text><![CDATA[Cache ARP de R1]]></text>
+   </component>
+
+  
+
+
+
+
+   <component id="ID_speech01">
+      <text><![CDATA[<b>Hmm... um pacote foi enviado para mim por meio de um broadcast. Deixe-me investigar mais.</b>]]></text>
+   </component>
+
+   <component id="ID_speech02">
+      <text><![CDATA[<b>Consigo ver a partir do tipo e do endereço IP de destino que o pacote precisa ser encaminhado.</b>]]></text>
+   </component>
+
+   <component id="ID_speech03">
+      <text><![CDATA[<b>Tenho uma rota pela minha interface Fa0/0 para alcançar PC2.</b>]]></text>
+   </component>
+
+   <component id="ID_speech04">
+      <text><![CDATA[<b>Deixe-me recriar as informações no quadro.</b>]]></text>
+   </component>
+
+   <component id="ID_speech05">
+      <text><![CDATA[<b>Minha tabela ARP me informa que PC2 usa o endereço MAC 0B-20</b>]]></text>
+   </component>
+
+   <component id="ID_speech06">
+      <text><![CDATA[<b>Ei, um quadro enviado para meu endereço MAC, me deixe processá-lo. Como o pacote também corresponde a meu endereço IP, ele deve ser meu.</b>]]></text>
+   </component>
+
+   <component id="ID_speech07">
+      <text><![CDATA[<b>O quadro já está pronto para que eu o envie através da minha Fa0/1.</b>]]></text>
+   </component>
+
+
+
+
+   <component id="ID_txt08_02a">
+      <text><![CDATA[<b>Origem IP 192.168.1.10</b>]]></text>
+   </component>
+   
+   <component id="ID_txt07_02a">
+      <text><![CDATA[<b>Dest. IP 192.168.4.10</b>]]></text>
+   </component>
+   
+   <component id="ID_txt09_02a">
+      <text><![CDATA[<b>Campos IP</b>]]></text>
+   </component>
+   
+   <component id="ID_txt10_02a">
+      <text><![CDATA[<b>Dados</b>]]></text>
+   </component>
+   
+   
+   
+   <component id="play">
+      <text>Reproduzir</text>
+   </component>
+   <component id="pause">
+      <text>Pausar</text>
+   </component>
+   <component id="rewind">
+      <text>Retroceder</text>
+   </component>
+   <component id="forward">
+      <text>Avançar</text>
+   </component>
+   <component id="mute">
+      <text>Sem som</text>
+   </component>
+   <component id="unmute">
+      <text>Com som</text>
+   </component>
+   <component id="previous">
+      <text>Reiniciar</text>
+   </component>
+   <component id="next">
+      <text>Encerrar</text>
+   </component>
+   <component id="transcript">
+      <text>Transcrição</text>
+   </component>
+
+</textcomponents>

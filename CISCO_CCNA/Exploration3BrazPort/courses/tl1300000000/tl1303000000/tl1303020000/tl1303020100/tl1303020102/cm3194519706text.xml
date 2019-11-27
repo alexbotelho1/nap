@@ -1,0 +1,56 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B></B>]]></text> 
+</component>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Sem troncos de VLAN</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Com troncos de VLAN</B>]]></text> 
+</component>
+
+<component id="ID_txt01_3.2.1.2">
+  <text><![CDATA[<B>Corpo docente<br/>172.17.10.21</B>]]></text> 
+</component>
+
+<component id="ID_txt02_3.2.1.2">
+  <text><![CDATA[<B>Aluno<br/>172.17.20.22</B>]]></text> 
+</component>
+
+<component id="ID_txt03_3.2.1.2">
+  <text><![CDATA[<B>Convidado<br/>172.17.30.23</B>]]></text> 
+</component>
+
+<component id="ID_txt04_3.2.1.2">
+  <text><![CDATA[<B>Switch de 4 <br/>Portas, uma para <br/>cada<br/>sub-rede</B>]]></text> 
+</component>
+
+<component id="ID_txt05_3.2.1.2">
+  <text><![CDATA[<B>Corpo docente - 172.17.10.0/24<br/>Alunos - 172.17.20.0/24<br/>Convidado  - 172.17.30.0/24<br>Gerenciamento e nativa - 172.17.99.0/24<br/></B>]]></text> 
+</component>
+
+<component id="ID_txt06_3.2.1.2">
+  <text><![CDATA[<B>Corpo docente<br/>VLAN 10<br/>172.17.10.21</B>]]></text> 
+</component>
+
+<component id="ID_txt07_3.2.1.2">
+  <text><![CDATA[<B>Aluno<br/>VLAN 20<br/>172.17.20.22</B>]]></text> 
+</component>
+
+<component id="ID_txt08_3.2.1.2">
+  <text><![CDATA[<B>Convidado<br/>VLAN 30<br/>172.17.30.23</B>]]></text> 
+</component>
+
+<component id="ID_txt09_3.2.1.2">
+  <text><![CDATA[<B>1 porta de switch <br/>4 VLANs:<br/>10, 20, 30, 99 <br/>sub-rede</B>]]></text> 
+</component>
+
+<component id="ID_txt10_3.2.1.2">
+  <text><![CDATA[<B>VLAN 10 – Corpo docente - 172.17.10.0/24<br/>VLAN 20 - Alunos - 172.17.20.0/24<br/>VLAN 30 – Convidado  - 172.17.30.0/24<br/>VLAN 99 – Gerenciamento e nativa - 172.17.99.0/24<br></B>]]></text> 
+</component>
+
+
+</textcomponents>

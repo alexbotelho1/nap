@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 11:11:06">
+<title><content-text><![CDATA[2.2.1  - Introducing P P P]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts what P P P is and relates it to HDLC. HDLC is the default serial encapsulation method when you connect two Cisco routers. P P P is used to connect to a non-Cisco router. A block diagram shows the components of P P P. Within the block labeled P P P are smaller blocks, one labeled HDLC, one labeled LCP (Link Control Protocol), and multiple blocks of the same type labeled NCP's (Network Control Protocols).<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

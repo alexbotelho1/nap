@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="7_2_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TXT_01">
+        <source>Remove packing material</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_02">
+        <source>Install all trays</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_03">
+        <source>Connect cables</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_04">
+        <source>Add paper</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_05">
+        <source>Install print driver</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_06">
+        <source>Test print</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_07">
+        <source>Test print from computer</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_08">
+        <source>Installation</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TITLE1">
+        <source>Printer Components</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

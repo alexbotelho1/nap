@@ -1,0 +1,26 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>Diagramas de topologia</B>]]></text> 
+</component>
+
+
+
+
+
+<component id="ID_bubble01">
+<text><![CDATA[<b><font size='12'>Departamento de RH</font></b>]]></text>
+</component>
+<component id="ID_bubble02">
+  <text><![CDATA[<b><font size='12'>Departamento de finanças</font></b>]]></text> 
+  </component>
+<component id="ID_bubble03">
+  <text><![CDATA[<b><font size='12'>Datacenter</font></b>]]></text> 
+  </component>
+
+
+
+
+
+
+</textcomponents>

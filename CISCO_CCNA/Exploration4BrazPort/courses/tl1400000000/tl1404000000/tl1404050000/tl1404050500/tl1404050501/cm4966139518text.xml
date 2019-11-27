@@ -1,0 +1,85 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Restaurando imagens do software IOS Cisco</b>]]></text>
+</component>
+
+<component id="router01">
+<text><![CDATA[<b>Saída do roteador</b>]]></text>
+</component>
+<component id="router02">
+<text><![CDATA[<b>Saída do roteador</b>]]></text>
+</component>
+
+<component id="ID_S1_txt01">
+<text><![CDATA[<b>Administrador de sistema</b>]]></text> 
+</component>
+<component id="ID_S1_tftpserver">
+<text><![CDATA[<b>Servidor TFTP</b>]]></text> 
+</component>
+
+<component id="ID_S2_txt01">
+<text><![CDATA[<b>Administrador de sistema</b>]]></text> 
+</component>
+<component id="ID_S2_tftpserver">
+<text><![CDATA[<b>Servidor TFTP</b>]]></text> 
+</component>
+
+<component id="ID_S3_txt01">
+<text><![CDATA[<b>Administrador de sistema</b>]]></text> 
+</component>
+
+<component id="ID_S3_tftpserver">
+<text><![CDATA[<b>Servidor TFTP</b>]]></text> 
+</component>
+
+<component id="ID_S4_txt01">
+<text><![CDATA[<b>Administrador de sistema</b>]]></text> 
+</component>
+
+<component id="ID_S4_tftpserver">
+<text><![CDATA[<b>Servidor TFTP</b>]]></text> 
+</component>
+
+<component id="ID_bubble1">
+<text><![CDATA[<b>R1 perde a imagem do IOS Cisco</b>]]></text> 
+</component>
+<component id="ID_bubble2">
+<text><![CDATA[<b>Conexão de console para R1</b>]]></text> 
+</component>
+<component id="ID_bubble3">
+<text><![CDATA[<b>Conexão crossover com a primeira interface Ethernet</b>]]></text> 
+</component>
+<component id="ID_button1">
+<text><![CDATA[<b>Imagem do IOS perdida</b>]]></text> 
+</component>
+<component id="ID_button2">
+<text><![CDATA[<b>Etapa 1</b>]]></text> 
+</component>
+<component id="ID_button3">
+<text><![CDATA[<b>Etapa 2</b>]]></text> 
+</component>
+<component id="ID_button4">
+<text><![CDATA[<b>Etapa 3</b>]]></text> 
+</component>
+<component id="ID_button5">
+<text><![CDATA[<b>Etapa 5</b>]]></text> 
+</component>
+
+<component id="inst">
+<text><![CDATA[<b>Clique no botão Enviar para ver "Xmodem enviar arquivo para cisco"</b>]]></text> 
+</component>
+
+<component id="ID_s1_1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_2">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_3">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_4">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+
+</textcomponents>

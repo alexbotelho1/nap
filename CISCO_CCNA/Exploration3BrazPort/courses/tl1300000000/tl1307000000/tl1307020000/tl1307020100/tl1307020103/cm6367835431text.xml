@@ -1,0 +1,33 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Negação de serviço</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Dispositivos de consumidor comuns podem interferir em dispositivos de WLAN, causando uma negação de serviço.</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>DoS 1</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>DoS 2</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<b>Invasor transforma laptop em um ponto de acesso.<br/>Invasor pode enviar mensagens de CTS ou desassociar comandos.</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<b>1</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<b>Clientes inundam a WLAN causando colisões e negação de serviço.</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<b>2</b>]]></text>
+</component>
+</textcomponents>

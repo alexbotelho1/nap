@@ -1,0 +1,92 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+         <text><![CDATA[<b>Mensagem para estudantes</b>]]></text>
+</component>
+   
+<component id="ID_page1">
+         <text><![CDATA[página 1 de 9]]></text>
+</component>
+<component id="ID_page2">
+         <text><![CDATA[página 2 de 9]]></text>
+</component>
+<component id="ID_page3">
+         <text><![CDATA[página 3 de 9]]></text>
+</component>
+<component id="ID_page4">
+         <text><![CDATA[página 4 de 9]]></text>
+</component>
+<component id="ID_page5">
+         <text><![CDATA[página 5 de 9]]></text>
+</component>
+<component id="ID_page6">
+         <text><![CDATA[página 6 de 9]]></text>
+</component>
+<component id="ID_page7">
+         <text><![CDATA[página 7 de 9]]></text>
+</component>
+<component id="ID_page8">
+         <text><![CDATA[página 8 de 9]]></text>
+</component>
+<component id="ID_page9">
+         <text><![CDATA[página 9 de 9]]></text>
+</component>
+   
+
+<component id="ID_txt01">
+         <text><![CDATA[<b>Bem-vindo</b><br/>Bem-vindo ao curso CCNA Exploration Comutação de rede local e sem fio. O objetivo é desenvolver uma compreensão de como os switches são interconectados e configurados para fornecer acesso à rede para usuários de rede local. Este curso também ensina como integrar dispositivos sem fio em uma rede local. As habilidades específicas explicadas em cada capítulo são descritas no início de cada um deles.]]></text>
+</component>
+   
+<component id="ID_txt02">
+         <text><![CDATA[<b>Mais do que apenas informações</b><br/>Este ambiente de aprendizagem com base em computadores é uma parte importante da experiência geral do curso para os alunos e instrutores do Networking Academy. Esses materiais de curso on-line foram criados para serem usados em conjunto com várias outras atividades e ferramentas instrutivas. São alguns deles:<br/><br/><ul><li>Apresentação de classe, discussão e prática com seu instrutor </li><li>Laboratórios práticos que usam equipamento de rede dentro da sala de aula do Networking Academy</li><li>Avaliações com nota on-line e um histórico escolar (gradebook) associado</li><li>Ferramenta de simulação do Packet Tracer</li><li>Software adicional para atividades em sala de aula</li></ul>]]></text>
+</component>
+
+<component id="ID_txt03">
+         <text><![CDATA[<b>Uma comunidade global</b><br/>Ao participar do Networking Academy, você estará entrando em uma comunidade global conectada por objetivos e tecnologias comuns. Escolas, faculdades, universidades e outras entidades de mais de 160 países participam do programa. Uma visualização da comunidade global do Networking Academy pode ser exibida em <a href="javascript:openExternal('http://www.academynetspace.com');"><font color="#0000FF">http://www.academynetspace.com</font></a>. <br/><br/>O material deste curso abrange uma ampla variedade de tecnologias que facilitam o trabalho, a vida e o aprendizado das pessoas através da comunicação por voz, vídeo etc. Rede e Internet afetam as pessoas de maneira diferente em partes diferentes do mundo. Embora tenhamos trabalhado com instrutores de todo o mundo para criar estes materiais, é importante que você trabalhe com o seu instrutor e colegas para tornar o material deste curso aplicável à sua situação local.<br/><br/><b>Mantenha contato</b><br/>Esses materiais instrutivos on-line, bem como o restante das ferramentas do curso, fazem parte do grande Networking Academy. O portal do aluno, do instrutor e do administrador do programa estão localizados em <a href="javascript:openExternal('http://www.cisco.com/web/learning/netacad/index.html');"><font color="#0000FF">http://www.cisco.com/web/learning/netacad/index.html</font></a>. Lá você terá acesso às demais ferramentas no programa, como o servidor de avaliação e o histórico escolar do aluno, bem como atualizações informativas e outros links relevantes.]]></text>
+</component>
+
+<component id="ID_txt04">
+         <text><![CDATA[<b>Mantenha a sua mente bem aberta™</b><br/>Uma meta importante do ensino é enriquecer você, aluno, ampliando o que você sabe e o que você pode fazer. No entanto, é importante perceber que os materiais instrutivos e o instrutor podem apenas <i>facilitar</i> o processo. <i>Você</i> deve se comprometer em aprender as novas habilidades. Aqui estão algumas sugestões para ajudar você a aprender e a crescer.<br/><br/>1.<TEXTFORMAT BLOCKINDENT='15'><b> Faça anotações.</b> Profissionais do campo de rede normalmente mantêm diários nos quais anotam as coisas que observam e aprendem. As anotações são importantes para ajudar a compreender o crescimento com o passar do tempo.</textformat><br/><br/>2.<TEXTFORMAT BLOCKINDENT='15'><b> Pense nisso.</b> O curso fornece informações para alterar o que você sabe e o que você pode fazer. Na medida em que completar o curso, pergunte-se o que faz sentido e o que não faz. Pare e faça perguntas quando você estiver confuso. Procure saber mais sobre os tópicos nos quais tem interesse. Se você não tiver certeza do porquê algo está sendo ensinado, pergunte ao seu instrutor ou a um amigo. Veja como as diferentes partes do curso se encaixam.</textformat>]]></text>
+</component>
+
+<component id="ID_txt05">
+         <text><![CDATA[3.<TEXTFORMAT BLOCKINDENT='15'><b> Pratique.</b> Aprender novas habilidades exige prática. Acreditamos que isto é tão importante para o e-learning (aprendizado eletrônico) que temos um nome especial para ela. Nós a chamamos de e-Doing. É muito importante que você conclua as atividades nos materiais instrutivos on-line e os laboratórios práticos e as atividades do Packet Tracer. </textformat><br/><br/>4.<TEXTFORMAT BLOCKINDENT='15'><b> Tente novamente.</b> Você já pensou que sabia como fazer algo e, quando chegou o momento de mostrar em um teste ou no trabalho, descobriu que, na verdade, não dominava o assunto em questão? Assim como aprender uma nova habilidade em um esporte, jogo ou idioma, aprender habilidades profissionais requer paciência e uma prática repetida para que você diga que realmente aprendeu. Os materiais didáticos on-line constituem uma oportunidade de prática repetida para muitas habilidades. Aproveite-os ao máximo. Você também pode trabalhar com seu instrutor para estender o Packet Tracer e outras ferramentas para a prática adicional, conforme o necessário.</textformat>]]></text>
+</component>
+
+<component id="ID_txt06">
+         <text><![CDATA[5.<TEXTFORMAT BLOCKINDENT='15'><b> Ensine.</b> Ensinar um amigo ou um colega costuma ser uma boa forma de reforçar sua própria aprendizagem. Para ser um bom instrutor, é necessário examinar os detalhes que podem não ter sido percebidos em sua primeira leitura. Conversas sobre o material de curso com alunos, colegas e com o instrutor podem ajudar a solidificar a sua compreensão dos conceitos de networking.</textformat><br/><br/>6.<TEXTFORMAT BLOCKINDENT='15'><b> Faça alterações sempre.</b> O curso foi projetado para que se fizessem comentários por meio de atividades e testes interativos, do sistema de avaliação on-line e das interações estruturadas com seu instrutor. Você pode utilizar estes comentários para entender melhor onde suas forças e fraquezas estão. Se houver uma área com a qual você esteja enfrentando dificuldades, concentre-se em como estudar ou praticar mais nessa área. Procure comentários adicionais do seu instrutor e de outros alunos.</textformat>]]></text>
+</component>
+
+<component id="ID_txt07">
+         <text><![CDATA[<b>Explore o mundo de rede</b><br/>Esta versão do curso inclui uma ferramenta especial chamada Packet Tracer 4.1. O Packet Tracer é uma ferramenta de aprendizagem de rede que oferece suporte a uma ampla gama de simulações físicas e lógicas. Ele também fornece ferramentas de visualização para ajudar você a compreender o funcionamento interno de uma rede.<br/><br/>As atividades parcialmente prontas do Packet Tracer consistem em simulações de rede, jogos, atividades e desafios que fornecem uma ampla variedade de experiências de aprendizagem. <br/><br/><b>Crie mundos próprios</b><br/>Você também pode utilizar o Packet Tracer para criar suas próprias experiências e cenários de rede. Esperamos que, com o passar do tempo, você considere usar o Packet Tracer não apenas para experimentar as atividades criadas previamente, mas também para se tornar um autor, explorador e experimentador.<br/><br/>Os materiais do curso on-line compreendem atividades de Packet Tracer que serão executadas em computadores com sistemas operacionais Windows®, se o Packet Tracer estiver instalado. Esta integração também pode funcionar em outros sistemas operacionais que usam emulação do Windows.]]></text>
+</component>
+ 
+<component id="ID_txt08">
+         <text><![CDATA[<b>Visão geral do curso</b><br/><br/>O foco principal deste curso está na comutação de rede local e em redes locais sem fio. O objetivo é desenvolver uma compreensão de como um switch se comunica com outros switches e roteadores em uma rede de negócio de pequeno ou médio porte para implementar a segmentação de VLAN.<br/><br/>Este curso se concentra em protocolos de comutação de Camada 2 e nos conceitos usados para melhorar redundância, propagar informações de VLAN e proteger a porção da rede na qual a maioria dos usuários acessa serviços de rede.<br/><br/>As tecnologias de comutação são relativamente simples de implementar; no entanto, assim como acontece o roteamento, os protocolos subjacentes e os algoritmos costumam ser bem complicados. Este curso irá longe para explicar os processos subjacentes das tecnologias de comutação comuns da Camada 2. Quanto melhor for a compreensão dos conceitos subjacentes, mais fácil serão a implementação, a verificação e a solução de problemas das tecnologias de comutação.<br/><br/>Cada conceito de comutação será apresentado dentro do contexto de uma única topologia para cada capítulo. As topologias de capítulo individuais serão usadas para explicar operações de protocolo, bem como fornecer uma configuração para a implementação das várias tecnologias de comutação.<br/><br/>Os laboratórios e as atividades do Packet Tracer usados neste curso foram criados para ajudar a desenvolver uma compreensão de como configurar operações de comutação, ao mesmo tempo em que reforçam os conceitos aprendidos em cada capítulo.<br/><br/><b>Capítulo 1 Design de rede local</b> – no Capítulo 1, você aprende os aspectos fundamentais da criação de redes locais. Em especial, o design de rede hierárquico que utiliza o modelo de camada núcleo-distribuição-acesso é apresentado e mencionado ao longo do restante do curso.<br/><br/><b>Capítulo 2 Configuração e conceitos básicos de switch</b> – o Capítulo 2 apresenta métodos de encaminhamento de switch, comutações simétrica e assimétrica, armazenando em buffer na memória e comutação de Camada 2 e de Camada 3. Você é apresentado à navegação na CLI do IOS Cisco em um Catalyst 2960 e à execução de uma configuração de switch inicial. Uma função integral de um administrador de switch é manter uma rede segura; para isso, você aprende a configurar várias senhas no switch, bem como SSH para atenuar ataques à segurança comuns.<br/><br/><b>Capítulo 3 VLANs</b> – o Capítulo 3 apresenta os tipos de VLANs usados em redes comutadas modernas. É importante compreender a função da VLAN padrão, as VLANs de usuário/dados, as VLANs nativas, a VLAN de gerenciamento e as VLANs de voz. Os troncos de VLAN com IEEE 802.1Q etiquetado facilitam a comunicação inter-switch com várias VLANs. Você aprende a configurar, verificar e identificar e solucionar problemas de VLANs e troncos usando a CLI do IOS Cisco.]]></text>
+</component>
+
+<component id="ID_txt09">
+         <text><![CDATA[<b>Visão geral do curso (continuação)</b><br/><br/><b>Capítulo 4 VTP</b> – o VTP é utilizado para trocar informações de VLAN através de links de tronco, reduzindo a administração de VLAN e erros de configuração. O VTP permite que você crie uma VLAN quando estiver dentro de um domínio VTP e que você tenha esta VLAN propagada a todos os outros switches no domínio VTP. O corte VTP limita a propagação desnecessária do tráfego VLAN em uma rede local, determinando quais portas de tronco encaminham que tráfego VLAN. Você aprende a configurar, verificar e a identificar e solucionar problemas em implementações de VTP.<br/><br/><b>Capítulo 5 STP</b> – o STP possibilita a implementação de links físicos redundantes em uma rede local comutada, criando uma topologia de Camada 2 lógica sem loop. Por padrão, os switches Cisco implementam STP por VLAN. A configuração do STP é bastante simples, mas os processos subjacentes são bem complicados. O IEEE 802.1D definiu a implementação original do protocolo de árvore estendida (STP). O IEEE 802.1w definiu uma implementação aprimorada de spanning tree chamada protocolo de spanning tree rápido. O tempo de convergência é aproximadamente cinco vezes mais rápido do que o da convergência com o 802.1D. O RSTP apresenta vários conceitos novos, como tipos de link, portas de extremidade, portas alternativas, portas de backup e o estado de descarte. Você aprenderá a configurar a implementação IEEE 802.1D original do STP, bem como a implementação IEEE 802.1w mais nova do spanning tree.<br/><br/><b>Capítulo 6 Roteamento inter-VLAN</b> – o roteamento inter-VLAN é o processo de rotear tráfego entre VLANs diferentes. Você aprende os vários métodos de roteamento inter-VLAN. Você aprende a implementar o roteamento inter-VLAN na topologia router-on-a-stick, em que um link de tronco conecta um switch de Camada 2 a um roteador configurado com subinterfaces lógicas emparelhadas uma com uma com VLANs.<br/><br/><b>Capítulo 7 Conceitos de rede sem fio e configuração básica</b> – os padrões de rede local sem fio estão evoluindo para tráfego de voz e de vídeo, com padrões mais novos sendo suportados com qualidade de serviço. Um ponto de acesso que se conecta à rede local com fio fornece um conjunto de serviços básicos a estações de cliente associadas. As SSIDs e a filtragem MAC são métodos naturalmente inseguros para proteger uma WLAN. Soluções corporativas, como a autenticação WPA2 e 802.1x, permitem um acesso muito seguro a redes locais sem fio. Os usuários finais precisam configurar uma placa de rede sem fio em suas estações de cliente, com quem se comunicam e a quem associam um ponto de acesso sem fio. Ao configurar uma LAN sem fio, você de verificar se os dispositivos têm o firmware mais recente para que possam suportar as opções de segurança mais rígidas.]]></text>
+</component>
+
+<component id="ID_page1_text">
+         <text><![CDATA[<b>Bem-vindo a Protocolos e conceitos de roteamento do CCNA Exploration</b>]]></text>
+</component>
+
+<component id="ID_page2_text">
+         <text><![CDATA[<b>Mantenha a sua mente bem aberta™<br/><br/>Use o material do curso sempre. Fale sobre os conceitos para aprofundar a sua compreensão.</b>]]></text>
+</component>
+
+<component id="ID_page3_text">
+         <text><![CDATA[<b>Mind Wide Open®</b><br/><br/>Bem-vindo a Protocolos e conceitos de roteamento do CCNA Exploration</b>]]></text>
+</component>
+
+<component id="ID_page4_text">
+         <text><![CDATA[<b>Bem-vindo aos Fundamentos da Rede do CCNA Exploration</b>]]></text>
+</component>
+
+<component id="ID_page5_text">
+         <text><![CDATA[<b>Bem-vindo aos Fundamentos da Rede do CCNA Exploration</b>]]></text>
+</component>
+
+</textcomponents>

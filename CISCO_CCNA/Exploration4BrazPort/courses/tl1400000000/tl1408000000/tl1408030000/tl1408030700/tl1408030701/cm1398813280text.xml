@@ -1,0 +1,23 @@
+<textcomponents>
+
+
+<component id="ID_title01">
+<text><![CDATA[<b>Estudo de caso: Diagnosticando a partir de uma perspectiva de ISPs</b>]]></text>
+</component>
+
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Pergunte ao cliente:</b><ul><li>Algo foi alterado desde que este problema começou?</li><li>Você tem desligado e ligado (ou re-inicializado) o roteador, o switch, o PC, o servidor? Você estaria disposto a fazer isto novamente enquanto eu aguardo no telefone?</li><li>Houve interrupção da alimentação, tempestade magnética ou corte parcial de energia em sua região recentemente?</li><li>Você tem software antivírus atualizado em seus PCs?</li></ul><b>Também:</b><ul><li>Peça aos clientes para enviarem por fax ou e-mail o diagrama de rede.</li><li>Ajude clientes a isolarem as diferentes partes da Internet.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+
+</textcomponents>

@@ -1,0 +1,35 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver as configurações do roteador.</b>]]></text> 
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text> 
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Alterações de topologia e configurações do roteador</b>]]></text>
+</component>
+
+<component id="btnOne">
+<text><![CDATA[<b>Configuração de R2</b>]]></text> 
+</component>
+
+<component id="btnTwo">
+<text><![CDATA[<b>Configuração de R3</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Rota<br>Padrão</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Rota<br>Estática</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[***saída do comando omitida***]]></text> 
+</component>
+
+</textcomponents>

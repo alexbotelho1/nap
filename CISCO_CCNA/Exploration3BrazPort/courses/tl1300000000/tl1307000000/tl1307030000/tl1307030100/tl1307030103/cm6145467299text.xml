@@ -1,0 +1,51 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>Configuração de segurança</B>]]></text>
+</component> 
+
+<component id="ID_footer">
+  <text><![CDATA[<B>Não são configurados modos de enterprise neste capítulo.</B>]]></text>
+</component> 
+  
+<component id="ID_button_01">
+  <text><![CDATA[<B>Visão geral</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Modo</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Parâmetros de modo</B>]]></text> 
+</component>
+
+<component id="ID_button_04">
+  <text><![CDATA[<B>Criptografia</B>]]></text> 
+</component>
+
+<component id="ID_button_05">
+  <text><![CDATA[<B>Chave</B>]]></text> 
+</component>
+
+<component id="ID_txt01-1">
+  <text><![CDATA[<B>Modo de segurança desabilitado por padrão. Observe as opções.</B>]]></text> 
+</component>
+
+<component id="ID_txt01-2">
+  <text><![CDATA[<B>Escolha um modo de segurança.</B>]]></text> 
+</component>
+
+<component id="ID_txt01-3">
+  <text><![CDATA[<B>Os parâmetros para PSK e PSK2 são os mesmos.</B>]]></text> 
+</component>
+
+<component id="ID_txt01-4">
+  <text><![CDATA[<B>Selecione a criptografia AES para o modo PSK2.</B>]]></text> 
+</component>
+
+<component id="ID_txt01-5">
+  <text><![CDATA[<B>A chave tem de 8 a 63 caracteres.</B>]]></text> 
+</component>
+
+</textcomponents>

@@ -1,0 +1,50 @@
+<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Diâmetro da rede</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Agregação da largura de banda</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Links redundantes</B>]]></text> 
+</component>
+
+
+<component id="ID_title">
+  <text><![CDATA[<B>Princípios do design de rede hierárquico</B>]]></text> 
+</component>
+
+<component id="ID_title1">
+  <text><![CDATA[<b>Diâmetro de rede é o número de switches no caminho do tráfego entre duas extremidades.</b>]]></text> 
+</component>
+
+<component id="ID_title2">
+  <text><![CDATA[<b>Agregação de largura de banda é normalmente implementada com a combinação de vários<br/>links em paralelo entre dois switches em um único link lógico.</b>]]></text> 
+</component>
+
+<component id="ID_title3">
+  <text><![CDATA[<b>Redes modernas usam links redundantes entre camadas de rede hierárquica<br/>para assegurar a disponibilidade de rede.</b>]]></text> 
+</component>
+
+
+<component id="ID_callout1">
+  <text><![CDATA[<b>Diâmetro de rede é o número<br/>de switches no caminho de tráfego<br/>entre duas extremidades.</b>]]></text> 
+</component>
+
+<component id="ID_callout2">
+  <text><![CDATA[<b>Agregação da largura de banda é<br/>normalmente implementada com a combinação de<br/>vários links em paralelos<br/>entre dois switches em um único<br/>link lógico.</b>]]></text> 
+</component>
+
+<component id="ID_callout3">
+  <text><![CDATA[<b>Redes modernas usam links redundantes<br/>entre os níveis de rede hierárquica<br/>para assegurar a disponibilidade de rede<br/>.</b>]]></text> 
+</component>
+
+<component id="ID_bubble1">
+  <text><![CDATA[<b>Uma elipse em torno de vários links é usado em diagramas de rede para indicar a agregação de link.</b>]]></text> 
+</component>
+
+
+</textcomponents>

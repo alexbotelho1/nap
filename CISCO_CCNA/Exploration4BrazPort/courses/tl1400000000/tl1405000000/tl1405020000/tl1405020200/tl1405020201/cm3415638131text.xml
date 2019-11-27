@@ -1,0 +1,88 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<B>Lógica da ACL padrão</B>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<B>Cabeçalho do pacote de entrada</B>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<B>Segmento de dados (cabeçalho TCP)</B>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<B>Dados</B>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<B>Tráfego de <br>192.168.10.1?</B>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<B>SIM</B>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<B>Negar</B>]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<B>NO</B>]]></text> 
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<B>Tráfego de <br>192.168.10.0<br>0.0.0.255?</B>]]></text> 
+</component>
+
+<component id="ID_txt09">
+  <text><![CDATA[<B>SIM</B>]]></text> 
+</component>
+
+<component id="ID_txt10">
+  <text><![CDATA[<B>Tráfego de <br>192.168.0.0<br>0.0.255.255?</B>]]></text> 
+</component>
+
+<component id="ID_txt11">
+  <text><![CDATA[<B>SIM</B>]]></text> 
+</component>
+
+<component id="ID_txt12">
+  <text><![CDATA[<B>Negar</B>]]></text> 
+</component>
+
+<component id="ID_txt13">
+  <text><![CDATA[<B>NO</B>]]></text> 
+</component>
+
+<component id="ID_txt14">
+  <text><![CDATA[<B>Permit</B>]]></text> 
+</component>
+
+<component id="ID_txt15">
+  <text><![CDATA[<B>NO</B>]]></text> 
+</component>
+
+<component id="ID_txt16">
+  <text><![CDATA[<B>Tráfego de <br>192.0.0.0<br>0.255.255.255?</B>]]></text> 
+</component>
+
+<component id="ID_txt17">
+  <text><![CDATA[<B>SIM</B>]]></text> 
+</component>
+
+<component id="ID_txt18">
+  <text><![CDATA[<B>Permit</B>]]></text> 
+</component>
+
+<component id="ID_txt19">
+  <text><![CDATA[<B>NO</B>]]></text> 
+</component>
+
+<component id="ID_txt20">
+  <text><![CDATA[<B>Deny Implícito</B>]]></text> 
+</component>
+
+
+</textcomponents>

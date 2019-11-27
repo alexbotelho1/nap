@@ -1,0 +1,18 @@
+<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Verificando cabo DTE ou DCE</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>R1 tem um cabo DCE conectado. Nenhum clock rate é definido.</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[saída de comando omitida]]></text>
+</component>
+
+<component id="routerIcon">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+</textcomponents>

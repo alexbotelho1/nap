@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 11:11:36">
+<title><content-text><![CDATA[2.4.2  - Password Authentication Protocol (PAP)]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the PAP initiation and completion process. In this example, the central-site router R1 is communicating with the remote router R3 using P P P and PAP. <br><br>R1 sends its PAP username and password to R3. The username is R1, and the password is cisco 1 2 3. Router R3 evaluates R1's username and password against its local database. If it matches, it accepts the connection. If not, it rejects the connection.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

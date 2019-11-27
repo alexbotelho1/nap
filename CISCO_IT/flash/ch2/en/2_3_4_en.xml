@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="2_3_4.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>Task Manager is used to check for unknown applications that are running
+Nslookup is used to ensure that the DNS has not been compromised
+Ipconfig /all is used to ensure that the TCP/IP data for the system is correct</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_01">
+        <source>Computer case and outside of monitor</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_02">
+        <source>LCD Screen</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_03">
+        <source>CRT Screen</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_04">
+        <source>Mild cleaning solution and lint-free cloth </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_004">
+        <source>Mild cleaning solution and lint-free cloth</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_05">
+        <source>Mild cleaning solution and lint-free cloth </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_06">
+        <source>Mild cleaning solution and lint-free cloth </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_07">
+        <source>Before cleaning any devices, ensure that you turn the power off and unplug from the electrical outlet!</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_08">
+        <source>Heat Sink</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_09">
+        <source>Ram </source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_10">
+        <source>Keyboard</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_11">
+        <source>Mouse</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_12">
+        <source>Compressed air</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_13">
+        <source>Isopropyl alcohol and lint-free swab</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_14">
+        <source>Hand-held vacuum cleaner with a brush attachment</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_15">
+        <source>Clean With:</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

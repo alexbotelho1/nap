@@ -1,0 +1,184 @@
+<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Comunicação Ethernet</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Quadro Ethernet</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Endereço MAC</B>]]></text> 
+</component>
+
+<component id="ID_caption">
+  <text><![CDATA[<B>Clique nos botões para exibir os diferentes tipos de comunicação.</B>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<B>Unicast:<br/></B>Um remetente e um receptor]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<B>Broadcast:<br/></B>Um remetente para todos os outros endereços ]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<B>Multicast:<br/></B>Um remetente para um grupo de endereços ]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<B>Grupo de clientes</B>]]></text> 
+</component>
+
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>IEEE 802.3</b>]]></text>
+</component>
+<component id="ID_txt02_02">
+  <text><![CDATA[<b>7</b>]]></text> 
+  </component>
+<component id="ID_txt03_02">
+  <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+<component id="ID_txt04_02">
+  <text><![CDATA[<b>6</b>]]></text> 
+  </component>
+<component id="ID_txt05_02">
+  <text><![CDATA[<b>6</b>]]></text> 
+  </component>
+<component id="ID_txt06_02">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+<component id="ID_txt07_02">
+  <text><![CDATA[<b>46 a 1500</b>]]></text> 
+  </component>
+<component id="ID_txt08_02">
+  <text><![CDATA[<b>4</b>]]></text> 
+  </component>
+<component id="ID_txt09_02">
+  <text><![CDATA[<b>Preâmbulo</b>]]></text> 
+  </component>
+<component id="ID_txt10_02">
+  <text><![CDATA[<b>Início do delimitador de quadro</b>]]></text> 
+  </component>
+<component id="ID_txt11_02">
+<text><![CDATA[<b>Endereço de destino</b>]]></text>
+</component>
+<component id="ID_txt12_02">
+  <text><![CDATA[<b>Endereço de origem</b>]]></text> 
+  </component>
+<component id="ID_txt13_02">
+  <text><![CDATA[<b>Tamanho/tipo</b>]]></text> 
+  </component>
+<component id="ID_txt14_02">
+  <text><![CDATA[<b>802.2 Cabeçalho e dados</b>]]></text> 
+  </component>
+<component id="ID_txt15_02">
+  <text><![CDATA[<b>Sequência de verificação de quadro</b>]]></text> 
+  </component>
+<component id="ID_txtTitle">
+<text><![CDATA[Preâmbulo]]></text>
+</component>
+<component id="ID_txtBody">
+<text><![CDATA[Preâmbulo de estrutura de 7 bytes]]></text>
+</component>
+<component id="ID_txtTitle2">
+<text><![CDATA[Início do delimitador de quadro]]></text>
+</component>
+<component id="ID_txtBody2">
+<text><![CDATA[Início do delimitador de quadro de 1 byte]]></text>
+</component>
+<component id="ID_txtTitle3">
+<text><![CDATA[Endereço de destino]]></text>
+</component>
+<component id="ID_txtBody3">
+<text><![CDATA[Endereço MAC de destino de 6 bytes]]></text>
+</component>
+<component id="ID_txtTitle4">
+<text><![CDATA[Endereço de origem]]></text>
+</component>
+<component id="ID_txtBody4">
+<text><![CDATA[Endereço MAC de origem de 6 bytes]]></text>
+</component>
+<component id="ID_txtTitle5">
+<text><![CDATA[Tamanho/tipo]]></text>
+</component>
+<component id="ID_txtBody5">
+<text><![CDATA[Tamanho do quadro de 2 bytes ou tipo de protocolo encapsulado]]></text>
+</component>
+<component id="ID_txtTitle6">
+<text><![CDATA[802.2 Cabeçalho e dados]]></text>
+</component>
+<component id="ID_txtBody6">
+<text><![CDATA[46 a 1500 bytes de dados (pacote encapsulado) mais padding, se necessário]]></text>
+</component>
+<component id="ID_txtTitle7">
+<text><![CDATA[Sequência de verificação de quadro]]></text>
+</component>
+<component id="ID_txtBody7">
+<text><![CDATA[Sequência de verificação de quadro de 4 bytes (soma de verificação CRC)]]></text>
+</component>
+<component id="ID_inst">
+  <text><![CDATA[<b>Passe o mouse sobre cada nome de campo para ver a descrição.</b>]]></text> 
+  </component>
+
+
+<component id="ID_txt01_03">
+<text><![CDATA[<b>Endereço MAC</b>]]></text>
+</component>
+<component id="ID_txt02_03">
+  <text><![CDATA[<b>Broadcast</b>]]></text> 
+  </component>
+<component id="ID_txt03_03">
+  <text><![CDATA[<b>Local</b>]]></text> 
+  </component>
+<component id="ID_txt04_03">
+  <text><![CDATA[<b>Número da OUI</b>]]></text> 
+  </component>
+<component id="ID_txt05_03">
+  <text><![CDATA[<b>"OUI"</b>]]></text> 
+  </component>
+<component id="ID_txt06_03">
+  <text><![CDATA[<b>"Número do fabricante"</b>]]></text> 
+  </component>
+<component id="ID_txt07_03">
+  <text><![CDATA[<b>Atribuição do fabricante</b>]]></text> 
+  </component>
+<component id="ID_txtTitle_02">
+<text><![CDATA[Broadcast]]></text>
+</component>
+<component id="ID_txtBody_02">
+<text><![CDATA[O bit de broadcast indica para a interface receptora que o destino do quadro é todos ou um grupo de estações finais no segmento de rede local.]]></text>
+</component>
+<component id="ID_txtTitle2_02">
+<text><![CDATA[Local]]></text>
+</component>
+<component id="ID_txtBody2_02">
+<text><![CDATA[O bit local indica se o número de fornecedor de 24 bits pode ser modificado localmente.]]></text>
+</component>
+<component id="ID_txtTitle3_02">
+<text><![CDATA[Número da OUI]]></text>
+</component>
+<component id="ID_txtBody3_02">
+<text><![CDATA[O número OUI tem 22 bits. Ele foi atribuído pelo IEEE e identifica o fabricante da placa de rede.]]></text>
+</component>
+<component id="ID_txtTitle4_02">
+<text><![CDATA[OUI]]></text>
+</component>
+<component id="ID_txtBody4_02">
+<text><![CDATA[O OUI tem 24 bits e é formado pelos campos de número OUI, de broadcast e local.]]></text>
+</component>
+<component id="ID_txtTitle5_02">
+<text><![CDATA[Número do fabricante/atribuição]]></text>
+</component>
+<component id="ID_txtBody5_02">
+<text><![CDATA[A parte de atribuição do fornecedor do endereço MAC tem um número com 24 bits (número do fornecedor) que identifica exclusivamente o hardware Ethernet.]]></text>
+</component>
+<component id="ID_inst03">
+  <text><![CDATA[<b>Passe o mouse sobre cada nome de campo para ver a descrição.</b>]]></text> 
+  </component>
+
+
+</textcomponents>

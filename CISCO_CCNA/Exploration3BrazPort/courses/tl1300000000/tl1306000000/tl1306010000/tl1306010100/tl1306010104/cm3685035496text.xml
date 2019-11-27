@@ -1,0 +1,125 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Roteamento entre VLANs baseado em switch</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para exibir a animação.</b>]]></text>
+</component>
+
+<component id="ID_bubble01">
+<text><![CDATA[<b><font size='12'>Tronco</font></b>]]></text>
+</component>
+
+<component id="ID_bubble02">
+<text><![CDATA[<b><font size='12'>Tronco</font></b>]]></text>
+</component>
+
+<component id="ID_bubble03">
+<text><![CDATA[<b><font size='12'>Tronco</font></b>]]></text>
+</component>
+
+<component id="ID_bubble04">
+<text><![CDATA[<b><u>Portas de switch S1</u><br/>F0/1-F0/4 = Tronco<br/><br/><u>Portas de switch S2</u><br/>F0/11 = VLAN10<br/>F0/18 = VLAN20<br/>F0/6 = VLAN30<br/>F0/1-F0/4 = Tronco</b>]]></text>
+</component>
+
+<component id="ID_bubble05">
+<text><![CDATA[<b>VLAN<br/>Quadro com etiqueta</b>]]></text>
+</component>
+
+<component id="ID_frame01">
+<text><![CDATA[<b>Unicast</b>]]></text>
+</component>
+
+<component id="ID_frame02">
+<text><![CDATA[<b>VLAN10 Unicast</b>]]></text>
+</component>
+
+<component id="ID_frame03">
+<text><![CDATA[<b>VLAN30 Unicast</b>]]></text>
+</component>
+
+<component id="ID_bubble06">
+<text><![CDATA[<b>Tronco</b>]]></text>
+</component>
+
+<component id="ID_bubble07">
+<text><![CDATA[<b><u>Interfaces VLAN de S1</u><br/>VLAN10: 172.17.10.1<br/>VLAN20: 172.17.20.1<br/>VLAN30: 172.17.30.1</b>]]></text>
+</component>
+
+<component id="ID_bubble08">
+<text><![CDATA[<b>VLAN 10</b>]]></text>
+</component>
+
+<component id="ID_bubble09">
+<text><![CDATA[<b>VLAN 30</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Corpo docente<br/>VLAN 10 -<br/>172.17.10.24</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Estudante<br/>VLAN 20 -<br/>172.17.20.25</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Troncos VLAN configurados para suportar: VLAN 10, 20</b>]]></text>
+</component>
+
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<component id="play2">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause2">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind2">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward2">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute2">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute2"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous2"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next2">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript2">
+<text><![CDATA[Transcrição]]></text>
+</component>
+<component id="ID_s1">
+<text><![CDATA[S1]]></text>
+</component>
+<component id="ID_s2">
+<text><![CDATA[S2]]></text>
+</component>
+<component id="ID_s3">
+<text><![CDATA[S3]]></text>
+</component>
+</textcomponents>

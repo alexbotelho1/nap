@@ -1,0 +1,28 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Tabela de <br>endereços</b>]]></text>
+</component>
+
+<component id="ID_header01">
+<text><![CDATA[<b>Dispositivo</b>]]></text>
+</component>
+
+<component id="ID_header02">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_header03">
+<text><![CDATA[<b>Endereço IP</b>]]></text>
+</component>
+
+<component id="ID_header04">
+<text><![CDATA[<b>Máscara de sub-rede</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Topologia RIP: Cenário B</b>]]></text>
+</component>
+
+
+</textcomponents>

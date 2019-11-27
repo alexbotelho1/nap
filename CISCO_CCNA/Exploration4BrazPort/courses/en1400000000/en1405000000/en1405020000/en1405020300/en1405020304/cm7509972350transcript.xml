@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 08:12:42">
+<title><content-text><![CDATA[5.2.3 - ACL Wildcard Masking]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts examples of ACL commands using the any and host keywords. The following is the format of using optional keywords in an ACL statement.<br><br>Example 1: <br>R1(config)#access-list 1 permit 0.0.0.0 255.255.255.255<br>R1(config)#access-list 1 permit any<br><br>Example 2: <br>R1(config)#access-list 1 permit 192.168.10.10 0.0.0.0<br>R1(config)#access-list 1 permit host 192.168.10.10]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

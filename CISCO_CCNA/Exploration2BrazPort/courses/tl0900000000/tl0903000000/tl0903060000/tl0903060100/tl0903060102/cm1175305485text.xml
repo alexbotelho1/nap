@@ -1,0 +1,221 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para visualizar a resposta.</li><li>Clique em <b>Próxima pergunta</b> para avançar para a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+
+
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) Explique por que pode ser preferível usar o roteamento estático em vez do roteamento dinâmico. ]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 3.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[O roteamento estático é mais seguro, usa menos recursos computacionais do roteador e é mais fácil de entender. Ele é mais seguro porque os roteadores não anunciam informações de roteamento a outros roteadores. Ele usa menos recursos de roteador do que o roteamento dinâmico, que requer a implementação de algoritmos e o processamento de pacotes de atualização. É freqüentemente mais fácil de entender do que alguns dos protocolos de roteamento mais complexos.]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+
+<component id="ID_Q2_txt03">
+<text><![CDATA[2. Quais são os quatro modos de classificar os protocolos de roteamento dinâmico? ]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de (3.2)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[Os protocolos de roteamento dinâmico podem ser classificados como ou interiores ou exteriores, do vetor de distância ou link-state, classful ou classless e por velocidade de convergência.]]></text>
+</component>
+
+
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) Quais são as métricas mais comuns usadas em protocolos de roteamento dinâmico de IP?  ]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 3.3)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[Contagem de saltos, largura de banda, atraso e custo]]></text>
+</component>
+
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) O que é distância administrativa e por que ela é importante?]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 3.4)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[A distância administrativa é uma medida de confiabilidade de uma origem de rota. Ela é usada quando um roteador tiver aprendido rotas para o mesmo destino a partir de duas origens de rota diferentes. É importante porque nem todas as origens de rota são iguais. Por exemplo, você certamente não desejará que um roteador envie tráfego a outro roteador se o destino for uma rede diretamente conectada! A distância administrativa garante que isso não aconteça porque as rotas diretamente conectadas são mais confiáveis do que todas as outras origens de rota.]]></text>
+</component>
+
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+
+<component id="ID_Q5_txt03">
+<text><![CDATA[5) Pode-se dizer que todos os roteadores devem ter pelo menos uma rota estática. Explique por que essa instrução pode ser verdadeira.]]></text>
+</component>
+<component id="*ID_Q5_txt04">
+<text><![CDATA[(de 2.3)]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[Todos os roteadores que encaminham tráfego de usuário à Internet terão pelo menos uma rota estática. Essa rota estática será uma rota padrão. Todas as residências que possuem um roteador para conectar-se à Internet usam uma rota padrão estática para enviar todo o tráfego ao ISP. 
+]]></text>
+</component>
+
+<component id="ID_Q5_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+
+<component id="ID_Q6_txt03">
+<text><![CDATA[6) Às vezes, os alunos que não conhecem bem o roteamento assumem que a largura de banda é uma métrica melhor do que a contagem de saltos. Por que essa suposição pode ser falsa?]]></text>
+</component>
+<component id="*ID_Q6_txt04">
+<text><![CDATA[(de 2.3)]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[A contagem de saltos poderá usar o melhor caminho se o caminho escolhido por uma métrica de largura de banda estiver saturado de tráfego. ]]></text>
+</component>
+
+<component id="ID_Q6_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Isto conclui as perguntas da seção Problemas e Discussão deste capítulo.</b>]]></text>
+</component>
+
+
+
+
+<!-- Question 7 -->
+
+
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[(de 2.4)]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[7) Por que você deve remover uma rota estática da configuração antes de modificá-la?]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[Uma rota estática não pode ser alterada. A rota original também deve ser removida da configuração. Do contrário, a rota original e a nova rota serão armazenadas na configuração.<br/><b>Isto conclui as perguntas da seção Problemas e Discussão deste capítulo.</b>]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 8 -->
+
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q8_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[8) Explique a importância das rotas padrão e sumarizadas.]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[(de 2.5)]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[As rotas padrão e sumarizadas diminuem o tamanho das tabelas de roteamento. Se um roteador tiver um conjunto grande de rotas estáticas apontando para a mesma interface, às vezes, essas rotas poderão ser sumarizadas em uma entrada da tabela de roteamento. Sem roteamento padrão, todo o roteador precisaria de uma rota para todas as localidades na rede.]]></text>
+</component>
+<component id="ID_Q8_txt07">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q8_txt08">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 9 -->
+
+
+<component id="ID_Q9_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q9_txt02">
+<text><![CDATA[(de 2.6)]]></text>
+</component>
+<component id="ID_Q9_txt03">
+<text><![CDATA[9. Liste os comandos usados para testar e solucionar problemas de uma implementação da rede.]]></text>
+</component>
+<component id="ID_Q9_txt04">
+<text><![CDATA[<b>Isto conclui as perguntas da seção Problemas e Discussão deste capítulo.</b>]]></text>
+</component>
+<component id="ID_Q9_txt05">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+
+
+</textcomponents>

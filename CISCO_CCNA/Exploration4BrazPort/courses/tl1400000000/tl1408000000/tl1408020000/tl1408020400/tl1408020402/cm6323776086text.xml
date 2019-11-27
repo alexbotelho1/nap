@@ -1,0 +1,59 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Diretrizes para selecionar um método de identificação e solução de problemas</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Determinar qual o escopo do problema</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Analisar os sintomas</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Aplicar experiências anteriores</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Limitado</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Complexo</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Novo<br/>Problema</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Experiência<br/>anterior</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Complexo</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Novo<br/>Problema</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Experiência<br/>anterior</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>De cima para baixo<br/>abordagem</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>De baixo para cima<br/>abordagem</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Dividir e conquistar</b>]]></text>
+</component>
+
+</textcomponents>

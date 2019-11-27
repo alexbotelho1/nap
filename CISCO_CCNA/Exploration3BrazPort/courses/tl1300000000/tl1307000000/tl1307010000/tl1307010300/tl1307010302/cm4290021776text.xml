@@ -1,0 +1,135 @@
+<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Pontos de acesso sem fio</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Pontos de acesso</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Nós ocultos</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Pontos de acesso leves</b>]]></text>
+</component>
+
+<component id="ID_lazyText01">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText02">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText03">
+<text><![CDATA[<b>Frete</b>]]></text>
+</component>
+
+<component id="ID_lazyText04">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText05">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText06">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText07">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText08">
+<text><![CDATA[<b>Sair</b>]]></text>
+</component>
+
+<component id="ID_lazyText09">
+<text><![CDATA[<b>Entrada</b>]]></text>
+</component>
+
+<component id="ID_lazyText10">
+<text><![CDATA[<b>Concessões</b>]]></text>
+</component>
+
+<component id="ID_lazyText11">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText12">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText13">
+<text><![CDATA[<b>O problema do nó oculto:<ul><li>PC1 e PC2 alcançam WRS3</li><li>PC1 e PC2 não conseguem alcançar um ao outro</li><li>PC1 não detecta a atividade de PC2 no canal</li><li>PC1 transmite dados ao mesmo tempo em que PC2 está transmitindo</li><li>Ocorre uma colisão</li></ul><br/>PC3 é sentido por PC1 e PC2, e por isso não há nenhuma colisão envolvendo PC3.</b>]]></text>
+</component>
+
+<component id="ID_lazyText14">
+<text><![CDATA[<b>PC2 e PC3 sentem um ao outro</b>]]></text>
+</component>
+
+<component id="ID_lazyText15">
+<text><![CDATA[<b>PC1 e PC3 sentem um ao outro</b>]]></text>
+</component>
+
+<component id="ID_lazyText16">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText17">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText18">
+<text><![CDATA[<b>Frete</b>]]></text>
+</component>
+
+<component id="ID_lazyText19">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText20">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText21">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText22">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText23">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText24">
+<text><![CDATA[<b>Entrada</b>]]></text>
+</component>
+
+<component id="ID_lazyText25">
+<text><![CDATA[<b>Concessões</b>]]></text>
+</component>
+
+<component id="ID_lazyText26">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText27">
+<text><![CDATA[<b>Saída</b>]]></text>
+</component>
+
+<component id="ID_lazyText28">
+<text><![CDATA[<b>LWAPP – Protocolo Leve de Ponto de Acesso<br/>WLC – Controlador de Rede Local sem fio</b>]]></text>
+</component>
+
+<component id="ID_lazyText29">
+<text><![CDATA[<b>PC1 e PC2 não podem<br/>sentir um ao outro</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,82 @@
+<textcomponents>
+   <component id="play">
+      <text><![CDATA[Reproduzir]]></text>
+   </component>
+   <component id="pause">
+      <text><![CDATA[Pausar]]></text>
+   </component>
+   <component id="rewind">
+      <text><![CDATA[Retroceder]]></text>
+   </component>
+   <component id="forward">
+      <text><![CDATA[Avançar]]></text>
+   </component>
+   <component id="mute">
+      <text><![CDATA[Sem som]]></text>
+   </component>
+   <component id="unmute">
+      <text><![CDATA[Com som]]></text>
+   </component>
+   <component id="previous">
+      <text><![CDATA[Reiniciar]]></text>
+   </component>
+   <component id="next">
+      <text><![CDATA[Encerrar]]></text>
+   </component>
+   <component id="transcript">
+      <text><![CDATA[Transcrição]]></text>
+   </component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para ver o processo de autenticação.</b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Atualizações disparadas</b>]]></text>
+</component>
+
+<component id="ID_update01">
+<text><![CDATA[<b>Atualizar</b>]]></text>
+</component>
+
+<component id="ID_update02">
+<text><![CDATA[<b>Atualizar</b>]]></text>
+</component>
+
+<component id="ID_update03">
+<text><![CDATA[<b>Atualizar</b>]]></text>
+</component>
+
+<component id="ID_update04">
+<text><![CDATA[<b>Atualizar</b>]]></text>
+</component>
+
+<component id="ID_update05">
+<text><![CDATA[<b>Atualizar</b>]]></text>
+</component>
+
+<component id="ID_update06">
+<text><![CDATA[<b>Atualizar</b>]]></text>
+</component>
+
+<component id="ID_subtitle01">
+<text><![CDATA[<b>O R2 remove a rota</b>]]></text>
+</component>
+
+<component id="ID_subtitle02">
+<text><![CDATA[<b>O R1 remove a rota</b>]]></text>
+</component>
+
+<component id="ID_subtitle03">
+<text><![CDATA[<b>Nenhuma informação nova</b>]]></text>
+</component>
+
+<component id="ID_subtitle04">
+<text><![CDATA[<b>Nenhuma informação nova</b>]]></text>
+</component>
+
+<component id="ID_subtitle05">
+<text><![CDATA[<b>Nenhuma informação nova </b>]]></text>
+</component>
+
+</textcomponents>

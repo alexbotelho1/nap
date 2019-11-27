@@ -1,0 +1,53 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>7 Aplicação</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>6 Apresentação</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>5 Sessão</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>4 Transporte</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>3 Rede</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>2 Enlaces de dados</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>1 Física</b>]]></text>
+</component>
+<component id="ID_txt01a">
+<text><![CDATA[<b>7 Aplicação</b>]]></text>
+</component>
+<component id="ID_txt02a">
+<text><![CDATA[<b>6 Apresentação</b>]]></text>
+</component>
+<component id="ID_txt03a">
+<text><![CDATA[<b>5 Sessão</b>]]></text>
+</component>
+<component id="ID_txt04a">
+<text><![CDATA[<b>4 Transporte</b>]]></text>
+</component>
+<component id="ID_txt05a">
+<text><![CDATA[<b>3 Rede</b>]]></text>
+</component>
+<component id="ID_txt06a">
+<text><![CDATA[<b>2 Enlaces de dados</b>]]></text>
+</component>
+<component id="ID_txt07a">
+<text><![CDATA[<b>1 Física</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>Comutação das camadas 2 e 3</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Comutação da Camada 2</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Comutação da Camada 3</b>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="5_2_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TEXT_01">
+        <source>Network 
+Operating 
+System
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE">
+        <source>Desktop OS and Network OS</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE_NEW">
+        <source>Desktop OS and Network OS</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE1">
+        <source>Small Network</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_01">
+        <source>Computer 1</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_02">
+        <source>Desktop 
+Operating 
+System</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_03">
+        <source>Computer 4</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_04">
+        <source>Computer 3</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_05">
+        <source>Server</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

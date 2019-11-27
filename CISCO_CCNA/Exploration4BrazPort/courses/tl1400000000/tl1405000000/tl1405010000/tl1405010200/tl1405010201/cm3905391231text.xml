@@ -1,0 +1,123 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Filtragem de pacote</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para exibir a animação.</b>]]></text>
+</component>
+<component id="ID_Button01">
+<text><![CDATA[Permitido]]></text>
+</component>
+<component id="ID_Button02">
+<text><![CDATA[Negado]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Modelo OSI</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Aplicativo</b>]]></text> 
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Apresentação</b>]]></text> 
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Sessão</b>]]></text> 
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Transporte</b>]]></text> 
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Enlace de dados</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>Física</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[Filtragem de pacote funciona na Camada 3]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Pacote desconhecido</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b><font color="#00AE00">Pacote</font> permitido</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[Este pacote passa no teste?]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[Sim]]></text>
+</component>
+<component id="ID_txt14">
+<text><![CDATA[Não]]></text>
+</component>
+<component id="ID_txt15">
+<text><![CDATA[<b>Pacote desconhecido</b>]]></text>
+</component>
+
+<!-- controller 1-->
+<!-- text is identical to controller 2-->
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<!-- controller 2-->
+<!-- text is identical to controller 1-->
+<component id="play2">
+  <text>Reproduzir</text>
+</component>
+<component id="pause2">
+  <text>Pausar</text>
+</component>
+<component id="rewind2">
+  <text>Retroceder</text>
+</component>
+<component id="forward2">
+  <text>Avançar</text>
+</component>
+<component id="mute2">
+  <text>Sem som</text>
+</component>
+<component id="unmute2">
+  <text>Com som</text>
+</component>
+<component id="previous2">
+  <text>Reiniciar</text>
+</component>
+<component id="next2">
+  <text>Encerrar</text>
+</component>
+<component id="transcript2">
+  <text>Transcrição</text>
+</component>
+
+</textcomponents>

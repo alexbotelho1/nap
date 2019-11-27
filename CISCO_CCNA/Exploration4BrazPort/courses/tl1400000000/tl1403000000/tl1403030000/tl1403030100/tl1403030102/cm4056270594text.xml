@@ -1,0 +1,42 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Subinterfaces Frame Relay</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Interface Física</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Interface lógica</b>]]></text> 
+</component>
+
+<component id="ID_bubble01">
+<text><![CDATA[<b>Subinterface ponto-a-ponto</b>]]></text> 
+</component>
+
+<component id="ID_bubble02">
+<text><![CDATA[<b>Subinterface Multiponto</b>]]></text> 
+</component>
+
+<component id="ID_poptitle01">
+<text><![CDATA[Subinterface ponto-a-ponto]]></text> 
+</component>
+
+<component id="ID_popbody01">
+<text><![CDATA[Subinterfaces ponto-a-ponto - Em topologias hub-and-spoke:<br/><li>As subinterfaces atuam como linhas alugadas</li><li>Cada subinterface ponto-a-ponto exige a sua própria sub-rede</li>]]></text> 
+</component>
+
+<component id="ID_poptitle02">
+<text><![CDATA[Subinterface Multiponto]]></text> 
+</component>
+
+<component id="ID_popbody02">
+<text><![CDATA[Subinterfaces Multiponto– Em topologias de malha parcial e de malha completa:<br/><li>As subinterfaces atuam como NBMA, portanto elas não resolvem o problema de split horizon</li><li>Pode economizar espaço de endereço, pois usa uma única sub-rede</li>]]></text> 
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[Passe o mouse sobre os textos da Subinterface ponto-a-ponto e da Subinterface Multipontopara obter mais informações.]]></text> 
+</component>
+
+</textcomponents>

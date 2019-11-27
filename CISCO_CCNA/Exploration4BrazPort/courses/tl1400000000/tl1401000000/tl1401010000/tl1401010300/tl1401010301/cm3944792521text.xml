@@ -1,0 +1,73 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<b>O modelo de rede hierárquico</b>]]></text> 
+</component>
+
+<component id="ID_txt01_01">
+  <text><![CDATA[<b>Núcleo</b>]]></text> 
+</component>
+
+<component id="ID_txt02_01">
+  <text><![CDATA[<b>Comutação em alta velocidade</b>]]></text> 
+</component>
+
+<component id="ID_txt03_01">
+  <text><![CDATA[<b>Distribuição</b>]]></text> 
+</component>
+
+<component id="ID_txt04_01">
+  <text><![CDATA[<b>Conectividade baseada em política</b>]]></text> 
+</component>
+
+<component id="ID_txt05_01">
+  <text><![CDATA[<b>Acesso</b>]]></text> 
+</component>
+
+<component id="ID_txt06_01">
+  <text><![CDATA[<b>Acesso ao grupo de trabalho local e remoto</b>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01_02">
+  <text><![CDATA[<b>Núcleo</b>]]></text> 
+</component>
+
+<component id="ID_txt02_02">
+  <text><![CDATA[<b>Distribuição</b>]]></text> 
+</component>
+
+<component id="ID_txt03_02">
+  <text><![CDATA[<b>Acesso</b>]]></text> 
+</component>
+
+<component id="ID_txt04_02">
+  <text><![CDATA[<b>WAN</b>]]></text> 
+</component>
+
+<component id="ID_txt05_02">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_txt06_02">
+  <text><![CDATA[<b>Rede telefônica</b>]]></text> 
+</component>
+
+<component id="ID_txt07_02">
+  <text><![CDATA[<b>Acesso</b>]]></text> 
+</component>
+
+
+<component id="ID_inst01">
+  <text><![CDATA[<b>Clique para ver o modelo de rede hierárquico e um exemplo de topologia que utiliza esse modelo.</b>]]></text> 
+</component>
+
+<component id="ID_button1">
+  <text><![CDATA[<b>Modelo de rede hierárquico</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Exemplo de topologia</b>]]></text> 
+</component>
+
+</textcomponents>

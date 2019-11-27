@@ -1,0 +1,16 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>O significado de vetor de distância</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Distância = até aonde</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Vetor = direção</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Para o R1, 172.16.3.0/24 está a um salto de distância (distância).<br>Ela pode ser alcançada através do R2 (vetor).</b>]]></text>
+</component>
+
+</textcomponents>

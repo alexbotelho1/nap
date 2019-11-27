@@ -1,0 +1,36 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Por que estabelecer uma linha de base de rede é importante?</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>A linha de base de rede determina a "personalidade" de uma rede sob condições normais.
+</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Como é o desempenho da rede durante um dia normal ou comum?</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Onde ocorre a maioria dos erros?</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Que limites de alerta devem ser definidos para os dispositivos que precisam ser monitorados?</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Que parte da rede é menos usada?</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Que parte da rede é mais intensamente usada?</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>A rede atende às políticas identificadas?</b>]]></text>
+</component>
+
+</textcomponents>

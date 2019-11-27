@@ -1,0 +1,60 @@
+<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Rede de voz</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Rede de vídeo</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Redes de dados</B>]]></text> 
+</component>
+
+
+<component id="ID_title">
+  <text><![CDATA[<B>Redes de voz, de vídeo e de dados separadas</B>]]></text> 
+</component>
+
+<component id="ID_bubble01">
+<text><![CDATA[<b>Portas agregadas para melhor desempenho</b>]]></text>
+</component>
+<component id="ID_bubble02">
+  <text><![CDATA[<b>Única porta</b>]]></text> 
+  </component>
+
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Switch de 24 portas</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Switch de 48 portas</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Switch modular com até mais de 1000 portas</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt04">
+  <text><![CDATA[<b>Switch Gigabit Ethernet de 24 portas</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt05">
+  <text><![CDATA[<b>Switch Gigabit Ethernet de 48 portas</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt06">
+  <text><![CDATA[<b><ul><li>Capaz de gerar 24 Gbps de tráfego</li><li>Precisa suportar uma taxa de encaminhamento de 24Gbps para taxa de transmissão nominal máxima suportada  (wire-speed) total em todas as portas!</li></ul></b>]]></text> 
+  </component>
+  
+  <component id="ID_txt07">
+  <text><![CDATA[<b><ul><li>Capaz de gerar 48 Gbps de tráfego</li><li>Precisa suportar uma taxa de encaminhamento de 48 Gbps para taxa de transmissão máxima suportada (wire-speed) total em todas as portas!</li></ul></b>]]></text> 
+  </component>
+
+
+
+
+
+
+</textcomponents>

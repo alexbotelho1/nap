@@ -1,0 +1,71 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para visualizar a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para avançar para a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) <textformat blockindent='20'>Descreva os benefícios organizacionais, sociais e ambientais do trabalho remoto.</textformat>]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 6.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Benefícios organizacionais:</b><ul><li>Continuidade das operações</li><li>Maior agilidade de resposta </li><li>Acesso seguro, confiável e gerenciável às informações </li><li>Integração econômica de dados, voz, vídeo e aplicativos</li><li>Maior produtividade, satisfação e retenção do funcionário</li></ul><b>Benefícios sociais:</b><ul><li>Maiores oportunidades de emprego para grupos marginalizados</li><li>Menos estresse relacionado a viagens e ao deslocamento diário</li></ul><b>Benefícios ambientais</b><ul><li>Redução na emissão de gás carbônico, tanto para funcionários individuais como para organizações</li></ul>]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2) <textformat blockindent='20'>Descreva os quatro principais métodos de conexão utilizados escritórios em casa:</textformat>]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 6.2)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Acesso discado: </b><ul><li>O acesso discado é uma opção barata que utiliza qualquer linha telefônica e um modem. </li><li>Ele é a opção de conexão mais lenta, utilizada geralmente em áreas onde não estão disponíveis conexões de velocidade mais alta.</li></ul><b>DSL: </b><ul><li>O DSL é mais caro que a conexão discada, mas proporciona uma conexão mais rápida. </li><li>Ele também utiliza linhas telefônicas, mas, diferentemente do acesso discado, ele fornece uma conexão contínua com a Internet. </li><li>Essa opção de conexão utiliza um modem de alta velocidade especial que separa o sinal de DSL do sinal de telefone e fornece uma conexão Ethernet com um computador host ou rede local.</li></ul><b>Modem a cabo: </b><ul><li>Um modem a cabo é uma opção de conexão oferecida por provedores de serviços de televisão a cabo. </li><li>O sinal de Internet é levado no mesmo cabo coaxial que entrega a televisão a cabo às casas e escritórios.</li><li>Um modem a cabo especial separa o sinal da Internet dos outros sinais levados no cabo e fornece uma conexão Ethernet com um computador host ou rede local. </li></ul><b>Satélite: </b><ul><li>A conexão por satélite é uma opção oferecida por provedores de serviços de satélite. </li><li>O computador do usuário é conectado através da Ethernet a um modem de satélite que transmite sinais de radiofreqüência ao POP mais próximo dentro da rede de satélite.</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) <textformat blockindent='20'>Descreva os dois tipos de redes de VPN.</textformat>]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 6.3)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>VPNs ponto a ponto:</b><ul><li>Uma VPN ponto a ponto é uma extensão de sistema de rede de WAN clássico e pode conectar uma rede de filial a uma rede de sede da empresa.</li><li>Os hosts enviam e recebem o tráfego de TCP/IP através de um “gateway”de VPN, que pode ser um roteador, dispositivo de firewall PIX ou um Mecanismo de Segurança Adaptável (ASA). </li><li>O gateway de VPN é responsável por encapsular e criptografar o tráfego de saída para todo o tráfego de um local específico e por enviá-lo por um túnel de VPN sobre a Internet para um gateway de VPN de mesmo nível no local designado.</li><li>Ao receber, o gateway de VPN de mesmo nível retira os cabeçalhos, descriptografa o conteúdo e retransmite o pacote para o host designado dentro de sua rede privada.</li></ul><b>VPNs de Acesso Remoto:</b><ul><li>Os usuários móveis e funcionários à distância utilizam amplamente as VPNs de acesso remoto.</li><li>As conexões de VPN remotas geralmente utilizam as conexões de banda larga.</li><li>Cada host geralmente possui um software de cliente de VPN que encapsula e criptografa esse tráfego antes de enviá-lo pela Internet para o gateway de VPN na extremidade da rede designada.</li><li>Ao receber, o gateway de VPN trata os dados da mesma maneira que trataria os dados de uma VPN ponto a ponto.</li></ul>]]></text>
+</component>
+<component id="ID_conclusion">
+<text><![CDATA[<b>Assim são concluídas as perguntas da seção “Verifique a sua compreensão” deste capítulo.</b>]]></text>
+</component>
+
+</textcomponents>

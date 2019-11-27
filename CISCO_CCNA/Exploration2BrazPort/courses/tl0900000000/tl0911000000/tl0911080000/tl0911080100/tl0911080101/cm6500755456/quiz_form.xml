@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13262" dateexported="07/12/2009">
+		<name>Teste do Módulo 11</name>
+		<form id="23019" lang="pt"><form-item order="fixed">
+			<ai id="73605" type="mc-ma"><question><![CDATA[Quais das seguintes afirmações são verdadeiras com relação aos protocolos de roteamento que usam o algoritmo de roteamento link-state? (Escolha três.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[São conhecidos coletivamente como protocolos SPF.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Aprendem as rotas e as enviam aos vizinhos diretamente conectados. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Mantêm um banco de dados complexo sobre a topologia da rede.  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[São baseados no algoritmo Dijkstra.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[São considerados uma boa opção para redes pequenas com roteadores low-end. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="73916" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="73916" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>troca de LSAs</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>estado de um link</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>algoritmo SPF</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>banco de dados topológico</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>pacote hello</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>cria e mantém adjacências de vizinhos</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>acionado quando ocorre uma alteração de topologia</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>descrição de uma interface e sua relação com outros roteadores</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>calcula o melhor caminho para cada rede de destino</mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="760"><material><mattext>Faça a correspondência dos termos OSPF à esquerda com as descrições apresentadas à direita, arrastando as opções para os alvos apropriados. Nem todas as opções serão usadas.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-111.5" targetYspacing="16" yspacing="55" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="135"/><display componentIdent="3" xpos="200" ypos="195"/><display componentIdent="4" xpos="200" ypos="255"/><display componentIdent="5" xpos="200" ypos="315"/></options><targets><display componentIdent="1" xpos="600" ypos="75"/><display componentIdent="2" xpos="600" ypos="127"/><display componentIdent="3" xpos="600" ypos="179"/><display componentIdent="4" xpos="600" ypos="231"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident></scoringzone><scoringzone ident ="2"><componentident>2</componentident></scoringzone><scoringzone ident ="3"><componentident>3</componentident></scoringzone><scoringzone ident ="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="obs1" maxvalue ="1"><title>sem título</title></decvar><interpretvar varname="obs1" view="All">nenhuma descrição fornecida</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>3</componentident></scoringzonecontains></conditionvar><setvar varname="obs1" action="Set">1</setvar><scoringdescription>1 pacote hello 2, troca de LSAs, 3 estado do link, 4 algoritmo SPF</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="73561" type="mc-ma"><question><![CDATA[Quais motivos deve ter um administrador de rede para usar interfaces de loopback ao configurar o OSPF? (Escolha dois.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[Os loopbacks são interfaces lógicas e não ficam inoperantes.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Somente os endereços de loopback podem ser usados para um ID de roteador OSPF. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[As interfaces de loopback são usadas para definir a métrica OSPF. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O endereço de loopback será usado como ID do roteador, substituindo os valores de endereço IP locais.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A verificação de erros do OSPF é ativada pelos endereços de loopback. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O endereço de loopback substituirá o valor de prioridade do roteador configurado. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="73747" type="mc-ma"><question><![CDATA[Em que tipos de rede não haverá escolha de roteadores designados(DR) pelo OSPF? (Escolha dois.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[ponto-a-ponto  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[ponto-multiponto  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[multiacesso com broadcast ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[multiacesso sem broadcast ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159826" type="mc-sa"><question><![CDATA[Um administrador de rede insere o comando <b>router ospf 100</b>. Qual é a função do número 100 nesse comando?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[número de sistema autônomo ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[métrica ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[ID de processo  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[distância administrativa ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159824" type="mc-sa"><question><![CDATA[Em um roteador que executa OSPF qual é o propósito de inserir o comando <b>bandwidth 56</b> em uma interface serial?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[altera o valor de custo  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[funciona somente como uma descrição ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[altera a produtividade da interface para 56 kbps ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[é necessário para o algoritmo DUAL ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159823" type="mc-sa"><question><![CDATA[Que fator a implementação de OSPF da Cisco usa para escolher a melhor rota?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[tempo de atividade ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[confiabilidade ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[largura de banda  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[carga ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[menor número de saltos ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159822" type="mc-sa"><question><![CDATA[Qual comando permitirá que um roteador anuncie rotas estáticas padrão pelo OSPF?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[<b>redistribute static</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>network 0.0.0.0 0.0.0.0 area 0</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[<b>default-information originate</b>  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Rotas padrão são somente locais e não podem ser anunciadas utilizando OSPF. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159821" type="mc-sa"><question><![CDATA[Durante uma eleição de DR BDR de OSPF o que é utilizado para determinar o DR ou BDR quando os roteadores OSPF participantes têm prioridades de interface idênticas?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[a ID de processo OSPF mais alta ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[o endereço IP de interface mais baixo ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[o custo de interface mais baixo ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[a ID do roteador  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159825" type="mc-sa"><question><![CDATA[Qual tipo de pacote é inválido para OSPF?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Hello ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[LRU  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[LSR ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[LSAck ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[DBD ]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam> 

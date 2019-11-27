@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="16_1_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Emergency Checklist in the Security Policy</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Acceptable Computer Use</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Confidentiality Requirements</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE4">
+        <source>User Access</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_01">
+        <source>State network layout and  what will be done to prevent the unauthorized additions of network devices, modems, or access points.</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_02">
+        <source>States requirements of confidentiality of data in a network, defines steps to be taken to ensure only authorized users have access to the data.
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_03">
+        <source>States who can use the organization’s computers and defines what is acceptable use. 
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_04">
+        <source>Emergency Checklist Table of Contents (Example)</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_05">
+        <source>Data Loss
+-Due to equipment theft
+-Due to wiretapping
+-Due to internal personnel
+-Due to external personnel
+-Due to temporary personnel / contractors /vendors
+
+Power related emergencies
+-Building or floor power outage
+-Local power outage
+-Large or regional power outage
+</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_06">
+        <source>Network</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_07">
+        <source>Confidentiality</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_08">
+        <source>Users</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXXT_05">
+        <source>Data Loss
+  -  Due to equipment theft
+  -  Due to wiretapping
+  -  Due to internal personnel
+  -  Due to external personnel
+  -  Due to temporary personnel /contractors
+     /vendors
+Power related emergencies
+  -  Building or floor power outage
+  -  Local power outage
+  -  Large or regional power outage
+Terrorist Action
+  -  Terrorist attacks leads to evacuation
+  -  Terrorist attacks leads to lockdown
+Theft
+  -  Physical theft of network device
+  -  Physical theft of desktop computer
+  -  Physical theft of laptop
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

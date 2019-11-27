@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="9_2_6.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CLICK 01">
+        <source>•  used to provide misleading 
+   identity</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CLICK 02">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; System</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CLICK 03">
+        <source>•  used to take notes</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_CLICK 04">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; System &gt; Hardware &gt; Device Manager</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_CLICK 05">
+        <source>•  used to create an official    
+   appearance</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_CLICK 06">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; Administrative Tools &gt; Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_CLICK 07">
+        <source>•  used to conceal identity</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_CLICK 08">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; Administrative Tools &gt; Services</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_CLICK 09">
+        <source>The Performance dialog box can be used to adjust the size of your paging file or tweak performance of your operating system. To access the Device Manager, go to </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_CLICK 10">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; System &gt; Advanced &gt; Performance</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_CLICK 11">
+        <source>The System Configuration utility (msconfig.exe) automates the routine troubleshooting steps and is used to diagnose system configuration issues. To access the Systems Configuration utility, go to </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_CLICK 12">
+        <source>Start, &gt; Run, type msconfig in the Open box, and then click OK.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_CONTENT 01">
+        <source>Error Messages
+
+Beep Sequences
+
+LEDs
+
+POST
+
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_CONTENT 03">
+        <source>The System Properties dialog box lists the properties of all hardware devices connected to the laptop motherboard.  This can be valuable in troubleshooting problems with laptop performance.  To access System Properties, go to </source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_S1_TXT_3">
+        <source>How would you know if this is really an employee of the phone company?
+</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S2_TXT1">
+        <source>Name tag  </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S2_TXT2">
+        <source>Clip board </source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S2_TXT3">
+        <source>Equipment   </source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S2_TXT4">
+        <source>Sunglasses  </source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S2_TXT5">
+        <source>Performance  </source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S2_TXT6">
+        <source>MSCONFIG </source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_STEP 01">
+        <source>Gather Data from the Customer</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_STEP 02">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TITLE1">
+        <source>Social Engineer
+</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TITLE2">
+        <source>Social Engineer Identification</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TITLE3">
+        <source>Event Viewer  
+</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TITLE4">
+        <source>Device Manager
+</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TITLE5">
+        <source>Network Settings
+</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TITLE6">
+        <source>Power Options</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TITLE7">
+        <source>Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TITLE8">
+        <source>Operating System Information</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TITLE9">
+        <source>COMMAND</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TITLE10">
+        <source>COMMAND LOCATION USING WINDOWS START MENU</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TITLE11">
+        <source>System Properties</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TITLE12">
+        <source>Start&gt;Control Panel&gt;System</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TITLE13">
+        <source>Device Manager</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TITLE14">
+        <source>Start&gt; Control Panel&gt;System&gt;Hardware&gt;Device Manager</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TITLE15">
+        <source>Network Settings </source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TITLE16">
+        <source>Start&gt;Control Panel&gt;Network Connections&gt;Right-click desired connection&gt;Properties</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TITLE17">
+        <source>Power Options </source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TITLE18">
+        <source>Start&gt;Control Panel&gt;Power Options</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TITLE19">
+        <source>Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TITLE20">
+        <source>Start&gt;Control Panel&gt;Administrative Tools&gt;Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TITLE21">
+        <source>System Information</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TITLE22">
+        <source>Start&gt;Programs&gt;Accessories&gt;System Tools&gt;System Information</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TITLE43">
+        <source>Hard drive</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TITLE59">
+        <source>Smart Card reader
+Compact Flash reader1.8-inch disk drive</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>Troubleshooting Process</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

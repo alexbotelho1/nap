@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13393" dateexported="10/20/2009">
+		<name>Teste do Módulo 6</name>
+		<form id="23440" lang="pt"><form-item order="fixed">
+			<ai id="165052" type="mc-ma"><question><![CDATA[Um técnico está tentando explicar a tecnologia de banda larga a um cliente. Quais duas descrições ou exemplos devem ser utilizadas para ensinar o cliente? (Escolha dois.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[inclui conexões discadas utilizando POTS ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[incompatível com multiplexação ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[utiliza uma ampla faixa de freqüências  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[oferece velocidades sustentadas (garantidas) de 128K ou mais  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[requer linha de visada com a conexão com a operadora ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165053" type="mc-sa"><question><![CDATA[Ao acomodar um funcionário remoto, qual tipo de conexão deve ser utilizada quando for necessário o acesso móvel durante viagens e as opções de banda larga não estiverem disponíveis?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[cabo residencial ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[DSL ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[acesso discado  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[satélite ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165054" type="mc-sa"><question><![CDATA[Ao comparar o DOCSIS e o Euro-DOCSIS, qual é a principal diferença entre as duas especificações?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[mecanismos de controle de fluxo ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[taxas de dados máximas ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[métodos de acesso ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[larguras de banda de canal  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165055" type="mc-ma"><question><![CDATA[Caso seja solicitado a descrever a tecnologia DSL quais três afirmações ajudariam o usuário a desenvolver um melhor entendimento da tecnologia? (Escolha três.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[O DSL está disponível em qualquer local que tenha um telefone. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O ADSL normalmente possui uma largura de banda de download mais alta do que a largura de banda de upload disponível.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Em instalações domésticas, um divisor (splitter) separa o ADSL e os sinais de voz no NID, permitindo que existam diversas saídas de ADSL na casa. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[As velocidades de DSL podem ultrapassar as velocidades disponíveis com uma linha de T1 típica.  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[As taxas de transferência variam pelo tamanho do loop local.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Todas as variedades de DSL fornecem a mesma largura de banda, embora elas utilizem tecnologias diferentes para upload e download. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165056" type="mc-ma"><question><![CDATA[Em uma instalação de DSL, quais dois dispositivos são instalados no local do cliente? (Escolha dois.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Cable Modem ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[DOCSIS ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[DSLAM ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Microfiltro  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Transceiver DSL  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165051" type="mc-sa"><question><![CDATA[Consulte a figura. Com base na topologia de rede mostrada, quais dispositivos ou aplicativos de software fornecem encapsulamento e criptografia para o tráfego de VPN? <br/><img src="23169.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Somente o software de cliente de VPN instalado nas máquinas dos usuários no Escritório Regional ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Somente dispositivos PIX na Rede Corporativa e no Escritório Regional ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[roteador e dispositivo PIX na Rede Corporativa, e roteadores e dispositivo PIX em todos os locais remotos  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[somente switches e roteadores de rede local nos locais remotos ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[somente roteadores e dispositivos PIX nos locais remotos ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165050" type="mc-ma"><question><![CDATA[Quais duas técnicas podem ser utilizadas para proteger o tráfego enviado por uma conexão de VPN? (Escolha dois.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[rotulação de dados utilizada para marcar e separar o tráfego de VPN para diferentes clientes ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[encapsulamento de dados utilizado para transmitir os dados de forma transparente de rede para rede através de uma infraestrutura de rede compartilhada  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[criptografia de dados utilizada para codificar dados em um formato diferente utilizando uma chave secreta  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[uso de um segundo protocolo de roteamento para transportar o tráfego sobre o túnel de VPN ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[uso de uma conexão dedicada pela linha alugada (link dedicado) privada da empresa ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165059" type="mc-sa"><question><![CDATA[Qual é o exemplo de um protocolo de tunelamento desenvolvido pela Cisco?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[AES ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[DES ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[RSA ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[ESP ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[GRE  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="165058" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="165058" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Frame Relay, ATM, MPLS</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>o protocolo que envolve os dados originais</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>o protocolo pelo qual os dados originais estavam sendo levados</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>IPX, AppleTalk, IPv4, IPv6</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>GRE, IPSec, L2F, PPTP, L2TP</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>o protocolo sobre o qual as informações estão passando</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Protocolo de portadora</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Protocolo de encapsulamento</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Protocolo de passageiro</mattext></material></textcomponent></component><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste as descrições à esquerda até o tipo correspondente de protocolo de tunelamento à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-137.5" targetYspacing="15" yspacing="60" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="135" /><display componentIdent="3" xpos="200" ypos="195" /><display componentIdent="4" xpos="200" ypos="255" /><display componentIdent="5" xpos="200" ypos="315" /><display componentIdent="6" xpos="200" ypos="375" /></options><labels><display componentIdent="1" xpos="600" ypos="85.5" containsTargets="2" startTarg="1" labelStyle="1" /><display componentIdent="2" xpos="600" ypos="214.5" containsTargets="2" startTarg="3" labelStyle="1" /><display componentIdent="3" xpos="600" ypos="343.5" containsTargets="2" startTarg="5" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="152" /><display componentIdent="3" xpos="600" ypos="229" /><display componentIdent="4" xpos="600" ypos="281" /><display componentIdent="5" xpos="600" ypos="358" /><display componentIdent="6" xpos="600" ypos="410" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident></scoringzone><scoringzone ident="2"><componentident>3</componentident><componentident>4</componentident></scoringzone><scoringzone ident="3"><componentident>5</componentident><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="112242" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="112242" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>6</componentident><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>3</componentident><componentident>4</componentident></scoringzonecontains></conditionvar><scoringdescription>O protocolo pelo qual as informações estão passando – Protocolo de portadora; O protocolo que envolve os dados originais – Protocolo de encapsulamento; O protocolo pelo qual os dados originais estavam sendo levados – Protocolo de passageiro; Exemplo: Frame Relay, ATM, MPLS – Protocolo de portadora; Exemplo: GRE, IPSec, L2F, PPTP, L2TP – Protocolo de encapsulamento; Exemplo: IPX, AppleTalk, IPv4, IPv6 – Protocolo de passageiro</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="165060" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="165060" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>criptografia e descriptografia utilizam a mesma chave</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>criptografia de chave pública</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>criptografia e descriptografia utilizam chaves diferentes</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>DES, 3DES, AES</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>RSA</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>criptografia de chave secreta compartilhada</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Algoritmo simétrico</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Algoritmo assimétrico</mattext></material></textcomponent></component><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste a descrição à esquerda até o algoritmo correto à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="10" yspacing="40" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="3" startTarg="1" labelStyle="1" /><display componentIdent="2" xpos="600" ypos="227.5" containsTargets="3" startTarg="4" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="137" /><display componentIdent="3" xpos="600" ypos="174" /><display componentIdent="4" xpos="600" ypos="236" /><display componentIdent="5" xpos="600" ypos="273" /><display componentIdent="6" xpos="600" ypos="310" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident></scoringzone><scoringzone ident="2"><componentident>5</componentident><componentident>6</componentident><componentident>7</componentident><componentident>8</componentident><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="112242" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="112242" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>6</componentident><componentident>4</componentident><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>5</componentident><componentident>3</componentident><componentident>2</componentident></scoringzonecontains></conditionvar><scoringdescription>Criptografia de chave secreta – Algoritmo simétrico; Criptografia e descriptografia utilizam a mesma chave – Algoritmo simétrico; Utilizado geralmente para criptografar o conteúdo de uma mensagem – Algoritmo simétrico; Exemplos: DES, 3DES, AES – Algoritmo simétrico; Criptografia de chave pública – Algoritmo assimétrico; Criptografia e descriptografia utilizam chaves diferentes – Algoritmo assimétrico; Utilizado geralmente em certificação digital e gerenciamento de chave – Algoritmo assimétrico; Exemplo: RSA – Algoritmo assimétrico</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="165073" type="mc-sa"><question><![CDATA[Que tipo de conexão é o mais lucrativa para suportar adequadamente o acesso à Internet do funcionário remoto no escritório em casa?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[link T1 direto à Internet ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[discado de 56k  ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[sistema de Internet por satélite multicast unidirecional ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[DSL para um ISP  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165075" type="mc-sa"><question><![CDATA[Qual padrão sem fio opera em bandas autorizadas e não autorizadas do espectro de 2 a 6 GHz e permite taxas de transmissão de 70 Mbps a um intervalo de até 50 quilômetros?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[802.11g ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[802.11n ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[802.11b ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[802.16  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[802.11e ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165074" type="mc-sa"><question><![CDATA[Geralmente, o que é implantado para suportar transmissões de alta velocidade de dados a cable modems de escritórios pequenos ou domésticos?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[coaxial de fibra híbrida (HFC)  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[cable modems discados de alta velocidade ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[coaxial de cobre de banda larga ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[1000baseTX ]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam> 

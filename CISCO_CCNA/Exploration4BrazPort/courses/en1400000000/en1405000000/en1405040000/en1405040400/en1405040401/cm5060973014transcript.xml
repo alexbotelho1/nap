@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 08:12:58">
+<title><content-text><![CDATA[5.4.4 - Time-based ACL's]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts time-based ACL's.<br><br>Network Topology:<br>Two LAN's are attached to router R1. LAN 1 with PC1 and switch S1 connects to the R1 interface F0/0. PC2 and switch S2 connect to the R1 interface F0/1. The R1 interface S0/0/0 is connected to R2 via a WAN link. R2 is connected to a server. A third LAN, with PC3 and switch S3, is connected to R3, which is also connected to R2 via a WAN link.<br><br>A clock is shown with the time of 7:00 p.m. The connection from S1 to R1 has a red X on it indicating that access to R1 is not allowed at this time.<br><br>Time-based ACL's allow for access control based on the time of day and week.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

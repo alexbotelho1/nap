@@ -1,0 +1,51 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Criptografia de VPN</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Gail</b>]]></text> 
+</component>
+<component id="ID_txt02">
+<text><![CDATA[Pagar a <b>Jeremy</b>]]></text> 
+</component>
+<component id="ID_txt03">
+<text><![CDATA[$100.00]]></text> 
+</component>
+<component id="ID_txt04">
+<text><![CDATA[Cento e xx/100 dólares]]></text> 
+</component>
+<component id="ID_txt05">
+<text><![CDATA[Algoritmo de<br/>Criptografia]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[Algoritmo de<br />Descript.]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Jeremy</b>]]></text> 
+</component>
+<component id="ID_txt08">
+<text><![CDATA[Pagar a <b>Jeremy</b>]]></text> 
+</component>
+<component id="ID_txt09">
+<text><![CDATA[$100.00]]></text> 
+</component>
+<component id="ID_txt10">
+<text><![CDATA[Cento e xx/100 dólares]]></text> 
+</component>
+<component id="ID_txt11">
+<text><![CDATA[4ehlDx67NMop9eR<br/>U78IOPotVBn45TR]]></text> 
+</component>
+<component id="ID_txt12">
+<text><![CDATA[4ehlDx67NMop9eR<br />U78IOPotVBn45TR]]></text> 
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+<component id="ID_txt14">
+<text><![CDATA[<b>Hacker</b>]]></text> 
+</component>
+<component id="ID_bubble">
+<text><![CDATA[<b>Hmmm... Não consigo ler nada.</b>]]></text> 
+</component>
+
+</textcomponents>

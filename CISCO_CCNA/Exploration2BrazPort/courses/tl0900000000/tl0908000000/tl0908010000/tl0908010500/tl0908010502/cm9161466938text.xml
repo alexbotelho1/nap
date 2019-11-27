@@ -1,0 +1,80 @@
+<textcomponents>
+<!-- controller -->   
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<!-- media -->
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para exibir a animação.</b>]]></text> 
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Detalhes da Rota Primária e Secundária em um Ambiente Classless</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Rota primária de classful</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Máscara de classful</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Rotas secundárias têm máscaras diferentes</b>]]></text> 
+</component>
+
+<component id="ID_txt04a">
+<text><![CDATA[<b>Número de sub-redes e máscaras para esta rota primária</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Rotas secundárias</b>]]></text> 
+</component>
+
+<component id="ID_txt05a">
+<text><![CDATA[<b>Máscaras para as rotas secundárias</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>A origem é a rota conectada</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Interfaces de saída</b>]]></text> 
+</component>
+
+</textcomponents>

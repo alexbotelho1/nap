@@ -1,0 +1,82 @@
+<textcomponents>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Endereços excluídos</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Conjunto de endereços DCHP</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Tarefas DHCP</b>]]></text>
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<b>Exemplo de DHCP</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_title">
+<text><![CDATA[<b>Configurando o DHCP – Etapa 1: Excluindo endereços IP</b>]]></text>
+</component>
+
+
+<!-- slide 2 -->
+<component id="ID_S2_title">
+<text><![CDATA[<b>Configurando o DHCP – Etapa 2: Configurando um conjunto de endereços DHCP</b>]]></text>
+</component>
+
+<!-- slide 3 -->
+<component id="ID_S3_title">
+<text><![CDATA[<b>Configurando o DHCP – Etapa 3: Tarefas específicas</b>]]></text>
+</component>
+
+<component id="ID_S3_table1">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='200' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Tarefas necessárias</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Comando</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Definir o conjunto de endereços</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">network <i>network-number [mask | /prefix-length]</i></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Definir o roteador ou o gateway padrão</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">default-router <i>address [address2...address8]</i></font></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_S3_table2">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='200' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Tarefas opcionais</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Comando</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Definir um servidor DNS.</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">dns-server <i>address [address2...address8]</i></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Definir o nome de domínio</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">domain-name <i>domain</i></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Definir a duração do empréstimo de DHCP</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">lease {<i>days [hours] [minutes] | infinite}</i></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Definir o servidor NetBIOS WINS</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">netbios-name-server <i>address [address2...address8]</i></font></td>
+	</tr>
+</table> ]]></text>
+</component>
+
+<!-- slide 4 -->
+<component id="ID_S4_title">
+<text><![CDATA[<b>Exemplo de configuração DHCP</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,183 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Ataques de acesso</b>]]></text>
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[<b>Ataque de senha</b>]]></text>
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[<b>Exploração de confiança</b>]]></text>
+</component>
+
+<component id="ID_button3">
+<text><![CDATA[<b>Redirecionamento de porta</b>]]></text>
+</component>
+
+<component id="ID_button4">
+<text><![CDATA[<b>Interceptação</b>]]></text>
+</component>
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>Sistema A confia no Sistema B</b>]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>Sistema A</b>]]></text>
+</component>
+
+<component id="ID_txt03_02">
+<text><![CDATA[<b>Sistema B confia em todos</b>]]></text>
+</component>
+
+<component id="ID_txt04_02">
+<text><![CDATA[<b>Sistema B</b>]]></text>
+</component>
+
+<component id="ID_txt05_02">
+<text><![CDATA[<b>Comprometido pelo atacante<br/>user=psmith; Pat Smith</b>]]></text>
+</component>
+
+<component id="ID_txt06_02">
+<text><![CDATA[<b>Atacante obtém acesso ao Sistema A</b>]]></text>
+</component>
+
+<component id="ID_txt07_02">
+<text><![CDATA[<b>user=psmith;<br/>Pat Smith</b>]]></text>
+</component>
+
+<component id="ID_txt08_02">
+<text><![CDATA[<b>Atacante</b>]]></text>
+</component>
+
+<component id="ID_txt09_02">
+<text><![CDATA[<b>Meta:<br/>Um atacante deseja obter acesso ao Sistema A.</b>]]></text>
+</component>
+
+<component id="ID_txt10_02">
+<text><![CDATA[<b>Não consigo obter acesso ao Sistema A, mas o Sistema B está aberto.</b>]]></text>
+</component>
+
+<component id="ID_txt11_02">
+<text><![CDATA[<b>user=psmith; Pat Smith</b>]]></text>
+</component>
+
+<component id="ID_txt12_02">
+<text><![CDATA[<b>Tenho o Sistema B e agora tenho acesso ao Sistema A.</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt01_03">
+<text><![CDATA[<b>Atacante</b>]]></text>
+</component>
+
+<component id="ID_txt02_03">
+<text><![CDATA[<b>Origem: atacante<br/>Destino: A<br/>Porta: 22</b>]]></text>
+</component>
+
+<component id="ID_txt03_03">
+<text><![CDATA[<b>Origem: atacante<br/>Destino: B<br/>Porta: 23</b>]]></text>
+</component>
+
+<component id="ID_txt04_03">
+<text><![CDATA[<b>Host A comprometido</b>]]></text>
+</component>
+
+<component id="ID_txt05_03">
+<text><![CDATA[<b>Origem: A<br/>Destino: B<br/>Porta: 23</b>]]></text>
+</component>
+
+<component id="ID_txt06_03">
+<text><![CDATA[<b>Host B</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_04">
+<text><![CDATA[<b>Vítima</b>]]></text>
+</component>
+
+<component id="ID_txt02_04">
+<text><![CDATA[<b>Vítima clica no link de um email de phishing</b>]]></text>
+</component>
+
+<component id="ID_txt03_04">
+<text><![CDATA[<b>Servidor Web</b>]]></text>
+</component>
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Os atacantes podem implementar ataques de senha utilizando vários métodos diferentes:</b><ul><li>Ataques de força bruta</li><li>Programas cavalos-de-Troia</li><li>Sniffers de pacote</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+
+<component id="ID_table02">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='200' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Rede OS</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Modelos confiáveis</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Windows</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Domínios Active Directory (AD)</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Linux e UNIX</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Network File System (NFS) Network Information Service Plus (NIS+)</td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+<component id="ID_table03">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>O redirecionamento de porta é um tipo de ataque de exploração de confiança que utiliza um host comprometido para transmitir tráfego por meio de um firewall que, do contrário, seria descartado. Ele é amenizado principalmente pela utilização de modelos de confiança apropriados. Software antivírus e IDS baseados em host podem ajudar a detectar e impedir um invasor de instalar utilitários de redirecionamento de porta no host.</td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="play"><text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute"><text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<component id="ID_s1">
+<text><![CDATA[S1]]></text>
+</component>
+
+</textcomponents>

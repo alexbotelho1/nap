@@ -1,0 +1,125 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<b>Opções de conexão WAN</b>]]></text> 
+</component>
+
+<component id="ID_button_01">
+  <text><![CDATA[<b>Atividade 1</b>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<b>Atividade 2</b>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<b>Atividade 3</b>]]></text> 
+</component>
+
+<component id="ID_button_04">
+  <text><![CDATA[<b>Atividade 4</b>]]></text> 
+</component>
+
+<component id="ID_button_05">
+  <text><![CDATA[<b>Atividade 5</b>]]></text> 
+</component>
+
+<component id="ID_check">
+		<text><![CDATA[<b>Verificar</b>]]></text>
+	</component>
+	
+<component id="ID_reset">
+		<text><![CDATA[<b>Redefinir</b>]]></text>
+	</component>
+	
+
+<component id="ID_step0">
+  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Arraste e solte a opção de conexão do link de WAN apropriada na categoria correta.]]></text> 
+</component>
+
+
+<component id="ID_txt01_00">
+  <text><![CDATA[<b>WAN</b>]]></text> 
+</component>
+
+<component id="ID_txt02_00">
+  <text><![CDATA[<b>Dedicado</b>]]></text> 
+</component>
+
+<component id="ID_txt03_00">
+  <text><![CDATA[<b>Comutado</b>]]></text> 
+</component>
+
+<component id="ID_txt04_00">
+  <text><![CDATA[<b>Linhas<br>alugadas</b>]]></text> 
+</component>
+
+<component id="ID_txt05_00">
+  <text><![CDATA[<b>Circuito<br>Comutado</b>]]></text> 
+</component>
+
+<component id="ID_txt06_00">
+  <text><![CDATA[<b>Pacote<br>Comutado</b>]]></text> 
+</component>
+
+<component id="ID_txt07_00">
+  <text><![CDATA[<b>Banda larga<br>VPN</b>]]></text> 
+</component>
+
+<component id="ID_txt08_00">
+  <text><![CDATA[<b>PSTN</b>]]></text> 
+</component>
+
+<component id="ID_txt09_00">
+  <text><![CDATA[<b>ISDN</b>]]></text> 
+</component>
+
+<component id="ID_txt10_00">
+  <text><![CDATA[<b>Cabo</b>]]></text> 
+</component>
+
+<component id="ID_txt11_00">
+  <text><![CDATA[<b>Frame Relay</b>]]></text> 
+</component>
+
+<component id="ID_txt12_00">
+  <text><![CDATA[<b>DSL</b>]]></text> 
+</component>
+
+<component id="ID_txt13_00">
+  <text><![CDATA[<b>X.25</b>]]></text> 
+</component>
+
+<component id="ID_txt14_00">
+  <text><![CDATA[<b>ATM</b>]]></text> 
+</component>
+
+<component id="ID_txt15_00">
+  <text><![CDATA[<b>Público</b>]]></text> 
+</component>
+
+<component id="ID_txt16_00">
+  <text><![CDATA[<b>Privado</b>]]></text> 
+</component>
+
+<component id="ID_txt17_00">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_correctTitle">
+<text><![CDATA[Corrigir]]></text>
+</component>
+
+<component id="ID_correctText">
+<text><![CDATA[Você identificou corretamente as opções de conexão do link de WAN.]]></text>
+</component>
+
+<component id="ID_incorrectTitle">
+<text><![CDATA[Incorreto]]></text>
+</component>
+
+<component id="ID_incorrectText">
+<text><![CDATA[Incorreto, tente novamente.]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13261" dateexported="07/12/2009">
+		<name>Teste do Módulo 10</name>
+		<form id="23018" lang="pt"><form-item order="fixed">
+			<ai id="159817" type="mc-sa"><question><![CDATA[Que protocolo de roteamento é considerado um protocolo link-state?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[RIPv1 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[RIPv2 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[EIGRP ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[IS-IS  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[BGP ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="73612" type="mc-ma"><question><![CDATA[Quais dos seguintes mecanismos são usados pelos protocolos de roteamento link-state para criar e manter tabelas de roteamento? (Escolha três.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Anúncios de rede de serviço ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Pacotes hello  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Anúncios link-state  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Broadcasts da tabela de roteamento ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Algoritmo SPF (Shortest Path First)  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Protocolo Spanning Tree ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="159815" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="159815" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Muito hardware</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Usa algoritmo Bellman-Ford</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Depende das rotas de vizinho</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Convergência rápida</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Usa atualizações programáveis</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Cria uma topologia completa</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Roteia por &quot;rumor&quot;</mattext></material></textcomponent></component><component ident="8" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Usa algoritmo Dijkstra</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Link-state</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Vetor de distância</mattext></material></textcomponent></component><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="7" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="8" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste os atributos à esquerda para o protocolo associado à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="10" yspacing="52" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /><display componentIdent="7" xpos="200" ypos="315" /><display componentIdent="8" xpos="200" ypos="355" /></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="4" startTarg="1" labelStyle="1" /><display componentIdent="2" xpos="600" ypos="264.5" containsTargets="4" startTarg="5" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="137" /><display componentIdent="3" xpos="600" ypos="174" /><display componentIdent="4" xpos="600" ypos="211" /><display componentIdent="5" xpos="600" ypos="273" /><display componentIdent="6" xpos="600" ypos="310" /><display componentIdent="7" xpos="600" ypos="347" /><display componentIdent="8" xpos="600" ypos="384" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident><componentident>4</componentident></scoringzone><scoringzone ident="2"><componentident>5</componentident><componentident>6</componentident><componentident>7</componentident><componentident>8</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="obs1" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="obs1" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>1</componentident><componentident>4</componentident><componentident>6</componentident><componentident>8</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident><componentident>3</componentident><componentident>5</componentident><componentident>7</componentident></scoringzonecontains></conditionvar><setvar varname="obs1" action="Set">1</setvar><scoringdescription>digite a resposta de QA aqui</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="159813" type="mc-sa"><question><![CDATA[Qual é a vantagem dos protocolos link-state em relação à maioria dos protocolos do vetor de distância?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[capacidade de rotear IPX (Internetwork Packet eXchange, Troca de pacotes de redes interconectadas) ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[verificação de rota contínua com atualizações periódicas ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[convergência mais rápida  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[menores requisitos de hardware ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159816" type="mc-sa"><question><![CDATA[Por que a convergência dos protocolos link-state é mais rápida do que a maioria dos protocolos do vetor?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[Os protocolos do vetor de distância computam suas tabelas de roteamento antes de enviar uma atualização de roteamento e os protocolos link-state, não.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Os protocolos link-state têm requisitos computacionais menores que os protocolos do vetor de distância. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Os protocolos link-state enviam atualizações com mais freqüência do que os protocolos do vetor de distância. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Os protocolos do vetor de distância recebem mais pacotes por atualização do que os protocolos link-state. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159818" type="mc-sa"><question><![CDATA[Consulte a exibição. Se todos os roteadores estiverem usando um protocolo de roteamento link-state, para que roteadores o Roteador A enviam pacotes hello? <br/><img src="i159818n1v1.jpg" /> ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[B, C  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[B, C, D ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[somente o DR (Designated Router, Roteador designado) ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[somente o BR (Boundary Router, Roteador de limite) e BDR (Backup Designated Router, Roteador designado de backup) ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159819" type="mc-sa"><question><![CDATA[Quais são as informações contidas em LSPs (Link-State Packets, Pacotes link-state) enviados por roteadores link-state para seus vizinhos?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[uma cópia da tabela de roteamento ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[uma cópia do banco de dados de topologia ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[o estado de enlaces conectados diretamente  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[a versão mais atual da árvore SPF (Shortest Path First, Caminho mais curto primeiro) ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159814" type="mc-sa"><question><![CDATA[Qual é a desvantagem dos protocolos link-state em relação aos protocolos do vetor de distância?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[convergência lenta ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[topologia de rede fixa ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[atualizações periódicas ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[maiores requisitos de processamento  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159820" type="mc-sa"><question><![CDATA[Depois que os dois roteadores OSPF trocaram pacotes Hello e formaram uma adjacência, qual é a próxima coisa a acontecer?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[eles irão alternar a difusão em sua tabela de roteamento ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[eles irão começar a enviar LSPs um para o outro  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[eles negociam para determinar quem será o roteador raiz ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[eles irão ajustar seus temporizadores hello para que não colidam um com o outro ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159829" type="mc-sa"><question><![CDATA[Como um roteador aprende uma rede conectada diretamente?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Quando administrador configura uma rota estática. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Quando o administrador configura um protocolo de roteamento dinâmico. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Quando o administrador designa um endereço IP e uma máscara de sub-rede para a interface.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Quando um endereço de difusão é detectado em uma interface específica. ]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam> 

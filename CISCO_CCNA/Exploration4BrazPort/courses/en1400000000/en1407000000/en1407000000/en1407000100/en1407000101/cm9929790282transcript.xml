@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:47">
+<title><content-text><![CDATA[7.0.1 - Chapter Introduction]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the chapter objectives:<br>- Configure DHCP in an enterprise branch network. This includes being able to explain DHCP features and benefits, the differences between BOOT P and DHCP, DHCP operation, and configuring, verifying, and troubleshooting DHCP.<br><br>- Configure NAT on a Cisco router. This includes explaining key features and operation of NAT and NAT Overload, explaining advantages and disadvantages of NAT, configuring NAT and NAT Overload to conserve IP address space in a network, configuring port forwarding, and verifying and troubleshooting NAT configurations.<br><br>- Configure new generation RIP (RIP n g) to use IPv6. This includes explaining how IPv6 solves IP address deletion, assigning IPv6 addresses, describing transition strategies for implementing IPv6, and configuring, verifying, and troubleshooting RIP n g for IPv6.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

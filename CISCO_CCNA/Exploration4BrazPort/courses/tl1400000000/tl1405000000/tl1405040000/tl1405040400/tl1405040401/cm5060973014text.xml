@@ -1,0 +1,12 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>ACLs baseadas em tempo:</b><BR/>Permitem o controle de acesso baseado na hora do dia e da semana]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>ACLs baseadas em tempo]]></text>
+</component>
+<component id="ID_txtTITLE">
+<text><![CDATA[<b>ACLs baseadas em tempo</b>]]></text>
+</component>
+
+</textcomponents>

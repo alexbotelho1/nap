@@ -1,0 +1,18 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saídas do comando do dispositivo</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Configuração da subinterface</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Configuração da interface</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Tabela de roteamento</b>]]></text>
+</component>
+
+</textcomponents>

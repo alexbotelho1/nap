@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>ACLs padrão para controlar o acesso ao terminal virtual (vty)</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Porta física<br>Fast Ethernet 0/0</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Portas virtuais<br>(VTY 0-4)</b>]]></text>
+</component>
+
+</textcomponents>

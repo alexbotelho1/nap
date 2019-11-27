@@ -1,0 +1,114 @@
+<textcomponents>
+   <component id="ID_txt01">
+      <text><![CDATA[<b>Computador 02</b>]]></text>
+   </component>
+   <component id="ID_txt02">
+      <text><![CDATA[<b>Computador 02</b>]]></text>
+   </component>
+   <component id="play">
+      <text>Reproduzir</text>
+   </component>
+   <component id="pause">
+      <text>Pausar</text>
+   </component>
+   <component id="rewind">
+      <text>Retroceder</text>
+   </component>
+   <component id="forward">
+      <text>Avançar</text>
+   </component>
+   <component id="mute">
+      <text>Sem som</text>
+   </component>
+   <component id="unmute">
+      <text>Com som</text>
+   </component>
+   <component id="previous">
+      <text>Reiniciar</text>
+   </component>
+   <component id="next">
+      <text>Encerrar</text>
+   </component>
+   <component id="transcript">
+      <text>Transcrição</text>
+   </component>
+ <component id="ID_txt01">
+ <text><![CDATA[<b>Que caminho?</b>]]></text>
+ </component>
+ <component id="ID_txt02">
+ <text><![CDATA[<b>Roteadores determinam o melhor caminho para o destino</b>]]></text> 
+ </component>
+  <component id="ID_txt03">
+  <text><![CDATA[<b>PC1 para PC3</b>]]></text> 
+ </component>
+  <component id="ID_txt04">
+  <text><![CDATA[<b>PC3 para PC1</b>]]></text> 
+ </component>
+  <component id="ID_txt05">
+  <text><![CDATA[<b>PC2 para PC3</b>]]></text> 
+ </component>
+  <component id="ID_txt06">
+  <text><![CDATA[<b>PC3 para PC2</b>]]></text> 
+ </component>
+   <component id="ID_txt07">
+   <text><![CDATA[<b>Enviar ping de PC1 para PC3</b>]]></text> 
+ </component>
+   <component id="ID_txt08">
+   <text><![CDATA[<b>Enviar ping de PC2 para PC3</b>]]></text> 
+ </component>
+ <component id="ID_title">
+ <text><![CDATA[<b>Princípio 3 de roteamento em ação</b>]]></text> 
+</component>
+ <component id="ID_inst">
+ <text><![CDATA[<b>Clique em Reproduzir para ver a animação.</b>]]></text> 
+</component>
+ <component id="ID_pc01">
+ <text><![CDATA[<b>PC2</b>]]></text> 
+</component>
+<component id="ID_pc02">
+ <text><![CDATA[<b>PC1</b>]]></text> 
+</component>
+<component id="ID_R1">
+ <text><![CDATA[<b>R1</b>]]></text> 
+</component>
+
+<component id="ID_R2">
+ <text><![CDATA[<b>R2</b>]]></text> 
+</component>
+
+<component id="ID_R3">
+ <text><![CDATA[<b>R3</b>]]></text> 
+</component>
+
+   <component id="ID_txt1a">
+   <text><![CDATA[<b>PC1 envia ping para PC2.</b>]]></text> 
+ </component>
+ 
+    <component id="ID_txt2a">
+   <text><![CDATA[<b>R1 tem uma rota para a rede de PC2.</b>]]></text> 
+ </component>
+ 
+    <component id="ID_txt3a">
+   <text><![CDATA[<b>R2 tem uma rota para a rede de PC2.</b>]]></text> 
+ </component>
+ 
+     <component id="ID_txt4a">
+   <text><![CDATA[<b>R3 está conectado diretamente à rede do PC2.</b>]]></text> 
+ </component>
+ 
+     <component id="ID_txt5a">
+   <text><![CDATA[<b>PC2 envia um ping de resposta para PC1.</b>]]></text> 
+ </component>
+ 
+      <component id="ID_txt6a">
+   <text><![CDATA[<b>R3 tem uma rota para a rede de PC1.</b>]]></text> 
+ </component>
+ 
+       <component id="ID_txt7a">
+   <text><![CDATA[<b>R2 NÃO tem uma rota para a rede de PC1.</b>]]></text> 
+ </component>
+ 
+        <component id="ID_txt8a">
+   <text><![CDATA[<b>R2 descarta a resposta do ping.</b>]]></text> 
+ </component>
+</textcomponents>

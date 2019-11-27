@@ -1,0 +1,17 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>TKIP e AES</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>TKIP – Temporal Key Integrity Protocol</b></font></td>
+	  	  	<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font color="#FFFFFF"><b>AES – Advanced Encryption Standard</b></font></td>
+	    	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><div align="left"><ul><li>Criptografa acrescentando codificação de bit crescentemente complexa a cada pacote</li><li>Baseado na mesma cifra (RC4) como WEP</li></ul></div></td>
+        <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Nova cifra usada em 802.11i</li><li>Baseado em TKIP com recursos adicionais que aprimoram o nível de segurança proporcionado</li></ul></td>
+  </tr>
+</table>]]></text> 
+  </component>
+</textcomponents>

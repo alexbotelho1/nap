@@ -1,0 +1,5 @@
+<transcript lastedited="11.21.08 08:11:13">
+<title><content-text><![CDATA[3.1.5  - Frame Relay Address Mapping]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the LMI frame format. The Address and Data fields of a standard Frame Relay frame are expanded to show the following fields from left to right:<br>LMI DLCI = 16 bits.<br>Unnumbered I E = 8 bits.<br>Protocol discriminator = 8 bits.<br>Call reference = 8 bits.<br>Message type = 8 bits.<br>I E's = Variable.]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

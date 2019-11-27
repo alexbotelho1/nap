@@ -1,0 +1,38 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Corte de VLANs utilizando o VTP</b>]]></text>
+</component>
+<component id="ID_title02">
+<text><![CDATA[<b>Saiba onde está a redundância</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[Corte de VTP]]></text>
+</component>
+<component id="ID_button02">
+<text><![CDATA[Corte Manual]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Usuários na VLAN 30</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Usuários na VLAN 20</b>]]></text>
+</component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Todos os links de switch são troncos</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt04">
+<text><![CDATA[<b>Usuários na<br/>VLAN 20</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Usuários na<br/>VLAN 30</b>]]></text>
+</component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>VLANs de tronco: 1, 20, 30</b>]]></text> 
+  </component>
+  
+
+</textcomponents>

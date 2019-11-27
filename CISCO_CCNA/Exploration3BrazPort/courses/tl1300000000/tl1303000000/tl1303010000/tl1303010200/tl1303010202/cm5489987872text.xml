@@ -1,0 +1,72 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>VLANs de voz</B>]]></text> 
+</component>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Telefones IP na rede</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Detalhes</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Exemplo de configuração</B>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<B>Porta de switch configurada para suportar tráfego de voz:<ul><li>Porta envia quadros CDP para fornecer informações usadas pelo telefone IP.</li><li>Porta encaminha quadros associados à VLAN 150.</li></ul></B>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<B>Aluno<br/>VLAN 20 - 172.17.20.25</B>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<B>Switch configurado para suportar tráfego de voz:<ul><li>Usa VLAN 150 para a VLAN de voz.</li><li>Prioriza o tráfego de voz.</li></ul></B>]]></text> 
+</component>
+
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Porta de switch configurada para suportar tráfego de voz:<ul><li>Instrui o telefone a marcar quadros de voz com a VLAN 150.</li><li>Prioriza quadros de voz.</li><li>Encaminha quadros de dados na VLAN 20.</li></ul></b>]]></text> 
+</component> 
+
+<component id="ID_txt05">
+  <text><![CDATA[<B>Configurado para marcar quadros do tráfego de voz com VLAN 150.</B>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<B>Configurado para enviar tráfego de dados sem marcação.</B>]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<B>O telefone IP Cisco é um switch.</B>]]></text> 
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<B>Configurado para enviar tráfego de dados marcação.</B>]]></text> 
+</component>
+
+<component id="ID_txt09">
+  <text><![CDATA[<B>Telefone IP Cisco 7960</B>]]></text> 
+</component>
+
+<component id="ID_txt10">
+  <text><![CDATA[<B>Telefone</B>]]></text> 
+</component>
+
+<component id="ID_txt10_1">
+  <text><![CDATA[<B>ASIC</B>]]></text> 
+</component>
+
+<component id="ID_txt11">
+  <text><![CDATA[<B>3 portas<br/>switch</B>]]></text> 
+</component>
+<component id="ID_txt12">
+  <text><![CDATA[<B>Acesso<br/>porta</B>]]></text> 
+</component>
+
+
+</textcomponents>

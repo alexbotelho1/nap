@@ -1,0 +1,55 @@
+<textcomponents>
+<component id="ID_caption01">
+<text><![CDATA[<b>Comparação entre interface e subinterface de roteador</b>]]></text>
+</component>
+<component id="tableHTML">
+	    <text><![CDATA[
+	   <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	
+	    	<tr>
+	  	  		
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' width='240' type='dynamic'><font  color="#FFFFFF"><b>Interface Física</b></font></td>
+	  	  	<td bgcolor='#F2F2F2'  glow='false' glowcolor='#FCA92E' valign='top' width='240' type='dynamic'><font  color="#FFFFFF"><b>Subinterface</b></font></td>
+	   	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' width='240' type='dynamic'>Uma interface física por VLAN</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' width='240' type='dynamic'>Uma interface física para muitas VLANs</td>
+			
+	</tr>
+	
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' width='240' type='dynamic'>Sem contenção de largura de banda</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' width='240' type='dynamic'>Contenção de largura de banda</td>
+		
+				
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' width='240' type='dynamic'>Conectada à porta de switch de modo de acesso</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' width='240' type='dynamic'>Conectada à porta de switch de modo de tronco</td>
+			
+	</tr>
+	
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' width='240' type='dynamic'>Mais caro</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' width='240' type='dynamic'>Mais barato</td>
+		
+				
+	</tr>
+	
+	<tr>
+			
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' width='240' type='dynamic'>Configuração de conexão menos complexa</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' width='240' type='dynamic'>Configuração de conexão mais complexa</td>
+		
+				
+	</tr>
+	
+		
+	
+	
+</table>
+]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Vantagens de Protocolos de Roteamento Link-State</b>]]></text>
+</component>
+
+<component id="TableTitle">
+<text><![CDATA[<b>Vantagens de Protocolos de Roteamento Link-State</b>]]></text> 
+</component>
+
+<component id="myTable">
+<text><![CDATA[<li>Cada roteador cria seu próprio mapa topológico da rede para determinar o caminho mais curto.</li><li>A inundação imediata de LSPs atinge convergência mais rápida.</li><li>LSPs são enviados apenas quando há uma mudança na topologia e contêm apenas as informações relativas àquela mudança.</li><li>Design hierárquico usado ao implementar áreas múltiplas.</li>]]></text> 
+</component>
+
+</textcomponents>

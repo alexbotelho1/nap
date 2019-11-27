@@ -1,0 +1,42 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Cabeçalho do Quadro de Enlace de Dados</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Cabeçalho do Pacote IP</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Cabeçalho do pacote EIGRP</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Tipos de Tipo/Tamanho/Valores</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Quadro de Enlace de Dados</b><br>Endereço de destino MAC = Multicast: 01-00-5E-00-00-0A<br>Endereço de origem MAC = endereço da interface de envio]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Pacote IP</b><br/>Endereço IP de origem = endereço da interface de envio<br>Endereço IP de destino = Multicast: 224.0.0.10<br>Campo de protocolo = 88 para EIGRP]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Cabeçalho do pacote EIGRP</b><br/>Opcode para tipo de pacote EIGRP<br>Número de AS]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Tipos de TLV</b><br/><b>Alguns tipos incluem:</b><br>Parâmetros de EIGRP 0x0001<br>Rotas IP internas 0x0102<br>Rotas IP externas 0x0103]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Mensagem EIGRP encapsulada</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Passe o mouse sobre os campos para ver o conteúdo do campo.</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:49">
+<title><content-text><![CDATA[7.2.7 - Configuring Port Forwarding]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts configuring port forwarding on a Linksys ISR using the G U I.<br><br>Port Forwarding:<br>The Linksys ISR G U I screenshot shows the Single Port Forwarding option under the Firewall tab. Application HTTP port 80 is highlighted. <br><br>Port Forwarding Example:<br>The Linksys G U I screenshot shows the Single Port Forwarding option under the Firewall tab. A specific IP address has been entered (192.168.1.254) to which application HTTP port 80 requests will be forwarded. The Enabled box is also checked.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

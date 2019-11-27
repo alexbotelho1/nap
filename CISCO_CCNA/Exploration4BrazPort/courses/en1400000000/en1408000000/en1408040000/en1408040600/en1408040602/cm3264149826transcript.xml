@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 13:12:07">
+<title><content-text><![CDATA[8.4.6 - Application Layer Troubleshooting]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts symptoms of Application Layer problems. The seven layers of the O S I model are shown with symptoms expanding from the top three O S I layers: Application, Presentation, and Session.<br>Symptoms<br>- User complaints about slow application performance.<br>- Application error messages.<br>- Console error messages.<br>- System log file messages.<br>- Network management system alarms.]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Valores de confiabilidade e carga</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Valor de confiabilidade</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Valor de carga</b>]]></text> 
+</component>
+  
+</textcomponents>

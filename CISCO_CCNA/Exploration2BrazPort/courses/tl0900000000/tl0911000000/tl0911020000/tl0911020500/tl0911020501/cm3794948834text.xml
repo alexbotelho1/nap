@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text>
+</component>
+
+<component id="ID_Title02">
+<text><![CDATA[<b>Topologia com interfaces de loopback</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Verificando a adjacência de vizinho</b>]]></text>
+</component>
+
+<component id="ID_top01">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_top02">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_top03">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+</textcomponents>

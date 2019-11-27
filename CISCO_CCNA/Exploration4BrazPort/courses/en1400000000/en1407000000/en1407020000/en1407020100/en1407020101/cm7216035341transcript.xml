@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:33">
+<title><content-text><![CDATA[7.2.1 - Introducing DHCP]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts public and private Internet addresses. <br><br>Public Internet addresses are regulated by five regional Internet registries (R I R's). A world map is shown with the approximate area covered by each R I R:<br>-	ARIN - United States and Canada<br>-	RIPE - Europe and Northern Asia<br>-	APNIC - Southern Asia and Australia<br>-	LACNIC - Latin America and South America<br>-	AfriNIC - Africa<br><br>Private Internet addresses are defined in RFC 1918:<br>Class: A<br>Address Range: 10.0.0.0 to 10.255.255.255<br>CIDR Prefix: 10.0.0.0/8<br><br>Class: B<br>Address Range: 172.16.0.0 to 172.31.255.255<br>CIDR Prefix: 172.16.0.0/12<br><br>Class: C<br>Address Range: 192.168.0.0 to 192.168.255.255<br>CIDR Prefix: 192.168.0.0/16]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

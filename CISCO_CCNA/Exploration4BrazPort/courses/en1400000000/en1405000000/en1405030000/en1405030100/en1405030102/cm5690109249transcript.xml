@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 08:12:00">
+<title><content-text><![CDATA[5.3.1 - Extended ACL's]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts extended ACL examples that test for ports and services.<br><br>Examples: <br>Using port numbers:<br>Access-list 114 permit tcp 192.168.20.0 0.0.0.255 any e q 23<br>Access-list 114 permit tcp 192.168.20.0 0.0.0.255 any e q 21<br>Access-list 114 permit tcp 192.168.20.0 0.0.0.255 any e q 20<br><br>Using keywords:<br>Access-list 114 permit tcp 192.168.20.0 0.0.0.255 any e q telnet<br>Access-list 114 permit tcp 192.168.20.0 0.0.0.255 any e q ftp<br>Access-list 114 permit tcp 192.168.20.0 0.0.0.255 any e q ftp-data<br><br>Ports:<br>A list of port numbers and alphabetic protocol abbreviations is displayed using the following command:<br><br>R1(config)#access-list 101 deny tcp any e q ?<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

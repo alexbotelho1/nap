@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="5_3_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_45">
+        <source>Click the highlighted area for important content. Click the highlighted area again to close. 
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE1">
+        <source>OS Compatibility</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE2">
+        <source>Docking Station – Rear View</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE3">
+        <source>Docking Station – Right Side View</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_01">
+        <source>Graphics</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_002">
+        <source>General Accounting Application</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_02">
+        <source>Animation</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_03">
+        <source>Productivity</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_003">
+        <source>General Productivity Application</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_04">
+        <source>Business      
+Tasks</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_004">
+        <source>General Animation Application</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_005">
+        <source>General Graphics Application</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_05">
+        <source>Accounting</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

@@ -1,0 +1,103 @@
+<textcomponents>
+
+  <component id="ID_title1">
+  <text><![CDATA[<b>Configurar um tronco 802.1Q</b>]]></text> 
+  </component>
+
+  <component id="ID_txt01">
+  <text><![CDATA[<b>F0/1</b>]]></text> 
+  </component>
+
+  <component id="ID_txt02">
+  <text><![CDATA[<b>F0/18</b>]]></text> 
+  </component>
+
+  <component id="ID_txt03">
+  <text><![CDATA[<b>F0/1</b>]]></text> 
+  </component>
+  
+  <component id="ID_box">
+  <text><![CDATA[<b>Switch S1:<br/>Porta F0/1<br/>Porta de tronco<br/>VLANS: 10, 20, 30, 99 </b>]]></text> 
+  </component>
+
+  <component id="ID_box2">
+  <text><![CDATA[<b>VLAN 10 - Corpo docente - 172.17.10.0/24<br>VLAN 20 - Alunos - 172.17.20.0/24<br>VLAN 30 - Convidado (padrão)  - 172.17.30.0/24<br>VLAN 99 - Gerenciamento e nativa - 172.17.99.0/24</b>]]></text> 
+  </component>
+
+  <component id="ID_box3">
+ <text><![CDATA[<b>Corpo docente<br>VLAN 10 172.17.10.21</b>]]></text> 
+  </component>
+
+  <component id="ID_box4">
+  <text><![CDATA[<b>Aluno<br>VLAN 20 172.17.20.22</b>]]></text> 
+  </component>
+  <component id="ID_box5">
+  <text><![CDATA[<b>Convidado<br>VLAN 30 172.17.30.23</b>]]></text> 
+  </component>
+
+
+  <component id="ID_CS">
+  <text><![CDATA[<b>Sintaxe de comando</b>]]></text> 
+  </component>
+  <component id="ID_topo">
+	<text><![CDATA[<b>Topologia</b>]]></text> 
+  </component>
+  <component id="ID_Gateway">
+  <text><![CDATA[<b>Exemplo</b>]]></text> 
+  </component>
+
+<component id="ID_caption01">
+<text><![CDATA[<b>3.3.4.1 -A : Configurar um tronco 802.1Q</b>]]></text>
+</component>
+<component id="tableHTML">
+	    <text><![CDATA[
+	   <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	
+	    	<tr>
+	  	  		
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Sintaxe de comando da CLI do Cisco IOS</b></font></td>
+	  	  	<td width="270" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b></b></font></td>
+	   	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Entre no modo de configuração global. </td>
+		<td width="270" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>S1#<b>configure terminal</b></font></td>
+			
+	</tr>
+	
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Entra no modo de configuração da interface definida.</td>
+		<td width="270" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>S1(config)#<b>interface</b> <i>interface id</i></font></td>
+		
+				
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Force o link que conecta os switches a ser um link de tronco.</td>
+		<td width="270" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>S1(config-if)#<b>switchport mode trunk</b></font></td>
+			
+	</tr>
+	
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Especifique outra VLAN como a VLAN nativa para tronco IEEE 802.1Q sem marcação.</td>
+		<td width="270" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>S1(config-if)#<b>switchport trunk native vlan </b><i>vlan id</i></font></td>
+		
+				
+	</tr>
+	
+	
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Volte a modo EXEC privilegiado.</td>
+		<td width="270" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'>S1(config-if)#<b>end</b></font></td>
+		
+				
+	</tr>
+	
+</table>
+
+]]></text> 
+  </component>
+
+
+</textcomponents>

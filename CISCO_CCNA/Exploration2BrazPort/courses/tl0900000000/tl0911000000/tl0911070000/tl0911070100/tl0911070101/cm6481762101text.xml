@@ -1,0 +1,44 @@
+<textcomponents>
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Neste capítulo você aprendeu a:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Descrever os recursos fundamentais e básicos de OSPF.</li><li>Identificar e aplicar os comandos de configuração de OSPF básicos.</li><li>Descrever, modificar e calcular a métrica utilizada por OSPF.</li><li>Descrever o processo de eleição do Roteador Designado/Roteador Designado de Backup (DR/BDR) em redes multiacesso.</li><li>Empregar o comando <font face='_typewriter'><b>default-information originate</b></font> para configurar e propagar uma rota padrão em OSPF.</li></ul></td></tr></table>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Protocolos IGP</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Protocolos EGP</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[Vetor de distância<br/>Protocolos de roteamento]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[Link-state<br/>Protocolos de roteamento]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<br/>Vetor de caminho]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[Classful]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[Classless]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[IPv6]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>EIGRP para IPv6</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>IS-IS para IPv6</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>BGPv4 para IPv6</b>]]></text>
+</component>
+</textcomponents>

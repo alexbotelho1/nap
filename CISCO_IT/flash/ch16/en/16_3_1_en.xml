@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="16_3_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Folder Permissions</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>File Permissions</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Wireless Security Configuration</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE4">
+        <source>WEP</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE5">
+        <source>MAC Address Filtering</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_000">
+        <source>Configure Wireless Security:</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_01">
+        <source>File Permissions </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_001">
+        <source> Configure WEP</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_02">
+        <source>See files and subfolder in the folder and view folder ownership, permission, and attributes.</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_002">
+        <source> Configure WPA</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_003">
+        <source> MAC address filter</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_03">
+        <source>Create new files and subfolders within the folder, change folder attributes, and view folder ownership and permissions.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_04">
+        <source>See the names of the files and subfolders in the folder.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_004">
+        <source> Disable any unused wireless 
+ connections</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_005">
+        <source> Change default SSID
+</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_05">
+        <source>Move through folders to reach other files and folders, even if the users do not have permission for those folders, and perform actions permitted by the Read permission and List Folder Contents permission.</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_06">
+        <source>Delete the folder plus perform actions permitted.
+</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_006">
+        <source> Select appropriate antennae</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_07">
+        <source>Modify</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_08">
+        <source>Read and
+Execute</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_09">
+        <source>List Folder Content</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_010">
+        <source>Folder Permissions </source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_10">
+        <source>Write</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_11">
+        <source>Read </source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_22">
+        <source>Read the file and view file attributes, ownership, and permissions.</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_23">
+        <source>Overwrite the file, change file attributes, and view file ownership and permissions.</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_24">
+        <source>Modify and delete the file, plus perform the actions permitted by the Write permission and Read and Execute permission.</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_25">
+        <source>Change permissions and take ownership, plus perform the actions permitted by all other NTFS file permissions.</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_26">
+        <source>Run applications, plus perform the actions permitted by the Read permission.</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_27">
+        <source>Full Control</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

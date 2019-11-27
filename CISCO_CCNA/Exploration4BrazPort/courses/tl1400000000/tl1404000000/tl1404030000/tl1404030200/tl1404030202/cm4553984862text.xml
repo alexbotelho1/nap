@@ -1,0 +1,80 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Configurar o RIPv2 com autenticação do protocolo de roteamento</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[Clique em cada etapa para ver a ação e a configuração.]]></text> 
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[Etapa 1]]></text> 
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[Etapa 2]]></text> 
+</component>
+
+<component id="ID_button3">
+<text><![CDATA[Etapa 3]]></text> 
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_config">
+<text><![CDATA[<b>Config</b>]]></text> 
+</component>
+
+<component id="ID_S1_txt01">
+<text><![CDATA[Impeça a propagação de atualização de roteamento RIP para os que não tiverem direito.]]></text> 
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[Etapa 1: Impedir a propagação da atualização de roteamento RIP]]></text> 
+</component>
+
+<!-- slide 2 -->
+<component id="ID_S2_config">
+<text><![CDATA[<b>Config</b>]]></text> 
+</component>
+
+<component id="ID_S2_txt01">
+<text><![CDATA[Etapa 2: Impedir a recepção não autorizada de atualizações RIP]]></text> 
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[Configurar a autenticação RIP]]></text> 
+</component>
+
+<!-- slide 3 -->
+<component id="ID_S3_config">
+<text><![CDATA[<b>Config</b>]]></text> 
+</component>
+
+<component id="ID_S3_txt01">
+<text><![CDATA[Verificar o roteamento RIP]]></text> 
+</component>
+
+<component id="ID_S3_txt02">
+<text><![CDATA[Etapa 3: Verificar o roteamento RIP.]]></text> 
+</component>
+
+<component id="ID_s1_1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_2">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_3">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s3_1">
+<text><![CDATA[<b>S3</b>]]></text>
+</component>
+<component id="ID_s3_2">
+<text><![CDATA[<b>S3</b>]]></text>
+</component>
+<component id="ID_s3_3">
+<text><![CDATA[<b>S3</b>]]></text>
+</component>
+
+</textcomponents>

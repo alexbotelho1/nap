@@ -1,0 +1,51 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Loops em espaços reduzidos</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Núcleo</b>]]></text>
+</component>
+<component id="ID_txt02b">
+<text><![CDATA[<b>Núcleo</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Distribuição</b>]]></text>
+</component>
+<component id="ID_txt03b">
+<text><![CDATA[<b>Distribuição</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Acesso</b>]]></text>
+</component>
+<component id="ID_txt04b">
+<text><![CDATA[<b>Acesso</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt05">
+<text><![CDATA[<font size="12"><b>Dois hubs conectados à rede</b></font>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<font size="12"><b>Loop de dois hubs interconectados</b></font>]]></text>
+</component>
+
+
+
+<component id="ID_txt11">
+<text><![CDATA[Dois usuários possuem hubs conectados à rede em suas mesas.]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[Quando os dois usuários interconectam seus hubs, um loop é criado.]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[Loop]]></text>
+</component>
+
+</textcomponents>

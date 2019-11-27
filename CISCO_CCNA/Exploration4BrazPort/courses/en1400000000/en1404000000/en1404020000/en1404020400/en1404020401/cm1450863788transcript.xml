@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:16">
+<title><content-text><![CDATA[4.2.4  - Securing Remote Administrative Access to Routers ]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts restricting administrative access to routers.<br><br>Network Topology:<br>PC1 and an administration host are connected to switch S1 on the Management LAN, which is connected to router R1. Router R1 is connected to router R2 via a WAN link. R2 is connected to the ISP router via a WAN link. A laptop PC is connected directly to R2, which provides local access to R2. The administration host laptop PC connected to switch S1 provides remote access to R2 through R1. <br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

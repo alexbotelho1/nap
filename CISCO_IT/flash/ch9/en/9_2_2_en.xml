@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="9_2_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Web Attack
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Browser Tools</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Browser Security
+</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_01">
+        <source>List of Losses</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_02">
+        <source>Loss of productivity</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_03">
+        <source>Loss of data </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_04">
+        <source>Damage to an organization’s reputation</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_05">
+        <source>Cost related to repair of computers </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_06">
+        <source>payload</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_07">
+        <source>Virus</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_08">
+        <source>Normal code</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_09">
+        <source>Virus attacks code...</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_10">
+        <source>And inserts itself</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_11">
+        <source>When the normal code is called by the CPU, the virus payload activates instead</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_12">
+        <source>To CPU</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

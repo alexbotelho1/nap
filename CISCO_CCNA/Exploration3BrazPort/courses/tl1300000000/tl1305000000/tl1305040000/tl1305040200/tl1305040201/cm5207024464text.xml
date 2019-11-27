@@ -1,0 +1,39 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saídas de dados do Switch</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>PVST+</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Raiz para a VLAN 20</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Trunk 802.1Q</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Raiz para a VLAN 10</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Porta de encaminhamento para a VLAN 20<br/>Porta de bloqueio para a VLAN 10</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Porta de encaminhamento para a VLAN 10<br/>Porta de bloqueio para a VLAN 20</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>VLAN 10</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>VLAN 20</b>]]></text>
+</component>
+
+
+</textcomponents>

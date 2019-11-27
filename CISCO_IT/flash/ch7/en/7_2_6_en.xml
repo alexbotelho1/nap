@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="7_2_6.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>•  Problem Solving Experience
+
+•  Other Technicians
+
+•  Internet Search
+
+•  News Groups
+
+•  Manufacturer FAQs
+
+•  Computer Manuals
+
+•  Device Manuals
+
+•  Online Forums
+
+•  Technical Websites
+
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TITLE1">
+        <source>Print Test Page</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TITLE1SS">
+        <source>Troubleshooting Process </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TITLE2">
+        <source>Common Printer Errors</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_00">
+        <source>Gather Data from the Customer</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_01">
+        <source>Evaluate the Problem and Implement the Solution </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_02">
+        <source>Problem Solving Experience</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_002">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_03">
+        <source>Other Technicians</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_04">
+        <source>Internet Search</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_05">
+        <source>News Groups</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_06">
+        <source>Manufacturer FAQs</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_07">
+        <source>Computer Manuals</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_08">
+        <source>Device Manuals</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_09">
+        <source>Online Forums</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_10">
+        <source>Technical Websites</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_11">
+        <source>Problem</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_12">
+        <source>Possible Cause</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_13">
+        <source>Page is blank</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_14">
+        <source>Toner is empty</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_15">
+        <source>Page is completely black</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_16">
+        <source>Charging corona wire is malfunctioning</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_17">
+        <source>Recurring marks on page</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_18">
+        <source>Damage to the drum </source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_19">
+        <source>Vertical black lines on page</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_20">
+        <source>Damage to the drum</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_21">
+        <source>Vertical white lines on the page</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_22">
+        <source>Spilt toner on the charging corona wire</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_23">
+        <source>Smudging of image</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_24">
+        <source>Fuser is malfunctioning</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_25">
+        <source>Ghosting of image</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_26">
+        <source>Damaged cleaning scraper</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_27">
+        <source>Unintelligible text</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TXT_28">
+        <source>Printer driver is malfunctioning</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TXT_36">
+        <source> • </source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TXT_37">
+        <source>Transfer corona assembly is malfunctioning</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TXT_38">
+        <source>The high voltage power supply which 
+powers  the charging and corona assemblies is malfunctioning</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TXT_39">
+        <source>Toner spilled on one of the rollers</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TXT_40">
+        <source>Dirty charging corona wire </source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TXT_41">
+        <source>Formatter board is malfunctioning</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

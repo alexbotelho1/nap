@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 08:12:16">
+<title><content-text><![CDATA[5.2.5 - Editing Numbered ACL's]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts commenting ACL's using the remark command.<br><br>Example 1:<br>R1(config)#access-list 1 remark Permit only Jones workstation through<br>R1(config)#access-list 1 permit 192.168.10.13<br>R1(config)#access-list 1 remark Do not allow Smith through<br>R1(config)#access-list 1 deny 192.168.10.14<br><br>Example 2:<br>R1(config)#i p access-list extended TELNETTING<br>R1(config-e x t-n a c l)#remark Do not allow Jones workstation to Telnet<br>R1(config-e x t-n a c l)#deny tcp host 192.168.10.13 any e q telnet<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

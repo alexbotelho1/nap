@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="1_1_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>CompTIA A+ Certification </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>IT Technician</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Remote Support Technician</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE4">
+        <source>Bench Technician</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

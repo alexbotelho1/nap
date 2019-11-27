@@ -1,0 +1,22 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>O propósito e a sintaxe do comando <font face="_typewriter">network</font></b>]]></text>
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic' colspan='2'><font  color="#FFFFFF"><b>O comando <font face="_typewriter">network</font></b></font></td>
+	</tr>
+	<tr>
+		<td width='75' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Finalidade</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Habilita o envio e o recebimento de atualizações RIP para interfaces que pertencem à rede especificada</li><li>Anuncia a rede especificada em atualizações RIP</li></ul></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Sintaxe</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">Router(config-router)#<b>network </b><i>directly-connected-classful-address</i></font></td>
+	</tr>
+</table>]]></text> 
+  </component>
+</textcomponents>

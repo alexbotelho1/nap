@@ -1,0 +1,5 @@
+<transcript lastedited="01.13.09 10:01:08">
+<title><content-text><![CDATA[6.3.7 - IPSec Security Protocols]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts IPSec security protocols and the IPSec framework.<br><br>IPSec Protocols: <br>Authentication Header (A H) - Provides data authentication and integrity for IP packets passed between two systems.<br><br>Encapsulating Security Payload (ESP) - Provides confidentiality and authentication by encrypting the IP packet. <br><br>IPSec Framework: <br>The diagram depicts the IPSec framework of an IPSec gateway providing security service. Four categories can be selected from to fill in the framework:<br><br>One. IPSec protocol: The choices are ESP, ESP + A H, or A H. <br>Two. Encryption algorithm (if IPSec is implemented with ESP). Choices are D E S, 3D E S, or A E S. <br>Three. Authentication. Choices are MD5 or S H A. <br>Four. Diffie-Hellman (DH) algorithm group. Choices are DH1 or DH2.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

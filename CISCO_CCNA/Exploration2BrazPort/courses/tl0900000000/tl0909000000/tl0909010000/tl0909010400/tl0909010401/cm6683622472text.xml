@@ -1,0 +1,51 @@
+<textcomponents>
+
+<component id="ID_title">
+    <text><![CDATA[<b>EIGRP substitui TCP por RTP</b>]]></text> 
+  </component>
+
+<component id="ID_txt01">
+    <text><![CDATA[<b>IPX</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt02">
+      <text><![CDATA[<b>IP</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+      <text><![CDATA[<b>APPLETALK</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+      <text><![CDATA[<b>ALGORITMO DE ATUALIZAÇÃO POR DIFUSÃO</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+     <text><![CDATA[<b>DESCOBERTA/RECUPERAÇÃO DE VIZINHO</b>]]></text> 
+</component>
+  
+<component id="ID_txt06">
+     <text><![CDATA[<b>PROTOCOLO DE TRANSPORTE CONFIÁVEL</b>]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+     <text><![CDATA[<b>IPX</b>]]></text> 
+  </component>
+
+<component id="ID_txt08">
+     <text><![CDATA[<b>IP</b>]]></text> 
+  </component>
+
+<component id="ID_txt09">
+     <text><![CDATA[<b>APPLETALK</b>]]></text> 
+  </component>
+  
+<component id="ID_txt10">
+     <text><![CDATA[<b>MÓDULOS<br/>DEPENDENTES<br/>DE PROTOCOLO </b>]]></text> 
+  </component>
+  
+<component id="ID_txt11">
+     <text><![CDATA[<b>Encapsulamento da<br/>Camada de Rede</b>]]></text> 
+  </component>
+  
+</textcomponents>

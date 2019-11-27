@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="9_2_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ISLQ3-QCORRECT_TEXT">
+        <source>&lt;b&gt;Correct!&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ISLQ3-QOPTION_TEXT1">
+        <source>Phishing</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ISLQ3-QOPTION_TEXT2">
+        <source>Adware</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ISLQ3-QOPTION_TEXT3">
+        <source>Spyware</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ISLQ3-QQUESTION_TEXT">
+        <source>&lt;b&gt;Select your answer by dragging the options into position, and then click Check.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ISLQ3-QSLOTLABEL_TEXT1">
+        <source>&lt;b&gt;Attacker pretends to represent a legitimate outside organization.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_ISLQ3-QSLOTLABEL_TEXT2">
+        <source>&lt;b&gt;Displays unwanted advertising on your computer. Usually comes along with downloaded "free" software.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_ISLQ3-QSLOTLABEL_TEXT3">
+        <source>&lt;b&gt;Monitors user and reports activities back to organization that sent it.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_ISLQ3-QTITLE_TEXT">
+        <source>Adware, Spyware, and Phishing Activity</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_ISLQ3-QTRYAGAIN_TEXT">
+        <source>&lt;b&gt;Try again.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_1">
+        <source>Computer 1</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S1_TXT_2">
+        <source>Computer 2</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S1_TXT_3">
+        <source>Computer 3</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S1_TXT_4">
+        <source>Computer 4</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_S1_TXT_5">
+        <source>Gateway</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S1_TXT_6">
+        <source>Router/ Access Point</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S1_TXT_7">
+        <source>SPYWARE</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S1_TXT_8">
+        <source>GRAYWARE</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S1_TXT_9">
+        <source>ADWARE</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S1_TXT_10">
+        <source>Monitors and reports back to the user that sent the spyware</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S1_TXT_11">
+        <source>Displays unwanted advertising including links to other websites</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S1_TXT_12">
+        <source>Modifies registry keys and allows malicious applications to be installed without permission</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TITLE1">
+        <source>Adware, Spyware, and Grayware </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

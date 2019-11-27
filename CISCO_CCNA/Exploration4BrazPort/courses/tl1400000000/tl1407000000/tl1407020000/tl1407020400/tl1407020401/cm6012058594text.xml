@@ -1,0 +1,73 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Configurando a NAT estática</b>]]></text>
+</component>
+<component id="table">
+    <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+  <tr>
+    <td width='80' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Etapa</b></font></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Ação</b></font></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Observações</b></font></td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Estabelecer uma tradução estática entre um endereço local interno e um endereço global interno. <font face='_typewriter'>Router(config)#<B>ip nat inside source static </B><i>local-ip global-ip</i></font></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Digitar o comando global <font face='_typewriter'><B>no ip nat inside source static</B></font> para remover a tradução de origem estática.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>2</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Especificar a interface interna. <font face='_typewriter'>Router(config)#<B>interface </B><i>type number</i></font></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Digitar o comando <font face='_typewriter'><B>interface</B></font>. O prompt de CLI será alterado de <font face='_typewriter'>(config)#</font> para<font face='_typewriter'>(config-if)#.</font></td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>3</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Marcar a interface como conectada com a interna. <font face='_typewriter'>Router(config-if)#<B>ip nat inside</B></font></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'> </td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>4</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Sair do modo de configuração de interface.<BR/><font face='_typewriter'>Router(config-if)# <B>exit</B></font></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'> </td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>5</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Especificar a interface externa. <font face='_typewriter'>Router(config)#<B>interface </B><I>type number</I></font></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'> </td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>6</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Marcar a interface como conectada com a externa. <font face='_typewriter'>Router(config-if)#<B>ip nat outside</B></font></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'> </td>
+  </tr>
+</table>]]></text>  
+  </component>
+<component id="ID_txt01">
+  <text><![CDATA[<b>Servidor</b>]]></text> 
+  </component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Rede interna</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Com esta configuração, a</b> 192.168.10.254 <b>será sempre traduzida para</b> 209.165.200.254.]]></text> 
+  </component>
+<component id="ID_button1">
+  <text><![CDATA[<b>Comandos</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Exemplo</b>]]></text> 
+</component>
+	<component id="ID_Command1">
+		<text><![CDATA[<b>!Estabelece uma tradução estática entre um endereço local interno e um endereço global interno.</b>]]></text>
+	</component>
+	<component id="ID_Command2">
+		<text><![CDATA[<b>!Identifica a Serial 0/1/0 como uma interface NAT externa. </b>]]></text>
+	</component>
+	<component id="ID_Command3">
+		<text><![CDATA[<b>!Identifica a Serial 0/1/0 como uma interface NAT externa. </b>]]></text>
+	</component>
+	
+</textcomponents>

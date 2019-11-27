@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="11_6_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Common Problems and Solutions</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>Problem Symptom</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_02">
+        <source>Sound card does not work </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_03">
+        <source>Cannot use SCSI drive </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_04">
+        <source>Cannot detect drive after boot up</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_05">
+        <source>System does not start after installing new processor</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_06">
+        <source>Cannot use external SCSI drive </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_07">
+        <source>System runs for a few minutes, and then locks up </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_08">
+        <source>Check fan power cable, verify fan operation, and verify that thermal compound is properly applied</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_09">
+        <source>Turn on drive before booting computer</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_10">
+        <source>Reseat processor, verify motherboard compatibility with the BIOS version and the CPU, flash the BIOS</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_11">
+        <source>Check and reseat power cable</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_12">
+        <source>Check SCSI IDs for duplicates</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_13">
+        <source>Turn off the integrated audio on the motherboard using the BIOS setup program </source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_14">
+        <source>Possible Solution</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

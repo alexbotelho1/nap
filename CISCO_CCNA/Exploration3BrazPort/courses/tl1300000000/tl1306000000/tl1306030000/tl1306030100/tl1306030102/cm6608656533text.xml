@@ -1,0 +1,18 @@
+<textcomponents>
+<component id="ID_Title01">
+<text><![CDATA[<b>Comandos do IOS do switch</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver as etapas de configuração.</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Atribuição de VLAN incorreta</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Modo de acesso incorreto</b>]]></text>
+</component>
+
+</textcomponents>

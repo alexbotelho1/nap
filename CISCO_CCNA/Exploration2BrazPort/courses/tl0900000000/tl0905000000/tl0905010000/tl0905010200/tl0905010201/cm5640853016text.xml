@@ -1,0 +1,50 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Cabeçalho do Quadro de Enlace de Dados</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Cabeçalho do Pacote IP</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Cabeçalho do segmento UDP</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Mensagem RIP<br>(504 bytes; até 25 rotas)</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Quadro de Enlace de Dados</b><br>Endereço de destino MAC = Broadcast: FF-FF-FF-FF-FF-FF<br/>Endereço de origem MAC = endereço da interface de envio]]></text>
+</component>
+
+
+ 
+<component id="ID_txt06">
+<text><![CDATA[<b>Pacote IP</b><br>Endereço de origem IP = endereço da interface de envio<br>Endereço de destino IP = Broadcast: 255.255.255.255<br>Campo Protocol = 17 para UDP]]></text>
+</component>
+
+
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Segmento UDP</b><br>Porta de origem = 520<br/>Porta de destino = 520]]></text>
+</component>
+
+
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Mensagem RIP:</b><br>Comando: Solicitação (1); Resposta (2)<br>Versão = 1<br>ID da família de endereços = 2 para IP<br>Rotas:  Endereço IP de rede<br>Métrica: Contagem de saltos]]></text>
+</component>
+	    
+
+<component id="ID_title">
+<text><![CDATA[<b>Mensagem RIPv1 encapsulada</b>]]></text>
+</component>
+
+<component id="ID_insta">
+<text><![CDATA[<b>Passe o mouse sobre os campos para ver o conteúdo do campo.</b>]]></text>
+</component>
+
+
+</textcomponents>

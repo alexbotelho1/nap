@@ -1,0 +1,18 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Processo de Procura de Rota</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Banco de dados da Tabela de Roteamento</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Neste capítulo, você aprendeu a:</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<ul><li>Descrever os vários tipos de rota localizados na estrutura da tabela de roteamento.</li><li>Descrever o processo de procura de rota.</li><li>Descrever o comportamento de roteamento nas redes roteadas.</li></ul>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:37">
+<title><content-text><![CDATA[7.3.7 - Configuring IPv6 Addresses]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the command syntax for enabling IPv6 on Cisco routers.<br><br>Command: RouterX(config)#i pv6 unicast-routing<br>Purpose: Enables IPv6 traffic forwarding.<br><br>Command: RouterX(config-i f)#i pv6 address i pv6prefix/prefix-length e u i-64<br>Purpose: Configures the interface IPv6 addresses.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,43 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Nesse capítulo, você aprenderá a:</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<ul><li>Descrever as funções, as características e a operação do protocolo RIPv1.</li><li>Configurar um dispositivo para usar o RIPv1.</li><li>Verificar a operação correta do RIPv1.</li><li>Descrever como o RIPv1 executa a sumarização automática.</li><li>Configurar, verificar, identificar e solucionar problemas de rotas padrão propagadas em uma rede roteada implementando o RIPv1.</li><li>Usar técnicas recomendadas para solucionar problemas relacionados ao RIPv1.</li></ul>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Protocolos IGP</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Protocolos EGP</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[Vetor de distância<br/>Protocolos de roteamento]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[Link-state<br/>Protocolos de roteamento]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<br/>Vetor de caminho]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[Classful]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[Classless]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[IPv6]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>EIGRP para IPv6</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>IS-IS para IPv6</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>BGPv4 para IPv6</b>]]></text>
+</component>
+
+</textcomponents>

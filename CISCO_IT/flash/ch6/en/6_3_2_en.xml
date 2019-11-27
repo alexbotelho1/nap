@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="6_3_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_1">
+        <source>Intel® Core™ Duo processor L2400 (Low Voltage)                                                                         </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_2">
+        <source>1.66 GHz                                                                    </source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_3">
+        <source>2M                                                                           </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_4">
+        <source>15 Watts                                                                       </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_5">
+        <source>Intel® Core™ Duo processor U2500 (Ultra Low Voltage)                                                          </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_6">
+        <source>1.20 GHz                                                                </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_7">
+        <source>2M                                                                         </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_8">
+        <source>17 Watts                                                                   </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_9">
+        <source>Intel® Pentium® M Processor Low Voltage 778                                                      </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_10">
+        <source>1.60 GHz                                                                  </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_11">
+        <source>2M                                                                         </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S1_TXT_12">
+        <source>15 Watts                                                                      </source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S1_TXT_13">
+        <source>Intel® Core™ Duo processor U2400 (Ultra Low Voltage)                                                             </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S1_TXT_14">
+        <source>1.06 GHz                                                                 </source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_S1_TXT_15">
+        <source>2M                                                                         </source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S1_TXT_16">
+        <source>9 Watts                                                                     </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S1_TXT_17">
+        <source>Intel® Core™2 Duo processor T7600                                                               </source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S1_TXT_18">
+        <source>2.33 GHz                                                                  </source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S1_TXT_19">
+        <source>4M                                                                          </source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S1_TXT_20">
+        <source>34 Watts                                                                   </source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S1_TXT_22">
+        <source>1.83 GHz                                                                  </source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S1_TXT_23">
+        <source>2M                                                                       </source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_S1_TXT_24">
+        <source>27 Watts                                                                    </source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_S1_TXT_25">
+        <source>Intel® Pentium® M Processor 780                                                       </source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_S1_TXT_26">
+        <source>2.26 GHz                                                                 </source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_S1_TXT_27">
+        <source>2M                                                                       </source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_S1_TXT_28">
+        <source>27 Watts                                                                </source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_S1_TXT_29">
+        <source>Pentium M 753 Ultra Low Voltage                                                                           </source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_S1_TXT_30">
+        <source>1.20 GHZ                                                                    </source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_S1_TXT_31">
+        <source>2 MB                                                                           </source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_S1_TXT_32">
+        <source>5 W                                                                         </source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TITLE1">
+        <source>Laptop CPUs</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TITLE2">
+        <source>Laptop Processor Specifications</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TITLE3">
+        <source>Laptop batteries and comparison chart</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TITLE4">
+        <source>Four</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TITLE5">
+        <source>five</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TITLE6">
+        <source>six</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TITLE7">
+        <source>seven</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TITLE8">
+        <source>Processor</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TITLE9">
+        <source>Actual Speed</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TITLE11">
+        <source>Thermal Design Power Guideline</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TITLE710">
+        <source>L2 Cache</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

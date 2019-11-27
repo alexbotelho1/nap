@@ -1,0 +1,26 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída <br />do roteador</b>]]></text> 
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Bloqueando seu roteador com Cisco AutoSecure</b>]]></text>
+</component>
+
+<!-- topology -->
+<component id="ID_top01">
+<text><![CDATA[<b>Sistema<br />Administrador</b>]]></text> 
+</component>
+
+<component id="ID_top02">
+<text><![CDATA[O administrador de sistema bloqueia o R2 utilizando o Cisco AutoSecure]]></text> 
+</component>
+
+<component id="ID_s1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_isp">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+</textcomponents>

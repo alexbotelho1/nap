@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13388" dateexported="10/19/2009">
+		<name>Teste do Módulo 1</name>
+		<form id="23435" lang="pt"><form-item order="fixed">
+			<ai id="165027" type="mc-ma"><question><![CDATA[Quais são os três itens considerados dispositivos WAN? (Escolha três.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[bridges ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[modems  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[roteadores  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[switches da Camada 2 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[servidores de comunicação  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[repetidores ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="73736" type="mc-sa"><question><![CDATA[Qual camada do modelo de projeto de rede hierárquico é chamada geralmente de backbone?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Acesso ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Distribuição ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Rede ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Núcleo  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Grupo de trabalho ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[WAN ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="165023" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="165023" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>Uma tecnologia de comutação em que cada switch deve avaliar o endereço do pacote para determinar para onde enviá-lo. </mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>Uma tecnologia de comutação em que um circuito virtual só existe fisicamente enquanto um pacote o percorre.</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>Uma tecnologia de comutação que estabelece rotas pelos switches para conexões fim-a-fim específicas.</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>Uma tecnologia de comutação com um circuito dedicado preestabelecido (ou canal) entre nós e terminais.</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>Comutação de circuito</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>Comutação de pacotes</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>Comutação de pacotes orientada à conexão</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>Comutação de pacotes sem conexão</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="760"><material><mattext>Arraste a descrição à esquerda até o termo associado à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-99" targetYspacing="20" yspacing="80" targetH="47"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="155" /><display componentIdent="3" xpos="200" ypos="235" /><display componentIdent="4" xpos="200" ypos="315" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="142" /><display componentIdent="3" xpos="600" ypos="209" /><display componentIdent="4" xpos="600" ypos="276" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="215436" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="215436" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>1</componentident></scoringzonecontains></conditionvar><setvar varname="215436" action="Set">1</setvar><scoringdescription>1</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="165025" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="165025" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>Fornece uma rede da Camada 2 de grande largura de banda capaz de gerenciar dados, voz e vídeo na mesma infraestrutura</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>Criado a partir de uma arquitetura baseada em célula na qual a célula tem um comprimento fixo de 53 bytes</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>Funciona na camada de enlace de dados, e o PVC é identificado por um Identificador de controle de enlace de dados (DLCI)</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>Funciona na camada de rede, e o SVC é identificado por um número do canal</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>X.25</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>Frame Relay </mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>ATM</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>Metro Ethernet</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="760"><material><mattext>Arraste a descrição da tecnologia comutada por pacotes à esquerda até o termo associado à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-99" targetYspacing="20" yspacing="80" targetH="47"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="155" /><display componentIdent="3" xpos="200" ypos="235" /><display componentIdent="4" xpos="200" ypos="315" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="142" /><display componentIdent="3" xpos="600" ypos="209" /><display componentIdent="4" xpos="600" ypos="276" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="215678" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="215678" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>1</componentident></scoringzonecontains></conditionvar><setvar varname="215678" action="Set">1</setvar><scoringdescription>1</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="165100" type="mc-sa"><question><![CDATA[Qual é o dispositivo normalmente utilizado como Equipamento de terminal de dados (DTE)?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[ISDN ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[modem ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[roteador  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[CSU/DSU ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165030" type="mc-sa"><question><![CDATA[Que tipo de conexão WAN deve ser escolhido quando é obrigatório um caminho de comunicação WAN ponto-a-ponto dedicado no local do cliente por meio da rede do provedor para um destino remoto?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[ISDN (Integrated Services Digital Network, rede digital de serviços integrados) ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[dial-up analógico ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Modo de Transferência Assíncrona (ATM) ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Frame Relay (FR) ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[linha alugada (link dedicado)  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165031" type="mc-sa"><question><![CDATA[Como os circuitos virtuais de Frame Relay são identificados?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[CIR ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[DLCI  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[VPI ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[MAC ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[SPID ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165032" type="mc-sa"><question><![CDATA[Qual é a tecnologia WAN projetada para entregar dados, voz e vídeo simultaneamente por meio de uma infraestrutura TDM?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[ATM  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[cabo (cable modem) ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Frame Relay ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[ISDN ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165024" type="mc-sa"><question><![CDATA[Qual é a arquitetura que permite às empresas oferecer serviços de rede importantes, como segurança, novos serviços de comunicação e melhor desempenho do aplicativo em todas as filiais, independentemente do tamanho ou da proximidade da sede?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Arquitetura de campus empresarial da Cisco ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Arquitetura da central de dados empresarial da Cisco ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Arquitetura de filial empresarial da Cisco  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Arquitetura de funcionário remoto empresarial da Cisco ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="73737" type="mc-sa"><question><![CDATA[Em qual camada do modelo de projeto de rede hierárquico os usuários se conectam à rede?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Aplicação ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Acesso  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Distribuição ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Rede ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Núcleo ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165033" type="mc-sa"><question><![CDATA[A PRI ISDN é composta de quantos canais B na América do Norte?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[2 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[16 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[23  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[30 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[64 ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165034" type="mc-sa"><question><![CDATA[A capacidade de conexão segura com uma rede privada em uma rede pública é fornecida por qual tecnologia WAN?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[DSL ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Frame Relay ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[ISDN ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[PSTN ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[VPN  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="73738" type="mc-sa"><question><![CDATA[Qual camada do modelo de projeto de rede hierárquico é responsável por conter os problemas de rede nos grupos de trabalho onde eles ocorrem?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Aplicação ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Acesso ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Distribuição  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Rede ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Núcleo ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="69603" type="mc-sa"><question><![CDATA[Qual é o termo que descreve o cabeamento que conecta as instalações do cliente à central mais próxima do provedor de serviços WAN?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[CPE ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[CO ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Loop local  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[DCE ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[DTE ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="165026" type="mc-sa"><question><![CDATA[Qual objetivo pode ser atingido com a implementação da arquitetura de funcionário remoto empresarial da Cisco?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Permite que a empresa adicione grandes filiais que abrangem grandes áreas geográficas. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Permite que a empresa forneça serviços de voz e dados seguros a funcionários remotos, independentemente de onde ou quando eles trabalham.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Para reduzir ameaças remotas à segurança, ela força os usuários localizados nos principais sites a fazerem login nos recursos.  ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Satisfaz os requisitos de telefonia dos usuários localizados em locais corporativos de médio a grande porte. ]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam> 

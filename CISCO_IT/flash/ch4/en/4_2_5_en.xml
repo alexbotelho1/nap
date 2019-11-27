@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="4_2_5.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>Error Messages
+
+Beep Sequences
+
+LEDs
+
+POST
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_1">
+        <source>Evaluate the Problem and Implement the Solution </source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_2">
+        <source>Is the
+Problem
+Solved?
+                                                                               </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_3">
+        <source>Close with
+ the Customer                                                                       </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_4">
+        <source>Previous computer problem solving experience
+Other technicians
+Internet search engine
+News groups
+Manufacturer FAQs
+Computer manuals
+Device manuals
+Online forums and chat
+Technical websites</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_5">
+        <source>• 
+
+•
+•
+•
+•
+•
+•
+•
+•                                                                         </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_6">
+        <source>No                                                                       </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_7">
+        <source>Yes                                                                            </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_8">
+        <source>2.5 mW                                                                           </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_9">
+        <source>~33 feet (10 m)                                                                             </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_10">
+        <source>Class 3                                                                           </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S1_TXT_11">
+        <source>1 mW                                                                              </source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S1_TXT_12">
+        <source>~3 feet (1 m)                                                                          </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S2_TXT8">
+        <source>Networked computers
+share resources</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_STEP 01">
+        <source>Gather Data from the Customer </source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_STEP 02">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer </source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TITLE1">
+        <source>Gather Data from the Computer </source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TITLE2">
+        <source>Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>Troubleshooting Process </source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TITLE3">
+        <source>Device Manager </source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_S2_TXT1">
+        <source>System Properties  </source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_CLICK 01">
+        <source>The System Properties dialog box lists the properties of all hardware devices connected to the laptop motherboard.  This can be valuable in troubleshooting problems with laptop performance.    To access System Properties, go to </source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_S2_TXT2">
+        <source>Device Manager </source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_S2_TXT3">
+        <source>Event Viewer   </source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_S2_TXT4">
+        <source>Services  </source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_S2_TXT5">
+        <source>Performance  </source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_S2_TXT6">
+        <source>MSCONFIG </source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_CLICK 02">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; System</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_CLICK 03">
+        <source>The Device Manager lists all devices connected to the PC.  Devices with problems are easily recognized by looking for an exclamation point that displays next to the problem device.  To access the Device Manager, go to </source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_CLICK 04">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; System &gt; Hardware &gt; Device Manager</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_CLICK 05">
+        <source>The Event Viewer logs a history of events regarding applications, security, and the system. These log files are a valuable troubleshooting tool. To access the Event Viewer, go to </source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_CLICK 06">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; Administrative Tools &gt; Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_CLICK 07">
+        <source>All services running on the computer are listed under this tab.  Use this to stop any unwanted services on startup.  To access Services, go to </source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_CLICK 08">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; Administrative Tools &gt; Services</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_CLICK 09">
+        <source>The Performance dialog box can be used to adjust the size of your paging file or tweak performance of your operating system. To access the Device Manager, go to </source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_CLICK 10">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; System &gt; Advanced &gt; Performance</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_CLICK 11">
+        <source>The System Configuration utility (msconfig.exe) automates the routine troubleshooting steps and is used to diagnose system configuration issues. To access the Systems Configuration utility, go to </source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_CLICK 12">
+        <source>Start &gt; Run, type msconfig in the Open box, and then click OK.</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

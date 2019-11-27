@@ -1,0 +1,37 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique nos botões para visualizar as saídas de comando do roteador.</b>]]></text>
+</component>
+
+<component id="ID_Button01">
+<text><![CDATA[<b>Configurando</b>]]></text>
+</component>
+
+<component id="ID_Button02">
+<text><![CDATA[<b>Verificando a configuração</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_title01">
+<text><![CDATA[<b>Configurando o Frame Relay</b>]]></text>
+</component>
+
+<component id="ID_topology01">
+<text><![CDATA[<b>Frame Relay</b>]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_title02">
+<text><![CDATA[<b>Verificando a configuração do Frame Relay</b>]]></text>
+</component>
+
+<component id="ID_topology02">
+<text><![CDATA[<b>Frame Relay</b><br/>10.1.1.0/24]]></text>
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br/>roteador</b>]]></text>
+</component>
+
+</textcomponents>

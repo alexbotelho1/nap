@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="9_4_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Security Updates</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_1">
+        <source>OS/Application/ Security updates</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_2">
+        <source>Adware/spyware/ virus def. update</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="10_1_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_STEP 01">
+        <source>Personal Experience</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_STEP 02">
+        <source>Scripts</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_STEP 03">
+        <source>Websites</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_STEP 04">
+        <source>Search Engines</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_STEP 05">
+        <source>Online FAQs</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_STEP 06">
+        <source>Co-workers</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_STEP 07">
+        <source>Support vendors</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_STEP 08">
+        <source>Diagnostic repair tools</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_STEP 09">
+        <source>Manufacturer manuals</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_STEP 10">
+        <source>E-mail</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_STEP NUMBER 01">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_STEP NUMBER 02">
+        <source>2</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_STEP NUMBER 03">
+        <source>3</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_STEP NUMBER 04">
+        <source>4</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_STEP NUMBER 05">
+        <source>5</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_STEP NUMBER 06">
+        <source>6</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TITLE1">
+        <source>Technician Resources</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>Technician Resources  </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

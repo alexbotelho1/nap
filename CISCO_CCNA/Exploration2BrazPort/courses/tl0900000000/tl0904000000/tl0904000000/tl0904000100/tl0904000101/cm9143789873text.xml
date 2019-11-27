@@ -1,0 +1,49 @@
+<textcomponents>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Protocolos IGP</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Protocolos EGP</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[Vetor de distância<br/>Protocolos de roteamento]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[Link-state<br/>Protocolos de roteamento]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<br/>Vetor de caminho]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[Classful]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[Classless]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[IPv6]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[EIGRP para IPv6]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[IS-IS para IPv6]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[BGPv4 para IPv6]]></text>
+</component>
+
+<!-- table -->
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff">Nesse capítulo, você aprenderá a:</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Identificar as características dos protocolos de roteamento do vetor de distância.</li><li>Descrever o processo de detecção de rede de protocolos de roteamento do vetor de distância que usam RIP.</li><li>Descrever os processos para manutenção de tabelas de roteamento precisas que são usadas por protocolos de roteamento do vetor de distância.</li><li>Identificar as condições que conduzem a um loop de roteamento e explicar as implicações do desempenho do roteador.</li><li>Identificar os tipos de protocolos de roteamento do vetor de distância atualmente em uso.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

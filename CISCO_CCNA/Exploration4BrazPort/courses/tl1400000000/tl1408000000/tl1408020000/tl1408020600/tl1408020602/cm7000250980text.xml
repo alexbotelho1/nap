@@ -1,0 +1,62 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Clique para exibir exemplos de ferramentas de identificação e solução de problemas de hardware.]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>NAM</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>DMM</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Testador de cabo</b>]]></text>
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<b>Analisador de cabo</b>]]></text>
+</component>
+
+<component id="ID_button05">
+<text><![CDATA[<b>Analisador de rede</b>]]></text>
+</component>
+
+
+<component id="ID_title01">
+<text><![CDATA[<b>Ferramentas de identificação e solução de problemas de hardware</b>]]></text>
+</component>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Aplicação baseada na Web exibe Analisador de Dados de Tráfego NAM</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Módulo NAM para um Catalyst 6500</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Fluke 179 Digital Multimeter</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Fluke Networks LinkRunner Pro Tester</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Fluke Networks CableIQ Qualification Tester</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>Fluke Networks DTX Cable Analyzer</b>]]></text>
+</component>
+
+<component id="ID_txt36">
+<text><![CDATA[<b>Fluke Networks OptiView™ Series III Integrated Network Analyzer</b>]]></text>
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 08:12:24">
+<title><content-text><![CDATA[5.4.2 - Dynamic ACL's]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts information about dynamic ACL's.<br><br>Network Topology:<br>Two LAN's are attached to router R1. LAN 192.168.10.10 with PC1 and switch S1 connects to the R1 interface F0/0. PC2 and switch S2 connect to the R1 interface F0/1. The R1 interface S0/0/0 is connected to R2 via a WAN link. R2 is connected to a server. A third LAN, 192.168.30.10 with PC3 and switch S3, is connected to R3, which is also connected to R2 via a WAN link.<br><br>Text bubbles are pointing to R3 that state: <br>1. PC1 uses Telnet to connect R3 and authenticate.<br>2. Within a given time allowance, PC1 can use FTP or HTTP to connect to R3.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

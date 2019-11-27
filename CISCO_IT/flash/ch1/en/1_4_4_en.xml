@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="1_4_4.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CLICK 01">
+        <source>The software may manage call queues, set call priorities, assign calls, and escalate calls.</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CLICK 02">
+        <source>Read-only memory chips.  Information is written to a ROM chip when it is manufactured. A ROM chip cannot be erased or re-written and is obsolete.</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CLICK 02A">
+        <source>NOTE:                                              The control panel may be set to Classic or Category views.  This path refers to Category view.</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_CLICK 03">
+        <source>Programmable read-only memory.  Information is written to a PROM chip after it is manufactured. A PROM chip cannot be erased or re-written.</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_CLICK 04">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; System &gt; Hardware &gt; Device Manager</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_CLICK 05">
+        <source> Erasable programmable read-only memory.  Information is written to an EPROM chip after it is manufactured. An EPROM chip can be erased with exposure to UV light. Special equipment is required. </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_CLICK 06">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; Administrative Tools &gt; Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_CLICK 07">
+        <source>Electrically erasable programmable read-only memory.  Information is written to an EEPROM chip after it is manufactured. EEPROM chips are also called Flash ROMs. An EEPROM chip can be erased and re-written without having to remove the chip from the computer. </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_CLICK 08">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; Administrative Tools &gt; Services</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_CLICK 09">
+        <source>The software may contain a knowledge database that is pre-programmed with common problems and their solutions. This database may grow as technicians add their own records of problems and solutions.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_CLICK 10">
+        <source>Start &gt; Control Panel &gt; Performance and Maintenance &gt; System &gt; Advanced &gt; Performance</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_CLICK 11">
+        <source>The software may collect customer feedback regarding satisfaction with the call center’s products and services.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_CLICK 12">
+        <source>Start &gt; Run, type msconfig in the Open box, and then click OK.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_CLICK 20">
+        <source>Dynamic RAM is a memory chip that is used as main memory. DRAM must be constantly refreshed with pulses of electricity in order to maintain the data stored within the chip. </source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_CLICK 21">
+        <source>Static RAM is a memory chip that is used as cache memory. SRAM is much faster than DRAM and does not have to be refreshed as often.</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_CLICK 22">
+        <source>Fast Page Mode DRAM is memory that supports paging. Paging enables faster access to the data than regular DRAM. Most 486 and Pentium systems from 1995 and earlier use FPM memory.</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_CLICK 23">
+        <source>Extended Data Out RAM is memory that overlaps consecutive data accesses. This speeds up the access time to retrieve data from memory, because the CPU does not have to wait for one data access cycle to end before another data access cycle begins.</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_CLICK 24">
+        <source>Synchronous DRAM is DRAM that operates in synchronization with the memory bus. The memory bus is the data path between the CPU and the main memory. </source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_CLICK 25">
+        <source>Double Data Rate SDRAM is memory that transfers data twice as fast as SDRAM. DDR SDRAM increases performance by transferring data twice per cycle.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_CLICK 26">
+        <source>Double Data Rate 2 SDRAM is a faster than DDR-SDRAM memory. DDR2 SDRAM improves performance over DDR SDRAM by decreasing noise and crosstalk between the signal wires. </source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_CLICK 27">
+        <source>RAMBus DRAM is a memory chip that was developed to communicate at very high rates of speed. RDRAM chips are not commonly used.</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_CLICK 30">
+        <source>Dual Inline Package is an individual memory chip. A DIP had dual rows of pins used to attach it to the motherboard. </source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_CLICK 31">
+        <source>Single Inline Memory Module is a small circuit board that holds several memory chips. SIMMs have 30-pin and 72-pin configurations.</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_CLICK 32">
+        <source>Dual Inline Memory Module is a circuit board that holds SDRAM, DDR SDRAM, and DDR2 SDRAM chips .  There are 168-pin SDRAM DIMMs, 184-pin DDR DIMMs, and 240-pin DDR2 DIMMs.</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_CLICK 33">
+        <source>RAM Bus Inline Memory Module is a circuit board that holds RDRAM chips.  A typical RIMM has a 184-pin configuration. </source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_CLICK 40">
+        <source>L1 cache is internal cache and is integrated into the CPU.</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_CLICK 41">
+        <source>L2 cache is external cache and was originally mounted on the motherboard near the CPU. L2 cache is now integrated into the CPU.</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_CLICK 42">
+        <source>L3 cache is used on some high-end workstations and server CPUs.</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_CLICK 50">
+        <source>Nonparity memory does not check for errors in memory.</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_CLICK 51">
+        <source>Parity memory contains eight bits for data and one bit for error checking. The error-checking bit is called a parity bit. </source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_CLICK 52">
+        <source>Error Correction Code memory can detect multiple bit errors in memory and correct single bit errors in memory.</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_CONTENT 01">
+        <source>Error Messages
+
+Beep Sequences
+
+LEDs
+
+POST
+
+</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_CONTENT 03">
+        <source>The System Properties dialog box lists the properties of all hardware devices connected to the laptop motherboard.  This can be valuable in troubleshooting problems with laptop performance.  To access System Properties, go to </source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_S2_TXT1">
+        <source>ROM</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_S2_TXT2">
+        <source>PROM</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_S2_TXT3">
+        <source>EPROM</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_S2_TXT4">
+        <source>EEPROM</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_S2_TXT5">
+        <source>Inexperienced Customer    </source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_S2_TXT6">
+        <source>Collect customer feedback   </source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_S2_TXT20">
+        <source>DRAM:</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_S2_TXT21">
+        <source>SRAM:</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_S2_TXT22">
+        <source>FPM Memory:</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_S2_TXT23">
+        <source>EDO Memory: </source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_S2_TXT24">
+        <source>SDRAM:</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_S2_TXT25">
+        <source>DDR SDRAM:</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_S2_TXT26">
+        <source>DDR2 SDRAM:</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_S2_TXT27">
+        <source>RDRAM: </source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_S2_TXT30">
+        <source>DIP</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_S2_TXT31">
+        <source>SIMM</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_S2_TXT32">
+        <source>DIMM</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_S2_TXT34">
+        <source>RIMM</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_S2_TXT40">
+        <source>L1</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_S2_TXT41">
+        <source>L2</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_S2_TXT42">
+        <source>L3</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_S2_TXT50">
+        <source>Nonparity:</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_S2_TXT51">
+        <source>Parity:</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_S2_TXT52">
+        <source>ECC:</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_S3_ TABTXT01">
+        <source>Name</source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_S3_ TABTXT02">
+        <source>Definition</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_S3_ TABTXT03">
+        <source>Priority</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_S3_ TABTXT04">
+        <source>Down</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_S3_ TABTXT05">
+        <source>The company cannot operate with any computer equipment</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_S3_ TABTXT06">
+        <source>1 (Most Urgent)</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_S3_ TABTXT07">
+        <source>Hardware</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_S3_ TABTXT08">
+        <source>One or more computers not functioning correctly</source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_S3_ TABTXT09">
+        <source>2 (Urgent)</source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_S3_ TABTXT10">
+        <source>Software</source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_S3_ TABTXT11">
+        <source>One or more computers have software or operating system errors</source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_S3_ TABTXT12">
+        <source>2 (Urgent)</source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_S3_ TABTXT13">
+        <source>Network</source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_S3_ TABTXT14">
+        <source>One or more computers that cannot access the network</source>
+      </trans-unit>
+      <trans-unit id="072" resname="IDS_S3_ TABTXT15">
+        <source>2 (Urgent)</source>
+      </trans-unit>
+      <trans-unit id="073" resname="IDS_S3_ TABTXT16">
+        <source>Enhancement</source>
+      </trans-unit>
+      <trans-unit id="074" resname="IDS_S3_ TABTXT17">
+        <source>Request for additional functionality</source>
+      </trans-unit>
+      <trans-unit id="075" resname="IDS_S3_ TABTXT18">
+        <source>3 (Important)</source>
+      </trans-unit>
+      <trans-unit id="076" resname="IDS_STEP 01">
+        <source>Gather Data from the Customer</source>
+      </trans-unit>
+      <trans-unit id="077" resname="IDS_STEP 02">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="078" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="079" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="080" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="081" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="082" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="083" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="084" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="085" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="086" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="087" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="088" resname="IDS_TITLE1">
+        <source>ROM Types
+</source>
+      </trans-unit>
+      <trans-unit id="089" resname="IDS_TITLE2">
+        <source>RAM Types</source>
+      </trans-unit>
+      <trans-unit id="090" resname="IDS_TITLE3">
+        <source>Memory Modules 
+</source>
+      </trans-unit>
+      <trans-unit id="091" resname="IDS_TITLE4">
+        <source>Cache Memory</source>
+      </trans-unit>
+      <trans-unit id="092" resname="IDS_TITLE5">
+        <source>Memory Errors</source>
+      </trans-unit>
+      <trans-unit id="093" resname="IDS_TITLE6">
+        <source>Power Options</source>
+      </trans-unit>
+      <trans-unit id="094" resname="IDS_TITLE7">
+        <source>Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="095" resname="IDS_TITLE8">
+        <source>Operating System Information</source>
+      </trans-unit>
+      <trans-unit id="096" resname="IDS_TITLE9">
+        <source>COMMAND</source>
+      </trans-unit>
+      <trans-unit id="097" resname="IDS_TITLE10">
+        <source>COMMAND LOCATION USING WINDOWS START MENU</source>
+      </trans-unit>
+      <trans-unit id="098" resname="IDS_TITLE11">
+        <source>System Properties</source>
+      </trans-unit>
+      <trans-unit id="099" resname="IDS_TITLE12">
+        <source>Start&gt;Control Panel&gt;System</source>
+      </trans-unit>
+      <trans-unit id="100" resname="IDS_TITLE13">
+        <source>Device Manager</source>
+      </trans-unit>
+      <trans-unit id="101" resname="IDS_TITLE14">
+        <source>Start&gt; Control Panel&gt;System&gt;Hardware&gt;Device Manager</source>
+      </trans-unit>
+      <trans-unit id="102" resname="IDS_TITLE15">
+        <source>Network Settings </source>
+      </trans-unit>
+      <trans-unit id="103" resname="IDS_TITLE16">
+        <source>Start&gt;Control Panel&gt;Network Connections&gt;Right-click desired connection&gt;Properties</source>
+      </trans-unit>
+      <trans-unit id="104" resname="IDS_TITLE17">
+        <source>Power Options </source>
+      </trans-unit>
+      <trans-unit id="105" resname="IDS_TITLE18">
+        <source>Start&gt;Control Panel&gt;Power Options</source>
+      </trans-unit>
+      <trans-unit id="106" resname="IDS_TITLE19">
+        <source>Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="107" resname="IDS_TITLE20">
+        <source>Start&gt;Control Panel&gt;Administrative Tools&gt;Event Viewer</source>
+      </trans-unit>
+      <trans-unit id="108" resname="IDS_TITLE21">
+        <source>System Information</source>
+      </trans-unit>
+      <trans-unit id="109" resname="IDS_TITLE22">
+        <source>Start&gt;Programs&gt;Accessories&gt;System Tools&gt;System Information</source>
+      </trans-unit>
+      <trans-unit id="110" resname="IDS_TITLE43">
+        <source>Hard drive</source>
+      </trans-unit>
+      <trans-unit id="111" resname="IDS_TITLE59">
+        <source>Smart Card reader
+Compact Flash reader1.8-inch disk drive</source>
+      </trans-unit>
+      <trans-unit id="112" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>Troubleshooting Process</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

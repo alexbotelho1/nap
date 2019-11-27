@@ -1,0 +1,22 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Comandos para gerenciar arquivos de configuração</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Um do sistema:, nvram:, tftp:</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Um do sistema:, nvram:, tftp:</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Comando: copy</b>]]></text>
+</component>
+
+
+
+
+</textcomponents>

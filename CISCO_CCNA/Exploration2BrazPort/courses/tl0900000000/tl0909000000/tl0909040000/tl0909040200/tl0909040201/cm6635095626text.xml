@@ -1,0 +1,71 @@
+<textcomponents>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver a saída do comando.</b>]]></text>
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Sucessor e Distância Viável</b>]]></text>
+</component>
+
+<!-- topology -->
+<component id="ID_txt01">
+<text><![CDATA[<b><i>Este roteador não existe fisicamente.</i></b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>64 kbps</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>1024 kbps</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>1544 kbps</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+<!-- output1 -->
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Distância viável</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Sucessor</b>]]></text>
+</component>
+
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Loopback1</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[***saída do comando omitida***]]></text>
+</component>
+
+<component id="ID_caption01">
+<text><![CDATA[<b>R3 em 192.168.10.10 é o sucessor para a rede 192.168.1.0/24. Esta rota possui uma distância viável de 3014400.</b>]]></text>
+</component>
+
+</textcomponents>

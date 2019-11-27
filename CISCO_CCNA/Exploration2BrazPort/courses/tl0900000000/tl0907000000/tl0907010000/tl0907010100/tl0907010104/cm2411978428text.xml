@@ -1,0 +1,47 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Clique para exibir as várias saídas do comando do roteador</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Rota de sumarização estática para 192.168.0.0/16</b>]]></text>
+</component>
+
+<component id="ID_topology01">
+<text><![CDATA[<b>Rota de sumarização<br>estática<br>para 192.168.0.0/16</b>]]></text>
+</component>
+
+<component id="ID_topology02">
+<text><![CDATA[<b>Rota estática</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Examinando as redes descontíguas</b>]]></text>
+</component>
+
+<component id="ID_header1">
+<text><![CDATA[<b>Dispositivo</b>]]></text>
+</component>
+
+<component id="ID_header2">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+
+<component id="ID_header3">
+<text><![CDATA[<b>Endereço IP</b>]]></text>
+</component>
+
+<component id="ID_header4">
+<text><![CDATA[<b>Máscara de sub-rede</b>]]></text>
+</component>
+
+<component id="routerIcon">
+<text><![CDATA[<b>Loopbacks</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Ambos os grupos de sub-redes fazem parte da rede classful principal 172.30.0.0/16 </b>]]></text>
+</component>
+
+</textcomponents>

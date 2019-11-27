@@ -1,0 +1,396 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>O processo BPDU</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Etapa:</b>]]></text>
+</component>
+
+<component id="btn1">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+<component id="btn2">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+<component id="btn3">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+<component id="btn4">
+<text><![CDATA[<b>4</b>]]></text>
+</component>
+<component id="btn5">
+<text><![CDATA[<b>5</b>]]></text>
+</component>
+<component id="btn6">
+<text><![CDATA[<b>6</b>]]></text>
+</component>
+<component id="btn7">
+<text><![CDATA[<b>7</b>]]></text>
+</component>
+<component id="btn8">
+<text><![CDATA[<b>8</b>]]></text>
+</component>
+<component id="btn9">
+<text><![CDATA[<b>9</b>]]></text>
+</component>
+
+
+
+<!--  Slide 1  -->
+
+
+<component id="ID_1_txt01">
+<text><![CDATA[Tronco3]]></text>
+</component>
+<component id="ID_1_txt02">
+<text><![CDATA[Tronco2]]></text>
+</component>
+<component id="ID_1_txt03">
+<text><![CDATA[Tronco1]]></text>
+</component>
+<component id="ID_1_txt04">
+<text><![CDATA[O switch S2 encaminha os quadros de BPDU para todas as portas de switch. O quadro de BPDU contém a ID de bridge e a ID de raiz do Switch S2 indicando que ele é a bridge raiz.]]></text>
+</component>
+<component id="ID_1_txt05">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_1_txt06">
+<text><![CDATA[ID de raiz = 32769.000A00111111<br/>ID de bridge = 32769.000A00111111<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_1_txt07">
+<text><![CDATA[ID de raiz = 24577.000A00333333<br/>ID de bridge = 24577.000A00333333<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_1_txt08">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_1_txt09">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_1_txt10">
+<text><![CDATA[ID de raiz = 32769.000A00222222<br/>ID de bridge = 32769.000A00222222<br/>Custo do caminho = 19]]></text>
+</component>
+
+
+
+
+<!--  Slide 2  -->
+
+<component id="ID_2_txt01">
+<text><![CDATA[Tronco3]]></text>
+</component>
+<component id="ID_2_txt02">
+<text><![CDATA[Tronco2]]></text>
+</component>
+<component id="ID_2_txt03">
+<text><![CDATA[Tronco1]]></text>
+</component>
+<component id="ID_2_txt04">
+<text><![CDATA[O switch S3 compara a ID de raiz recebida com sua própria ID e identifica o switch S2 como a ID de raiz inferior. <br/>O switch S3 atualiza sua ID de raiz com a ID de raiz do switch S2.<br/>O switch S3 agora considera o switch S2 como a bridge raiz.<br/>O switch S3 atualiza o custo de caminho para 19 uma vez que o BPDU foi recebido em uma porta Fast Ethernet.]]></text>
+</component>
+<component id="ID_2_txt05">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_2_txt06">
+<text><![CDATA[ID de raiz = 32769.000A00111111<br/>ID de bridge = 32769.000A00111111<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_2_txt07">
+<text><![CDATA[<b>BPDU</b><br/>ID de raiz = 32769.000A00111111<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_2_txt08">
+<text><![CDATA[ID de raiz = 24577.000A00333333<br/>ID de bridge = 24577.000A00333333<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_2_txt09">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_2_txt10">
+<text><![CDATA[ID de raiz = <font color="#0000FF">32769.000A00111111</font><br/>ID de bridge = 32769.000A00222222<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_2_txt11">
+<text><![CDATA[<b>BPDU</b><br/>ID de raiz = <font color="#0000FF">32769.000A00111111</font><br/>Custo do caminho = 19
+]]></text>
+</component>
+
+
+
+
+<!--  Slide 3  -->
+
+<component id="ID_3_txt01">
+<text><![CDATA[Tronco3]]></text>
+</component>
+<component id="ID_3_txt02">
+<text><![CDATA[Tronco2]]></text>
+</component>
+<component id="ID_3_txt03">
+<text><![CDATA[Tronco1]]></text>
+</component>
+<component id="ID_3_txt04">
+<text><![CDATA[Quando o S1 compara sua ID de raiz com a ID no quadro de BPDU recebido de S2, ele identifica a ID de raiz local como o valor inferior e descarta o BPDU de S2. O switch S1 ainda se considera a bridge raiz.]]></text>
+</component>
+<component id="ID_3_txt05">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_3_txt06">
+<text><![CDATA[ID de raiz = 32769.000A00111111<br/>ID de bridge = 32769.000A00111111<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_3_txt07">
+<text><![CDATA[<b>BPDU</b><br/>ID de raiz = <font color="#0000FF">32769.000A00111111</font><br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_3_txt08">
+<text><![CDATA[ID de raiz = <font color="#0000FF">24577.000A00333333</font><br/>ID de bridge = 24577.000A00333333<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_3_txt09">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_3_txt10">
+<text><![CDATA[ID de raiz = 32769.000A00111111<br/>ID de bridge = 32769.000A00222222<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_3_txt11">
+<text><![CDATA[<b>BPDU</b><br/>ID de raiz = 32769.000A00111111<br/>Custo do caminho = 19]]></text>
+</component>
+
+
+
+
+<!--  Slide 4  -->
+
+<component id="ID_4_txt01">
+<text><![CDATA[Tronco3]]></text>
+</component>
+<component id="ID_4_txt02">
+<text><![CDATA[Tronco2]]></text>
+</component>
+<component id="ID_4_txt03">
+<text><![CDATA[Tronco1]]></text>
+</component>
+<component id="ID_4_txt04">
+<text><![CDATA[O switch S3 encaminha os quadros de BPDU para todas as suas portas. O quadro de BPDU contém a ID de raiz do Switch S2 indicando que ele é a bridge raiz.]]></text>
+</component>
+<component id="ID_4_txt05">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_4_txt06">
+<text><![CDATA[ID de raiz = 32769.000A00111111<br/>ID de bridge = 32769.000A00111111<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_4_txt07">
+<text><![CDATA[ID de raiz = 24577.000A00333333<br/>ID de bridge = 24577.000A00333333<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_4_txt08">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_4_txt09">
+<text><![CDATA[ID de raiz = 32769.000A00111111<br/>ID de bridge = 32769.000A00222222<br/>Custo do caminho = 19]]></text>
+</component>
+
+
+
+
+
+
+<!--  Slide 5  -->
+
+<component id="ID_5_txt01">
+<text><![CDATA[Tronco3]]></text>
+</component>
+<component id="ID_5_txt02">
+<text><![CDATA[Tronco2]]></text>
+</component>
+<component id="ID_5_txt03">
+<text><![CDATA[Tronco1]]></text>
+</component>
+<component id="ID_5_txt04">
+<text><![CDATA[O switch S2 compara a ID de raiz do BPDU recebido com sua própria ID e identifica que ela corresponde à sua. O switch S2 continua pensando que é a bridge raiz na rede. O switch S2 não atualiza o custo de caminho.]]></text>
+</component>
+<component id="ID_5_txt05">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_5_txt06">
+<text><![CDATA[<b>BPDU</b><br/>ID de raiz = <font color="#0000FF">32769.000A00111111</font><br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_5_txt07">
+<text><![CDATA[ID de raiz = 32769.000A00111111<br/>ID de bridge = <font color="#0000FF">32769.000A00111111</font><br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_5_txt08">
+<text><![CDATA[<b>BPDU</b><br/>ID de raiz = 32769.000A00111111<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_5_txt09">
+<text><![CDATA[ID de raiz = 24577.000A00333333<br/>ID de bridge = 24577.000A00333333<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_5_txt10">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_5_txt11">
+<text><![CDATA[ID de raiz = 32769.000A00111111<br/>ID de bridge = 32769.000A00222222<br/>Custo do caminho = 19]]></text>
+</component>
+
+
+
+
+
+
+<!--  Slide 6  -->
+
+<component id="ID_6_txt01">
+<text><![CDATA[Tronco3]]></text>
+</component>
+<component id="ID_6_txt02">
+<text><![CDATA[Tronco2]]></text>
+</component>
+<component id="ID_6_txt03">
+<text><![CDATA[Tronco1]]></text>
+</component>
+<component id="ID_6_txt04">
+<text><![CDATA[O switch S1 compara a ID de raiz do BPDU recebido com sua própria ID e identifica que sua ID é inferior. O switch S1 continua acreditando ser a bridge raiz na rede. O switch S1 não atualiza o custo de caminho.]]></text>
+</component>
+<component id="ID_6_txt05">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_6_txt06">
+<text><![CDATA[<b>BPDU</b><br/>ID de raiz = 32769.000A00111111<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_6_txt07">
+<text><![CDATA[ID de raiz = 32769.000A00111111<br/>ID de bridge = 32769.000A00111111<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_6_txt08">
+<text><![CDATA[<b>BPDU</b><br/>ID de raiz = <font color="#0000FF">32769.000A00111111</font><br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_6_txt09">
+<text><![CDATA[ID de raiz = 24577.000A00333333<br/>ID de bridge = <font color="#0000FF">24577.000A00333333</font><br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_6_txt10">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_6_txt11">
+<text><![CDATA[ID de raiz = 32769.000A00111111<br/>ID de bridge = 32769.000A00222222<br/>Custo do caminho = 19]]></text>
+</component>
+
+
+
+
+
+
+
+
+<!--  Slide 7  -->
+
+<component id="ID_7_txt01">
+<text><![CDATA[Tronco3]]></text>
+</component>
+<component id="ID_7_txt02">
+<text><![CDATA[Tronco2]]></text>
+</component>
+<component id="ID_7_txt03">
+<text><![CDATA[Tronco1]]></text>
+</component>
+<component id="ID_7_txt04">
+<text><![CDATA[O switch S1 encaminha os quadros de BPDU para todas as portas de switch. O quadro de BPDU contém a ID de bridge e a ID de raiz do Switch S1 indicando que ele é a bridge raiz.]]></text>
+</component>
+<component id="ID_7_txt05">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_7_txt06">
+<text><![CDATA[ID de raiz = 32769.000A00111111<br/>ID de bridge = 32769.000A00111111<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_7_txt07">
+<text><![CDATA[ID de raiz = 24577.000A00333333<br/>ID de bridge = 24577.000A0033333<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_7_txt08">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_7_txt09">
+<text><![CDATA[ID de raiz = 32769.000A00111111<br/>ID de bridge = 32769.000A00222222<br/>Custo do caminho = 19]]></text>
+</component>
+
+
+
+
+
+
+
+
+
+<!--  Slide 8  -->
+
+<component id="ID_8_txt01">
+<text><![CDATA[Tronco3]]></text>
+</component>
+<component id="ID_8_txt02">
+<text><![CDATA[Tronco2]]></text>
+</component>
+<component id="ID_8_txt03">
+<text><![CDATA[Tronco1]]></text>
+</component>
+<component id="ID_8_txt04">
+<text><![CDATA[O switch S3 compara a ID de raiz recebida com sua própria ID e identifica o switch S1 como a ID de raiz inferior. O switch S3 atualiza sua ID de raiz com a ID de raiz do switch S1. O switch S3 agora considera o switch S1 como a bridge raiz. O switch S3 atualiza o custo de caminho para 19 uma vez que o BPDU foi recebido em uma porta Fast Ethernet.]]></text>
+</component>
+<component id="ID_8_txt05">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_8_txt06">
+<text><![CDATA[<b>BPDU</b><br/>ID de raiz = 24577.000A00333333<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_8_txt07">
+<text><![CDATA[ID de raiz = 32769.00A00111111<br/>ID de bridge = 32769.000A00111111<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_8_txt08">
+<text><![CDATA[ID de raiz = 24577.000A00333333<br/>ID de bridge = 24577.000A00333333<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_8_txt09">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_8_txt10">
+<text><![CDATA[ID de raiz = <font color="#0000FF">24577.000A00333333</font><br/>ID de bridge = 32769.000A00222222<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_8_txt11">
+<text><![CDATA[<b>BPDU</b><br/>ID de bridge = <font color="#0000FF">24577.000A00333333</font><br/>Custo do caminho = 19]]></text>
+</component>
+
+
+
+
+
+
+
+
+<!--  Slide 9  -->
+
+<component id="ID_9_txt01">
+<text><![CDATA[Tronco3]]></text>
+</component>
+<component id="ID_9_txt02">
+<text><![CDATA[Tronco2]]></text>
+</component>
+<component id="ID_9_txt03">
+<text><![CDATA[Tronco1]]></text>
+</component>
+<component id="ID_9_txt04">
+<text><![CDATA[O switch S2 compara a ID de raiz recebida com sua própria ID e identifica o switch S1 como a ID de raiz inferior. O switch S2 atualiza sua ID de raiz com a ID de raiz do switch S1. O switch S2 agora considera o switch S1 como a bridge raiz. O switch S2 atualiza o custo de caminho para 19 uma vez que o BPDU foi recebido em uma porta Fast Ethernet.]]></text>
+</component>
+
+<component id="ID_9_txt06">
+<text><![CDATA[<b>BPDU</b><br/>ID de raiz = 24577.000A00333333<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_9_txt07">
+<text><![CDATA[ID de raiz = <font color="#0000FF">24577.00A00333333</font><br/>ID de bridge = 32769.000A00111111<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_9_txt08">
+<text><![CDATA[ID de raiz = <font color="#0000FF">24577.000A00333333</font><br/>ID de bridge = 24577.000A00333333<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_9_txt09">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_9_txt10">
+<text><![CDATA[ID de raiz = 24577.000A00333333<br/>ID de bridge = 32769.000A00222222<br/>Custo do caminho = 19]]></text>
+</component>
+<component id="ID_9_txt11">
+<text><![CDATA[<b>BPDU</b><br/>ID de bridge = 24577.000A00333333<br/>Custo do caminho = 19]]></text>
+</component>
+
+
+
+
+
+
+
+
+</textcomponents>

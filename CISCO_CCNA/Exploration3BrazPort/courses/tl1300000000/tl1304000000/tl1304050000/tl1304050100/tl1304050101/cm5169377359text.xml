@@ -1,0 +1,16 @@
+<textcomponents>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Neste capítulo, você aprendeu:</b></font></td></tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>O VTP simplifica a administração de VLAN através de diversos switches Cisco Catalyst replicando as configurações de VLAN entre os switches.</li><li>Um domínio VTP define quais switches em uma rede serão configurados da mesma maneira em relação à configuração de VLAN.</li><li>Um switch Cisco Catalyst pode ser configurado em um dos três modos operacionais de VTP: Servidor, Cliente ou Transparente.</li><li>O modo de servidor VTP permite criar, excluir e modificar VLANs.</li><li>O modo de cliente VTP impede a modificação das VLANs e recebe somente as informações de VLAN através de anúncios VTP.</li><li>O modo transparente do VTP permite criar, excluir e modificar VLANs locais, incluindo VLANs de intervalo estendido. As informações de VLAN não são sincronizadas com outros switches.</li><li>Podem ser utilizadas senhas de VTP para limitar a sincronização entre switches configurados com o mesmo domínio VTP.</li><li>O corte de VTP pode aprimorar a largura de banda geral sobre links tronco limitando o tráfego de inundação para os switches que contenham VLANs ativas específicas para o tráfego de inundação.</li><li>Sempre verifique sua configuração para limitar a possibilidade de erros de VTP.</li></ul></td>
+  </tr>
+</table>]]></text>
+</component>
+
+<component id="ID_title"><text><![CDATA[<b></b>]]></text>
+</component>
+</textcomponents>

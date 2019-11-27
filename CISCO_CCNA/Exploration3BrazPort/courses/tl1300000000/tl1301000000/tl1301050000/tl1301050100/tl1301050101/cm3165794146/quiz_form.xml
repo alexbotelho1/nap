@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13381" dateexported="08/19/2009">
+		<name>Teste do Módulo 1</name>
+		<form id="23136" lang="pt"><form-item order="fixed">
+			<ai id="161181" type="mc-ma"><question><![CDATA[Quais são as três opções que associam corretamente uma camada do modelo de design hierárquico à sua função? (Escolha três.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Núcleo -- interface para dispositivos finais ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Distribuição -- políticas de controle de tráfego e de segurança  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Acesso -- interface para dispositivos finais  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Distribuição -- backbone de alta velocidade ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Núcleo -- backbone de alta velocidade  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Acesso -- implementação de políticas de segurança ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="161176" type="mc-sa"><question><![CDATA[Em relação ao design de rede, o que é convergência?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[implementação dos conjuntos de equipamentos padrão para o design de rede local ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[implementação de um modelo de design núcleo-distribuição-acesso para todos os sites em uma empresa ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[um ponto na rede onde todo o tráfego &quot;converge&quot; antes de ser transmitido ao destino, normalmente o switch do núcleo ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[integrando dados convencionais com voz e vídeo em uma rede comum  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="161177" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="161177" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>configuração da rede de dados simplificada</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>alterações simplificadas na rede</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>integra voz, vídeo e aplicativos em um só computador</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>equipamento de voz convencional pode ser usado em novas implementações VoIP </mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>integra equipes das redes de voz e de dados</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>manutenção mais simples que a de redes hierárquicas</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>requisitos da configuração da qualidade de serviço inferiores </mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Benefícios da convergência</mattext></material></textcomponent></component><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste os benefícios potenciais de uma rede convergente à esquerda até a coluna à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-137.5" targetYspacing="15" yspacing="60" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="135" /><display componentIdent="3" xpos="200" ypos="195" /><display componentIdent="4" xpos="200" ypos="255" /><display componentIdent="5" xpos="200" ypos="315" /><display componentIdent="6" xpos="200" ypos="375" /><display componentIdent="7" xpos="200" ypos="435" /></options><labels><display componentIdent="1" xpos="600" ypos="85.5" containsTargets="3" startTarg="1" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="152" /><display componentIdent="3" xpos="600" ypos="204" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="215060" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="215060" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>2</componentident><componentident>3</componentident><componentident>5</componentident></scoringzonecontains></conditionvar><setvar varname="215060" action="Set">1</setvar><scoringdescription>digite a resposta de PR aqui</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="161235" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="161235" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>portas da estação de trabalho obrigatórias para um departamento</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>quantidade de tráfego servidor-para-servidor</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>intensidade de uso de um servidor de aplicativos do departamento</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>quantidade de tráfego para uma SAN</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>crescimento de portas previsto por departamento</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>backup de dados em fita</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>armazenamento de rede conectada</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="340"><material><mattext>Comunidades de usuários</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="340"><material><mattext>Armazenamentos de dados e servidores de dados</mattext></material></textcomponent></component><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="7" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste as ações de análise à esquerda até o tipo de análise correto na coluna à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-137" targetYspacing="15" yspacing="60" targetH="28"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /><display componentIdent="7" xpos="200" ypos="315" /></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="3" startTarg="1" labelStyle="1" /><display componentIdent="2" xpos="600" ypos="227.5" containsTargets="4" startTarg="4" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="137" /><display componentIdent="3" xpos="600" ypos="174" /><display componentIdent="4" xpos="600" ypos="236" /><display componentIdent="5" xpos="600" ypos="273" /><display componentIdent="6" xpos="600" ypos="310" /><display componentIdent="7" xpos="600" ypos="347" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident></scoringzone><scoringzone ident="2"><componentident>4</componentident><componentident>5</componentident><componentident>6</componentident><componentident>7</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="215374" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="215374" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>1</componentident><componentident>5</componentident><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident><componentident>4</componentident><componentident>6</componentident><componentident>7</componentident></scoringzonecontains></conditionvar><setvar varname="215374" action="Set">1</setvar><scoringdescription>digite a resposta de PR aqui</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="161180" type="mc-sa"><question><![CDATA[Que fator pode complicar a análise de comunidades de usuários?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[alterações em aplicativo podem afetar radicalmente o crescimento de dados previsto ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[o tráfego servidor-para-servidor pode desvirtuar os dados de uso da porta do usuário ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[o uso do aplicativo nem sempre está ligado ao departamento ou ao local físico  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[aplicativos de organizações diferentes podem compartilhar armazenamentos de dados ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="161182" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="161182" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>densidade de porta</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>taxas de encaminhamento</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>agregação link</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>velocidade do fio</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>taxa de dados que cada porta do switch é capaz de atingir</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>número de portas disponíveis em um único switch</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>recursos de processamento de um switch, quantificando o desempenho do switch pela quantidade de dados que ele pode processar por segundo</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext>possibilidade de utilizar várias portas de switch simultaneamente tendo em vista uma comunicação de dados com maior produtividade</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste o termo à esquerda até a definição associada à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-125" targetYspacing="21" yspacing="70" targetH="47"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="155" /><display componentIdent="3" xpos="200" ypos="235" /><display componentIdent="4" xpos="200" ypos="315" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="142" /><display componentIdent="3" xpos="600" ypos="209" /><display componentIdent="4" xpos="600" ypos="276" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="215744" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="215744" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>3</componentident></scoringzonecontains></conditionvar><setvar varname="215744" action="Set">1</setvar><scoringdescription>1</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="161183" type="mc-sa"><question><![CDATA[Qual seria a capacidade de porta de uma única porta em um switch Gigabit Ethernet de 48 portas?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[48 Gbps ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[10 Mbps ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[1000 Mbps  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[100 Mbps ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="161184" type="mc-sa"><question><![CDATA[Um switch que usa endereços MAC para encaminhar quadros funciona em qual camada do modelo OSI?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Camada 1 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Camada 2  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Camada 3 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Camada 4 ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="161178" type="mc-sa"><question><![CDATA[Qual é o recurso oferecido por todos os switches empilháveis (stackable)?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[número predeterminado de portas ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[backplane totalmente redundante  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[suporte à conectividade Gigabit ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[pouca largura de banda para comunicação inter-switch ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[recurso PoE ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="161179" type="mc-sa"><question><![CDATA[Qual é a função executada por um switch Cisco de nível de acesso?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[suporte a inter-VLAN ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[roteamento ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[fornecer PoE  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[agregação link ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="161238" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="161238" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>segurança de porta</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>suporte à Camada 3</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>componentes redundantes</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>VLANs</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>10 Gigabit Ethernet</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>PoE</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Camada do núcleo</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Camada de acesso</mattext></material></textcomponent></component><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste os recursos listados à esquerda até a camada Cisco a que estão associados.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="10" yspacing="55" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="3" startTarg="1" labelStyle="1" /><display componentIdent="2" xpos="600" ypos="227.5" containsTargets="3" startTarg="4" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="137" /><display componentIdent="3" xpos="600" ypos="174" /><display componentIdent="4" xpos="600" ypos="236" /><display componentIdent="5" xpos="600" ypos="273" /><display componentIdent="6" xpos="600" ypos="310" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident></scoringzone><scoringzone ident="2"><componentident>4</componentident><componentident>5</componentident><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="215288" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="215288" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>2</componentident><componentident>3</componentident><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>1</componentident><componentident>4</componentident><componentident>6</componentident></scoringzonecontains></conditionvar><setvar varname="215288" action="Set">1</setvar><scoringdescription>Núcleo: Suporte à Camada 3;10 Gigabit; links redundantes; Camada de acesso:segurança da porta, PoE, VLANs  </scoringdescription></responcondition><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>5</componentident><componentident>3</componentident><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>6</componentident><componentident>4</componentident><componentident>1</componentident></scoringzonecontains></conditionvar><scoringdescription>Núcleo: Suporte à Camada 3;10 Gigabit; links redundantes; Camada de acesso:segurança da porta, PoE, VLANs  </scoringdescription></responcondition><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>5</componentident><componentident>3</componentident><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>1</componentident><componentident>4</componentident><componentident>6</componentident></scoringzonecontains></conditionvar><scoringdescription>Núcleo: Suporte à Camada 3;10 Gigabit; links redundantes; Camada de acesso:segurança da porta, PoE, VLANs  </scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="161221" type="mc-ma"><question><![CDATA[Quais são as duas características que descrevem a camada do núcleo do modelo de design de rede hierárquico? (Escolha dois.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[caminhos redundantes  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[aplicação da política em alto nível ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[PoE ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[controla o acesso de dispositivos finais à rede ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[encaminhamento rápido de tráfego  ]]></text>
+							
+						</choice></choices></ai></form-item></form></exam> 

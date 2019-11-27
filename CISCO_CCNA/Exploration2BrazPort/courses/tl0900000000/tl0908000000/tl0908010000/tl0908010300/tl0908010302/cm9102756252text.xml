@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text>
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Verificar se a Rota está na Tabela de Roteamento</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Tabela de<br>roteamento</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Nível 1</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Nível 2</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="13_1_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>•</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CONTENT 02">
+        <source>Bluetooth is a short-range  wireless    technology designed to eliminate the need for cables between portable or fixed-configuration devices.
+
+Operates at 2.4 to 2.485 GHz in 
+the unlicensed Industrial, Scientific, and Medical (ISM) band.
+
+Low power, low cost, and small size.
+
+Uses adaptive frequency hopping. </source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_1">
+        <source>Bluetooth</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_2">
+        <source>Maximum Permitted Power mW </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_3">
+        <source>Infrared</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_4">
+        <source>Cellular WAN
+                                                                      </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_5">
+        <source>Wi-Fi
+                                                                          </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_6">
+        <source>Satellite</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_7">
+        <source>Characteristics</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_8">
+        <source>2.5 mW                                                                           </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_9">
+        <source>~33 feet (10 m)                                                                             </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S1_TXT_10">
+        <source>Class 3                                                                           </source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S1_TXT_11">
+        <source>1 mW                                                                              </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S1_TXT_12">
+        <source>~3 feet (1 m)                                                                          </source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_S1_TXT8">
+        <source>Networked computers
+share resources</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S2_TXT_1">
+        <source>Class</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S2_TXT_2">
+        <source>Maximum Permitted Powermilliwatt mW
+                                                                               </source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S2_TXT_3">
+        <source>Approximate Distance</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S2_TXT_4">
+        <source>Class 1                                                                        </source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S2_TXT_5">
+        <source>100 mW                                                                             </source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S2_TXT_6">
+        <source>~330 feet (100 m)                                                                            </source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S2_TXT_7">
+        <source>Class 2</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_S2_TXT_8">
+        <source>2.5 mW</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_S2_TXT_9">
+        <source>~33 feet (10 m)</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_S2_TXT_10">
+        <source>Class 3</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_S2_TXT_11">
+        <source>1 mW</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_S2_TXT_12">
+        <source>~3 feet (1 m)</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TITLE1">
+        <source>Wireless Technologies - Bluetooth</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TITLE2">
+        <source>Bluetooth Classifications</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

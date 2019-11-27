@@ -1,0 +1,47 @@
+﻿<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Layout lógico</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Layout físico</B>]]></text> 
+</component>
+
+
+<component id="ID_title">
+  <text><![CDATA[<B>Uma rede hierárquica em uma empresa de médio porte</B>]]></text> 
+</component>
+
+
+
+
+
+<component id="ID_bubble01">
+<text><![CDATA[<b><font size='12'>NÚCLEO</font></b>]]></text>
+</component>
+<component id="ID_bubble02">
+  <text><![CDATA[<b><font size='12'>DISTRIBUIÇÃO</font></b>]]></text> 
+  </component>
+<component id="ID_bubble03">
+  <text><![CDATA[<b><font size='12'>ACESSO</font></b>]]></text> 
+  </component>
+<component id="ID_bubble04">
+  <text><![CDATA[<b><font size='12'>Switch da camada de acesso</font></b>]]></text> 
+  </component>
+  <component id="ID_bubble05">
+  <text><![CDATA[<b><font size='12'>Switch da camada de distribuição</font></b>]]></text> 
+  </component>
+  <component id="ID_bubble06">
+  <text><![CDATA[<b><font size='12'>Servidores de email e de banco de dados</font></b>]]></text> 
+  </component>
+  <component id="ID_bubble07">
+  <text><![CDATA[<b><font size='12'>Computadores de usuários</font></b>]]></text> 
+  </component>
+
+
+
+
+
+
+</textcomponents>

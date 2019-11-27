@@ -1,0 +1,5 @@
+<transcript lastedited="11.21.08 08:11:59">
+<title><content-text><![CDATA[3.3.2 - Paying for Frame Relay]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts key terminology used when purchasing Frame Relay and an example of Frame Relay charges.<br><br>Terminology:<br>Term: Access Rate or Port Speed.<br>Description: The capacity of the local loop.<br><br>Term: Committed Information Rate (C I R).<br>Description: The capacity through the local loop guaranteed by the provider.<br><br>Example of Frame Relay charges:<br>The network topology is the same as 3.3.1 Diagram One.<br><br>Table One lists three chargeable components:<br>Local Loop = 64 kbps.<br>Two Ports = DLCI 102 and DLCI 103.<br>C I R = 48 kbps.<br><br>Table Two lists C I R for each PVC:<br>PVC DLCI 102 C I R = 32 kbps.<br>PVC DLCI 103 C I R = 16 kbps.<br>Total C I R = 48 kbps.]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,11 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Que caminho?</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Roteadores determinam o melhor caminho para o destino</b>]]></text> 
+</component>
+<component id="ID_title">
+<text><![CDATA[<b>Localizando o melhor caminho</b>]]></text> 
+</component>
+</textcomponents>

@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_TITLE01">
+<text><![CDATA[<b>Onde colocar ACLs</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>ACL 99 padrão para bloquear um tráfego de R1</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>ACL102 estendida para impedir o tráfego Telnet e FTP de deixar esta rede</b>]]></text>
+</component>
+
+<component id="ID_button1">
+  <text><![CDATA[<b>ACL padrão</b>]]></text> 
+</component>
+
+<component id="ID_button2">
+  <text><![CDATA[<b>ACL estendida</b>]]></text> 
+</component>
+
+</textcomponents>

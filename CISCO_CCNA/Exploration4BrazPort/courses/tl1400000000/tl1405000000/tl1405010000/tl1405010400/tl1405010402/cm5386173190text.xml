@@ -1,0 +1,114 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Roteamento e processos ACL em um roteador</b>]]></text>
+</component>
+
+<component id="ID_test">
+<text><![CDATA[testando 123]]></text>
+</component>
+<component id="ID_txt00">
+<text><![CDATA[Quadro chega à interface do roteador]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Correspond. do endereço da Camada 2]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[ACLs na interface?]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Correspond. na lista de instrução?]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Permitir pacote?]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Rotear pacote para interface de saída]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[ACLs na interface]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Correspond. na lista de instrução]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Permitir pacote?]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Negação padrão]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Negação padrão]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[Enviar para o dispositivo]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[Sim]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[Sim]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[Sim]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[Sim]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[Sim]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[Sim]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[Sim]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[Não]]></text>
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[Não]]></text>
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[Não]]></text>
+</component>
+
+<component id="ID_txt22">
+<text><![CDATA[Não]]></text>
+</component>
+
+<component id="ID_txt23">
+<text><![CDATA[Não]]></text>
+</component>
+
+<component id="ID_txt24">
+<text><![CDATA[Não]]></text>
+</component>
+
+<component id="ID_txt25">
+<text><![CDATA[Não]]></text>
+</component>
+
+</textcomponents>

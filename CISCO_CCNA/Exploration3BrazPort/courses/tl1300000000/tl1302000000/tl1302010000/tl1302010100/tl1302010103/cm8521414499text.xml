@@ -1,0 +1,22 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Half duplex (CSMA/CD)<br><br></b><ul><li>Fluxo de dados unidirecional</li><li>Maior potencial de colisão</li><li>Conectividade de hub</li></ul>]]></text>
+</component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Full duplex<br><br></b><ul><li>Somente ponto-a-ponto</li><li>Ligado à porta do switch dedicada</li><li>Exige suporte full duplex em ambas as extremidades</li><li>Sem colisões</li><li>Circuito de detecção de colisões desabilitado</li></ul></b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Swtich</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Hub</b>]]></text>
+</component>
+
+<component id="ID_caption">
+<text>Configurações do modo duplex</text>
+</component>
+
+</textcomponents>

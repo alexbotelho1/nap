@@ -1,0 +1,62 @@
+<textcomponents>
+	<component id="rearLabel">
+		<text><![CDATA[<font size="12">Parte traseira</font>]]></text>
+	</component>
+    <component id="rearBody">
+	<text><![CDATA[<font size="12"><b>Visão da parte traseira:</b><br>O 1841 ISR usa módulos que permitem configurações diferentes das portas.  <br><br><b>Clique nos componentes realçados para obter uma descrição; arraste a imagem para reposicionar a exibição.</b></font></font>]]></text></component>
+    <component id="frontLabel">
+		<text><![CDATA[<font size="12">Parte dianteira</font>]]></text>
+	</component>
+	<component id="frontBody">
+		<text><![CDATA[<font size="12"><b>Visão da parte dianteira:</b><br>O 1841 é um ISR de custo relativamente baixo projetado para empresas de médio porte e escritórios de filiais de pequenas empresas.  Ele integra os recursos de dados, segurança e serviços sem fio.  
+LEDs (Light Emitting Diodes, Diodos emissores de luz) indicam o status de conexão de cada porta.  <br><br><b>Clique nos LEDs para obter uma descrição; arraste a imagem para reposicionar a exibição.</b></font>]]></text>
+	</component>
+    <component id="hotspots">
+		<text><![CDATA[Hotspots]]></text>
+	</component>
+    <component id="fullscale">
+		<text><![CDATA[Tela cheia]]></text>
+	</component>
+    <component id="title">
+		<text><![CDATA[<font size="14">Série ISR: Modelo 1841 </font>]]></text>
+	</component>
+    <component id="views">
+		<text><![CDATA[Exibições]]></text>
+	</component>
+    <component id="zoomin">
+		<text><![CDATA[Aumentar zoom]]></text>
+	</component>
+    <component id="zoomout">
+		<text><![CDATA[Diminuir zoom]]></text>
+	</component>
+  <component id="mcInterfaceCardSpot">
+		<text><![CDATA[<font size="12"><b>Slots HWIC (High-speed WAN interface card, Placa de interface WAN de alta velocidade) </b></font>]]></text>
+	</component>
+  <component id="mcConsoleSpot">
+		<text><![CDATA[<font size="12"><b>Porta de console</b></font>]]></text>
+	</component>
+ <component id="mcAuxSpot">
+		<text><![CDATA[<font size="12"><b>porta auxiliar </b></font>]]></text>
+	</component>
+ <component id="mcUSPSpot">
+		<text><![CDATA[<font size="12"><b>Porta USB de slot único</b></font>]]></text>
+	</component>
+ <component id="mcFE00">
+		<text><![CDATA[<font size="12"><b>Porta Fast Ethernet 0/0</b></font>]]></text>
+	</component>
+ <component id="mcFE01">
+		<text><![CDATA[<font size="12"><b>Porta Fast Ethernet 0/1</b></font>]]></text>
+	</component>
+ <component id="mcSYSPwr">
+		<text><![CDATA[<font size="12"><b>LED de energia do sistema</b> – indica a presença de energia no dispositivo; LED verde aceso</font>]]></text>
+	</component>
+ <component id="mcSYSAct">
+		<text><![CDATA[<font size="12"><b>LED de atividade do sistema</b> – pisca quando um pacote é transmitido ou recebido em qualquer WAN ou LAN, ou quando há atividade de monitoramento do sistema.</font>]]></text>
+	</component>
+ <component id="mcFlashSpot">
+		<text><![CDATA[<font size="12"><b>Módulo de memória flash compacto</b></font>]]></text>
+	</component>
+<component id="mcFourPortEthernet">
+		<text><![CDATA[<font size="12"><b>Cisco EtherSwitch 10BASE-T/100BASE-TX de quatro portas com detecção automática de HWIC</b></font>]]></text>
+</component>
+  </textcomponents>

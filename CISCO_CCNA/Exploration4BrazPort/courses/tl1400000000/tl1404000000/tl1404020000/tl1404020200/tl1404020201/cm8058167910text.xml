@@ -1,0 +1,18 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Aplicando recursos de segurança do IOS Cisco a roteadores</b>]]></text>
+</component>
+
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Etapas para proteger um roteador:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Etapa 1. Gerenciar a segurança do roteador<BR/>Etapa 2. Proteger o acesso administrativo remoto a roteadores<BR/>Etapa 3. Registrando a atividade do roteador em log<BR/>Etapa 4. Proteger serviços e interfaces vulneráveis do roteador<BR/>Etapa 5. Proteger protocolos de roteamento<BR/>Etapa 6. Controlar e filtrar tráfego da rede</td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

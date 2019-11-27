@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="15_3_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Protocol Details</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>Type</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_02">
+        <source>Advantages</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_03">
+        <source>Disadvantages</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_16">
+        <source>256 kbps – 24 Mbps</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_18">
+        <source>Very high speed</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_19">
+        <source>Slow upload speeds,</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_20">
+        <source>384 kbps – 27 Mbps</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_21">
+        <source>Satellite</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_22">
+        <source>Available when DSL and cable are not</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_23">
+        <source>Significant lag, more expensive than other broadband technologies</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_24">
+        <source>9 kbps – 
+24 Mbps</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_25">
+        <source>Wireless</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_26">
+        <source>Scalable to customer needs</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_27">
+        <source>Very expensive
+Limited market availability</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_28">
+        <source>Up to 
+45 Mbps</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXTE_04">
+        <source>Speed</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXTE_05">
+        <source>POTS</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXTE_06">
+        <source>Very common</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXTE_07">
+        <source>Very slow speeds
+Cannot receive phone calls while connected</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXTE_08">
+        <source>MAX 
+56 kbps</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXTE_09">
+        <source>ISDN</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXTE_10">
+        <source>Higher speeds than POTS</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXTE_11">
+        <source>Still much slower than other broadband technologies</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXTE_12">
+        <source>BRI – up to 128 kbps
+PRI – up to 2.048 Mbps</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXTE_13">
+        <source>DSL</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXTE_14">
+        <source>Low cost</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXTE_15">
+        <source>Must be close to carrier</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXTE_17">
+        <source>Cable</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

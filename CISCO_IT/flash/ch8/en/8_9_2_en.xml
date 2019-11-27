@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_9_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_NETWORK ">
+        <source>Network </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE1">
+        <source>Link Lights</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE2">
+        <source>Ipconfig Command</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE3">
+        <source>Ping Command</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE4">
+        <source>Ping Command</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_01">
+        <source>C:\&gt;ipconfig /all
+
+Windows IP Configuration
+
+        Host Name . . . . . . . . . . . . : rick
+        Primary Dns Suffix  . . . . . . . :
+        Node Type . . . . . . . . . . . . : Hybrid
+        IP Routing Enabled. . . . . . . . : No
+        WINS Proxy Enabled. . . . . . . . : No
+        DNS Suffix Search List. . . . . . : ph.cox.net
+                                            ph.cox.net
+
+Ethernet adapter Local Area Connection:
+
+        Connection-specific DNS Suffix  . : ph.cox.net
+        Description . . . . . . . . . . . : Broadcom 440x 10/100 Integrated Controller
+        Physical Address. . . . . . . . . : 00-12-3F-E0-59-3D
+        Dhcp Enabled. . . . . . . . . . . : Yes
+        Autoconfiguration Enabled . . . . : Yes
+        IP Address. . . . . . . . . . . . : 192.168.1.112
+        Subnet Mask . . . . . . . . . . . : 255.255.255.0
+        Default Gateway . . . . . . . . . : 192.168.1.1
+        DHCP Server . . . . . . . . . . . : 192.168.1.1
+        DNS Servers . . . . . . . . . . . : 69.2.15.25
+                                            69.2.15.30
+                                            69.6.15.30
+        Lease Obtained. . . . . . . . . . : Tuesday, April 03, 2007 3:10:02 AM
+        Lease Expires . . . . . . . . . . : Wednesday, April 04, 2007 3:10:02 AM
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_02">
+        <source>
+C:\&gt;ping 192.168.1.112
+
+Pinging insightlearning.com [192.168.1.112] with 32 bytes of data:
+
+Reply from 192.168.1.112: bytes=32 time=32ms TTL=111
+Reply from 192.168.1.112: bytes=32 time=30ms TTL=111
+Reply from 192.168.1.112: bytes=32 time=31ms TTL=111
+Reply from 192.168.1.112: bytes=32 time=28ms TTL=111
+
+Ping statistics for 192.168.1.112:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 28ms, Maximum = 32ms, Average = 30ms
+
+C:\&gt;</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

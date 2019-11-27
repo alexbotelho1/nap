@@ -1,0 +1,259 @@
+<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Detalhes da sumarização</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Detalhes do subconjunto</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Detalhes da solicitação</B>]]></text> 
+</component>
+
+<component id="ID_title">
+  <text><![CDATA[<B>Detalhes dos anúncios</B>]]></text> 
+</component>
+
+<component id="ID_caption01">
+  <text><![CDATA[<B>Passe o mouse sobre cada item para obter mais informações.</B>]]></text> 
+</component>
+<component id="ID_caption02">
+  <text><![CDATA[<B>Passe o mouse sobre alguns itens para obter mais informações.</B>]]></text> 
+</component>
+
+<component id="ID_txt01__">
+  <text><![CDATA[<B>Anúncios sumarizados</B>]]></text> 
+</component>
+
+<component id="ID_txt02__">
+  <text><![CDATA[<B>Versão</B>]]></text> 
+</component>
+
+<component id="ID_txt03__">
+  <text><![CDATA[<B>Código</B>]]></text> 
+</component>
+
+<component id="ID_txt04__">
+  <text><![CDATA[<B>Seguidores</B>]]></text> 
+</component>
+
+<component id="ID_txt05__">
+  <text><![CDATA[<B>MgmtD Len </B>]]></text> 
+</component>
+
+<component id="ID_txt06__">
+  <text><![CDATA[<B>Nome de domínio de gerenciamento (preenchido com zeros até 32 Bytes)</B>]]></text> 
+</component>
+
+<component id="ID_txt07__">
+  <text><![CDATA[<B>Número de revisão de configuração</B>]]></text> 
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<B>Identidade do atualizador</B>]]></text> 
+</component>
+
+<component id="ID_txt09">
+  <text><![CDATA[<B>Timestamp do update (12 bytes)</B>]]></text> 
+</component>
+
+<component id="ID_txt10">
+  <text><![CDATA[<B>MD5 Digest (16 Bytes)</B>]]></text> 
+</component>
+
+<component id="ID_txt11">
+  <text><![CDATA[<B>Versão </B>– Este campo exibe a versão do VTP utilizado. Em switches Cisco 2960, a versão é VTP V1 ou VTP V2.]]></text> 
+</component>
+
+<component id="ID_txt12">
+  <text><![CDATA[<B>Código </B>- Um código que identifica o tipo de anúncio.]]></text> 
+</component>
+
+<component id="ID_txt13">
+  <text><![CDATA[<B>Seguidores </B>- O campo Seguidores indica que este pacote é acompanhado por um pacote de Anúncio de subconjunto.]]></text> 
+</component>
+
+<component id="ID_txt14">
+  <text><![CDATA[<B>MgmtD Len </B>– Indica o tamanho do nome de domínio de gerenciamento.]]></text> 
+</component>
+
+<component id="ID_txt15">
+  <text><![CDATA[<B>Nome de domínio de gerenciamento </B>– O nome de domínio de VTP.]]></text> 
+</component>
+
+<component id="ID_txt16">
+  <text><![CDATA[<B>Número de revisão de configuração </B>- O número de revisão do servidor de VTP que envia a mensagem.]]></text> 
+</component>
+
+<component id="ID_txt17">
+  <text><![CDATA[<B>Identidade do atualizador </B>- A Identidade do atualizador é o endereço IP do switch que é o último a ter aumentado a revisão de configuração.]]></text> 
+</component>
+
+<component id="ID_txt18">
+  <text><![CDATA[<B>Timestamp do update </B>- O Timestamp do update é a data e a hora do último aumento da revisão de configuração.]]></text> 
+</component>
+
+<component id="ID_txt19">
+  <text><![CDATA[<B>MD5 Digest </B>- O Digest 5 (MD5) de mensagem leva a senha do VTP, caso o MD5 esteja configurado e seja utilizado para autenticar a validação de uma atualização VTP.]]></text> 
+</component>
+
+<component id="ID_txt20">
+  <text><![CDATA[<B>Versão</B>]]></text> 
+</component>
+
+<component id="ID_txt21">
+  <text><![CDATA[<B>Código</B>]]></text> 
+</component>
+
+<component id="ID_txt22">
+  <text><![CDATA[<B>Número de sequência</B>]]></text> 
+</component>
+
+<component id="ID_txt23">
+  <text><![CDATA[<B>MgmtD Len </B>]]></text> 
+</component>
+
+<component id="ID_txt24">
+  <text><![CDATA[<B>Nome de domínio de gerenciamento (preenchido com zeros até 32 bytes)</B>]]></text> 
+</component>
+
+<component id="ID_txt25">
+  <text><![CDATA[<B>Número de revisão de configuração</B>]]></text> 
+</component>
+
+<component id="ID_txt26">
+  <text><![CDATA[<B>Campo 1 de informações de VLAN</B>]]></text> 
+</component>
+
+<component id="ID_txt27">
+  <text><![CDATA[<B>:</B>]]></text> 
+</component>
+
+<component id="ID_txt28">
+  <text><![CDATA[<B>Campo N de informações de VLAN</B>]]></text> 
+</component>
+
+<component id="ID_txt29">
+  <text><![CDATA[<B>Versão </B>– Este campo exibe a versão do VTP utilizado. Em switches Cisco 2960, a versão é VTP V1 ou VTP V2.]]></text> 
+</component>
+
+<component id="ID_txt30">
+  <text><![CDATA[<B>Código </B>- O formato para este é 0x02 para o anúncio de subconjunto.]]></text> 
+</component>
+
+<component id="ID_txt31">
+  <text><![CDATA[<B>Número de sequência </B>- Esta é a seqüência do pacote no fluxo de pacotes que seguem um anúncio de sumarização. A sequência inicia com 1.]]></text> 
+</component>
+
+<component id="ID_txt32">
+  <text><![CDATA[<B>MgmtD Len </B>– Indica o tamanho do nome de domínio de gerenciamento.]]></text> 
+</component>
+
+<component id="ID_txt33">
+  <text><![CDATA[<B>Nome de domínio de gerenciamento </B>– O nome de domínio VTP.]]></text> 
+</component>
+
+<component id="ID_txt34">
+  <text><![CDATA[<B>Número de revisão de configuração </B>- O número de revisão do servidor VTP que envia a mensagem.]]></text> 
+</component>
+
+<component id="ID_txt35">
+  <text><![CDATA[<B>O campo de informações de VLAN contém informações para cada VLAN e possui o seguinte formato:</B>]]></text> 
+</component>
+
+<component id="ID_txt36">
+  <text><![CDATA[<B>Tamanho das inform.</B>]]></text> 
+</component>
+
+<component id="ID_txt37">
+  <text><![CDATA[<B>Status</B>]]></text> 
+</component>
+
+<component id="ID_txt38">
+  <text><![CDATA[<B>Tipo de VLAN</B>]]></text> 
+</component>
+
+<component id="ID_txt39">
+  <text><![CDATA[<B>Tamanho de nome da VLAN</B>]]></text> 
+</component>
+
+<component id="ID_txt40">
+  <text><![CDATA[<B>ISL VLAN-id</B>]]></text> 
+</component>
+
+<component id="ID_txt41">
+  <text><![CDATA[<B>Tamanho de MTU</B>]]></text> 
+</component>
+
+<component id="ID_txt42">
+  <text><![CDATA[<B>Índice 802.10</B>]]></text> 
+</component>
+
+<component id="ID_txt43">
+  <text><![CDATA[<B>Nome da VLAN (preenchido com 0s para múltiplos de 4 bytes)</B>]]></text> 
+</component>
+
+<component id="ID_txt44">
+  <text><![CDATA[<B>Solicitação de anúncios</B>]]></text> 
+</component>
+
+<component id="ID_txt45">
+  <text><![CDATA[<B>Versão</B>]]></text> 
+</component>
+
+<component id="ID_txt46">
+  <text><![CDATA[<B>Código</B>]]></text> 
+</component>
+
+<component id="ID_txt47">
+  <text><![CDATA[<B>Rsvd</B>]]></text> 
+</component>
+
+<component id="ID_txt48">
+  <text><![CDATA[<B>MgmtD Len</B>]]></text> 
+</component>
+
+<component id="ID_txt49">
+  <text><![CDATA[<B>Nome de domínio de gerenciamento (preenchido com zeros até 32 bytes)</B>]]></text> 
+</component>
+
+<component id="ID_txt50">
+  <text><![CDATA[<B>Valor inicial</B>]]></text> 
+</component>
+
+<component id="ID_txt51">
+  <text><![CDATA[<B>Versão </B>– Este campo exibe a versão do VTP utilizado. Em switches Cisco 2960, a versão é VTP V1 ou VTP V2.]]></text> 
+</component>
+
+<component id="ID_txt52">
+  <text><![CDATA[<B>Código </B>- O formato para este é 0x03 para uma solicitação de anúncio.]]></text> 
+</component>
+
+<component id="ID_txt53">
+  <text><![CDATA[<B>Rsvd </B>- Campo reservado.]]></text> 
+</component>
+
+<component id="ID_txt54">
+  <text><![CDATA[<B>MgmtD Len </B>– Indica o tamanho do nome de domínio de gerenciamento.]]></text> 
+</component>
+
+<component id="ID_txt55">
+  <text><![CDATA[<B>Nome de domínio de gerenciamento </B>– O nome de domínio VTP.]]></text> 
+</component>
+
+<component id="ID_txt56">
+  <text><![CDATA[<B>Valor inicial </B>– Este campo é utilizado quando existem diversos anúncios de subconjunto. Se o primeiro (n) anúncio de subconjunto foi recebido e o subseqüente (n+1) não foi recebido, o switch habilitado por VTP solicita somente os anúncios do (n+1).]]></text> 
+</component>
+
+<component id="ID_txt57">
+  <text><![CDATA[<B>Anúncios de subconjunto</B>]]></text> 
+</component>
+
+<component id="ID_txt58">
+  <text><![CDATA[<B>Informações de VLAN</B>]]></text> 
+</component>
+
+
+</textcomponents>

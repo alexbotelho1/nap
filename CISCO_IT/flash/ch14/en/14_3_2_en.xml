@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="14_3_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Shared Printer Icon</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Connecting to a Shared Printer</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_01">
+        <source>Printer Install</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_02">
+        <source>Share the printer on that computer 
+(make it a print server). Make sure the 
+permissions are set correctly.</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_03">
+        <source>Go to computer that does not have a printer.
+Use the XP wizard to find a networked printer.
+Install the default XP software.</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_04">
+        <source>Install the printer software for added features.</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_09">
+        <source>Install and test the printer on computer.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_011">
+        <source>Name</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_012">
+        <source>Acrobat Distiller</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_013">
+        <source>Active Touch Doc..</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_014">
+        <source>hp officejet 4200...</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_015">
+        <source>Microsoft Office....</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_016">
+        <source>Quicken PDF Printer</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_017">
+        <source>xrx-wcp-274c on...</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_018">
+        <source>0</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_019">
+        <source>Ready</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_020">
+        <source>Document</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_021">
+        <source>Status</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_00021">
+        <source>Add Printer Wizard</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_00022">
+        <source>Local or Network Printer</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_022">
+        <source>Location</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_00023">
+        <source>The wizard needs to known which type of priner to set up. </source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_00025">
+        <source>Local printer attached to this computer</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_00026">
+        <source>Automatically detect and install my Plug and Play printer</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_00027">
+        <source>A network printer, or a printer attached to another computer</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_00028">
+        <source>To set up a network printer that is not attached to a print server, use the &quot;Local printer&quot; option.</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_00029">
+        <source>&lt;  Back</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_00030">
+        <source>Next  &gt;</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_00031">
+        <source>Cancel</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

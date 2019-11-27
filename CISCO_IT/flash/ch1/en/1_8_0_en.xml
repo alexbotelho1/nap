@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="1_8_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Interrupt Requests (IRQs)</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source> I/O Port Addresses
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>DMA Channels</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE4">
+        <source>System Resource Activity</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_01">
+        <source>IRQ </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_02">
+        <source>Standard Function</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_03">
+        <source>0</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_04">
+        <source>System Timer</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_05">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_06">
+        <source>Keyboard Controller</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_07">
+        <source>2</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_08">
+        <source>2nd IRQ Controller Casade</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_09">
+        <source>3</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_10">
+        <source>Serial 2 (COM2:)</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_11">
+        <source>4     </source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_12">
+        <source>Serial 1 (COM1:)</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_13">
+        <source>5</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_14">
+        <source>Sound/Parallel 2 (LPT2:)</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_15">
+        <source>6</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_16">
+        <source>Floppy Drive Controller</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_17">
+        <source>7</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_18">
+        <source>Parallel 1 (LPT1:)</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_19">
+        <source>8</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_20">
+        <source>Real-Time Clock</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_21">
+        <source>9</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_22">
+        <source>Avail. (as IRQ2 or IRQ9)</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_23">
+        <source>10 </source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_24">
+        <source>Available</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_25">
+        <source>11</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_26">
+        <source>Available</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_27">
+        <source>12</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_28">
+        <source>Mouse Port/Available</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_29">
+        <source>13</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_30">
+        <source>Math Coprocessor</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_31">
+        <source>14</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_32">
+        <source>Primary IDE</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_33">
+        <source>Device</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_34">
+        <source>I/O Port Adress</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_35">
+        <source>COM 1</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_36">
+        <source>3F8</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_37">
+        <source>COM 2</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_38">
+        <source>2F8</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_39">
+        <source>COM 3</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TXT_40">
+        <source>3E8  </source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TXT_41">
+        <source>COM 4</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TXT_42">
+        <source>2E8    </source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TXT_43">
+        <source>LPT 1</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TXT_44">
+        <source>378</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TXT_45">
+        <source>LPT 2</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TXT_46">
+        <source>278        </source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TXT_47">
+        <source>200-207      </source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TXT_48">
+        <source>Game Port Joystick                </source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TXT_49">
+        <source>3F0-3F7 </source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TXT_50">
+        <source>Floppy Disk Controller</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TXT_51">
+        <source>040-043  </source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TXT_52">
+        <source>System Timer                                     </source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TXT_53">
+        <source>220-22F</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_TXT_54">
+        <source>Sound Card                           </source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_TXT_55">
+        <source>3F6-3F6 </source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_TXT_56">
+        <source>PCI Primary IDE                                 Controller                              </source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_TXT_57">
+        <source> 060-060,064-064              </source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_TXT_58">
+        <source>Keyboard</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_TXT_59">
+        <source>294-297</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_TXT_60">
+        <source>PCI BUS (data comm)            </source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_TXT_61">
+        <source>3F8-3FF</source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_TXT_62">
+        <source>COM1 Serial Port</source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_TXT_63">
+        <source>061-061  </source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_TXT_64">
+        <source>PC Speaker                                          </source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_TXT_65">
+        <source>278-27F </source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_TXT_66">
+        <source>LPT2 or LPT3                         </source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_TXT_67">
+        <source>E000-E01F </source>
+      </trans-unit>
+      <trans-unit id="072" resname="IDS_TXT_68">
+        <source>USB Host Controller</source>
+      </trans-unit>
+      <trans-unit id="073" resname="IDS_TXT_69">
+        <source>070-071   </source>
+      </trans-unit>
+      <trans-unit id="074" resname="IDS_TXT_70">
+        <source>CMOS/Real Time Clock                          </source>
+      </trans-unit>
+      <trans-unit id="075" resname="IDS_TXT_71">
+        <source>2E8-2EF </source>
+      </trans-unit>
+      <trans-unit id="076" resname="IDS_TXT_72">
+        <source>COM4 Serial Port                   </source>
+      </trans-unit>
+      <trans-unit id="077" resname="IDS_TXT_73">
+        <source>E800-E87F</source>
+      </trans-unit>
+      <trans-unit id="078" resname="IDS_TXT_74">
+        <source>Fast Ethernet Adapter         </source>
+      </trans-unit>
+      <trans-unit id="079" resname="IDS_TXT_75">
+        <source> 0F0-0FF                          </source>
+      </trans-unit>
+      <trans-unit id="080" resname="IDS_TXT_76">
+        <source>Math Coprocessor                                </source>
+      </trans-unit>
+      <trans-unit id="081" resname="IDS_TXT_77">
+        <source>2F8-2FF </source>
+      </trans-unit>
+      <trans-unit id="082" resname="IDS_TXT_78">
+        <source>COM2 Serial Port                   </source>
+      </trans-unit>
+      <trans-unit id="083" resname="IDS_TXT_79">
+        <source>F000-F00F  </source>
+      </trans-unit>
+      <trans-unit id="084" resname="IDS_TXT_80">
+        <source>IDE Controllers</source>
+      </trans-unit>
+      <trans-unit id="085" resname="IDS_TXT_81">
+        <source>130-14F   </source>
+      </trans-unit>
+      <trans-unit id="086" resname="IDS_TXT_82">
+        <source>SCSI Host Adapter                               </source>
+      </trans-unit>
+      <trans-unit id="087" resname="IDS_TXT_83">
+        <source>376-376   </source>
+      </trans-unit>
+      <trans-unit id="088" resname="IDS_TXT_84">
+        <source>PCI IDE Controller</source>
+      </trans-unit>
+      <trans-unit id="089" resname="IDS_TXT_85">
+        <source>170-177 </source>
+      </trans-unit>
+      <trans-unit id="090" resname="IDS_TXT_86">
+        <source>Secondary Hard Disk Controller            </source>
+      </trans-unit>
+      <trans-unit id="091" resname="IDS_TXT_87">
+        <source>378-37F  </source>
+      </trans-unit>
+      <trans-unit id="092" resname="IDS_TXT_88">
+        <source> LPT1 Printer Port </source>
+      </trans-unit>
+      <trans-unit id="093" resname="IDS_TXT_89">
+        <source>DMA Channel                 </source>
+      </trans-unit>
+      <trans-unit id="094" resname="IDS_TXT_90">
+        <source>Recommended Use                 </source>
+      </trans-unit>
+      <trans-unit id="095" resname="IDS_TXT_91">
+        <source>Can Also Be Used For</source>
+      </trans-unit>
+      <trans-unit id="096" resname="IDS_TXT_92">
+        <source>0</source>
+      </trans-unit>
+      <trans-unit id="097" resname="IDS_TXT_93">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="098" resname="IDS_TXT_94">
+        <source>2</source>
+      </trans-unit>
+      <trans-unit id="099" resname="IDS_TXT_95">
+        <source>3</source>
+      </trans-unit>
+      <trans-unit id="100" resname="IDS_TXT_96">
+        <source>4</source>
+      </trans-unit>
+      <trans-unit id="101" resname="IDS_TXT_97">
+        <source>5</source>
+      </trans-unit>
+      <trans-unit id="102" resname="IDS_TXT_98">
+        <source>6</source>
+      </trans-unit>
+      <trans-unit id="103" resname="IDS_TXT_99">
+        <source>7</source>
+      </trans-unit>
+      <trans-unit id="104" resname="IDS_TXT_100">
+        <source>Sound</source>
+      </trans-unit>
+      <trans-unit id="105" resname="IDS_TXT_101">
+        <source>Sound </source>
+      </trans-unit>
+      <trans-unit id="106" resname="IDS_TXT_102">
+        <source>Network cards, SCSI adapters, parallel printing port, and voice modems</source>
+      </trans-unit>
+      <trans-unit id="107" resname="IDS_TXT_103">
+        <source>Floppy Drive Controller</source>
+      </trans-unit>
+      <trans-unit id="108" resname="IDS_TXT_104">
+        <source>LPT1: in ECP Mode</source>
+      </trans-unit>
+      <trans-unit id="109" resname="IDS_TXT_105">
+        <source>Network cards, SCSI adapters, parallel printing port, and voice modems, and Sound Card (low DMA setting) </source>
+      </trans-unit>
+      <trans-unit id="110" resname="IDS_TXT_106">
+        <source>Cascade for DMA 0-3</source>
+      </trans-unit>
+      <trans-unit id="111" resname="IDS_TXT_107">
+        <source>Sound</source>
+      </trans-unit>
+      <trans-unit id="112" resname="IDS_TXT_108">
+        <source>Network cards, SCSI adapters </source>
+      </trans-unit>
+      <trans-unit id="113" resname="IDS_TXT_109">
+        <source>Available</source>
+      </trans-unit>
+      <trans-unit id="114" resname="IDS_TXT_110">
+        <source>Network cards, Sound Card (high DMA setting) </source>
+      </trans-unit>
+      <trans-unit id="115" resname="IDS_TXT_111">
+        <source>Available</source>
+      </trans-unit>
+      <trans-unit id="116" resname="IDS_TXT_112">
+        <source>Network cards, Sound Card (high DMA setting) </source>
+      </trans-unit>
+      <trans-unit id="117" resname="IDS_TXT_113">
+        <source>15</source>
+      </trans-unit>
+      <trans-unit id="118" resname="IDS_TXT_114">
+        <source>Secondary IDE</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

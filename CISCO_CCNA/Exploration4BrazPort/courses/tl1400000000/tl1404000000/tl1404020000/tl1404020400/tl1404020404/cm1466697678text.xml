@@ -1,0 +1,101 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Configurando a segurança SSH</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique nos botões para ver as etapas para configurar a segurança SSH.</b>]]></text>
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br/>roteador</b>]]></text>
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[<b>Etapa 1</b>]]></text>
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[<b>Etapa 2</b>]]></text>
+</component>
+
+<component id="ID_button3">
+<text><![CDATA[<b>Etapa 3</b>]]></text>
+</component>
+
+<component id="ID_button4">
+<text><![CDATA[<b>Etapa 4</b>]]></text>
+</component>
+
+<component id="ID_button5">
+<text><![CDATA[<b>Etapa 5</b>]]></text>
+</component>
+
+<component id="ID_button6">
+<text><![CDATA[<b>Utilizar SSH</b>]]></text>
+</component>
+
+<!-- topology -->
+<component id="ID_txt01">
+<text><![CDATA[<b>Host de administração</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Rede local de gerenciamento</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Registrando host<b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_txt01">
+<text><![CDATA[Etapa 1: Definir parâmetros do roteador]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_S2_txt01">
+<text><![CDATA[Etapa 2: Definir o nome de domínio]]></text>
+</component>
+
+<!-- slide 3 -->
+<component id="ID_S3_txt01">
+<text><![CDATA[Etapa 3: Gerar chaves assimétricas]]></text>
+</component>
+
+<!-- slide 4 -->
+<component id="ID_S4_txt01">
+<text><![CDATA[Etapa 4: Configurar autenticação local e vty]]></text>
+</component>
+
+<!-- slide 5 -->
+<component id="ID_S5_txt01">
+<text><![CDATA[Etapa 5: Configurar timeouts SSH]]></text>
+</component>
+
+<!-- slide 6 -->
+<component id="ID_S6_txt01">
+<text><![CDATA[Iniciar uma conexão SSH.]]></text>
+</component>
+
+<component id="ID_S6_txt02">
+<text><![CDATA[Digite o nome de usuário.]]></text>
+</component>
+
+<component id="ID_S6_txt03">
+<text><![CDATA[Digite a senha.]]></text>
+</component>
+
+<component id="ID_S6_txt04">
+<text><![CDATA[Uma vez autenticada, a janela SSH é aberta.]]></text>
+</component>
+
+<component id="ID_s1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_isp">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+</textcomponents>
+

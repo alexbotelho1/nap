@@ -1,0 +1,227 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver o processo de roteamento link-state e o endereçamento de R1.</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Processo de Roteamento Link-State</b>]]></text>
+</component>
+
+<component id="Button01">
+<text><![CDATA[<b>Banco de Dados Link-State de R1</b>]]></text>
+</component>
+
+<component id="Button02">
+<text><![CDATA[<b>Árvore SPF de R1</b>]]></text>
+</component>
+
+<!-- table_01 -->
+<component id="ID_TableTitle01">
+<text><![CDATA[<b>Banco de Dados Link-State de R1</b>]]></text>
+</component>
+
+<component id="ID_tableTxt01">
+<text><![CDATA[<b>LSPs de R2:</b><li>Conectado ao vizinho R1 na rede 10.2.0.0/16, custo de 20</li><li>Conectado ao vizinho R5 na rede 10.9.0.0/16, custo de 10</li><li>Tem uma rede 10.5.0.0/16, custo de 2</li><b>LSPs de R3:</b><li>Conectado ao vizinho R1 na rede 10.3.0.0/16, custo de 5</li><li>Conectado ao vizinho R4 na rede 10.7.0.0/16, custo de 10</li><li>Tem uma rede 10.6.0.0/16, custo de 2</li><b>LSPs de R4:</b><li>Conectado ao vizinho R1 na rede 10.4.0.0/16, custo de 20</li><li>Conectado ao vizinho R3 na rede 10.7.0.0/16, custo de 10</li><li>Conectado ao vizinho R5 na rede 10.10.0.0/16, custo de 10</li><li>Tem uma rede 10.8.0.0/16, custo de 2</li><b>LSPs de R5:</b><li>Conectado ao vizinho R2 na rede 10.9.0.0/16, custo de 10</li><li>Conectado ao vizinho R4 na rede 10.10.0.0/16, custo de 10</li><li>Tem uma rede 10.11.0.0/16, custo de 2</li><b>Link-states de R1:</b><li>Conectado ao vizinho R2 na rede 10.2.0.0/16, custo de 20</li><li>Conectado ao vizinho R3 na rede 10.3.0.0/16, custo de 5</li><li>Conectado ao vizinho R4 na rede 10.4.0.0/16, custo de 20</li><li>Tem uma rede 10.1.0.0/16, custo de 2</li>]]></text>
+</component>
+
+<!-- table_02 -->
+<component id="ID_header01">
+<text><![CDATA[<b>Destino</b>]]></text>
+</component>
+
+<component id="ID_header02">
+<text><![CDATA[<b>Caminho mais curto</b>]]></text>
+</component>
+
+<component id="ID_header03">
+<text><![CDATA[<b>Custo</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>LAN R2</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>LAN R3</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>LAN R4</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>LAN R5</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>R1 -> R2</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>R1 -> R3</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>R1 -> R3 -> R4</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>R1 -> R3 -> R4 -> R5</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>22</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>7</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>17</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>27</b>]]></text>
+</component>
+
+<!-- topology 1-->
+<component id="ID_top01">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top02">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_top03">
+<text><![CDATA[<b>20</b>]]></text>
+</component>
+
+<component id="ID_top04">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_top05">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top06">
+<text><![CDATA[<b>5</b>]]></text>
+</component>
+
+<component id="ID_top07">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top08">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top09">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_top10">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+<component id="ID_top11">
+<text><![CDATA[<b>R5</b>]]></text>
+</component>
+
+<component id="ID_top12">
+<text><![CDATA[<b>20</b>]]></text>
+</component>
+
+<component id="ID_top13">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_top14">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_top15">
+<text><![CDATA[<b>R4</b>]]></text>
+</component>
+
+<component id="ID_top16">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top17">
+<text><![CDATA[<b>R1<br>LSP</b>]]></text>
+</component>
+
+<!-- topology 2 -->
+<component id="ID_top01b">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top02b">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_top03b">
+<text><![CDATA[<b>20</b>]]></text>
+</component>
+
+<component id="ID_top04b">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_top05b">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top06b">
+<text><![CDATA[<b>5</b>]]></text>
+</component>
+
+<component id="ID_top07b">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top08b">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top09b">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_top10b">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+<component id="ID_top11b">
+<text><![CDATA[<b>R5</b>]]></text>
+</component>
+
+<component id="ID_top12b">
+<text><![CDATA[<b>20</b>]]></text>
+</component>
+
+<component id="ID_top13b">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_top14b">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_top15b">
+<text><![CDATA[<b>R4</b>]]></text>
+</component>
+
+<component id="ID_top16b">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_top17b">
+<text><![CDATA[<b>R1<br>LSP</b>]]></text>
+</component>
+
+</textcomponents>

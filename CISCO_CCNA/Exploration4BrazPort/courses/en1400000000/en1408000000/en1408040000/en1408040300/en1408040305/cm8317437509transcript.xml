@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 13:12:09">
+<title><content-text><![CDATA[8.4.3 - Data Link Layer Troubleshooting]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts the process of troubleshooting Layer 2 STP loop problems between switches. A series of steps is provided with a network topology.<br><br>Network Topology:<br>Three switches, S1, S2, and S3, are connected in a full mesh with redundant trunk links between each pair of switches. Three PC's, PC1, PC2, and PC3, are connected to switch S2.<br><br>Steps for Troubleshooting STP Loops:<br>Step 1. Identify that an STP loop is occurring.<br>Step 2. Discover the topology (scope) of the loop.<br>Step 3. Break the loop.<br>Step 4. Find and fix the cause of the loop.<br>Step 5. Restore the redundancy.]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,46 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do switch</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Configurando o VTP Etapa 3 – Conectar ao servidor VTP</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para exibir as configurações VTP.</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Confirmar operação do VTP</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Configurar portas de acesso</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Servidor VTP</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Cliente VTP</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Cliente VTP</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Troncos</b>]]></text>
+</component>
+
+<component id="ID_output1_guide">
+<text><![CDATA[<b>As áreas destacadas mostram que o switch S2 foi atualizado e agora possui três novas VLANs.</b>]]></text>
+</component>
+<component id="ID_output2_guide">
+<text><![CDATA[<b>As áreas destacadas mostram que o modo de cliente VTP está em vigor: não permite a criação da VLAN, somente sua definição.</b>]]></text>
+</component>
+
+
+</textcomponents>

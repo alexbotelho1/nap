@@ -1,0 +1,38 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Ciclo de segurança de rede</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>A segurança de rede é um processo contínuo que aproveita uma política de segurança:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li><b>Etapa 1:</b> Proteger o sistema. Isso envolve a implementação dos dispositivos de segurança, como firewalls, sistemas de autenticação de identificação e redes virtuais privadas (VPNs) com a intenção para impedir o acesso não autorizado a sistemas de rede.</li><li><b>Etapa 2:</b> Monitorar a rede em relação a violações e ataques à política de segurança corporativa. As violações podem ocorrer dentro do perímetro seguro da rede de um funcionário descontente ou de um hacker fora da rede. A monitoração da rede com um sistema de detecção de invasão em tempo real pode assegurar que os dispositivos de segurança na Etapa 1 tenham sido configurados corretamente.</li><li><b>Etapa 3:</b> Testar a efetividade das proteções de segurança implantadas. Utilize várias ferramentas para identificar a postura de segurança da rede com relação aos procedimentos de segurança que formam o eixo do Ciclo de segurança.</li><li><b>Etapa 4:</b> Melhorar a segurança corporativa. Colete e analise informações das fases de monitoração e de teste para fazer melhorias na segurança.</li><li><b>Etapa 5:</b> Todas as quatro etapas devem ser repetidas continuamente, devendo ser incorporadas a versões atualizadas da política de segurança corporativa.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Proteger</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Monitorar</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Testar</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Melhorar</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Política de<br/>Segurança</b>]]></text>
+</component>
+
+</textcomponents>

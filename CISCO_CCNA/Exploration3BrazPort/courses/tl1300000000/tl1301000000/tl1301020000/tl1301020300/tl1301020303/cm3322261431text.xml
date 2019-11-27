@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>Recursos do switch da camada de núcleo</B>]]></text> 
+</component>
+
+
+
+
+
+<component id="ID_bubble01">
+<text><![CDATA[<b><font size='12'>Camada de núcleo</font></b>]]></text>
+</component>
+<component id="ID_txt01">
+  <text><![CDATA[<b><ul><li>Suporte à Camada 3</li><li>Taxa de encaminhamento muito alto</li><li>Gigabit Ethernet/10 Gigabit Ethernet</li><li>Componentes redundantes</li><li>Agregação de link</li><li>Qualidade de Serviço (QoS)</li></ul></b>]]></text> 
+  </component>
+
+
+
+
+
+
+</textcomponents>

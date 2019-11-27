@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="12_1_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_01">
+        <source>Hardware     Windows XP          Mac OS X            Linux              UNIX</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_02">
+        <source>CPU</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_03">
+        <source>RAM</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_04">
+        <source>Hard Disk Space</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_05">
+        <source>Display</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_06">
+        <source>CD</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_07">
+        <source>Human Interface</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_08">
+        <source>I/O</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_09">
+        <source>Floppy</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_10">
+        <source>Intel Pentium/Celeron family, or AMD K6/Athlon/Duron family, or compatible, single or dual processor system; 300 MHz or higher </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_11">
+        <source>PowerPC G3, G4, or G5 processor</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S1_TXT_12">
+        <source>486 or greater</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S1_TXT_13">
+        <source>PA-RISC 1.1, PA-RISK 2.0, Sun SPARC Ultra 1 or higher, Pentium II 233 MHz or higher (32-bit), Tru64 CPU Alpha processor (64-bit), PowerPC processor</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S1_TXT_14">
+        <source>128 MB or more</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_S1_TXT_15">
+        <source>256 MB</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S1_TXT_16">
+        <source>32 MB</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S1_TXT_17">
+        <source>64 MB or more 
+</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S1_TXT_18">
+        <source>1.5 GB </source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S1_TXT_19">
+        <source>At least 3.0 GB </source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S1_TXT_20">
+        <source>3.5 GB</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S1_TXT_21">
+        <source>1 GB
+</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S1_TXT_22">
+        <source>Super VGA (800 x 600) or higher resolution video adapter and monitor</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_S1_TXT_23">
+        <source>Built-in display or Apple-supplied video card supported by your computer</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_S1_TXT_24">
+        <source>CD-ROM or DVD drive</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_S1_TXT_25">
+        <source>DVD drive for installation
+</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_S1_TXT_26">
+        <source>Keyboard and Microsoft Mouse or compatible pointing device</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_S1_TXT_27">
+        <source>Built-in FireWire</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_S1_TXT_28">
+        <source>3.5&quot; floppy drive</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_S1_TXT_29">
+        <source>1 GB
+</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TITLE1">
+        <source>OS Hardware Requirements
+
+</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TITLE2">
+        <source>OS Implementation</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TITLE3">
+        <source>Possible Losses due to a Virus, Worm, or Trojan Attack
+</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_01">
+        <source>Apple </source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_02">
+        <source>Loss of productivity</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_03">
+        <source>Loss of data </source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_04">
+        <source>Damage to an organization’s reputation</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_05">
+        <source>Cost related to repair of computers </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

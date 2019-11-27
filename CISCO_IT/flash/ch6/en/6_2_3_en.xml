@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="6_2_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_1">
+        <source>The power button is a control that turns the power on and turns the power off to the laptop when the laptop is connected to the docking station.  </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_2">
+        <source>The eject button is a lever that releases the laptop from the docking station so that the laptop can be removed.</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_3">
+        <source>The docking connector is a socket that is used to attach a laptop to a docking station.</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_4">
+        <source>The exhaust vent is an outlet that expels hot air from the interior of the docking station. 
+</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_5">
+        <source>The AC power connector is a socket that is used to connect the AC power adapter to the docking station.
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_6">
+        <source>The PC combination card slot is an expansion slot that supports the PC Express expansion cards in the top slot and PC Cards in the bottom slot.
+</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_7">
+        <source>The VGA port is a 15-pin socket that allows output to external displays and projectors.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_8">
+        <source>The DVI port is a socket that is used to attach a digital video monitor.
+</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_9">
+        <source>The Line In connector is a socket that is used to attach an audio source.
+</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_10">
+        <source>The headphone connector is a socket that is used to attach an audio output device. 
+</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_11">
+        <source>The Universal Serial Bus (USB) port is a socket that is used to connect one or more peripherals. 
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S1_TXT_12">
+        <source>The  mouse port is a PS/2 socket that is used to attach an external mouse.
+</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S1_TXT_13">
+        <source>The keyboard port is a PS/2 socket that is used to attach an external keyboard.
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S1_TXT_14">
+        <source>The external-diskette-drive connector is a socket that is used to connect an external disk drive.
+</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_S1_TXT_15">
+        <source>The parallel port is a socket that is used to connect a device such as a printer or scanner.  </source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S1_TXT_16">
+        <source>The serial port is a socket that is used to connect a device such as a mouse or trackball.</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S1_TXT_17">
+        <source>The RJ-11 modem port is a device that is used to connect the laptop to a standard telephone line. The modem can be used to connect the computer to the Internet, to fax documents, and to answer incoming calls.
+</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S1_TXT_18">
+        <source>The ethernet port is an RJ-45 socket that is used to connect the laptop to a cabled local area network. 
+</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S1_TXT_19">
+        <source>The key lock is a socket into which a key is inserted to lock the laptop to the docking station.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TITLE1">
+        <source>Docking Station – Top View
+</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TITLE2">
+        <source>Docking Station – Rear View</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TITLE3">
+        <source>Docking Station – Right Side View</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_S1_TXT_45">
+        <source>Click the highlighted area for important content. Click the highlighted area again to close. 
+</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

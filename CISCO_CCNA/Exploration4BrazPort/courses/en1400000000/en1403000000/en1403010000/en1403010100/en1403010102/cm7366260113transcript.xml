@@ -1,0 +1,5 @@
+<transcript lastedited="11.21.08 08:11:10">
+<title><content-text><![CDATA[3.1.1  - Introducing Frame Relay]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts a Frame Relay WAN, which is a mesh of switches interconnected by trunk lines.<br><br>Network Topology:<br>A group of switches is interconnected in a Frame Relay cloud through interconnected trunk lines. A terminal labeled D T E is connected to one of the switches at the edge of the cloud. A PC labeled D T E is connected to another switch at the edge of the cloud. A file server labeled D T E is connected to a third switch at the edge of the cloud. All edge Frame Relay switches are labeled DCE.<br><br>Frame Relay specifies how data moves between the D T E and DCE over local loops. Frame Relay does not specify how frames move between DCE's across the WAN.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

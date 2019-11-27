@@ -1,0 +1,12 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Solucionar uma falha</b>]]></text>
+</component>
+ 
+<component id="ID_txt01">
+<text><![CDATA[<b>Para solucionar um problema de loop de bridging, você precisa saber:</b><ul><li>A topologia da rede comutada</li><li>A localização da bridge raiz</li><li>A localização das portas bloqueadas e dos links redundantes</li></ul>]]></text>
+</component>
+  
+
+</textcomponents>

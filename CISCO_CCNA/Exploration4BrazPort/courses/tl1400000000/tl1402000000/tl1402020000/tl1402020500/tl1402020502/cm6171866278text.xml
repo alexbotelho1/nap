@@ -1,0 +1,148 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<b>Campos do pacote LCP</b>]]></text> 
+</component>
+
+<component id="ID_title02">
+  <text><![CDATA[<b>Códigos do pacote LCP</b>]]></text> 
+</component>
+
+<component id="ID_btn1">
+  <text><![CDATA[Pacote LCP]]></text> 
+  </component>
+<component id="ID_btn2">
+  <text><![CDATA[Códigos LCP]]></text> 
+  </component>
+<component id="ID2_txt01">
+<text><![CDATA[<b>Tamanho do campo, em bytes</b>]]></text>
+</component>
+<component id="ID2_txt02">
+<text><![CDATA[<b>Variável</b>]]></text>
+</component>
+<component id="ID2_txt03">
+<text><![CDATA[<b>2 ou 4</b>]]></text>
+</component>
+<component id="ID2_txt04">
+<text><![CDATA[<b>Flag</b>]]></text>
+</component>
+<component id="ID2_txt05">
+<text><![CDATA[<b>Endereço</b>]]></text>
+</component>
+<component id="ID2_txt06">
+<text><![CDATA[<b>Controle</b>]]></text>
+</component>
+<component id="ID2_txt07">
+<text><![CDATA[<b>Protocolo</b>]]></text>
+</component>
+<component id="ID2_txt08">
+<text><![CDATA[<b>Dados</b>]]></text>
+</component>
+<component id="ID2_txt09">
+<text><![CDATA[<b>FCS</b>]]></text>
+</component>
+<component id="ID2_txt10">
+<text><![CDATA[<b>Pacote LCP</b>]]></text>
+</component>
+<component id="ID2_txt11">
+<text><![CDATA[<b>Código</b>]]></text>
+</component>
+<component id="ID2_txt12">
+<text><![CDATA[<b>Identificador</b>]]></text>
+</component>
+<component id="ID2_txt13">
+<text><![CDATA[<b>Tamanho</b>]]></text>
+</component>
+
+<component id="ID2_txt14">
+<text><![CDATA[<b>Dados<BR/>(vários tamanhos)</b>]]></text>
+</component>
+<component id="ID2_txt15">
+<text><![CDATA[<b>O campo de código tem um byte e identifica o tipo de pacote LCP.</b>]]></text>
+</component>
+<component id="ID2_txt16">
+<text><![CDATA[<b>O campo do identificador tem um byte, sendo utilizado de acordo com as solicitações e as respostas do pacote.</b>]]></text>
+</component>
+<component id="ID2_txt17">
+<text><![CDATA[<b>O campo de tamanho tem dois bytes e indica o comprimento total (incluindo todos os campos) do pacote LCP.</b>]]></text>
+</component>
+<component id="ID2_txt18">
+<text><![CDATA[<b>O campo de dados tem zero ou mais bytes conforme indicado pelo campo do tamanho. O formato desse campo é determinado pelo código.</b>]]></text>
+</component>
+<component id="ID_caption">
+<text><![CDATA[<b>Passe o mouse sobre os campos do pacote LCP para ver as descrições.</b>]]></text>
+</component>
+
+<component id="ID_header1">
+<text><![CDATA[<b>Código LCP</b>]]></text>
+</component>
+
+<component id="ID_header2">
+<text><![CDATA[<b>Tipo de pacote LCP</b>]]></text>
+</component>
+
+<component id="ID_header3">
+<text><![CDATA[<b>Descrição</b>]]></text>
+</component>
+
+<component id="tableHTML">
+  <text><![CDATA[<table header='none' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='3'>
+  <tr>
+    <td width='125' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>1</font></td>
+    <td width='200' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Configure-Request</b></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Enviada para abrir ou redefinir uma conexão PPP. Configure-Request contém uma lista de opções LCP com alterações feitas em valores de opção padrão.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>2</font></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Configure-Ack</b></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Enviada quando todos os valores de todas as opções LCP na última Configure-Request recebida são reconhecidos e aceitáveis. Quando ambos os túneis PPP enviam e recebem Configure-Acks, a negociação LCP está concluída.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>3</font></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Configure-Nack</b></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Enviada quando todas as opções LCP são reconhecidas, mas os valores de algumas opções não são aceitáveis. Configure-Nak inclui as opções afetadas e seus valores aceitáveis.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>4</font></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Configure-Reject</b></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Enviada quando as opções LCP não são reconhecidas ou não aceitáveis para negociação. Configure-Reject inclui as opções não reconhecidas ou não negociáveis.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>5</font></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Terminate-Request</b></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Enviada como opção para fechar a conexão PPP.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>6</font></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Terminate-Ack</b></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Enviada em resposta à Terminate-Request.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>7</font></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Code-Reject</b></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Enviada quando o código LCP é desconhecido. A mensagem Code-Reject inclui o pacote LCP afetado.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>8</font></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Protocol-Reject</b></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Enviada quando o quadro PPP contém uma ID de protocolo desconhecida. A mensagem Protocol-Reject inclua o pacote LCP afetado. Protocol-Reject costuma ser enviada por um túnel PPP em resposta a um NCP PPP para um protocolo de rede local não habilitado no túnel PPP.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>9</font></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Echo-Request</b></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Enviada como opção para testar a conexão PPP.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>10</font></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Echo-Reply</b></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Enviada em resposta a uma Echo-Request. PPP Echo-Request e Echo-Reply não estão relacionadas às mensagens ICMP Echo Request e Echo Reply.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>11</font></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Discard-Request</b></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Enviada como opção para testar o link no sentido de saída.</td>
+  </tr>
+</table>]]></text> 
+  </component>
+
+</textcomponents>

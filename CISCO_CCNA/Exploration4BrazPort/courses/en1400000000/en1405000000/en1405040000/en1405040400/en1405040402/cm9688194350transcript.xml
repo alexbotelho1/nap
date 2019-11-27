@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 08:12:12">
+<title><content-text><![CDATA[5.4.4 - Time-based ACL's]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts examples of time-based ACL's.<br><br>Network Topology:<br>Same as Diagram 1.<br><br>Configuration:<br>Step 1:<br>R1(config)#time-range EVERY OTHER DAY<br>R1(config-time-range)#periodic Monday Wednesday Friday 8:00 to 17:00<br>First, define the time range to implement the ACL and give it a name. This examples uses EVERY OTHER DAY.<br><br>Step 2:<br>R1(config)#access-list 101 permit tcp 192.168.10.0 0.0.0.255 any e q telnet time-range EVERY OTHER DAY<br>Apply the time range to the ACL.<br><br>Step 3:<br>R1(config)#interface s0/0/0<br>R1(config-i f)#i p access-group 101 out<br>Apply the ACL to the interface.]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

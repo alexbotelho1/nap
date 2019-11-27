@@ -1,0 +1,90 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>O que é um sistema a cabo</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[Passe o mouse sobre os componentes no diagrama para obter mais informações.]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Ponto da antena</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Sistema de transporte</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Cabo de tronco</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Headend</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Amplificador</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Cabo de derivação do assinante</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Cabo de distribuição (Alimentador)</b>]]></text>
+</component>
+
+<component id="ID_txtTitle1">
+<text><![CDATA[<b>Local da antena:</b>]]></text>
+</component>
+
+<component id="ID_txtBody1">
+<text><![CDATA[O local de um ponto de antena é escolhido para que se obtenha uma recepção ideal de sinais pelo ar, de satélite e, às vezes, ponto a ponto. As antenas principais e as antenas parabólicas estão localizadas no ponto de antena.]]></text>
+</component>
+
+<component id="ID_txtTitle2">
+<text><![CDATA[<b>Rede de transporte:</b>]]></text>
+</component>
+
+<component id="ID_txtBody2">
+<text><![CDATA[Uma rede de transporte liga um ponto de antena remoto a um headend ou um headend remoto à rede de distribuição. A rede de transporte pode ser microondas, super-tronco coaxial ou fibra ótica.]]></text>
+</component>
+
+<component id="ID_txtTitle3">
+<text><![CDATA[<b>Headend:</b>]]></text>
+</component>
+
+<component id="ID_txtBody3">
+<text><![CDATA[Onde os sinais são recebidos, processados, formatados e distribuídos na direção downstream para a rede de cabo. As instalações de headend geralmente são desabitadas, sob cerca de segurança e semelhantes a um escritório central de uma companhia telefônica.]]></text>
+</component>
+
+<component id="ID_txtTitle4">
+<text><![CDATA[<b>Rede de distribuição:</b>]]></text>
+</component>
+
+<component id="ID_txtBody4">
+<text><![CDATA[Em um sistema a cabo clássico, denominado sistema a cabo em estrutura de árvore e filiais, a rede de distribuição consiste em cabos de tronco e alimentadores. O tronco é o backbone que distribui os sinais ao longo da área de serviço da comunidade para o alimentador e geralmente utiliza um cabo coaxial de 0,750 polegadas (19 mm) de diâmetro. As filiais do alimentador saem por um tronco e alcançam todos os assinantes na área de serviço por meio de cabos coaxiais. O cabo alimentador é geralmente um cabo coaxial de 0,50 polegada (13 mm) de diâmetro.]]></text>
+</component>
+
+<component id="ID_txtTitle5">
+<text><![CDATA[<b>Derivação do assinante:</b>]]></text>
+</component>
+
+<component id="ID_txtBody5">
+<text><![CDATA[Uma derivação de assinante conecta o assinante aos serviços a cabo. A derivação de assinante é uma conexão entre a parte alimentadora de uma rede de distribuição e o dispositivo de terminal do assinante (por exemplo, TV, vídeo cassete [VCR], conversor de TV de alta definição ou modem a cabo). Uma derivação de assinante consiste em um cabeamento coaxial de guia de rádio (Radio Grade, RG) (geralmente um cabo coaxial de 59 ou 6 séries), hardware de aterramento e acoplamento e um conversor]]></text>
+</component>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>O CATV significava originalmente "televisão de antena comunitária". Essa forma de transmissão compartilhava os sinais de TV.</li><li>Os sistemas a cabo criados originalmente para aumentar o alcance dos sinais de TV e melhorar a recepção pelo ar.</li><li>Os sistemas a cabo modernos utilizam a fibra e o cabo coaxial para a transmissão de sinais.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

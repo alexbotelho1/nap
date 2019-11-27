@@ -1,0 +1,91 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Corte de VTP em ação</b>]]></text>
+</component>
+
+<component id="ID_button_01">
+<text><![CDATA[<b>Sem corte de VTP</b>]]></text>
+</component>
+
+<component id="ID_button_02">
+<text><![CDATA[<b>Corte de VTP</b>]]></text>
+</component>
+
+
+<component id="ID_txt02">
+<text><![CDATA[<b>PC1 envia tráfego de inundação na VLAN10.</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>O switch S2 encaminha o tráfego de inundação através de suas portas de acesso estáticas configuradas em VLAN10, bem como através do link de tronco para o switch S1.</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>O switch S1 continua encaminhando o tráfego de inundação por seu link de tronco para S3, embora não exista nenhuma porta de acesso estática configurada na VLAN 10.<br/>O switch S3 descarta o tráfego de inundação, mas só depois de consumir a largura de banda no link de tronco e tempo de processamento no switch.</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Switches habilitados por VTP</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>PC1 envia tráfego de inundação na VLAN10.</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>O switch S2 encaminha o tráfego de inundação por todas as suas portas de acesso estáticas configuradas na VLAN10, mas não encaminha o tráfego pelo link de tronco para o switch S1 porque ele sabe que não existem outras portas de switch configuradas para a VLAN10 em nenhum dos switches remotos!</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b><font size='10'>Tráfego de inundação</font></b>]]></text>
+</component>
+
+
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<component id="play2">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause2">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind2">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward2">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute2">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute2"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous2"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next2">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript2">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+</textcomponents>

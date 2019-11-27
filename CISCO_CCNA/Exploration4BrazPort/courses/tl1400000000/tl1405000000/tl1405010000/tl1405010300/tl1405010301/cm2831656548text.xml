@@ -1,0 +1,104 @@
+<textcomponents>
+
+<component id="ID_Button01">
+<text><![CDATA[O que é ACL?]]></text>
+</component>
+
+<component id="ID_Button02">
+<text><![CDATA[ACLs em um roteador]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_title">
+<text><![CDATA[<b>O que é ACL?</b>]]></text>
+</component>
+
+<component id="ID_S1_txt01">
+<text><![CDATA[<b>ACL</b>]]></text>
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[<b>Permitir email<br/>Negar Telnet</b>]]></text>
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_S1_txt04">
+<text><![CDATA[<b>ACL</b>]]></text>
+</component>
+
+<component id="ID_S1_txt05">
+<text><![CDATA[<b>Acesso HR</b>]]></text>
+</component>
+
+<component id="ID_S1_txt06">
+<text><![CDATA[<b>Sub-rede RH<br/>172.17.0.0/20</b>]]></text>
+</component>
+
+<component id="ID_S1_txt07">
+<text><![CDATA[<b>ACL</b>]]></text>
+</component>
+
+<component id="ID_S1_txt08">
+<text><![CDATA[<b>Nenhum vídeo para S1<br/>Nenhum acesso a S2 para S1</b>]]></text>
+</component>
+
+<component id="ID_S1_txt09">
+<text><![CDATA[<b>ACL</b>]]></text>
+</component>
+
+<component id="ID_S1_txt10">
+<text><![CDATA[<b>Nenhuma atualização<br/>Sem FTP<br/>Sem Web</b>]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_S2_title">
+<text><![CDATA[<b>Filtragem de tráfego ACL em um roteador</b>]]></text>
+</component>
+
+<component id="ID_S2_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>O três Ps para utilizar ACLs</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Você só pode ter uma ACL por protocolo, por interface e por direção:<ul><li>Uma ACL por protocolo (por exemplo, IP ou IPX)</li><li>Uma ACL por interface (por exemplo, FastEthernet0/0)</li><li>Uma ACL por direção (ou seja, IN ou OUT)</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_S2_txt01">
+<text><![CDATA[<b>IP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt01_1">
+<text><![CDATA[<b>IPX</b>]]></text>
+</component>
+
+<component id="ID_S2_txt01_2">
+<text><![CDATA[<b>AppleTalk</b>]]></text>
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[<b>IP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt02_1">
+<text><![CDATA[<b>IPX</b>]]></text>
+</component>
+
+<component id="ID_S2_txt02_2">
+<text><![CDATA[<b>AppleTalk</b>]]></text>
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[Uma lista por interface, por direção e por protocolo]]></text>
+</component>
+
+<component id="ID_S2_txt04">
+<text><![CDATA[Com duas interface e três protocolos em execução, este roteador pode ter um total de 12 ACLs separadas aplicadas.]]></text>
+</component>
+
+</textcomponents>

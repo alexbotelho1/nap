@@ -1,0 +1,68 @@
+<textcomponents>
+
+<component id="instructions">
+<text><![CDATA[<b>Clique no equipamento para exibir a definição.</b>]]></text>
+</component>
+
+<component id="ID_caption">
+<text><![CDATA[<b>Recursos dos switches Cisco Catalyst</b>]]></text>
+</component>
+
+<component id="ID_boxTitle01">
+<text><![CDATA[<b>O Catalyst Express 500 – switch de nível de acesso:</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b><ul><li>Pequenas empresas de 20 a 250 funcionários</li><li>Possibilidade de suportar taxas de encaminhamento de 8,8 Gbps a 24Gbps</li><li>Suporta apenas gerenciamento baseado em Web</li><li>Disponível com conectividade Fast Ethernet e Gigabit Ethernet</li><li>Suporte a densidades de porta para 24 portas 10/100 (PoE opcional) ou 12 portas 10/100/1000</li></ul></b>]]></text>
+</component>
+
+<component id="ID_boxTitle02">
+<text><![CDATA[<b>O Cisco Catalyst 2960 – switch de nível de acesso:</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b><ul><li>Redes corporativas de nível de entrada, de médio porte e de filiais</li><li>Taxas de encaminhamento entre 16 Gbps e 32 Gbps</li><li>Gerenciamento baseado em Web e na CLI (linha de comando) Cisco</li><li>Recursos de rede local avançados:</li></ul>             – comutação multicamada<br/>             – QoS<br/>             – ACLs<ul><li>Conectividade Fast Ethernet e Gigabit Ethernet</li><li>Até 48 portas 10/100 ou portas 10/100/1000 (sem PoE)</li><li>Uplinks gigabit com dupla finalidade</li></ul></b>]]></text>
+</component>
+
+<component id="ID_boxTitle03">
+<text><![CDATA[<b>O Cisco Catalyst 3560 – switch de nível de acesso:</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b><ul><li>Ambientes de rede convergida de filial ou acesso de pequena rede local corporativa</li><li>Taxas de encaminhamento entre 32 Gbps e 128 Gbps</li><li>Gerenciamento baseado na Web e na CLI (linha de comando) Cisco</li><li>Recursos de rede local avançados:</li></ul>             – QoS<br/>             – ACLs<ul><li>Conectividade Fast Ethernet e Gigabit Ethernet</li><li>Até 48 portas 10/100/1000 mais 4 portas SFP</li><li>Conectividade 10 GbE – Catalyst 3560-E</li><li>24 – portas PoE de 15,4 watts ou 48 – portas PoE de 7,3 watts</li></ul></b>]]></text>
+</component>
+
+<component id="ID_boxTitle04">
+<text><![CDATA[<b>O Cisco Catalyst 3750 – switch de nível de acesso:</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b><ul><li>Organizações de médio porte e filiais corporativas</li><li>Taxas de encaminhamento entre 32 Gbps e 128 Gbps</li><li>Tecnologia Cisco StackWise</li><li>Gerenciamento baseado na Web e na CLI Cisco</li><li>Recursos de rede local avançados:</li></ul>             – QoS<br/>             – ACLs<ul><li>Conectividade Fast Ethernet e Gigabit Ethernet</li><li>Até 48 portas 10/100/1000 mais 4 portas SFP</li><li>Conectividade 10 GbE – Catalyst 3750-E</li><li>24 – portas PoE de 15,4 W ou 48 – portas PoE de 7,3 W</li></ul></b>]]></text>
+</component>
+
+<component id="ID_boxTitle05">
+<text><![CDATA[<b>O Cisco Catalyst 4500 – switch de nível de acesso, de distribuição e de núcleo:</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b><ul><li>Filiais corporativas e organizações de médio porte</li><li>Taxas de encaminhamento de até 136 Gbps</li><li>Chassi modular com 3, 6, 7 e 10 slots</li><li>Gerenciamento baseado em CLI e na Web</li><li>Recursos de rede local avançados:</li></ul>             – Comutação multicamada<br/>             – Roteamento IP assistido por hardware<br/>             – QoS<br/>             – ACLs<ul><li>384 Fast Ethernet, Gigabit com 10 portas de uplink de fibra GbE (PoE opcional)</li><li>Duas fontes de alimentação internas hot-swap </li></ul></b>]]></text>
+</component>
+
+<component id="ID_boxTitle06">
+<text><![CDATA[<b>O Cisco Catalyst 4948 – switch de nível de acesso especial:</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b><ul><li>Otimizado para centrais de dados</li><li>96 Gbps com uma taxa de encaminhamento de 72 Mpps</li><li>Gerenciamento baseado em CLI e Web</li><li>Recursos de rede local avançados:</li></ul>             – Comutação multicamada<br/>             – QoS<br/>             – ACLs<ul><li>48 portas 10/100/1000 com 4 portas SFP ou 48 portas 10/100/1000 com 2 portas 10GbE</li><li>Duas fontes de alimentação internas hot-swap </li><li>Bandeja de ventoinhas hot-swap </li></ul></b>]]></text>
+</component>
+
+<component id="ID_boxTitle07">
+<text><![CDATA[<b>O Cisco Catalyst 6500 – switch de nível de acesso, de distribuição e de núcleo:</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b><ul><li>Filiais corporativas e organizações de médio porte</li><li>Taxas de encaminhamento de até 720 Gbps</li><li>Chassi modular com 3, 4, 6, 9 e 13 slots</li><li>Gerenciamento baseado em CLI e na Web</li><li>Recursos de rede local avançados:</li></ul>             – Módulos de serviço de rede local/WAN<br/>             – Comutação multicamada<br/>             – Roteamento IP assistido por hardware<br/>             – QoS<br/>             – ACLs<ul><li>1152 portas 10/100, 577 portas 10/100/1000, 410 portas SFP Gigabit Ethernet ou 64 portas 10Gbe</li><li>420 – dispositivos PoE de 15,4 W</li><li>Duas fontes de alimentação internas hot-swap </li></ul></b>
+]]></text>
+</component>
+
+</textcomponents>

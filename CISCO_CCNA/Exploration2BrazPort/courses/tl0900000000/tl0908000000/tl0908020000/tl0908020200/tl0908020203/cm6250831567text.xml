@@ -1,0 +1,31 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Rota Primária de Nível 1 172.16.0.0/16</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Destino do<br>Pacote IP</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Rota Primária de<br>Nível 1</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Nós observamos endereços decimais pontuados.</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>O roteador observa os bits e os verifica para saber se há correspondência a partir da esquerda.</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Somente um bit corresponde.</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>O segundo bit não corresponde. A máscara é /16. Os 16 bits iniciais devem corresponder. O roteador ignora essa rota e passa para a próxima entrada de rota.</b>]]></text> 
+</component>
+
+</textcomponents>

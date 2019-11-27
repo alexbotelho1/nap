@@ -1,0 +1,39 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Atualizações de roteamento classful</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para visualizar o processamento de atualizações classful.</b>]]></text> 
+</component>
+
+<component id="ID_btn01">
+<text><![CDATA[<b>Atualização de R1 para R2</b>]]></text>
+</component>
+
+<component id="ID_btn02">
+<text><![CDATA[<b>Atualização de R2 para R3</b>]]></text>
+</component>
+
+<!--topologies-->
+<component id="ID_txt01">
+<text><![CDATA[<b>Atualizar</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>DCE</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>DCE</b>]]></text> 
+</component>
+
+<component id="ID_caption">
+<text><![CDATA[<b>O R2 aplica sua máscara 0/0/0 /24 serial à atualização de roteamento da 172.16.1.0 do R1</b>]]></text> 
+</component>
+
+<component id="ID_caption2">
+<text><![CDATA[<b>O R3 aplica a máscara /16 classful à atualização de roteamento da 172.16.0.0 do R2</b>]]></text> 
+</component>
+
+</textcomponents>

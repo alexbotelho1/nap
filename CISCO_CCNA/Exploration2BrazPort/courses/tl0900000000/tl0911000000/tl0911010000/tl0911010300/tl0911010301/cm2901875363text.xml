@@ -1,0 +1,65 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Tipos de Pacote OSPF</b>]]></text>
+</component>
+
+<component id="ID_header1">
+<text><![CDATA[<b>Tipo</b>]]></text>
+</component>
+<component id="ID_header2">
+<text><![CDATA[<b>Nome do pacote</b>]]></text>
+</component>
+<component id="ID_header3">
+<text><![CDATA[<b>Descrição</b>]]></text>
+</component>
+
+<component id="ID_txt1">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+<component id="ID_txt2">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+<component id="ID_txt3">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+<component id="ID_txt4">
+<text><![CDATA[<b>4</b>]]></text>
+</component>
+<component id="ID_txt5">
+<text><![CDATA[<b>5</b>]]></text>
+</component>
+
+<component id="ID_txt6">
+<text><![CDATA[<b>Hello</b>]]></text>
+</component>
+<component id="ID_txt7">
+<text><![CDATA[<b>Descrição de banco de dados (DBD)</b>]]></text>
+</component>
+<component id="ID_txt8">
+<text><![CDATA[<b>Requisição Link-State (LSR)</b>]]></text>
+</component>
+<component id="ID_txt9">
+<text><![CDATA[<b>Atualização Link-State (LSU)</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Link-State Acknowledgement (LSAck)</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Detecta vizinhos e cria adjacências entre eles</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>Verifica se há sincronização de banco de dados entre roteadores</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Solicita registros de link-state específicos de roteador para roteador</b>]]></text>
+</component>
+<component id="ID_txt14">
+<text><![CDATA[<b>Envia registros de link-state especificamente solicitados</b>]]></text>
+</component>
+<component id="ID_txt15">
+<text><![CDATA[<b>Reconhece os outros tipos de pacote</b>]]></text>
+</component>
+
+</textcomponents>

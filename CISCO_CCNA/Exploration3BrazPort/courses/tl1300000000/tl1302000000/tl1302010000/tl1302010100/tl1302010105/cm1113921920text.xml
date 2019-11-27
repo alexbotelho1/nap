@@ -1,0 +1,296 @@
+﻿<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>1</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>2</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>3</B>]]></text> 
+</component>
+
+<component id="ID_button_04">
+  <text><![CDATA[<B>4</B>]]></text> 
+</component>
+
+<component id="ID_button_05">
+  <text><![CDATA[<B>5</B>]]></text> 
+</component>
+
+<component id="ID_button_06">
+  <text><![CDATA[<B>6</B>]]></text> 
+</component>
+
+
+<component id="ID_step0">
+  <text><![CDATA[<B>Clique nas etapas para obter mais informações:<br>Etapa 1:</B> O switch recebe um quadro de broadcast do PC 1 na Porta 1.</B>]]></text> 
+</component>
+
+<component id="ID_step1">
+  <text><![CDATA[<B>Etapa 1:</B> O switch recebe um quadro de broadcast do PC 1 na Porta 1.]]></text> 
+</component>
+
+<component id="ID_step2">
+  <text><![CDATA[<B>Etapa 2:</B> O switch insere o endereço MAC de origem e a porta de switch que recebeu o quadro na tabela MAC.]]></text> 
+</component>
+
+<component id="ID_step3">
+  <text><![CDATA[<B>Etapa 3:</B> Como o endereço de destino é um endereço de broadcast, o switch inunda o quadro para todas as portas, exceto a porta em que ele recebeu o quadro.
+]]></text> 
+</component>
+
+<component id="ID_step4">
+  <text><![CDATA[<B>Etapa 4:</B> O dispositivo de destino responde ao endereço de broadcast com um quadro unicast endereçado a PC 1.]]></text> 
+</component>
+
+<component id="ID_step5">
+  <text><![CDATA[<B>Etapa 5:</B>O switch insere o endereço MAC de origem de PC 2 e o número da porta do switch que recebeu o quadro na tabela de MAC. O endereço de destino do quadro e de sua porta associada é encontrado na tabela de MAC.]]></text> 
+</component>
+
+<component id="ID_step6">
+  <text><![CDATA[<B>Etapa 6:</B> Agora o switch pode encaminhar quadros entre os dispositivos de origem e de destino sem inundação, porque tem entradas na tabela MAC que identificam as portas associadas.]]></text> 
+</component>
+
+
+<component id="ID_txt01">
+  <text><![CDATA[<B>PC1</B>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<B>Quadro</B>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<B>PC2</B>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<B>Porta 1</B>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<B>Porta 2</B>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<B>Porta 3</B>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Quadro</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Endereçamento MAC e tabelas de endereços MAC do switch</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt01_02">
+  <text><![CDATA[<B>PC1</B>]]></text> 
+</component>
+
+<component id="ID_txt02_02">
+  <text><![CDATA[<B>Quadro</B>]]></text> 
+</component>
+
+<component id="ID_txt03_02">
+  <text><![CDATA[<B>PC2</B>]]></text> 
+</component>
+
+<component id="ID_txt04_02">
+  <text><![CDATA[<B>Tabela MAC:<br>Porta 1: MAC PC 1<br>Porta 2: Vazia<br>Porta 3: Vazia
+</B>]]></text> 
+</component>
+
+<component id="ID_txt05_02">
+  <text><![CDATA[<B>Porta 1</B>]]></text> 
+</component>
+
+<component id="ID_txt06_02">
+  <text><![CDATA[<B>Porta 2</B>]]></text> 
+</component>
+
+<component id="ID_txt07_02">
+  <text><![CDATA[<B>Porta 3</B>]]></text> 
+</component>
+
+<component id="ID_txt08_02">
+<text><![CDATA[<b>Tabela MAC:<br/>Porta 1: MAC PC 1<br/>Porta 2: Vazia<br/>Porta 3: Vazia</b>]]></text>
+</component>
+
+<component id="ID_txt09_02">
+<text><![CDATA[<b>Quadro</b>]]></text>
+</component>
+
+<component id="ID_txt10_02">
+<text><![CDATA[<b>Endereçamento MAC e tabelas MAC do switch</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt01_03">
+  <text><![CDATA[<B>PC1</B>]]></text> 
+</component>
+
+<component id="ID_txt02_03">
+  <text><![CDATA[<B>Quadro</B>]]></text> 
+</component>
+
+<component id="ID_txt03_03">
+  <text><![CDATA[<B>PC2</B>]]></text> 
+</component>
+
+<component id="ID_txt04_03">
+  <text><![CDATA[<B>Tabela MAC:<br>Porta 1: MAC PC 1<br>Porta 2: Vazia<br>Porta 3: Vazia
+</B>]]></text> 
+</component>
+
+<component id="ID_txt05_03b">
+  <text><![CDATA[<B>Quadro</B>]]></text> 
+</component>
+
+<component id="ID_txt06_03">
+  <text><![CDATA[<B>Porta 1</B>]]></text> 
+</component>
+
+<component id="ID_txt07_03">
+  <text><![CDATA[<B>Porta 2</B>]]></text> 
+</component>
+
+<component id="ID_txt08_03">
+  <text><![CDATA[<B>Porta 3</B>]]></text> 
+</component>
+
+<component id="ID_txt09_03">
+<text><![CDATA[<b>Tabela MAC:<br/>Porta 1: MAC PC 1<br/>Porta 2: Vazia<br/>Porta 3: Vazia</b>]]></text>
+</component>
+
+<component id="ID_txt10_03">
+<text><![CDATA[<b>Endereçamento MAC e tabelas MAC do switch</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_04">
+  <text><![CDATA[<B>PC1</B>]]></text> 
+</component>
+
+<component id="ID_txt02_04">
+  <text><![CDATA[<B>Quadro</B>]]></text> 
+</component>
+
+<component id="ID_txt03_04">
+  <text><![CDATA[<B>PC2</B>]]></text> 
+</component>
+
+<component id="ID_txt04_04">
+  <text><![CDATA[<B>Porta 1</B>]]></text> 
+</component>
+
+<component id="ID_txt05_04">
+  <text><![CDATA[<B>Porta 2</B>]]></text> 
+</component>
+
+<component id="ID_txt06_04">
+  <text><![CDATA[<B>Porta 3</B>]]></text> 
+</component>
+
+<component id="ID_txt07_04">
+<text><![CDATA[<b>Quadro</b>]]></text>
+</component>
+
+<component id="ID_txt08_04">
+<text><![CDATA[<b>Quadro</b>]]></text>
+</component>
+
+<component id="ID_txt09_04">
+<text><![CDATA[<b>Endereçamento MAC e tabelas MAC do switch</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt01_05">
+  <text><![CDATA[<B>PC1</B>]]></text> 
+</component>
+
+<component id="ID_txt02_05">
+  <text><![CDATA[<B>Quadro</B>]]></text> 
+</component>
+
+<component id="ID_txt03_05">
+  <text><![CDATA[<B>PC2</B>]]></text> 
+</component>
+
+<component id="ID_txt04_05">
+  <text><![CDATA[<B>Tabela MAC:<br>Porta 1: MAC PC 1<br>Porta 2: Vazia<br>Porta 3: MAC PC 2</B>]]></text> 
+</component>
+
+<component id="ID_txt05_05">
+  <text><![CDATA[<B>Porta 1</B>]]></text> 
+</component>
+
+<component id="ID_txt06_05">
+  <text><![CDATA[<B>Porta 2</B>]]></text> 
+</component>
+
+<component id="ID_txt07_05">
+  <text><![CDATA[<B>Porta 3</B>]]></text> 
+</component>
+
+<component id="ID_txt08_05">
+<text><![CDATA[<b>Tabela MAC:<br/>Porta 1: MAC PC 1<br/>Porta 2: Vazia<br/>Porta 3: MAC PC 2</b>]]></text>
+</component>
+
+<component id="ID_txt09_05">
+<text><![CDATA[<b>Quadro</b>]]></text>
+</component>
+
+<component id="ID_txt10_05">
+<text><![CDATA[<b>Endereçamento MAC e tabelas MAC do switch</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_06">
+  <text><![CDATA[<B>PC1</B>]]></text> 
+</component>
+
+<component id="ID_txt02_06">
+  <text><![CDATA[<B>Quadro</B>]]></text> 
+</component>
+
+<component id="ID_txt03_06">
+  <text><![CDATA[<B>PC2</B>]]></text> 
+</component>
+
+<component id="ID_txt04_06">
+  <text><![CDATA[<B>Tabela MAC:<br>Porta 1: MAC PC 1<br>Porta 2: Vazia<br>Porta 3: MAC PC 2</B>]]></text> 
+</component>
+
+<component id="ID_txt05_06">
+  <text><![CDATA[<B>Porta 1</B>]]></text> 
+</component>
+
+<component id="ID_txt06_06">
+  <text><![CDATA[<B>Porta 2</B>]]></text> 
+</component>
+
+<component id="ID_txt07_06">
+  <text><![CDATA[<B>Porta 3</B>]]></text> 
+</component>
+
+<component id="ID_txt08_06">
+<text><![CDATA[<b>Tabela MAC:<br/>Porta 1: MAC PC 1<br/>Porta 2: Vazia<br/>Porta 3: MAC PC 2</b>]]></text>
+</component>
+
+<component id="ID_txt09_06">
+<text><![CDATA[<b>Quadro</b>]]></text>
+</component>
+
+<component id="ID_txt10_06">
+<text><![CDATA[<b>Endereçamento MAC e tabelas MAC do switch</b>]]></text>
+</component>
+
+</textcomponents>

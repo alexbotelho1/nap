@@ -1,0 +1,32 @@
+<textcomponents>
+
+<component id="ID_title">
+	<text></text>
+</component>
+
+<component id="ID_button_01">
+  <text><![CDATA[<b>Tabela</b>]]></text> 
+</component>
+  
+<component id="ID_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>	
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Diretrizes de configuração do VTP</b></font></td></tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>No servidor VTP.<ul><li>Confirme as configurações padrão</li><li>Configure 2 switches como servidores VTP</li><li>Configure o domínio VTP no primeiro switch na rede</li><li>Certifique-se de que todos os switches estejam no mesmo modo de versão do protocolo VTP</li><li>Configure as VLANs e as portas tronco</li></ul></td></tr>
+		
+		<tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>No cliente VTP.<ul><li>Confirme as configurações padrão</li><li>Configure o modo de cliente VTP</li><li>Configure os troncos</li><li>Conecte-se ao servidor VTP</li><li>Verifique o status do VTP</li><li>Configure as portas de acesso</li></ul></td></tr></table>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Servidor VTP</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Cliente VTP</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Cliente VTP</b>]]></text> 
+  </component>
+
+
+</textcomponents>

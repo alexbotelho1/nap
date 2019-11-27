@@ -1,0 +1,34 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Restringindo o acesso administrativo</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Acesso local a R2]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Administração<br />Host</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Acesso remoto a R2]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Rede local de gerenciamento</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Registrando host]]></text>
+</component>
+
+<component id="ID_s1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_isp">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+</textcomponents>

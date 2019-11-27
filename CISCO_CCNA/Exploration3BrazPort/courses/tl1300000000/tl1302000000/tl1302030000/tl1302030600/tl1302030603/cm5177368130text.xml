@@ -1,0 +1,55 @@
+﻿<textcomponents>
+<component id="ID_caption01">
+<text><![CDATA[<b>Configurar uma interface da Web </b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Pc1</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>F0/18</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="bubble_text">
+<text><![CDATA[<b>PC de gerenciamento</b>]]></text>
+</component>
+<component id="tableHTML">
+  <text><![CDATA[
+ <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+ 	
+ 	<tr>
+ 		
+ 				<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Sintaxe de comando da CLI do Cisco IOS</b></font></td>
+ 				<td width="270" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter"> </font></td>
+ 	</tr>			
+
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Alterne do modo EXEC privilegiado para o modo de configuração global.</td>
+		<td width="270" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1#<b>configure terminal</b></font></td>
+	</tr>
+	
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Configure a interface de servidor HTTP para tipo de habilitação da autenticação. As outras opções são: <br/>enable - senha de enable, que é o método padrão de autenticação do usuário do servidor HTTP usado. <br/>local - Banco de dados do usuário local, conforme a definição no roteador Cisco ou o servidor de acesso, usado. <br/>tacacs - Servidor TACACS usado. </td>
+		<td width="270" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config)#<b>ip http authentication enable</b></font></td>
+	</tr>
+	<tr>
+			
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Habilitado o servidor HTTP.</td>
+		<td width="270" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config)#<b>ip http server</b></font></td>
+	</tr>
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Volte a modo EXEC privilegiado. </td>
+		<td width="270" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1(config)#<b>end</b></font></td>
+	</tr>
+
+	<tr>	
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Salve a configuração de execução na configuração de inicialização do switch.</td>
+		<td width="270" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face="_typewriter">S1#<b>copy running-config startup-config</b></font></td>
+	</tr>		
+</table>]]></text> 
+  </component>
+</textcomponents>

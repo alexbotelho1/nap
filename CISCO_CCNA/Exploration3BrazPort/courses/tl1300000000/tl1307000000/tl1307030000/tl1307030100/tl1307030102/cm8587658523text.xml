@@ -1,0 +1,97 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>Definindo configurações sem fio básicas</B>]]></text>
+</component> 
+  
+<component id="ID_button_01">
+  <text><![CDATA[<B>Visão geral</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Modo</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>SSID</B>]]></text> 
+</component>
+
+<component id="ID_button_04">
+  <text><![CDATA[<B>Faixa de rádio</B>]]></text> 
+</component>
+
+<component id="ID_button_05">
+  <text><![CDATA[<B>Canal amplo</B>]]></text> 
+</component>
+
+<component id="ID_button_06">
+  <text><![CDATA[<B>Canal padrão</B>]]></text> 
+</component>
+
+<component id="ID_01">
+  <text><![CDATA[<B>1</B>]]></text> 
+</component>
+
+<component id="ID_02">
+  <text><![CDATA[<B>2</B>]]></text> 
+</component>
+
+<component id="ID_03">
+  <text><![CDATA[<B>3</B>]]></text> 
+</component>
+
+<component id="ID_04">
+  <text><![CDATA[<B>4</B>]]></text> 
+</component>
+
+<component id="ID_05">
+  <text><![CDATA[<B>5</B>]]></text> 
+</component>
+
+<component id="ID_06">
+  <text><![CDATA[<B>6</B>]]></text> 
+</component>
+
+<component id="ID_txt01-1">
+  <text><![CDATA[<B>Selecione o modo de rede:<br/><ul><li>Mixed<li>BG-Mixed</li><li>Wireless-B Only</li><li>Wireless-G Only</li><li>Wireless-N Only</li><li>Disabled</li></B>]]></text> 
+</component>
+
+<component id="ID_txt02-1">
+  <text><![CDATA[<B>Altere o SSID padrão</B>]]></text> 
+</component>
+
+<component id="ID_txt03-1">
+  <text><![CDATA[<B>Defina os canais de RF.</B>]]></text> 
+</component>
+
+<component id="ID_txt04-1">
+  <text><![CDATA[<B>Selecione o SSID<br/>Opção de broadcast.</B>]]></text> 
+</component>
+
+
+<component id="ID_txt01-2">
+  <text><![CDATA[<B>Selecione o modo satisfatório para todos os dispositivos na rede local sem fio. O padrão é <font face ="Courier New Dynamic">Mixed.</font></B>]]></text> 
+</component>
+
+<component id="ID_txt01-3">
+  <text><![CDATA[<B>Altere o SSID padrão do <font face ="Courier New Dynamic">linksys.</font></B>]]></text> 
+</component>
+
+<component id="ID_txt01-4">
+  <text><![CDATA[<B>Selecione a faixa de rádio. Use Auto se dispositivos b, g e n usarem o ponto de acesso.</B>]]></text> 
+</component>
+
+<component id="ID_txt01-5">
+  <text><![CDATA[<B>Selecione a opção de Wide Channel.</B>]]></text> 
+</component>
+
+<component id="ID_txt01-6">
+  <text><![CDATA[<B>Quando o Network Mode não estiver definido como Wireless-N, a Radio Band fica como Standard.</B>]]></text> 
+</component>
+
+<component id="ID_txt02-6">
+  <text><![CDATA[<B>Para redes locais sem fio apenas com dispositivos b ou g, defina canais de RF padrão.</B>]]></text> 
+</component>
+
+
+</textcomponents>

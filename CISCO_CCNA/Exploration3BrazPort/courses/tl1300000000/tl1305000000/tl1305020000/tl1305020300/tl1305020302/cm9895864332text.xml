@@ -1,0 +1,50 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b> Configurar e verificar o BID</b>]]></text>
+</component>
+
+
+<component id="btn1">
+<text><![CDATA[Configuração]]></text>
+</component>
+<component id="btn2">
+<text><![CDATA[Verificação]]></text>
+</component>
+
+
+<!-- Slide 1 -->
+
+<component id="ID_txt02a">
+<text><![CDATA[Tronco1]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[Tronco2]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[Tronco3]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[Método 2</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Método 1</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Método 1</b>]]></text>
+</component>
+
+
+
+
+
+<!-- Slide 2 -->
+
+
+<component id="ID_txt02">
+<text><![CDATA[        ]]></text>
+</component>
+
+
+
+
+</textcomponents>

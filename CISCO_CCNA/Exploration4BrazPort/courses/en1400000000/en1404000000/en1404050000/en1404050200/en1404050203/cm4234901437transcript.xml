@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:41">
+<title><content-text><![CDATA[4.5.2  - Managing Cisco I O S Images]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts commands for managing configuration files. The structure is as follows.<br><br>Command syntax: command source-url: destination-url:<br>Command example: copy<br>Source-url example: system:, nvram:, or tftp:<br>Destination-url example: system:, nvram:, or tftp:<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

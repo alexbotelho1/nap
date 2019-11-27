@@ -1,0 +1,29 @@
+<textcomponents>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Métrica composta do EIGRP</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Fórmula composta padrão:<br/>métrica = <b>[K1*largura de banda + K3*atraso]</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Fórmula composta completa:<br/>métrica = <b>[K1*largura de banda + <font color='#FF0000'>(K2*largura de banda)/(256 - carga)</font> + K3*atraso] <font color='#FF0000'>* [K5/(confiabilidade + K4)]</font></b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Valores padrão:</b><br/>K1 (largura de banda) = 1<br/>K2 (carga) = 0<br/>K3 (atraso) = 1<br/>K4 (confiabilidade) = 0<br/>K5 (confiabilidade) = 0]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Os valores de "K" podem ser alterados com o comando <font face="_typewriter"><b>metric weights</b></font>.]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<font color='#FF0000'>(Não utilizado se o valor de "K" for 0)</font>]]></text>
+</component>
+
+
+</textcomponents>

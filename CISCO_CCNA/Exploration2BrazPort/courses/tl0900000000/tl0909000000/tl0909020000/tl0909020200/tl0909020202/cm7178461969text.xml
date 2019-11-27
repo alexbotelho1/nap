@@ -1,0 +1,14 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>IDs de processo único</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>EIGRP 1</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Embora o IOS Cisco faça referência ao parâmetro router eigrp como um "número de sistema autônomo", este parâmetro configura um processo do EIGRP-uma instância de EIGRP executada no roteador-e não tem nada a ver com as configurações de AS em roteadores de ISP.]]></text>
+</component>
+</textcomponents>

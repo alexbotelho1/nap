@@ -1,0 +1,33 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Acesso administrativo remoto com SSH</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Proteger túnel]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Administrativo<br />Host</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Host é um cliente SSH]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Rede local de gerenciamento</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Servidor SSH e cliente</b>]]></text>
+</component>
+
+<component id="ID_s1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_isp">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+</textcomponents>

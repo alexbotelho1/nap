@@ -1,0 +1,50 @@
+<textcomponents>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do roteador</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Eleição DR/BDR</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver a saída de comando.</b>]]></text>
+</component>
+
+<!--buttons-->
+<component id="slide1">
+<text><![CDATA[<b><font face="_typewriter">show ip ospf neighbor</font></b>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<b><font face="_typewriter">show ip ospf interface</font></b>]]></text>
+</component>
+
+<!-- topology -->
+<component id="ID_txt01">
+<text><![CDATA[<b>Roteador A</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Roteador B</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Roteador C</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Próxima ID de roteador mais alta</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>ID de roteador mais alta</b>]]></text>
+</component>
+
+<!-- output1 caption-->
+<component id="ID_txt06">
+<text><![CDATA[<b>A prioridade é igual ao valor padrão de 1.</b>]]></text>
+</component>
+
+</textcomponents>

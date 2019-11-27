@@ -1,0 +1,65 @@
+<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<B>Identificação e solução de problemas de uma interface serial</B>]]></text> 
+</component>
+
+<component id="ID_btn1">
+  <text><![CDATA[<B>Estados possíveis</B>]]></text> 
+  </component>
+<component id="ID_btn2">
+  <text><![CDATA[<B>Status</B>]]></text> 
+  </component>
+<component id="ID_btn3">
+  <text><![CDATA[<B>Controladores</B>]]></text> 
+  </component>
+<component id="ID_header1">
+  <text><![CDATA[<b>Linha de status</b>]]></text> 
+  </component>
+<component id="ID_header2">
+  <text><![CDATA[<b>Condição viável</b>]]></text> 
+  </component>
+<component id="ID_header3">
+  <text><![CDATA[<b>Problema/solução</b>]]></text> 
+  </component>
+
+<component id="ID_table">
+	<text><![CDATA[<table bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+<tr>
+<td width='120' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Serial x is up, line protocol is up </td>
+<td width='190' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Esta é a condição de status apropriada.</td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Nenhuma ação é obrigatória.</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Serial x is down, line protocol is down (DTE mode)</td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>O roteador não está detectando um sinal CD (carrier detect), o que significa que o CD não está ativo.<BR/>Ocorreu um problema no provedor de serviços da operadora WAN, o que significa que a linha está desativada ou não está conectada à CSU/DSU.<BR/>O cabeamento apresenta falha ou está incorreto.<BR/>Ocorreu uma falha no hardware (CSU/DSU).</td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1. Verifique os LEDs na CSU/DSU para saber se o CD está ativo, ou insira um breakout box (objeto para testes de sinais eletrônicos) na linha para verificar o sinal CD.<BR/>2. Verifique se o cabo apropriado e a interface estão sendo utilizados, observando a documentação da instalação do hardware.<BR/>3. Insira um breakout box (objeto para testes de sinais eletrônicos) e verifique todos os cabos de controle.<BR/>4. Coloque a linha alugada ou outro serviço de operadora em contato para saber se há um problema.<BR/>5. Troque as peças com defeito.<BR/>6. Se houver suspeita de hardware do roteador com defeito, altere a linha serial para outra porta. Se a conexão for ativada, a indicação é que a interface conectada anteriormente apresenta um problema.</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Serial x is up, line protocol is down (DTE mode)</td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Um roteador local ou remoto está configurado de maneira incorreta.<BR/>Os keepalives não estão sendo enviados pelo roteador remoto.<BR/>Ocorreu um problema na linha alugada ou em outro serviço da operadora, o que significa que há uma linha com ruído ou configurada de maneira incorreta, ou falha no switch.<BR/>Ocorreu um problema de timing no cabo, o que significa que uma transmissão de clock serial externa (SCTE) não foi definida na CSU/DSU. A SCTE foi projetada para compensar o desvio de fase do relógio em cabos longos. Quando o dispositivo DCE usa SCTE, e não seu relógio interno para amostrar dados do DTE, fica mais fácil obter amostra de dados sem erros, mesmo quando há um desvio de fase no cabo.<BR/>Houve uma falha em uma CSU/DSU local ou remota.<BR/>Houve falha no hardware do roteador, que pode ser local ou remoto.</td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1. Coloque o modem, CSU ou DSU no modo de loopback local e utilize o comando <FONT FACE='_typewriter'><B>show interfaces serial</B></FONT> para determinar se o protocolo de linha é carregado. Se o protocolo de linha for carregado, um problema no provedor de serviços da operadora WAN ou um roteador remoto com falha deverá ser o problema.<BR/>2. Se o problema aparentar estar na extremidade remota, repita a Etapa 1 no modem remoto, CSU ou DSU.<BR/>3. Verifique todo o cabeamento. Verifique se o cabo está conectado à interface correta, à CSU/DSU correta e ao ponto de terminação de rede do provedor de serviços da operadora WAN correto. Utilize o comando <FONT FACE='_typewriter'><B>show controllers </B></FONT>no modo exec para determinar o cabo conectado a qual interface.<BR/>4. Habilite o comando debug <b><font face= '_typewriter' >serial interface </font></b> no modo exec.<BR/>5. Se o protocolo de linha não surgir no modo de loopback local e se a saída de dados do comando <font face='_typewriter'><b>debug serial interface </b></font>no modo exec mostrar que o contador keepalive não está sendo incrementado, um problema de hardware no roteador deverá ser a causa. Troque o hardware da interface do roteador.<BR/>6. Se o protocolo de linha surgir e o contador keepalive for incrementado, o problema não estará no roteador local.<BR/>7. Se houver suspeita de hardware do roteador com defeito, altere a linha serial para uma porta não utilizada. Se a conexão for ativada. será indicado que a interface conectada anteriormente apresenta um problema.</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Serial x is up, line protocol is down (DCE mode)</td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>O comando clockrate de configuração da interface não foi encontrado.<BR/>O dispositivo DTE não suporta ou não está configurado para o modo SCTE (timing de terminal).<BR/>Houve falha na CSU ou na DSU remota.</td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1. Adicione o comando de configuração da interface <FONT FACE='_typewriter'><B>clockrate </B></FONT>na interface serial.<BR/>Sintaxe: <FONT FACE='_typewriter'><B>clockrate</B></FONT> <FONT FACE='_typewriter'><I>bps</I></FONT><BR/>Descrição da sintaxe:bps – clock rate desejado em bits por segundo:<BR/>1200, 2400, 4800, 9600, 19200, 38400, 56000, 64000, 72000, 125000, 148000, 250000, 500000, 800000, 1000000, 1300000, 2000000, 4000000 ou 8000000<BR/>2. Se o problema aparenta estar na extremidade remota, repita a Etapa 1 no modem remoto, CSU ou DSU.<BR/>3. Verifique se o cabo correto está sendo utilizado.<BR/>4. Se o protocolo da linha ainda estiver desativado, haverá uma falha possível no hardware ou um problema no cabeamento. Insira um breakout box (objeto para testes de sinais eletrônicos) e observe os cabos.<BR/>5. Troque as portas com defeito conforme necessário.</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Serial x is up, line protocol is up (looped)</td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Há um loop no circuito. O número de seqüência no pacote keepalive muda para um número aleatório quando se detecta um loop inicialmente. Se o mesmo número aleatório retornar no link, será sinal de que há um loop.</td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1. Utilize o comando <b><font face= '_typewriter'>show running-config</font></b> no modo exec privilegiado para procurar algumas entradas no comando de configuração da interface <b><font face= '_typewriter'>loopback</font></b>.<BR/>2. Se houver uma entrada no comando de configuração da interface <b><font face= '_typewriter' >loopback</font></b>, utilize o comando de configuração da interface <b><font face= '_typewriter' >no loopback</font></b> para remover o loop.<BR/>3. Se não houver nenhum comando de configuração da interface <b><font face= '_typewriter' >loopback</font></b>, examine a CSU/DSU para determinar se elas foram configuradas no modo de loopback manual. Se elas foram, desabilite o loopback manual.<BR/>4. Depois de desabilitar o modo loopback na CSU/DSU, redefina a CSU/DSU e inspecione o status da linha. Se o protocolo da linha for ativado, nenhuma ação será necessária.<BR/>5. Se, durante a inspeção, essa CSU ou DSU não puder ser definida manualmente, contacte a operadora do serviço para obter assistência na solução de problemas.</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Serial x is up, line protocol is down (disabled)</td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Houve uma alta taxa de erros por conta de um problema na operadora WAN.<BR/>Houve um problema no hardware de CSU ou DSU.<BR/>O hardware do roteador (interface) apresenta defeito.</td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1. Solucione problemas da linha com um analisador serial e um breakout box (objeto para testes de sinais eletrônicos). Veja se há sinais CTS e DSR alternados.<BR/>2. Coloque CSU/DSU em loop (loop DTE). Se o problema persistir, é provável que haja um problema no hardware. Se o problema cessar, é provável que a origem seja na operadora WAN.<BR/>3. Troque o hardware com defeito conforme necessário (CSU, DSU, switch, roteador remoto ou local).</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Serial x is administratively down, line protocol is down </td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Foi utilizado o comando de configuração de interface <FONT FACE='_typewriter'><B>shutdown</B></FONT>.<BR/>Há um endereço IP duplicado.</td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1. Verifique a configuração do roteador em busca do comando <b><font face='_typewriter'>shutdown</font></b>.<BR/>2. Utilize o comando de configuração da interface <b><font face= '_typewriter'>no shutdown </font></b>para remover o comando <b><font face= '_typewriter'>shutdown</font></b>.<BR/>3. Verifique se não há nenhum endereço IP idêntico utilizando o comando <B><font face='_typewriter'>show running-config</font></B> no modo exec privilegiado ou o comando <B><font face='_typewriter'>show interfaces </font></B>no modo exec.<BR/>4. Se houver endereços duplicados, resolva o conflito, alterando um dos endereços IP.</td>
+</tr>
+</table>]]></text>
+</component>
+</textcomponents>

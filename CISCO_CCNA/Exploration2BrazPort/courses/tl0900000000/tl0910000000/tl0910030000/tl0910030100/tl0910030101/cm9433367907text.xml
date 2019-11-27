@@ -1,0 +1,11 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Neste capítulo, você aprendeu a:</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<li>Descrever as características e os conceitos básicos dos protocolos de roteamento link-state.</li><li>Listar os benefícios e os requisitos dos protocolos de roteamento link-state.</li>]]></text> 
+</component>
+
+</textcomponents>

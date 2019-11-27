@@ -1,0 +1,47 @@
+<textcomponents>
+
+<component id="ID_omitted">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_omitted2">
+<text><![CDATA[<b><font face="_typewriter">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+<component id="ID_omitted3">
+<text><![CDATA[<b><font face="_typewriter">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+<component id="ID_omitted4">
+<text><![CDATA[<b><font face="_typewriter">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+<component id="ID_omitted5">
+<text><![CDATA[<b><font face="_typewriter">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+<component id="ID_omitted6">
+<text><![CDATA[<b><font face="_typewriter">(**saída do comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Clique para exibir a saída e os comandos do roteador.</b>]]></text>
+</component>
+
+<component id="slide1">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="slide3">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[Topologia RIP: <b>Cenário B</b>]]></text>
+</component>
+
+<component id="ID_router01">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+
+</textcomponents>

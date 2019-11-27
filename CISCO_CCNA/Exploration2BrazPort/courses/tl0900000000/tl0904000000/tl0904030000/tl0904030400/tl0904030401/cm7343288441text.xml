@@ -1,0 +1,45 @@
+<textcomponents>
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para exibir a animação.</b>]]></text>
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Atualizações sincronizadas</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Com o passar do tempo, as atualizações de roteamento periódicas podem tornar-se sincronizadas.</b>]]></text>
+</component>
+
+<component id="ID_title03">
+<text><![CDATA[<b>Atualizações sincronizadas podem causar colisões.</b>]]></text>
+</component>
+
+</textcomponents>

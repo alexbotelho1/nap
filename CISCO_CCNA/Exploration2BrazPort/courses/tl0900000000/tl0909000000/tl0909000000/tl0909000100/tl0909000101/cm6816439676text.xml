@@ -1,0 +1,57 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Protocolos de gateway interior</b>]]></text>
+</component>
+
+<component id="ID_eifor1">
+<text><![CDATA[<b>EIGRP para IPv6</b>]]></text>
+</component>
+
+<component id="ID_isfor2">
+<text><![CDATA[<b>IS-IS para IPv6</b>]]></text>
+</component>
+
+<component id="ID_isfor3">
+<text><![CDATA[<b>BGPv4 para IPv6</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Protocolos de gateway exterior</b>]]></text>
+</component>
+
+<component id="ID_header1">
+<text><![CDATA[<b>Protocolos de roteamento do vetor de distância</b>]]></text>
+</component>
+
+<component id="ID_header2">
+<text><![CDATA[<b>Protocolos de roteamento link-state</b>]]></text>
+</component>
+
+<component id="ID_header3">
+<text><![CDATA[<b>Vetor de caminho</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Classful</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Classless</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>IPv6</b>]]></text>
+</component>
+
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td glow='false' valign='top' type='dynamic'><font color='#FFFFFF'>Neste capítulo, você aprenderá a:</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Descrever os fundamentos e o histórico do EIGRP.</li><li>Descrever os recursos e operação do EIGRP.</li><li>Examinar os comandos de configuração básica de EIGRP e identificar suas finalidades.</li><li>Calcular a métrica composta utilizada pelo EIGRP.</li><li>Descrever os conceitos e a operação do DUAL.</li><li>Descrever os usos de comandos adicionais de configuração do EIGRP.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

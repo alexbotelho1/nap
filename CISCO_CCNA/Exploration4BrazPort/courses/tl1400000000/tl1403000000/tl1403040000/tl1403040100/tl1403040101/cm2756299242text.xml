@@ -1,0 +1,56 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<B>Configurando subinterfaces ponto-a-ponto</B>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<B>Operadora</B>]]></text> 
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[Subinterface]]></text> 
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[DLCI]]></text> 
+</component>
+
+<component id="ID_table1">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+<tr>
+<td width='228' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF">Parâmetros do comando </font><b><font color='#FFFFFF'><font face="_typewriter">interface serial</font></font></b></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color='#FFFFFF'><b>Descrição</b></font></td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><i>subinterface-number</i></font></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Número de subinterface no intervalo de 1 a 4294967293. O número de interface que precede o ponto final (.) deve corresponder ao número da interface física à qual essa subinterface pertence.</td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">multiponto</font></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Selecione essa opção se todos os roteadores estiverem na mesma sub-rede.</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter">ponto-a-ponto</font></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Selecione essa opção para que cada par de roteadores ponto-a-ponto tenha a sua própria sub-rede. Os links ponto-a-ponto normalmente usam uma máscara de sub-rede 255.255.255.252</td>
+</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_table2">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+<tr>
+<td width='228' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF">Parâmetros do comando </font><b><font color='#FFFFFF'><font face="_typewriter">frame-relay interface-dlci</font></font></b></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color='#FFFFFF'><b>Descrição</b></font></td>
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><i>dlci-number</i></font></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Define o número do DLCI local que está sendo vinculado à subinterface. Essa é a única maneira de vincular um DLCI derivado de LMI a uma subinterface, pois a LMI não conhece subinterfaces. Utilize o comando <font face="_typewriter">frame-relay interface-dlci</font> somente em subinterfaces.</td>
+</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_txt1">
+<text><![CDATA[<font face="_typewriter"><i>number.subinterface-number</i></font>]]></text> 
+</component>
+</textcomponents>

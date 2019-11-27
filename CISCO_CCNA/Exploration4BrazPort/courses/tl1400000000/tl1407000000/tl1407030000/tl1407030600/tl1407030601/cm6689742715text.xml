@@ -1,0 +1,85 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Considerações de roteamento IPv6</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Serviços aprimorados</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>ACL<br/>QoS<br/>etc.</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Exibição de<br/>topologia de rede</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Plano de controle</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Tabela de roteamento</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Informações de vizinho</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Gerenciamento de rede</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Pacote</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Mecanismos de encaminhamento</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Cisco Express Forwarding</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Plano de dados</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Decisão</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Pacote</b>]]></text>
+</component>
+
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Considerações do plano de controle:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Tamanho do endereço de IPv6</li><li>Vários endereços de nó do IPv6</li><li>Protocolos de roteamento IPv6</li><li>Tamanho da tabela de roteamento</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+<component id="ID_table02">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Considerações do plano de encaminhamento:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Análise dos cabeçalhos de extensão de IPv6</li><li>Busca de endereços IPv6</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13257" dateexported="07/12/2009">
+		<name>Teste do Módulo 6</name>
+		<form id="23014" lang="pt"><form-item>
+			<ai id="73927" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="73927" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>RIP v1</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>EIGRP</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>IGRP</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>IS-IS</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>OSPF</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>RIP v2</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Protocolos que suportam VLSM</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Protocolos que não suportam VLSM</mattext></material></textcomponent></component><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Divida os itens da esquerda nos alvos da direita, determinando o suporte para VLSM.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="10" yspacing="55" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="4" startTarg="1" labelStyle="1" /><display componentIdent="2" xpos="600" ypos="264.5" containsTargets="2" startTarg="5" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="137" /><display componentIdent="3" xpos="600" ypos="174" /><display componentIdent="4" xpos="600" ypos="211" /><display componentIdent="5" xpos="600" ypos="273" /><display componentIdent="6" xpos="600" ypos="310" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident><componentident>4</componentident></scoringzone><scoringzone ident="2"><componentident>5</componentident><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="VLSM" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="VLSM" view="All">nenhuma descrição fornecida</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>2</componentident><componentident>4</componentident><componentident>5</componentident><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>3</componentident><componentident>1</componentident></scoringzonecontains></conditionvar><setvar varname="VLSM" action="Set">1</setvar><scoringdescription>suporte eigrp is-is ospf rip v2 sem suporte rip v1 igrp</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="159827" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="159827" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>capacidade de dividir um endereço IP em sub-redes diferentes</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>integração de vários endereços de rede IP em um único endereço IP</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>capacidade de especificar uma máscara de sub-rede diferente para o mesmo número de rede e sub-redes diferentes</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>também conhecido como super-redes</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>mantém o espaço do endereço</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>usado para reduzir o número de entradas em uma tabela de roteamento</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>VLSM</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Compactação de rota</mattext></material></textcomponent></component><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext></mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste a descrição à esquerda até o termo apropriado à direita. (Nem todas as opções são usadas.)</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-137.5" targetYspacing="21" yspacing="65" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="135" /><display componentIdent="3" xpos="200" ypos="195" /><display componentIdent="4" xpos="200" ypos="255" /><display componentIdent="5" xpos="200" ypos="315" /><display componentIdent="6" xpos="200" ypos="375" /></options><labels><display componentIdent="1" xpos="600" ypos="85.5" containsTargets="2" startTarg="1" labelStyle="1" /><display componentIdent="3" xpos="600" ypos="214.5" containsTargets="3" startTarg="3" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="152" /><display componentIdent="3" xpos="600" ypos="229" /><display componentIdent="4" xpos="600" ypos="281" /><display componentIdent="5" xpos="600" ypos="333" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident></scoringzone><scoringzone ident="2"><componentident>3</componentident><componentident>4</componentident><componentident>5</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="206296" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="206296" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>3</componentident><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>4</componentident><componentident>6</componentident><componentident>2</componentident></scoringzonecontains></conditionvar><setvar varname="206296" action="Set">1</setvar><scoringdescription>VLSM: especifica uma máscara diferente e preserva espaço/compactação de rota: integração de endereços IP/super-redes/reduz a tabela de roteamento</scoringdescription></responcondition><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>5</componentident><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>4</componentident><componentident>6</componentident><componentident>2</componentident></scoringzonecontains></conditionvar><scoringdescription>VLSM: especifica uma máscara diferente e preserva espaço/compactação de rota: integração de endereços IP/super-redes/reduz a tabela de roteamento</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="159808" type="mc-ma"><question><![CDATA[Quais foram os dois métodos usados para permitir o uso contínuo do endereçamento do protocolo IPv4 depois que os hosts disponíveis foram todos usados? (Escolha dois).  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[sub-redes de tamanho variável  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[o intervalo de endereços do protocolo IPv4 foi expandido ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[os endereços particulares foram usados com a tradução de endereço  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[o roteamento classful foi implementado ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O protocolo IPv foi substituído pelo protocolo IPv para todos os hosts. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[as super-redes foram implementadas ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="73721" type="mc-ma"><question><![CDATA[As seguintes máscaras de sub-rede foram escolhidas para serem utilizadas com a rede 192.168.16.0:<br /><br />255.255.255.252<br />255.255.255.240<br />255.255.255.192<br /><br />Quais das alternativas a seguir identificam a utilização mais eficiente de cada uma dessas máscaras? (Escolha três.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[Usar a máscara /30 para links ponto a ponto, tais como conexões WAN.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Usar a máscara /30 para sub-redes de quatro ou mais hosts. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Usar a máscara /28 para sub-redes pequenas de até 14 hosts.  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Usar a máscara /26 para sub-redes maiores de até 62 hosts.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Usar a máscara /25 para sub-redes de até 30 hosts. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Usar a máscara /24 para links ponto a ponto, tais como conexões WAN. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159807" type="mc-sa"><question><![CDATA[Ao usar um esquema de endereços IP de classe A de classe completa quantos octetos são usados para designar a porção da rede do endereço?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[1  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[2 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[3 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[4 ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="73914" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="73914" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>172.16.64.0/18</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>172.16.16.64/30</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>172.16.128.0/19</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>172.16.144.0/25</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>172.16.18.0/24</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>172.16.5.128/26</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>172.16.10.128/28</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>2 hosts</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>60 hosts</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>250 hosts</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>8000 hosts</mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>16.000 hosts</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="760"><material><mattext>Selecione as sub-redes VLSM da rede 172.16.0.0 que oferecerão simultaneamente a quantidade total de hosts necessários em cada sub-rede. Faça a correspondência entre a sub-rede e a quantidade de hosts necessários, arrastando as opções da esquerda para os alvos da direita. Nem todas as opções serão usadas.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-98" targetYspacing="16" yspacing="45" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /><display componentIdent="7" xpos="200" ypos="315" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="112" /><display componentIdent="3" xpos="600" ypos="149" /><display componentIdent="4" xpos="600" ypos="186" /><display componentIdent="5" xpos="600" ypos="223" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><scoringzone ident="5"><componentident>5</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="obs1" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="obs1" view="All">nenhuma descrição fornecida</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="5"><componentident>1</componentident></scoringzonecontains></conditionvar><setvar varname="obs1" action="Set">1</setvar><scoringdescription>2 hosts /30 60 hosts .161.0/26 250 hosts 160.0/26 8000hosts /19 1600000 hosts /18</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="159470" type="mc-sa"><question><![CDATA[Consulte a exibição. Um engenheiro de rede está resumindo os dois grupos de rotas no Roteador R1 mostrado na exibição. Que compactação irá funcionar para todas as sub-redes? <br/><img src="i159470n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[192.168.0.0/23 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[192.168.0.0/22 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[192.168.0.0/21  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[192.168.0.0/20 ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159806" type="mc-sa"><question><![CDATA[Quantos bits são usados no espaço de endereço do protocolo IPv4?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[8 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[12 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[16 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[30 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[32  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[64 ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="67063" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="67063" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!--  *********** OPTIONS ***********  --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>192.14.0.0</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>191.254.45.0</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>123.90.78.45</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>128.44.0.23</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>129.68.11.45</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>126.0.0.0</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>198.162.11.0</mattext></material></textcomponent></component><component ident="8" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>125.33.23.56</mattext></material></textcomponent></component><!--  ***********  LABELS  ***********  --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Endereços Classe A</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Endereços Classe B</mattext></material></textcomponent></component><!--  ***********  TARGETS  ***********  --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><!--  ***********  STEM  ***********  --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Categorize cada endereço, colocando-o no grupo apropriado. Nem todos os itens serão utilizados.</mattext></material></textcomponent></component></components><!--  ***********  PRESENTATION  ***********  --><presentation><layout category="A" initY="-150" targetYspacing="16" yspacing="48" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /><display componentIdent="7" xpos="200" ypos="315" /><display componentIdent="8" xpos="200" ypos="355" /></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="3" startTarg="1" labelStyle="1" /><display componentIdent="2" xpos="600" ypos="227.5" containsTargets="3" startTarg="4" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="137" /><display componentIdent="3" xpos="600" ypos="174" /><display componentIdent="4" xpos="600" ypos="236" /><display componentIdent="5" xpos="600" ypos="273" /><display componentIdent="6" xpos="600" ypos="310" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!--  ***********  SCORING  ***********  --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident></scoringzone><scoringzone ident="2"><componentident>4</componentident><componentident>5</componentident><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="50877" maxvalue="1"><title>nenhum título</title></decvar><interpretvar varname="50877" view="All">nenhuma descrição dada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>3</componentident><componentident>6</componentident><componentident>8</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident><componentident>4</componentident><componentident>5</componentident></scoringzonecontains></conditionvar><setvar varname="50877" action="Set">1</setvar><scoringdescription>A=123...,126...,125,...B=191...,128...,129...</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="159476" type="mc-sa"><question><![CDATA[Consulte a exibição. O administrador de rede deseja minimizar o número de entradas na tabela de roteamento do Roteador1. O que o administrador deve implementar na rede? <br/><img src="i159476n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[VLSM ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[CIDR  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[endereços IP particulares ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[roteamento classful ]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam> 

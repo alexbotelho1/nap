@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="5_2_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Network Operating Systems</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>A Trojan Attack</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Possible Losses due to a Virus, Worm, or Trojan Attack
+</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT-01">
+        <source>Desktop
+OS</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_001">
+        <source>TCP</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_002">
+        <source>IP</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_02">
+        <source>Desktop System</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_03">
+        <source>Audio
+Codecs</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_04">
+        <source>Video
+Codecs</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_004">
+        <source>Server System</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_005">
+        <source>Server
+OS</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_05">
+        <source>RAS
+(H.225.0)</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_06">
+        <source>
+H.245</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_006">
+        <source>Netware</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_007">
+        <source>Linux/Unix</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_07">
+        <source>Q.931(H.225.0)</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_08">
+        <source>RTP/RTCP</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_09">
+        <source>UDP</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_009">
+        <source>Protocol Stack</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_10">
+        <source>Netware: </source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_11">
+        <source>Old versions used IPX\SPX. Later versions switched to TCP/IP. Popular in early 1990s, but lost market share when Microsoft introduced Windows 95. </source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_12">
+        <source>Windows: </source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_13">
+        <source>Uses TCP/IP. Active Directory is comparable to Novell Directory Services. Microsoft Server have a major portion of market share due to simplicity. Novell servers typically needed a Certified Novell Expert (CNE) to setup and maintain. </source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_14">
+        <source>Linux/UNIX:</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_15">
+        <source>Open source software that never requires licensing. Most distributions are not proprietary. Typically used on servers.</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

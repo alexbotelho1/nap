@@ -1,0 +1,5 @@
+<transcript lastedited="11.21.08 08:11:24">
+<title><content-text><![CDATA[3.2.1  - Configuring Basic Frame Relay]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts required and optional Frame Relay configuration tasks.<br><br>Network Topology:<br>PC1 is connected to switch S1, which is connected to router R1. R1 is connected to the Frame Relay cloud. PC3 is connected to switch S3, which is connected to router R3. R3 is also connected to the Frame Relay cloud so that the two routers and networks can communicate.<br><br>PC1 IP address: 192.168.10.10/24<br>PC3 IP address: 192.168.30.10/24<br><br>Required Tasks:<br>- Enable Frame Relay encapsulation on an interface.<br>- Configure dynamic or static address mapping.<br><br>Optional Tasks:<br>- Configure the LMI.<br>- Configure Frame Relay SVC's.<br>- Configure Frame Relay traffic shaping.<br>- Customize Frame Relay for your network.<br>- Monitor and maintain Frame Relay connections.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

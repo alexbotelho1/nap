@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 08:12:38">
+<title><content-text><![CDATA[5.2.4 - Applying Standard ACL's to Interfaces]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts using an ACL to control v t y access. A PC is connected to a cloud, which is connected to a router with physical port FastEthernet 0/0 and virtual ports (v t y 0 to 4) labeled. The following commands are used to create an ACL and apply it to the V T Y ports.<br><br>R1(config)#access-list 21 permit 192.168.10.0 0.0.0.255<br>R1(config)#access-list 21 permit 192.168.11.0 0.0.0.255<br>R1(config)#access-list 21 deny any<br><br>R1(config)#line v t y 0 4<br>R1(config-line)#login<br>R1(config-line)#password secret<br>R1(config-line)#access-class 21 in]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,47 @@
+<textcomponents>
+
+<component id="button1">
+		<text><![CDATA[<b><font face="_typewriter">show ip route</font></b>]]></text>
+	</component>
+	
+<component id="button2">
+		<text><![CDATA[<b>Mensagens não solicitadas do IOS</b>]]></text>
+	</component>
+	
+<component id="button3">
+		<text><![CDATA[<b>Registrando em log síncrono</b>]]></text>
+	</component>
+	
+	
+
+  
+
+
+<component id="ID_Title02">
+  <text><![CDATA[<b>Tabela de roteamento não tem nenhuma rota</b>]]></text>
+  </component>
+<component id="ID_Title03">
+  <text><![CDATA[<b>Entrada de comando interrompida por IOS</b>]]></text>
+  </component>
+<component id="ID_Title04">
+  <text><![CDATA[<b>Sincronizando mensagens do IOS e entrada de comando</b>]]></text>
+  </component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Clique para ver as várias saídas do roteador.</b>]]></text>
+  </component>
+ 
+ 
+
+<component id="ID_buttonText">
+    		<text><![CDATA[<b>Saída do<br>roteador</b>]]></text> 
+    </component>
+
+<component id="ID_txt32">
+  <text><![CDATA[ <b>O comando <font face="_typewriter">description</font> foi interrompido por mensagens não solicitadas do IOS.</b>]]></text>
+  </component>
+<component id="ID_txt33">
+  <text><![CDATA[<b>Entrada de teclado copiada depois da mensagem</b>]]></text>
+  </component>
+
+</textcomponents>

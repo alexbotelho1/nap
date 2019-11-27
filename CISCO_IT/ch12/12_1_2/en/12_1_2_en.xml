@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="12_1_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>•</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CONTENT 02">
+        <source>As redes por satélite são mais rápidas que as conexões discadas, mas são mais lentas que as conexões por cabo e DSL.
+
+O serviço de satélite é ideal para usuários de Internet em área rural ou remota.
+
+O download de arquivos é mais rápido que o upload de arquivos.
+
+Condições de tempo adversas podem interferir na recepção do satélite.</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ISLQ3-QCORRECT_TEXT">
+        <source>&lt;b&gt;Correto!&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ISLQ3-QOPTION_TEXT1">
+        <source>Protocolo de recuperação de e-mails</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ISLQ3-QOPTION_TEXT2">
+        <source>Automatiza a atribuição de endereços IP</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ISLQ3-QOPTION_TEXT3">
+        <source>FTP (File Transfer Protocol, protocolo de transferência de arquivos)</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_ISLQ3-QOPTION_TEXT4">
+        <source>Converte URLs em endereços IP</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_ISLQ3-QOPTION_TEXT5">
+        <source>Define como é realizada a troca de arquivos na Web</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_ISLQ3-QQUESTION_TEXT">
+        <source>&lt;b&gt;Selecione sua resposta arrastando as opções para a posição desejada e clique em Verificar.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_ISLQ3-QSLOTLABEL_TEXT1">
+        <source>&lt;b&gt;POP&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_ISLQ3-QSLOTLABEL_TEXT2">
+        <source>&lt;b&gt;DHCP&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_ISLQ3-QSLOTLABEL_TEXT3">
+        <source>&lt;b&gt;FTP&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_ISLQ3-QSLOTLABEL_TEXT4">
+        <source>&lt;b&gt;DNS&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_ISLQ3-QSLOTLABEL_TEXT5">
+        <source>&lt;b&gt;HTTP&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_ISLQ3-QTITLE_TEXT">
+        <source>Atividade sem fio</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_ISLQ3-QTRYAGAIN_TEXT">
+        <source>&lt;b&gt;Tente novamente.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S1_TXT_1">
+        <source>Protocolo de recuperação de e-mails</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S1_TXT_2">
+        <source>Automatiza a atribuição de endereços IP</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S1_TXT_3">
+        <source>FTP (File Transfer Protocol, protocolo de transferência de arquivos)</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S1_TXT_4">
+        <source>Converte URLs em endereços IP</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S1_TXT_5">
+        <source>Define como é realizada a troca de arquivos na Web</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S1_TXT_6">
+        <source>Satélite</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_S1_TXT_7">
+        <source>Características</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_S2_TXT_1">
+        <source>Bluetooth
+</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_S2_TXT_2">
+        <source>Tecnologia de alcance limitado que usa os LEDs para transmitir dados</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_S2_TXT_3">
+        <source>Infravermelho                                                                    </source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_S2_TXT_4">
+        <source>Tecnologia Wireless para LANs
+                                                                    </source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_S2_TXT_5">
+        <source>WAN para celular                                                                         </source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_S2_TXT_6">
+        <source>Adequada para locais remotos                                                                          </source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_S2_TXT_7">
+        <source>WiFi                                                                     </source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_S2_TXT_8">
+        <source>Cria uma WPAN (Wireless Personal Area Network, rede pessoal sem fio)                                                                      </source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_S2_TXT_9">
+        <source>Satélite                                                                            </source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_S2_TXT_10">
+        <source>Permite a transmissão de dados pela rede de telefonia sem fio                                                            </source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_S2_YYY_10">
+        <source>
+</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TITLE1">
+        <source>Protocolos de rede </source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TITLE2">
+        <source>Atividade do protocolo</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_002">
+        <source>Um Protocolo de Transporte de Hipertexto define como é realizada a troca de arquivos na Web</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_003">
+        <source>O Protocolo de transferência de arquivos fornece serviços para a transferência e a manipulação de arquivos</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_004">
+        <source>O Protocolo de correio recupera mensagens de e-mail a partir de um servidor de e-mails</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_005">
+        <source>Os Serviços de nomes de domínio converte os URLs dos sites em endereços IP</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

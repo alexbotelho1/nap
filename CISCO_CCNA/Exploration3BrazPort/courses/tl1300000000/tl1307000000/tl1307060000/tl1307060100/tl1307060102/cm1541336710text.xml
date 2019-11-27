@@ -1,0 +1,263 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para saber a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para ver a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+
+
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1)<TEXTFORMAT BLOCKINDENT='17'> Faça a correspondência do termo à esquerda com a descrição apropriada.</textformat>]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 7.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' width='200' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>___Ponto de acesso sem fio</td>
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>A. Executa a função de um switch, um roteador e um ponto de acesso.</td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>___Placa de rede sem fio</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>B. Codifica um fluxo de dados em um sinal RF.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>___Roteador para rede sem fio</td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>C. Não obrigatório para comunicação RF entre dois dispositivos.</td>
+  </tr>
+</table>]]></text>
+</component>
+<component id="ID_Q1_txt05b">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' width='200' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  C  </u></b> Ponto de acesso sem fio</td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>A. Executa a função de um switch, um roteador e um ponto de acesso.</td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  B  </u></b> Placa de rede sem fio</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>B. Codifica um fluxo de dados em um sinal RF.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  A  </u></b> Roteador para rede sem fio</td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>C. Não obrigatório para comunicação RF entre dois dispositivos.</td>
+  </tr>
+</table>]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Um protocolo de roteamento classless inclui a máscara de sub-rede na atualização de roteamento.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2)<TEXTFORMAT BLOCKINDENT='17'> Qual é a abreviação para cada uma das tecnologias sem fio descritas?</textformat>]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 7.2)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><font color='#FFFFFF'>Acesso aberto</font></td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><font color='#FFFFFF'>Criptografia da primeira geração</font></td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><font color='#FFFFFF'>Ínterim</font></td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><font color='#FFFFFF'>Presente</font></td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>_________</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>_________</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>_________</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>_________</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><ul><li>Sem criptografia</li><li>Autenticação básica</li><li>Não é um processador de segurança</li></ul></td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><ul><li>Nenhuma autenticação forte</li><li>Chaves estáticas, divididas</li><li>Não escalável</li></ul></td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><ul><li>Padronizado</li><li>Criptografia aprimorada</li><li>Autenticação forte, com base no usuário (por exemplo, LEAP, PEAP, EAP-FAST)</li></ul></td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><ul><li>Criptografia AES</li><li>Autenticação de 802.1X</li><li>Gerenciamento de chave dinâmico</li><li>WPA2 é a implementação do Wi-Fi Alliance do 802.11i</li></ul></td>
+  </tr>
+</table>
+]]></text>
+</component>
+<component id="ID_Q2_txt06b">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><b><font color='#FFFFFF'>Acesso aberto</font></b></td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><b><font color='#FFFFFF'>Criptografia da primeira geração</font></b></td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><b><font color='#FFFFFF'>Ínterim</font></b></td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><b><font color='#FFFFFF'>Presente</font></b></td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>SSID</u></b></td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>WEP</u></b></td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>WPA</u></b></td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>802.11i/WPA2</u></b></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><ul><li>Sem criptografia</li><li>Autenticação básica</li><li>Não é um processador de segurança</li></ul></td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><ul><li>Nenhuma autenticação forte</li><li>Chaves estáticas, divididas</li><li>Não escalável</li></ul></td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><ul><li>Padronizado</li><li>Criptografia aprimorada</li><li>Autenticação forte, com base no usuário (por exemplo, LEAP, PEAP, EAP-FAST)</li></ul></td>
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><ul><li>Criptografia AES</li><li>Autenticação de 802.1X</li><li>Gerenciamento de chave dinâmico</li><li>WPA2 é a implementação do Wi-Fi Alliance do 802.11i</li></ul></td>
+  </tr>
+</table>
+]]></text>
+</component>
+
+
+
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Você pode responder esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3)<TEXTFORMAT BLOCKINDENT='17'> Para a segurança de rede sem fio mais rudimentar, quais duas das configurações exibidas devem ser alteradas?</textformat>]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 7.3)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>1) Altere o SSID para algo diferente de "linksys".<br/><br/>2) Altere a configuração de Broadcast de SSID para "Desabilitado</b>."]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Você pode responder esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4)<TEXTFORMAT BLOCKINDENT='17'> Consulte a <a href='asfunction:_parent._parent.openPopUp'><font color="#0000FF"><u>figura</u></font>.</a> O laptop à esquerda não consegue se comunicar com o resto da rede. Quais são os três possíveis problemas?</textformat>]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 7.4)]]></text>
+</component>
+
+<component id="ID_Q4_txt05">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>1) </td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>2) </td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>3) </td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>4) </td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>5) </td>
+  </tr>
+  <tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>6) </td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>7) </td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>8) </td>
+  </tr>
+</table>]]></text>
+</component>
+
+
+<component id="ID_Q4_txt05b">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>1) O SSID não corresponde ao SSID de WRS3.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>2) O modo de segurança não corresponde ao modo de segurança de WRS3 (por exemplo, WEP, WPA, WPA2).</td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>3) A chave de segurança não corresponde à chave de segurança de WRS3.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>4) A configuração de canal não corresponde à configuração de canal de WRS3.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>5) Há interferência de RF ou a distância até WSR3 é muito grande.</td>
+  </tr>
+  <tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>6) Os drivers do laptop precisam ser atualizados para suportar o protocolo de rede sem fio apropriado.</td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>7) O firmware em WSR3 precisa ser atualizado para suportar o protocolo de rede sem fio apropriado.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>8) O usuário do laptop não pode fazer autenticação para obter acesso à rede.</td>
+  </tr>
+</table>]]></text>
+</component>
+
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Assim são concluídas as perguntas da seção "Problemas e discussão" deste capítulo.</b>]]></text>
+</component>
+
+</textcomponents>

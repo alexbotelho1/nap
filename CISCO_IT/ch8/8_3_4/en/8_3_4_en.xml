@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_3_4.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ISLQ3-QCORRECT_TEXT">
+        <source>&lt;b&gt;Correto!&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ISLQ3-QOPTION_TEXT1">
+        <source>Um protocolo usado para transportar dados em uma rede Novell Netware</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ISLQ3-QOPTION_TEXT2">
+        <source>Um protocolo pequeno e rápido desenvolvido para uma rede de grupo de trabalhos que não requer conexão com a Internet</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ISLQ3-QOPTION_TEXT3">
+        <source>Um protocolo usado para transportar dados na Internet</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ISLQ3-QOPTION_TEXT4">
+        <source>Um protocolo que usa conexão baseada em texto com um computador TCP/IP remoto</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ISLQ3-QOPTION_TEXT5">
+        <source>Um protocolo usado para enviar e-mail em uma rede TCP/IP</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_ISLQ3-QQUESTION_TEXT">
+        <source>&lt;b&gt;Selecione sua resposta arrastando as opções para a posição desejada e clique em Verificar.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_ISLQ3-QSLOTLABEL_TEXT1">
+        <source>&lt;b&gt;IPX/SPX&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_ISLQ3-QSLOTLABEL_TEXT2">
+        <source>&lt;b&gt;Netbeui/Netbios&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_ISLQ3-QSLOTLABEL_TEXT3">
+        <source>&lt;b&gt;TCP/IP&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_ISLQ3-QSLOTLABEL_TEXT4">
+        <source>&lt;b&gt;Telnet&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_ISLQ3-QSLOTLABEL_TEXT5">
+        <source>&lt;b&gt;SMTP&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_ISLQ3-QTITLE_TEXT">
+        <source>Atividade de tipos de rede</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_ISLQ3-QTRYAGAIN_TEXT">
+        <source>&lt;b&gt;Tente novamente.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TITLE1">
+        <source>Protocolos</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TITLE2">
+        <source>Detalhes de protocolos comuns</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TITLE3">
+        <source>Protocolos de rede</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_01">
+        <source>TCP/IP</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_02">
+        <source>IPX/SPX</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_03">
+        <source>NetBEUI</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_04">
+        <source>AppleTalk</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_05">
+        <source>HTTP</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_06">
+        <source>FTP</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_07">
+        <source>SSH</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_08">
+        <source>TELNET</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_09">
+        <source>POP</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_10">
+        <source>IMAP</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_11">
+        <source>SMTP</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_12">
+        <source>O conjunto de protocolos TCP/IP tornou-se o padr? dominante para a interliga?o de redes. O TCP/IP representa um conjunto de padr?s p?licos que especificam como ser_ a troca dos pacotes de informa?es entre os computadores de uma ou mais redes.</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_13">
+        <source>O Internetwork Packet Exchange/Sequenced Packet Exchange é o conjunto de protocolos usado originalmente pelo sistema operacional de rede da Novell Corporations, o NetWare Suas funções são semelhantes às funções do TCP/IP. As versões atuais da Novell oferecem suporte ao conjunto TCP/IP. Ainda existem grandes redes do NetWare instaladas que continuam usando o IPX/SPX.</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_14">
+        <source>A Interface de usuário estendida de NetBIOS é um protocolo usado principalmente em pequenas redes do Windows NT. A NetBEUI não pode ser roteada nem usada por roteadores para estabelecer a comunicação uns com os outros em uma grande rede.  A NetBEUI é adequada para redes ponto-a-ponto que envolvam um número pequenos de computadores conectados diretamente uns aos outros. Ela pode ser usada em conjunto com outro protocolo roteável, como TCP/IP. Isso fornece ao administrador da rede as vantagens de um alto desempenho da NetBEUI na rede local, bem como a capacidade de se comunicar pela rede local usando o TCP/IP.</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_15">
+        <source>AppleTalk é um conjunto de protocolos para redes com computadores Macintosh. Composto por um conjunto abrangente de protocolos que atinge as sete camadas do modelo de referência OSI (Open System Interconnection, interconexão dos sistemas abertos). O protocolo AppleTalk foi desenvolvido para ser executado com LocalTalk, que é a topologia física da rede local da Apple. Também é projetado para ser executado em tipos maiores de LAN, como Ethernet e Token Ring.</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_16">
+        <source>O Protocolo de Transferência de Hipertexto (HTTP) controla a troca de arquivos de texto, gráficos, sons e vídeo na rede mundial (WWW). O IETF (Internet Engineering Task Force, força-tarefa de engenharia de Internet) desenvolveu os padrões para o HTTP.</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_17">
+        <source>O Protocolo de Transferência é um protocolo que fornece serviços para a transferência e a manipulação de arquivos O FTP permite várias conexões simultâneas a sistemas de arquivos remotos.</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_18">
+        <source>O Secure Socket Host (host de conexão segura) é usado para conectar com segurança um computador remoto.</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_19">
+        <source>Telnet é um aplicativo usado para conectar um computador remoto, mas faltam recursos de segurança.</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_20">
+        <source>O POP (Post Office Protocol, protocolo de correio) é usado para fazer download de e-mails a partir de um servidor de e-mails remoto.</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_21">
+        <source>O IMAP (Internet Message Access Protocol, protocolo de acesso às mensagens de Internet) também é usado para fazer download de e-mails a partir de um servidor de e-mails remoto.</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_22">
+        <source>O SMTP (Simple Mail Transfer Protocol, protocolo de transferência de correio simples) é usado para enviar e-mails a partir de um servidor de e-mails remoto.</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_23">
+        <source>Protocolo</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_24">
+        <source>TCP/IP</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_25">
+        <source>NETBEUI/NETBIOS</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_26">
+        <source>IPX/SPX</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TXT_27">
+        <source>HTTP/HTTPS</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TXT_28">
+        <source>FTP</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TXT_29">
+        <source>SSH</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TXT_30">
+        <source>Telnet</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TXT_31">
+        <source>POP</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TXT_32">
+        <source>IMAP</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TXT_33">
+        <source>SMTP</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TXT_34">
+        <source>Descri?o</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TXT_35">
+        <source>Um protocolo usado para transportar dados na Internet</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TXT_36">
+        <source>Um protocolo pequeno e rápido desenvolvido para uma rede de grupo de trabalhos que não requer conexão com a Internet</source>
+      </trans-unit>
+      <trans-unit id="054" resname="IDS_TXT_37">
+        <source>Um protocolo usado para transportar dados em uma rede Novell Netware</source>
+      </trans-unit>
+      <trans-unit id="055" resname="IDS_TXT_38">
+        <source>Um protocolo que define como _ realizada a troca de arquivos na Web</source>
+      </trans-unit>
+      <trans-unit id="056" resname="IDS_TXT_39">
+        <source>Um protocolo que fornece serviços para a transferência e a manipulação de arquivos</source>
+      </trans-unit>
+      <trans-unit id="057" resname="IDS_TXT_40">
+        <source>Um protocolo usado para conectar alguns computadores todos juntos e com segurança</source>
+      </trans-unit>
+      <trans-unit id="058" resname="IDS_TXT_41">
+        <source>Um protocolo que usa conexão baseada em texto com um computador TCP/IP remoto </source>
+      </trans-unit>
+      <trans-unit id="059" resname="IDS_TXT_42">
+        <source>Um protocolo usado para fazer download de mensagens de e-mail a partir de um servidor de e-mails</source>
+      </trans-unit>
+      <trans-unit id="060" resname="IDS_TXT_43">
+        <source>Um protocolo usado para fazer download de mensagens de e-mail a partir de um servidor de e-mails</source>
+      </trans-unit>
+      <trans-unit id="061" resname="IDS_TXT_44">
+        <source>Um protocolo usado para enviar e-mail em uma rede TCP/IP</source>
+      </trans-unit>
+      <trans-unit id="062" resname="IDS_TXT_45">
+        <source>IPX/SPX</source>
+      </trans-unit>
+      <trans-unit id="063" resname="IDS_TXT_46">
+        <source>Netbeui/Netbios</source>
+      </trans-unit>
+      <trans-unit id="064" resname="IDS_TXT_47">
+        <source>TCP/IP</source>
+      </trans-unit>
+      <trans-unit id="065" resname="IDS_TXT_48">
+        <source>Telnet</source>
+      </trans-unit>
+      <trans-unit id="066" resname="IDS_TXT_49">
+        <source>SMTP</source>
+      </trans-unit>
+      <trans-unit id="067" resname="IDS_TXT_50">
+        <source>Um protocolo usado para enviar e-mail em uma rede TCP/IP</source>
+      </trans-unit>
+      <trans-unit id="068" resname="IDS_TXT_51">
+        <source>Um protocolo usado para transportar dados em uma rede Novell Netware</source>
+      </trans-unit>
+      <trans-unit id="069" resname="IDS_TXT_52">
+        <source>Um protocolo que usa conex? baseada em texto a um computador TCP/IP remoto </source>
+      </trans-unit>
+      <trans-unit id="070" resname="IDS_TXT_53">
+        <source>Um protocolo pequeno e rápido desenvolvido para uma rede de grupo de trabalhos que não requer conexão com a Internet</source>
+      </trans-unit>
+      <trans-unit id="071" resname="IDS_TXT_54">
+        <source>Um protocolo usado para transportar dados na Internet</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

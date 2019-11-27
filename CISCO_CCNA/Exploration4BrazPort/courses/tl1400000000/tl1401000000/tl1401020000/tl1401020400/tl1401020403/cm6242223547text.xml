@@ -1,0 +1,114 @@
+<textcomponents>
+
+<component id="ID_check1">
+  <text><![CDATA[<b>Verificar</b>]]></text> 
+</component>
+<component id="ID_reset1">
+  <text><![CDATA[<b>Redefinir</b>]]></text> 
+</component>
+
+<component id="ID_correctTitle">
+<text><![CDATA[Corrigir]]></text>
+</component>
+
+<component id="ID_correctText">
+<text><![CDATA[Parabéns! Você identificou os conceitos de comutação WAN corretamente.]]></text>
+</component>
+
+<component id="ID_incorrectTitle">
+<text><![CDATA[Incorreto]]></text>
+</component>
+
+<component id="ID_incorrectText">
+<text><![CDATA[Incorreto. Tente novamente.]]></text>
+</component>
+
+<component id="ID_activity">
+<text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Arraste e solte a palavra apropriada ou a frase para concluir as frases.<br/><br/>Nem todas as respostas são usadas. Algumas questões podem ter mais de uma resposta correta.]]></text>
+</component>
+
+<component id="ID_txt01_01">
+  <text><![CDATA[<b>As operações WAN ocorrem nas camadas _____ e _____ do modelo OSI.</b>]]></text> 
+</component>
+
+<component id="ID_txt02_01">
+  <text><![CDATA[<b>Um cabo de cobre ou de fibra conecta o equipamento local do cliente (CPE) à _____ do provedor de serviços mais próximo.</b>]]></text> 
+</component>
+
+<component id="ID_txt03_01">
+  <text><![CDATA[<b>O ponto físico _____ é o local onde a responsabilidade da conexão passa do usuário para a operadora.</b>]]></text> 
+</component>
+
+<component id="ID_txt04_01">
+  <text><![CDATA[<b>_____ é um dispositivo WAN que converte sinais digitais no formato analógico para transmissão em uma linha analógica e, em seguida, converte esse sinal analógico novamente na forma digital para que ele possa ser recebido e processado pelo dispositivo de recebimento na rede.</b>]]></text> 
+</component>
+
+<component id="ID_txt05_01">
+  <text><![CDATA[<b>O campo _____ nos formatos de quadro WAN não é necessário porque os links WAN são praticamente sempre ponto-a-ponto.</b>]]></text> 
+</component>
+
+<component id="ID_txt06_01">
+  <text><![CDATA[<b>Uma rede de comutação de _____ é aquela que estabelece um canal dedicado entre nós e terminais antes da comunicação dos usuários.</b>]]></text> 
+</component>
+
+<component id="ID_txt07_01">
+  <text><![CDATA[<b>Uma rede de comutação _____ não exige um canal dedicado entre nós. Muitos pares de nós podem se comunicar no mesmo canal.</b>]]></text> 
+</component>
+
+<component id="ID_phy">
+  <text><![CDATA[<b>física</b>]]></text> 
+</component>
+
+<component id="ID_cir">
+  <text><![CDATA[<b>circuito</b>]]></text> 
+</component>
+
+<component id="ID_pro">
+  <text><![CDATA[<b>protocolo</b>]]></text> 
+</component>
+
+<component id="ID_mod">
+  <text><![CDATA[<b>modem</b>]]></text> 
+</component>
+
+<component id="ID_cen">
+  <text><![CDATA[<b>central da operadora</b>]]></text> 
+</component>
+
+<component id="ID_con">
+  <text><![CDATA[<b>controle</b>]]></text> 
+</component>
+
+<component id="ID_dem">
+  <text><![CDATA[<b>demarcação</b>]]></text> 
+</component>
+
+<component id="ID_pac">
+  <text><![CDATA[<b>pacote</b>]]></text> 
+</component>
+
+<component id="ID_exc">
+  <text><![CDATA[<b>troca</b>]]></text> 
+</component>
+
+<component id="ID_concen">
+  <text><![CDATA[<b>central de controle</b>]]></text> 
+</component>
+
+<component id="ID_dat">
+  <text><![CDATA[<b>enlace de dados</b>]]></text> 
+</component>
+
+<component id="ID_add">
+  <text><![CDATA[<b>endereço</b>]]></text> 
+</component>
+
+<component id="ID_dt">
+  <text><![CDATA[<b>DTE</b>]]></text> 
+</component>
+
+<component id="ID_cir">
+  <text><![CDATA[<b>circuito</b>]]></text> 
+</component>
+
+</textcomponents>

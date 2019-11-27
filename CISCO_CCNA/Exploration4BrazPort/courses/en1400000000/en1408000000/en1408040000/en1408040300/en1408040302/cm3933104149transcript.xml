@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 13:12:07">
+<title><content-text><![CDATA[8.4.3 - Data Link Layer Troubleshooting]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts causes of Data Link Layer problems. The seven layers of the O S I model are shown with causes pointing to the Data Link Layer.<br>Causes:<br>-	Encapsulation errors<br>-	Address mapping errors<br>-	Framing errors<br>-	STP failures or loops]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

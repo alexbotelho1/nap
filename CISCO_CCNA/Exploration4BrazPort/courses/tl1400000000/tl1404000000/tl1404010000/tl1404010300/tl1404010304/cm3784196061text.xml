@@ -1,0 +1,159 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Ataques DoS e DDoS</b>]]></text>
+</component>
+
+<component id="ID_inst01">
+<text><![CDATA[<b>Clique em cada botão para obter um exemplo do ataque.</b>]]></text>
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[<b>Ataque DoS</b>]]></text>
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[<b>Ping da morte</b>]]></text>
+</component>
+
+<component id="ID_button3">
+<text><![CDATA[<b>Ataque Smurf</b>]]></text>
+</component>
+
+<component id="ID_button4">
+<text><![CDATA[<b>Envio SYN</b>]]></text>
+</component>
+
+<component id="ID_button5">
+<text><![CDATA[<b>DDoS</b>]]></text>
+</component>
+
+<component id="ID_zombies">
+<text><![CDATA[<b>Zumbis</b>]]></text>
+</component>
+
+<component id="ID_victim">
+<text><![CDATA[<b>Vítima</b>]]></text>
+</component>
+
+<component id="ID_smurf">
+<text><![CDATA[<b>Amplificador Smurf</b>]]></text>
+</component>
+
+<component id="ID_txt01_01">
+<text><![CDATA[<b>Os ataques DoS impedem as pessoas autorizadas de utilizar um serviço, utilizando recursos do sistema.</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>Atacando computador</b>]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+<component id="ID_txt01_03">
+<text><![CDATA[<b>Tentar sobrecarregar o link WAN para o destino</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_04">
+<text><![CDATA[O atacante envia várias solicitações SYN para um servidor Web]]></text>
+</component>
+
+<component id="ID_txt02_04">
+<text><![CDATA[Um usuário válido envia uma solicitação SYN]]></text>
+</component>
+
+<component id="ID_txt03_04">
+<text><![CDATA[O servidor Web envia respostas SYN-ACK]]></text>
+</component>
+
+<component id="ID_txt04_04">
+<text><![CDATA[<b>Servidor Web</b>]]></text>
+</component>
+
+<component id="ID_txt05_04">
+<text><![CDATA[Servidor Web aguarda a conclusão do handshake tridirecional]]></text>
+</component>
+
+<component id="ID_txt06_04">
+<text><![CDATA[<b>Servidor Web</b>]]></text>
+</component>
+
+<component id="ID_txt07_04">
+<text><![CDATA[Servidor Web não está disponível]]></text>
+</component>
+
+<component id="ID_txt08_04">
+<text><![CDATA[<b>Servidor Web</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt01_05">
+<text><![CDATA[<b>Cliente/<br/>Atacante</b>]]></text>
+</component>
+
+<component id="ID_txt02_05">
+<text><![CDATA[<b>Gerenciadores</b>]]></text>
+</component>
+
+<component id="ID_txt03_05">
+<text><![CDATA[<b>Agentes/<br/>Zumbis</b>]]></text>
+</component>
+
+<component id="ID_txt04_05">
+<text><![CDATA[<b>Vítima</b>]]></text>
+</component>
+
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Sobrecarga de recurso</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Dados malformados</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Espaço em disco, largura de banda, buffers</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Pacotes grandes, como ping da morte</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Inundações de ping como smurf</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Sobreposição de pacotes como winuke</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Tempestades de pacote como bombardeamento UDP e fraggle</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Dados não manipulados como teardrop</td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+<component id="play"><text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute"><text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+</textcomponents>

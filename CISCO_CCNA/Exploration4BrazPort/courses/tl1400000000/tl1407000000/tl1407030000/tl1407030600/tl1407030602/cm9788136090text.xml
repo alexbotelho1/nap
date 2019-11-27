@@ -1,0 +1,18 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Protocolo de roteamento RIPng</b>]]></text>
+</component>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Recursos semelhantes de IPv4:</b><br/><ul><li>Vetor de distância, raio de 15 saltos, split horizon e poison reverse</li><li>Baseado em RIPv2</li></ul><br/><b>Recursos atualizados para o IPv6:</b><br/><ul><li>Prefixo de IPv6, endereço IPv6 do próximo salto</li><li>Utiliza o grupo multicast FF02::9, um grupo multicast de roteadores rip, como o endereço de destino para as atualizações RIP</li><li>Utiliza o IPv6 para o transporte</li><li>RIPng nomeado</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

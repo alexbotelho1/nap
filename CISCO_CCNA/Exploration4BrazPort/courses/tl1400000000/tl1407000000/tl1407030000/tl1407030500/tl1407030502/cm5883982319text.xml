@@ -1,0 +1,48 @@
+<textcomponents>
+
+<component id="ID_title01_7352">
+<text><![CDATA[<b>Túnel IPv6 manualmente configurado</b>]]></text>
+</component>
+
+<component id="ID_txt01_7352">
+<text><![CDATA[<b>Rede de<br/>IPv6</b>]]></text>
+</component>
+
+<component id="ID_txt02_7352">
+<text><![CDATA[<b>Roteador de<br/>pilha dupla</b>]]></text>
+</component>
+
+<component id="ID_txt03_7352">
+<text><![CDATA[<b>Roteador de<br/>pilha dupla</b>]]></text>
+</component>
+
+<component id="ID_txt04_7352">
+<text><![CDATA[<b>Rede de<br/>IPv6</b>]]></text>
+</component>
+
+<component id="ID_txt05_7352">
+<text><![CDATA[<b>IPv4</b>]]></text>
+</component>
+
+<component id="ID_txt06_7352">
+<text><![CDATA[<b>IPV4: 192.168.99.1<br/>IPv6: 3ffe:b00:c18:1::3</b>]]></text>
+</component>
+
+<component id="ID_txt07_7352">
+<text><![CDATA[<b>IPv4: 192.168.30.1<br/>IPv6: 3ffe:b00:c18:2::2</b>]]></text>
+</component>
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Os túneis configurados exigem:</b><br/><ul><li>Pontos de extremidade de pilha dupla</li><li>Endereços IPv4 e IPv6 configurados em cada fim</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+</textcomponents>

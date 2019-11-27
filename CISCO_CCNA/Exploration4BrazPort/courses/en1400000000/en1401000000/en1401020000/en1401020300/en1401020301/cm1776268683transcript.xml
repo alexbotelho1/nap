@@ -1,0 +1,5 @@
+<transcript lastedited="01.09.09 06:01:47">
+<title><content-text><![CDATA[1.2.3  - WAN Data Link Layer Concepts]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts data-link protocols divided into three categories: dedicated point-to-point, packet switched, and circuit switched. Examples are provided for each category:<br><br>Dedicated Point-to-Point: Cisco HDLC and P P P.<br><br>Packet Switched: X.25, Frame Relay, and ATM.<br><br>Circuit Switched: ISDN.<br><br>A tabular list of data-link protocols and their usage is also provided.<br><br>Protocol: Link Access Procedure Balanced (LAPB).<br>Usage: X.25.<br><br>Protocol: Link Access Procedure D Channel (LAPD).<br>Usage: ISDN D channel.<br><br>Protocol: Link Access Procedure Frame (LAPF).<br>Usage: Frame Relay.<br><br>Protocol: High-Level Data Link Control (HDLC).<br>Usage: Cisco default.<br><br>Protocol: Point-to-Point Protocol (P P P).<br>Usage: Serial WAN switched connections.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

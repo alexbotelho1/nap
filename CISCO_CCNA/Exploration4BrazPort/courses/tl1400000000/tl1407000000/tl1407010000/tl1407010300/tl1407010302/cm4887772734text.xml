@@ -1,0 +1,53 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Formato de mensagem DHCP</b>]]></text>
+</component>
+
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='3'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='right'><font color="#FFFFFF"><b>8</b></font></p></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='right'><font color="#FFFFFF"><b>16</b></font></p></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='right'><font color="#FFFFFF"><b>24</b></font></p></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='right'><font color="#FFFFFF"><b>32</b></font></p></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Código OP (1)</p></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Tipo de hardware (1)</p></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Tamanho do endereço de hardware (1)</p></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Saltos (1)</p></td>
+	</tr>
+	<tr>
+		<td colspan='4' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Identificador de transações</p></td>
+	</tr>
+	<tr>
+		<td colspan='2' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Segundos – 2 bytes</p></td>
+		<td colspan='2' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Flags – 2 bytes</p></td>
+	</tr>
+	<tr>
+		<td colspan='4' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Endereço IP do cliente (CIADDR) - 4 bytes</p></td>
+	</tr>
+	<tr>
+		<td colspan='4' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Seu endereço IP (YIADDR) - 4 bytes</p></td>
+	</tr>
+	<tr>
+		<td colspan='4' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Endereço IP do servidor (SIADDR) – 4 bytes</p></td>
+	</tr>
+	<tr>
+		<td colspan='4' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Endereço IP de gateway (GIADDR) - 4 bytes</p></td>
+	</tr>
+	<tr>
+		<td colspan='4' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Endereço de hardware do cliente (CHADDR) - 16 bytes</p></td>
+	</tr>
+	<tr>
+		<td colspan='4' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Nome de servidor (SNAME) - 64 bytes</p></td>
+	</tr>
+	<tr>
+		<td colspan='4' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Nome de arquivo - 128 bytes</p></td>
+	</tr>
+	<tr>
+		<td colspan='4' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><p align='center'>Opções de DHCP - variável</p></td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

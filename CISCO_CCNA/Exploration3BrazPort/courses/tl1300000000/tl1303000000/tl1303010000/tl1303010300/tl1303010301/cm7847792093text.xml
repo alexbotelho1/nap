@@ -1,0 +1,44 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>Modos de associação de porta de VLAN</B>]]></text> 
+</component>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Modos de porta</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Assistente de rede Cisco</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Exemplo de modo estático</B>]]></text> 
+</component>
+
+<component id="ID_button_04">
+  <text><![CDATA[<B>Exemplo de modo de voz</B>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<B>VLAN estática</B>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<B>VLAN dinâmica</B>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<B>VLAN de voz</B>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Configuração do modo de porta estática</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<B>Configuração do modo de voz</B>]]></text> 
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="9_5_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Common Problems and Solutions
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>Problem Symptom</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_02">
+        <source>A computer runs updates 
+and requires rebooting at 
+inconvenient times.</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_03">
+        <source>A wireless network is 
+compromised even though  
+64-bit WEP encryption is in use. </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_04">
+        <source>A stolen laptop is returned by 
+the police.  It is no longer 
+needed by the user.   </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_05">
+        <source>A user complains that his 
+system is receiving hundreds or 
+thousands of junk e-mails daily.</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_06">
+        <source>A printer repair person no one 
+remembers seeing before is 
+observed looking under 
+keyboards and on desktops.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_07">
+        <source>Possible Solution</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_08">
+        <source>Set Windows Automatic Update 
+to run daily at a convenient time, 
+such as lunchtime. </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_09">
+        <source>Upgrade to 128-bit WEP security, 
+WAP, or EAP-Cisco security.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_10">
+        <source>After recovering any sensitive 
+data, destroy the hard drive and 
+recycle the computer.</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_11">
+        <source>This may be a denial of service 
+attack. At the e-mail server, filter 
+out e-mail from the sender.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_12">
+        <source>Contact security or police. Advise
+users never to hide passwords 
+near their work area.</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

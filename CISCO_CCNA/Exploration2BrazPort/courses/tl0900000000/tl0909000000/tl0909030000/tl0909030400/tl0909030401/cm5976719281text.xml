@@ -1,0 +1,35 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Calculando a métrica padrão do EIGRP</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Métrica padrão = [K1*largura de banda + K3*atraso] * 256</b><br><br>Desde que K1 e K3 sejam iguais a 1, a fórmula simplificada será: <b>largura de banda + atraso</b><br><br>largura de banda = velocidade do link mais lento do caminho até o destino<br/>       atraso = soma dos atrasos de cada link do caminho até o destino]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Largura de banda mais lenta:]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[(10.000.000/largura de banda kbps) * 256]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Mais a soma dos atrasos:]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[+ (soma de atraso/10) * 256]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[=  métricas do EIGRP]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b><font face="_typewriter">**saída do comando omitida**</font></b>]]></text>
+</component>
+
+</textcomponents>

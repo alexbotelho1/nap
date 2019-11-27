@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="13_1_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Wireless Technologies - Infrared 
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Installing an Infrared Driver
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Infrared Graphic- Reflective</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE4">
+        <source>Installing an Infrared Driver</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE5">
+        <source>List of open-ended questions about laptop errors. (This list is NOT comprehensive)</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TITLE6">
+        <source>What are the problems that you are experiencing with the laptop?</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TITLE7">
+        <source>What software has been installed recently?        </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TITLE8">
+        <source>What were you doing when the problem was identified?</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TITLE9">
+        <source>What system changes were made on the laptop recently?</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TITLE10">
+        <source>What type and brand of laptop do you have?</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TITLE11">
+        <source>List of closed-ended questions about laptop errors. (This list is NOT comprehensive)</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TITLE12">
+        <source>Is the laptop under warranty?</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TITLE13">
+        <source>Is the laptop currently using the battery?      </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TITLE14">
+        <source>Is the battery charged more than 50%?</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TITLE15">
+        <source>Can the laptop operate using the AC adapter?</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TITLE16">
+        <source>Can the laptop boot and show the operating system desktop?</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_CONTENT 01">
+        <source>•</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S1_TXT_1">
+        <source>Wireless Technologies</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S1_TXT_2">
+        <source>Bluetooth</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S1_TXT_3">
+        <source>Infrared</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S1_TXT_4">
+        <source>Cellular WAN</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S1_TXT_5">
+        <source>Wi-Fi</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_S1_TXT_6">
+        <source>Satellite</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_CONTENT 02">
+        <source>Infrared (IR) wireless technology 
+is low-power, short-range 
+wireless technology that uses 
+Light Emitting Diodes.
+
+Infrared light signals operate in 
+the lowest light frequency and 
+transmission distances are 
+limited to a few feet or meters.
+
+Infrared light cannot penetrate 
+ceilings or walls.</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_S1_TXT_7">
+        <source>Characteristics</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

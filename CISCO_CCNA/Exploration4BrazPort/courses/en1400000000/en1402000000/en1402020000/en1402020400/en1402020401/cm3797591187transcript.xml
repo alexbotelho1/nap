@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 11:11:08">
+<title><content-text><![CDATA[2.2.4  - Establishing a P P P Session]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts establishing a P P P session. There are three phases and the LCP does all the talking.<br><br>Phase 1: Link establishment - Let's negotiate. <br>Phase 2: Link quality determination (optional) - Maybe we should discuss some details about quality. Or, maybe not.<br>Phase 3: Network layer protocol negotiation - OK, I will leave it to the NCP's to discuss higher level details.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

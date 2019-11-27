@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:48">
+<title><content-text><![CDATA[7.1.8 - Troubleshooting DHCP]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts debugging DHCP using router debug commands and an access list. This provides verification that the router is receiving DHCP requests.<br><br>R2#access-list 100 permit i p host 0.0.0.0 host 255.255.255.255<br>R2#debug i p packet detail 100<br>IP packet debugging is on (detailed) for access list 100<br>R2#<br>00:16:46: IP: s-0.0.0.0 (Ethernet4/0), d-255.255.255.255, len 604, rcvd 2<br>00:16:46: UDP src-68, dst-67<br>00:16:46: IP: s-0.0.0.0 (Ethernet4/0), d-255.255.255.255, len 604, rcvd 2<br>00:16:46: UDP src-68, dst-67<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

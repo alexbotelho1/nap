@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_8_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TXT_01">
+        <source>TCP/IP
+Model</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_02">
+        <source>Application</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_03">
+        <source>Transport</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_04">
+        <source>Internet</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_05">
+        <source>Network Access</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_06">
+        <source>Layer</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_07">
+        <source>4</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_08">
+        <source>3</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_09">
+        <source>2</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_10">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_11">
+        <source>Description</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_12">
+        <source>Where high-level protocols such as SMTP and FTP operate</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_13">
+        <source>Where flow-control and connection protocols exist</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_14">
+        <source>Where IP addressing and routing take place</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_15">
+        <source>Where MAC addressing and physical components of
+network exist</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_16">
+        <source>HTTP</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_17">
+        <source>HTML</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_18">
+        <source>TELNET</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_19">
+        <source>FTP</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_20">
+        <source>SMTP</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_21">
+        <source>DNS</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_22">
+        <source>Hypertext Transfer Protocol (HTTP) – HTTP governs how files such as text, graphics, sounds, and video are exchanged on the Internet or World Wide Web (WWW). HTTP is an Application layer protocol. A web server runs an HTTP service or daemon. A daemon is a program that services HTTP requests. These requests are transmitted by HTTP client software, which is another name for a Web browser.</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_23">
+        <source>Hypertext Markup Language (HTML) is a page description language. Web
+designers use HTML to indicate to web browser software how the page should look. HTML includes tags to indicate boldface type, italics, line breaks, paragraph breaks, hyperlinks, and insertion of tables, among other instructions. </source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_24">
+        <source>Telnet is an application that you can use to access, control, and troubleshoot remote computers and network devices.</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_25">
+        <source>File Transfer Protocol (FTP) is a set of rules governing how files are transferred. FTP allows multiple simultaneous connections to remote file systems.</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_26">
+        <source>Simple Mail Transport Protocol (SMTP) provides messaging services over TCP/IP and supports most Internet e-mail programs.</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_27">
+        <source>Domain Name System (DNS) translates domain names, such as www.cisco.com, to IP addresses.</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_28">
+        <source>TCP</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_29">
+        <source>UDP</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_30">
+        <source>Transmission Control Protocol (TCP) is the primary Internet protocol for the reliable delivery of data. TCP includes facilities for end-to-end connection establishment, error detection and recovery, and metering the rate of data flow into the network. Many standard applications, such as e-mail, web browser, file transfer, and telnet, depend on the services of TCP.</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_31">
+        <source>User Datagram Protocol (UDP) offers a connectionless service for delivery of data. UDP uses lower overhead than TCP and doesn’t handle issues of reliability. Network management applications, network file system, and simple file transport use UDP.</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_32">
+        <source>IP</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_33">
+        <source>ICMP</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_34">
+        <source>RIP</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_35">
+        <source>ARP</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_36">
+        <source>Internet Protocol (IP) provides source and destination addressing, much like the address and return address on a postal envelope. In conjunction with routing protocols, IP provides packet forwarding information from one network to another.</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_37">
+        <source>Internet Control Message Protocol (ICMP) is used for network testing and troubleshooting. It enables diagnostic and error messages. ICMP echo messages are used by the ping application to test if a remote device is reachable.</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_38">
+        <source>Routing Information Protocol (RIP) operates between router devices to discover paths between networks. In an intranet, routers depend on a routing protocol to build and maintain information about how to forward packets toward the destination. RIP chooses routes based on the distance or hop count to the destination.</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_39">
+        <source>Address Resolution Protocol (ARP) is used to map the MAC address of a node on the network when its IP address is known. End stations as well as routers use ARP to discover MAC addresses.</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

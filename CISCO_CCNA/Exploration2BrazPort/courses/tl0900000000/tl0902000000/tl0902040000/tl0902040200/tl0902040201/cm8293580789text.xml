@@ -1,0 +1,26 @@
+<textcomponents>
+
+<component id="ID_omitted">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída de comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="ID_omitted2">
+<text><![CDATA[<b><font face="Courier New Dynamic">(**saída de comando omitida**)</font></b>]]></text>
+</component>
+
+<component id="button1">
+<text><![CDATA[<b>Rotas conectadas diretamente</b>]]></text>
+</component>
+<component id="button2">
+<text><![CDATA[<b>Rota estática</b>]]></text>
+</component>
+
+<component id="ID_buttonText">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Rota estática R1 para LAN de R2</b>]]></text>
+</component>
+
+</textcomponents>

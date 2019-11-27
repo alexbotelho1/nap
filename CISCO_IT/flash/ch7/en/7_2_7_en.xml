@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="7_2_7.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S3_TXT1">
+        <source>Printers</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S3_TXT2">
+        <source>Scanners</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S3_TXT3">
+        <source>Linksys
+Wireless
+Print Server</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE1">
+        <source>Network Printer</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TITLE2">
+        <source>Printer Sharing</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TITLE3">
+        <source>Wireless Print Server</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

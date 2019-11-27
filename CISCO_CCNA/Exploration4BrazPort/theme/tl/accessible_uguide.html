@@ -1,0 +1,73 @@
+<html>
+	<head>
+		<title>Manual do usuário do tema</title>
+	</head>
+
+	<body>
+		<h1>Manual do usuário do tema</h1>
+		<h2>Conteúdo</h2>
+		<ol>
+			<li><a href="#courselevel">Nível do curso</a></li>
+			<li><a href="#mediapresentation">Apresentação em meio</a></li>
+			<li><a href="#pagelayout">Layout da página</a></li>
+			<li><a href="#keyboardnav">Navegação em teclado</a></li>
+		</ol>
+
+
+		<br><br> <a href="javascript:window.close();">Fechar janela</a><br> <a href="javascript:scroll(0,0);">Ir para a parte superior</a> <br><br> <a name="courselevel"></a>
+		<h2>1. Nível do curso</h2>
+		<p>O atributo de nível do curso altera o nível em que o conteúdo do curso é exibido. As opções são: "capítulo", "seção", "tópico" ou "página".  O nível padrão é "capítulo".</p>
+		<ul>
+			<li>Nível do capítulo – exibe todas as seções, tópicos e páginas do capítulo atual.</li>
+			<li>Nível da seção – exibe todos os tópicos e páginas da seção atual.</li>
+			<li>Nível do tópico – exibe todas as páginas do tópico atual.</li>
+			<li>Nível da página – exibe apenas a página atual.</li>
+		</ul>
+		<br/><br/><img src="accessible_uguide_images/courselevel.png" width="296" height="103" alt="Caixa de seleção do nível do curso" border="1"/> <br><br><br> <a href="javascript:window.close();">Fechar janela</a><br> <a href="javascript:scroll(0,0);">Ir para a parte superior</a> <br><br> <a name="mediapresentation"></a>
+		<h2>2. Apresentação em meio</h2>
+		<p>O atributo de apresentação em mídia altera o formato no qual o meio é exibido em cada página. As opções são: "todas as opções", "transcrição breve", "transcrição completa" ou "mídia interativa visual".  A apresentação padrão é "todas as opções".
+		</p>
+		<ul>
+			<li>Apenas transcrição do texto de meio – uma descrição por escrito de cada item de meio é apresentada sempre que um item de meio é encontrado no curso. Essa opção é totalmente acessível pelo teclado.</li> 
+			<li>Apenas meio visual interativa – o item de meio é apresentado em seu formato nativo, que contém uma representação visual de um conteúdo e normalmente a interatividade, inclusive vídeo, arrastar-e-soltar, animações e atividades. Itens apresentados nesse formato não são totalmente acessíveis e exigem o uso do mouse.</li> 
+			<li>Transcrição de texto e meio visual – nenhum meio é exibido por padrão.  Sempre que um item de meio é encontrado no curso, o usuário pode selecionar com que método de apresentação exibir o meio.  Essa seleção é feita para todos os itens de meio, e todos os itens de meio podem ser exibidos em qualquer formato.</li>
+		</ul>
+		<br/><br/><img src="accessible_uguide_images/mediapresentation.png" width="266" height="82" alt="Caixa de seleção da apresentação do meio" border="1"/> <br><br><br> <a href="javascript:window.close();">Fechar janela</a><br> <a href="javascript:scroll(0,0);">Ir para a parte superior</a> <br><br> <a name="pagelayout"></a>
+		<h2>3. Layout da página</h2>
+		<p>Cada página é formatada da mesma forma, mas o conteúdo se baseia no nível do curso selecionado antes da inicialização.</p>
+		<p>Os primeiros itens encontrados são os links de ferramentas do curso.  Eles serão abertos em uma área na parte superior da página com a ferramenta selecionada.  As duas ferramentas disponíveis são "Pesquisar" e "Glossário". O término da área de ferramentas é marcado com uma linha horizontal.</p>
+		<ul>
+			<li>Pesquisar – é aberto em nova janela. Contém um campo de entrada no qual qualquer cadeia de caracteres de pesquisa pode ser inserida.  Durante o envio da pesquisa, uma lista de páginas é gerada onde a cadeia de caracteres de pesquisa foi encontrada no texto do corpo dessa página. As páginas são listadas na ordem em que aparecem no curso.<br/><br/><img src="accessible_uguide_images/search.png" width="640" height="132" alt="Ferramenta de pesquisa" border="1"/><br/><br/></li>
+			<li>Glossário – é aberto em nova janela. Contém e indexa uma lista dos termos de glossário que podem ser selecionados para exibir sua definição.  Essa ferramenta também é inicializada quando um termo do glossário com link é selecionado dentro do texto do corpo de uma página.<br/><br/><img src="accessible_uguide_images/glossary.png" width="884" height="481" alt="Ferramenta de glossário" border="1"/><br/><br/></li>
+		</ul>
+		<p>O próximo item é o índice do curso.  Essa caixa de seleção contém a lista completa dos itens de um curso separados pela exibição do nível do curso selecionada.  Ela pode ser usada como uma navegação rápida dentro do curso.  Para usar o índice, selecione o item desejado na lista e, em seguida, use o botão "Selecionar" para navegar até o item. O término da área de índice do curso é marcado com uma linha horizontal.<br><img src="accessible_uguide_images/courseindex.png" width="383" height="45" alt="Índice do curso" border="1"/><br/><br/></p>
+		<p>O número de seções, tópicos e páginas exibidos depende da seleção do nível de curso feita na inicialização. O término do nível do conteúdo é marcado com uma linha horizontal.<br/><br/><img src="accessible_uguide_images/titles.png" width="792" height="131" alt="Formatos de título" border="1"/><br/><br/></p>
+		<p>O conteúdo do curso é exibido em seguida e no seguinte formato:</p>
+		<ul>
+			<li>Título e subtítulo do curso na tag &lt;h1&gt;</li>
+			<li>Número do capítulo e título na tag &lt;h2&gt;</li>
+			<li>Número da seção e título na tag &lt;h3&gt;</li>
+			<li>Número do tópico e título em negrito e itálico</li>
+			<li>Número da página em negrito</li>
+		</ul>
+		<p>Os elementos finais em uma página são os elementos de navegação "próximo", "anterior" e "topo".<br/><br/><img src="accessible_uguide_images/nav.png" width="123" height="72" alt="Elementos de navegação" border="1"/><br/><br/></p>
+		<ul>
+			<li>Ir para a próxima – navega para o próximo capítulo, seção, tópico ou página, dependendo do nível de curso selecionado.</li>
+			<li>Ir para a anterior – navega para o capítulo, seção, tópico ou página anterior, dependendo do nível de curso selecionado.</li>
+			<li>Ir para a parte superior – retorna à parte superior da página atual.</li>
+		</ul>
+		<br><br> <a href="javascript:window.close();">Fechar janela</a><br> <a href="javascript:scroll(0,0);">Ir para a parte superior</a> <br><br> <a name="keyboardnav"></a>
+		<h2>4. Navegação em teclado</h2>
+		<p>Os seguintes comandos de teclado podem ser usados para acessar ferramentas e navegar no curso:</p>
+		<ul>
+			<li>Alternar ferramenta de pesquisa: Control+Shift+S – abre a ferramenta de pesquisa em uma nova janela.</li>
+			<li>Alternar ferramenta de glossário: Control+Shift+G – abre a ferramenta de glossário em uma nova janela.</li>
+			<li>Ir para o próximo: Control+Shift+Seta para direita – navega para o próximo capítulo, seção, tópico ou página, dependendo do nível de curso selecionado.</li>
+			<li>Ir para o anterior: Control+Shift+Seta para esquerda – navega para o capítulo, seção, tópico ou página anterior, dependendo do nível de curso selecionado.</li>
+			<li>Focar próximo elemento: Control+Shift+Seta para baixo – coloca o próximo elemento da página em foco.  Semelhante à tecla Tab. </li>
+			<li>Focar elemento anterior: Control+Shift+Seta para cima – coloca o elemento anterior da página em foco.  Semelhante à tecla Shift+Tab. </li>
+		</ul>
+		<p><i>Nota: Determinados plug-ins de navegador e outros softwares substitutos, como leitores de tela, podem substituir esses comandos de teclado.</i></p>
+		<br><br> <a href="javascript:window.close();">Fechar janela</a><br> <a href="javascript:scroll(0,0);">Ir para a parte superior</a>
+	</body>
+</html>

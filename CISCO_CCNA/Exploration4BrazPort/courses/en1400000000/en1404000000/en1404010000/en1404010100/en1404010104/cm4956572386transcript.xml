@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:09">
+<title><content-text><![CDATA[4.1.1  - Why Is Network Security Important?]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts a scale with access on one side and security on the other to illustrate open versus closed networks and different levels of security. Network administrators seek to find a balance between access and security.<br><br>Open Access:<br>Permit everything that is not explicitly denied:<br>- Easy to configure and administer.<br>- Easy for end users to access network resources.<br>- Security cost: least expensive.<br><br>Restrictive:<br>Combination of specific permissions and restrictions:<br>- More difficult to configure and administer.<br>- More difficult for end users to access resources.<br>- Security cost: more expensive.<br><br>Closed:<br>Anything not explicitly permitted is denied:<br>- Most difficult to configure and administer.<br>- Most difficult for end users to access resources.<br>- Security cost: most expensive.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

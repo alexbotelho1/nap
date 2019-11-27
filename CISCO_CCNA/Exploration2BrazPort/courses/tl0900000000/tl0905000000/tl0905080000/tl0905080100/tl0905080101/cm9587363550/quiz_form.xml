@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13192" dateexported="07/12/2009">
+		<name>Teste do Módulo 5</name>
+		<form id="23009" lang="pt"><form-item order="fixed">
+			<ai id="159784" type="mc-sa"><question><![CDATA[Qual é a afirmativa verdadeira sobre o comando <b>debug ip rip</b>?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Ela pesquisa a configuração em execução e mostra os erros possíveis na configuração do protocolo RIP. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Ele exibe as atualizações feitas no roteamento do protocolo RIP enquanto elas são enviadas e recebidas.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Ele identifica automaticamente os loops de roteamento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Ele mostra o histórico das atualizações do protocolo RIP nos 90 segundos anteriores. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159785" type="mc-sa"><question><![CDATA[Que problema o comando <b>passive-interface</b> ajuda a resolver?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[evita confusão caso os protocolos RIPv1 e RIPv2 estejam sendo anunciados em uma rede ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[evita a perda de largura de banda e o processamento de atualizações desnecessárias  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[evita loops de roteamento ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[evita o envio de atualizações sem uma senha ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159786" type="mc-sa"><question><![CDATA[O que caracteriza um roteador de borda no protocolo RIP?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[se ele estiver na borda de um sistema autônomo ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[se um roteador tiver várias interfaces em mais de uma rede classful principal  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[se ele executar os protocolos RIP e EIGRP simultaneamente ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[se ele for configurado para ser um roteador de borda por um administrador ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159787" type="mc-sa"><question><![CDATA[Qual é o comando usado com o protocolo RIP para propagar rotas padrão para os vizinhos?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[<b>network 0.0.0.0</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>ip summary-address rip<i> máscara de endereço</i></b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>ip default-network <i>endereço</i></b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[<b>default-information originate</b>  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159788" type="mc-sa"><question><![CDATA[Que comando irá criar uma rota padrão candidata em um roteador do protocolo RIP?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[<b>default-information originate</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>ip default-network 0.0.0.0</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[<b>ip default-gateway 192.168.0.1</b> ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[<b>ip route 0.0.0.0 0.0.0.0 serial0/0/0</b>  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159783" type="mc-sa"><question><![CDATA[Consulte a exibição.Todos os roteadores estão executando o protocolo RIPv1. As interfaces em todos os roteadores estão ativas e estáveis. Os usuários na rede 10.16.1.0 não podem acessar serviços na rede 10.16.1.64. Qual é a causa desse problema? <br/><img src="i159783n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[O temporizador de hold-down do protocolo RIP no Roteador A não permite a rede 10.16.1.64 em atualizações de roteamento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A rede usa mascaramento de sub-rede de tamanho variável, e o protocolo RIPv1 não permite isso. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[As sub-redes 10.16.1.x não são contíguas entre si.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[As interfaces dos roteadores A e B precisam ser configuradas como interfaces passivas. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159789" type="mc-sa"><question><![CDATA[Como um roteador com o protocolo RIPv1 em execução determina a máscara de sub-rede das rotas recebidas nas atualizações de roteamento?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[A máscara de sub-rede é incluída na atualização de roteamento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O roteador envia uma solicitação da máscara de sub-rede para o roteador de envio. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O roteador usa a máscara de sub-rede da interface local ou a máscara de sub-rede padrão para a classe de endereço na atualização de roteamento.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O roteador calcula a máscara de sub-rede com base nas sub-redes de comprimento variável em sua própria configuração. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O roteador usa 255.255.255.0 como padrão para todas as atualizações. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="159790" type="mc-sa"><question><![CDATA[Consulte a exibição. Qual é a distância administrativa da rota para a rede 192.168.5.0? <br/><img src="i159790n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[0 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[1 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[12 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[24 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[120  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="66179" type="mc-sa"><question><![CDATA[Qual é o propósito do comando <b>network</b> ao configurar o protocolo de roteamento RIP?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Ele identifica as redes conectadas ao roteador vizinho. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Ele restringe a utilização de redes por rotas estáticas. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Ele identifica todas as redes de destino que o roteador tem permissão para instalar na sua tabela de roteamento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Ele identifica as redes diretamente conectadas que serão incluídas nas atualizações de roteamento RIP.  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="159747" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="159747" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext><b>debug ip rip</b></mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext><b>show ip protocols</b></mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext><b>show running-config</b></mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext><b>show ip route</b></mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext><b>show interfaces</b></mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>exibe as informações de configuração atuais dos protocolos de roteamento configurados e das interfaces </mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>verifica se as interfaces estão ativas e em funcionamento</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>exibe as redes anunciadas nas atualizações enquanto as atualizações são enviadas e recebidas</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>verifica se o protocolo de roteamento está em execução e anunciando as redes corretas</mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>verifica se as rotas recebidas estão instaladas na tabela de roteamento</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="760"><material><mattext>Para garantir um roteamento apropriado em uma rede, o administrador deve sempre verificar a configuração do roteador para atestar a disponibilidade das rotas apropriadas. Os comandos à esquerda irão permitir ao administrador de rede exibir a configuração do roteador referente às informações necessárias. Arraste cada comando para seu resultado.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-109.5" targetYspacing="16" yspacing="55" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="135" /><display componentIdent="3" xpos="200" ypos="195" /><display componentIdent="4" xpos="200" ypos="255" /><display componentIdent="5" xpos="200" ypos="315" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="127" /><display componentIdent="3" xpos="600" ypos="179" /><display componentIdent="4" xpos="600" ypos="231" /><display componentIdent="5" xpos="600" ypos="283" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><scoringzone ident="5"><componentident>5</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="109938" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="109938" view="All">nenhuma descrição informada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="5"><componentident>4</componentident></scoringzonecontains></conditionvar><setvar varname="109938" action="Set">1</setvar><scoringdescription>1</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item></form></exam> 

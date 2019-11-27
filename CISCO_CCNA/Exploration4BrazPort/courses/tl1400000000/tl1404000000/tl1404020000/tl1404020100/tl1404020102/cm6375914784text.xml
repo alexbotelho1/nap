@@ -1,0 +1,25 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Os roteadores são os alvos</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Servidor TFTP</b>]]></text>
+</component>
+
+<component id="ID_bubble01_4212">
+<text><![CDATA[R2 se conecta à Internet. Por ser um gateway para uma rede privada, este é o alvo de atacantes externos.]]></text>
+</component>
+
+<component id="ID_s1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s3">
+<text><![CDATA[<b>S3</b>]]></text>
+</component>
+<component id="ID_isp">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+</textcomponents>

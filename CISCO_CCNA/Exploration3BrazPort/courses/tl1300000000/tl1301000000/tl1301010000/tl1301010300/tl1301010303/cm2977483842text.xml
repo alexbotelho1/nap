@@ -1,0 +1,91 @@
+<textcomponents>
+<component id="ID_activity">
+  <text><![CDATA[<B>Atividade</B>]]></text> 
+</component>
+
+<component id="ID_inst1">
+  <text><![CDATA[<B>A topologia na figura é um exemplo de uma topologia hierárquica real.<br/><br/>Arraste e solte os rótulos de camada corretos.</B>]]></text> 
+</component>
+
+<component id="ID_inst2">
+  <text><![CDATA[<B>Arraste elementos dentre essas opções no diagrama acima.</B>]]></text> 
+</component>
+
+<component id="ID_check">
+<text><![CDATA[<b>Verificar</b>]]></text>
+</component>
+
+<component id="ID_reset">
+<text><![CDATA[<b>Redefinir</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Rótulos de camada</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Cabos</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Dispositivos e usuários finais</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b><font size = '10'>ACESSO</font></b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b><font size = '10'>NÚCLEO</font></b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b><font size = '10'>DISTRIBUIÇÃO</font></b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Crossover <br/>(cruzado)</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Straight-through (direto)</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Link de WAN</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Servidor de acesso</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Switch de acesso</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Switch multicamada de núcleo</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Switch multicamada de distribuição</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Escritório residencial</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Funcionário remoto</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Gateway de VPN</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Roteador para rede sem fio</b>]]></text>
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,135 @@
+<textcomponents>
+
+   <component id="ID_title01">
+      <text><![CDATA[<b>Um dia na vida de um pacote: Etapa 1</b>]]></text>
+   </component>
+
+   <component id="ID_txt01">
+      <text><![CDATA[<b>Dest. MAC 00-10</b>]]></text>
+   </component>
+
+   <component id="ID_txt02">
+      <text><![CDATA[<b>Origem MAC 0A-10</b>]]></text>
+   </component>
+
+   <component id="ID_header1">
+      <text><![CDATA[<b>Quadro do enlace de dados da Camada 2</b>]]></text>
+   </component>
+
+   <component id="ID_header2">
+      <text><![CDATA[<b>Dados da Camada 3 do pacote</b>]]></text>
+   </component>
+
+
+   <component id="ID_txt04">
+      <text><![CDATA[<b>Dest. MAC 0B-31</b>]]></text>
+   </component>
+
+   <component id="ID_txt05">
+      <text><![CDATA[<b>Origem MAC 00-20</b>]]></text>
+   </component>
+
+   <component id="ID_txt06">
+      <text><![CDATA[<b>Tipo 800</b>]]></text>
+   </component>
+
+   <component id="ID_txt07">
+      <text><![CDATA[<b>Dest. IP 192.168.4.10</b>]]></text>
+   </component>
+
+   <component id="ID_txt08">
+      <text><![CDATA[<b>Origem IP 192.168.1.10</b>]]></text>
+   </component>
+
+   <component id="ID_txt09">
+      <text><![CDATA[<b>Campos IP</b>]]></text>
+   </component>
+
+   <component id="ID_txt10">
+      <text><![CDATA[<b>Dados</b>]]></text>
+   </component>
+
+   <component id="ID_txt11">
+      <text><![CDATA[<b>Trailer</b>]]></text>
+   </component>
+
+
+
+   
+
+   <component id="ID_txt26">
+      <text><![CDATA[Cache ARP de PC1 para R1]]></text>
+   </component>
+
+   <component id="ID_txt27">
+      <text><![CDATA[Endereço IP]]></text>
+   </component>
+
+   <component id="ID_txt28">
+      <text><![CDATA[Endereço MAC]]></text>
+   </component>
+
+   <component id="ID_txt29">
+      <text><![CDATA[Cache ARP de R1]]></text>
+   </component>
+
+   
+
+
+
+
+
+   <component id="ID_speech01">
+      <text><![CDATA[<b>Tenho um pacote para PC2.</b>]]></text>
+   </component>
+
+   <component id="ID_speech02">
+      <text><![CDATA[<b>Que caminho ele precisa percorrer?</b>]]></text>
+   </component>
+
+   <component id="ID_speech03">
+      <text><![CDATA[<b>Vejo que PC2 está em uma rede diferente.</b>]]></text>
+   </component>
+
+   <component id="ID_speech04">
+      <text><![CDATA[<b>Como PC2 está em uma rede diferente, irei encapsular o pacote e enviá-lo para o roteador na MINHA rede. Deixe-me localizar esse endereço MAC...</b>]]></text>
+   </component>
+
+   
+
+
+
+
+
+
+
+   
+   <component id="play">
+      <text>Reproduzir</text>
+   </component>
+   <component id="pause">
+      <text>Pausar</text>
+   </component>
+   <component id="rewind">
+      <text>Retroceder</text>
+   </component>
+   <component id="forward">
+      <text>Avançar</text>
+   </component>
+   <component id="mute">
+      <text>Sem som</text>
+   </component>
+   <component id="unmute">
+      <text>Com som</text>
+   </component>
+   <component id="previous">
+      <text>Reiniciar</text>
+   </component>
+   <component id="next">
+      <text>Encerrar</text>
+   </component>
+   <component id="transcript">
+      <text>Transcrição</text>
+   </component>
+
+</textcomponents>

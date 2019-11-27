@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:36">
+<title><content-text><![CDATA[7.2.8 - Verifying and Troubleshooting NAT Configurations]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts troubleshooting NAT and NAT Overload configurations using the debug i p nat command. Time-stamped entries with the source address, translated address, and destination address are shown.<br><br>R2#debug i p nat<br>IP NAT debugging is on.<br>Output omitted<br>Output depicts sample entries:<br>R#<br>*Oct 6 19:55:31.579 NAT*: s-192.168.10.10 -> 209.165.200.225, d-209.165.200.254 [14434]<br>*Oct 6 19:55:31.579 NAT*: s-209.165.200.254, d-209.165.200.225 -> 192.168.10.10 [6334]<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

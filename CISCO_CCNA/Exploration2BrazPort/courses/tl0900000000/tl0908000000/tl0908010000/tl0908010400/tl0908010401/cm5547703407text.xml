@@ -1,0 +1,35 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<font face="_typewriter">***saída do comando omitida***</font>]]></text>
+</component>
+
+<component id="output1cap">
+<text><![CDATA[<b>Rota Primária de Nível 1</b>]]></text>
+</component>
+
+<component id="output2cap">
+<text><![CDATA[<b>Rota Secundária de Nível 2</b>]]></text>
+</component>
+
+<component id="btnOne">
+<text><![CDATA[<b>Primária</b>]]></text>
+</component>
+
+<component id="btnTwo">
+<text><![CDATA[<b>Secundária</b>]]></text>
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Rotas Primárias e Secundárias</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver a saída do comando do roteador.</b>]]></text>
+</component>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text>
+</component>
+
+</textcomponents>

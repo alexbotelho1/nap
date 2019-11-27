@@ -1,0 +1,57 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b><TEXTFORMAT BLOCKINDENT='13'>  Incompatibilidades de VLAN nativa</textformat><br/><TEXTFORMAT BLOCKINDENT='13'>-<TEXTFORMAT BLOCKINDENT='22'> Por exemplo, uma porta é definida como VLAN 99, e a outra é definida como VLAN 100</textformat></textformat><br/><TEXTFORMAT BLOCKINDENT='13'>-<TEXTFORMAT BLOCKINDENT='22'> Oferece um risco à segurança e cria resultados indesejados</textformat></textformat><br/><TEXTFORMAT BLOCKINDENT='13'>  Erros de configuração do modo de tronco</textformat><br/><TEXTFORMAT BLOCKINDENT='13'>-<TEXTFORMAT BLOCKINDENT='22'> Por exemplo, uma porta configurada como modo de tronco "desativado" e a outra como "ativado".</textformat></textformat><br/><TEXTFORMAT BLOCKINDENT='13'>-<TEXTFORMAT BLOCKINDENT='22'> Causa a perda de conectividade da rede</textformat></textformat><br/><TEXTFORMAT BLOCKINDENT='13'>  VLANs e sub-redes IP</textformat><br/><TEXTFORMAT BLOCKINDENT='13'>-<TEXTFORMAT BLOCKINDENT='22'> Por exemplo, os computadores dos usuários podem ter sido configurados com os endereços IP incorretos</textformat></textformat><br/><TEXTFORMAT BLOCKINDENT='13'>-<TEXTFORMAT BLOCKINDENT='22'> Causa a perda de conectividade da rede</textformat></textformat><br/><TEXTFORMAT BLOCKINDENT='13'>  VLANs permitidas em troncos</textformat><br/><TEXTFORMAT BLOCKINDENT='13'>-<TEXTFORMAT BLOCKINDENT='22'> A lista de VLANs permitidas não suporta os requisitos de entroncamento  atuais.</textformat></textformat><br/><TEXTFORMAT BLOCKINDENT='13'>-<TEXTFORMAT BLOCKINDENT='22'> Faz com que o tráfego inesperado ou nenhum tráfego seja enviado pelo tronco</textformat></textformat></b>]]></text>
+</component>
+
+<component id="ID_tableHTML">
+	    <text><![CDATA[
+		<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	
+	    	<tr>
+	  	  		
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Problema</b></font></td>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Resultado</b></font></td>
+			<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Exemplo</b></font></td>
+	   	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Incompatibilidades de VLAN nativa</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Oferece um risco à segurança e cria resultados indesejados.</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Por exemplo, uma porta é definida como VLAN 99, e a outra é definida como VLAN 100.</td>
+			
+	</tr>
+	
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Erros de configurações do modo de tronco</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Causa a perda de conectividade da rede.</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Por exemplo, uma porta configurada como modo de tronco "desativado" e a outra como "ativado".</td>
+		
+				
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>VLANs e sub-redes IP</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Causa a perda de conectividade da rede.</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Por exemplo, os computadores dos usuários podem ter sido configurados com os endereços IP incorretos.</td>
+			
+	</tr>
+	
+	<tr>
+			
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>VLANs permitidas em troncos</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Faz com que o tráfego inesperado ou nenhum tráfego seja enviado pelo tronco.</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>A lista de VLANs permitidas não suporta os requisitos de entroncamento atuais.</td>
+		
+				
+	</tr>
+	
+		
+	
+	
+</table>]]></text> 
+  </component>
+
+
+
+<component id="ID_title"><text><![CDATA[<b>Problemas comuns com VLANs e troncos</b>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,40 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Exemplo de conversão de serial em paralelo</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>PC</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Barramento de sistema</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>UART</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>O seu PC utiliza UART como um agente DTE, e a porta serial é a interface DTE.</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Modem</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>O seu modem é a interface DCE.</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>RS-232</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>RS-232</b>]]></text>
+</component>
+
+
+</textcomponents>

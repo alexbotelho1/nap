@@ -1,0 +1,55 @@
+<textcomponents>
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Com som]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+
+
+
+
+<component id="ID_txthopcount">
+		  <text><![CDATA[<b>Contagem de saltos</b>]]></text>
+</component>
+
+ <component id="ID_txt12">
+		 <text><![CDATA[<b>56Kbps</b>]]></text>
+</component>
+
+ <component id="ID_txt13">
+		 <text><![CDATA[<b>Largura de banda</b>]]></text>
+</component>
+<component id="ID_title">
+<text><![CDATA[<b>Comparação entre as métricas Contagem de saltos e Largura de Banda</b>]]></text>
+</component>
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para ver a animação.</b>]]></text>
+</component>
+
+
+
+
+</textcomponents>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="9_4_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_BUBBLE_1">
+        <source>If the file you load is corrupt, setting a restore point will allow you to go back to the way things were.</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_BUBBLE_2">
+        <source>If the program is set to execute or obtain updates automatically, you may need to turn the automatic feature off to perform these steps manually.</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_BUBBLE_3">
+        <source>You may be asked to select one of several download sites. Pick the one closest to you, or the one which is the fastest. You may have to update both the program and its database.</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_BUBBLE_4">
+        <source>Some anti-virus or anti-spware programs allow you to select which disk drives or folders you wish to scan for viruses.</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_BUBBLE_5">
+        <source>Some viruses are written in a way that anti-virus programs cannot clean them automatically. You may need to delete it yourself. It may help to change the name of the offending file before you delete it.</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_BUBBLE_6">
+        <source>To protect your computer automatically, most anti-virus programs can be set to scan your computer at a scheduled time each day. Some anti-virus programs can be set to provide continuos protection by scanning each new file that enters the computer. You can also schedule the program to look for updates automatically. This helps to overcome the &quot;Day Zero&quot; problems poised by new attacks and viruses.</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_01">
+        <source>Set Windows
+Restore point.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_02">
+        <source>Open the anti-virus or anti-spyware program.</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_03">
+        <source>Locate the update control button and select it.</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_04">
+        <source>After the program is updated, use it to scan your computer.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_05">
+        <source>When the scan is completed, check the report for viruses or other problems that could not be treated and delete them yourself.</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_06">
+        <source>Set the anti-virus or anti-spyware program to automatically update and to run on a  scheduled basis.</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

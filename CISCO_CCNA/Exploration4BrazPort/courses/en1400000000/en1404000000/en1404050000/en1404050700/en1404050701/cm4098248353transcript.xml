@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:13">
+<title><content-text><![CDATA[4.5.7  - Recovering a Lost Router Password]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts information about router password recovery.<br><br>Network Topology:<br>PC1 is connected to switch S1, which is connected to router R1. Routers R1 and R3 are connected to router R2 via WAN links. A TFTP server with IP address 192.168.20.254 is connected to R2. R2 also provides a gateway to the Internet. The text bubble for the R1 states: Administrator has to recover the enable passwords on R1.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

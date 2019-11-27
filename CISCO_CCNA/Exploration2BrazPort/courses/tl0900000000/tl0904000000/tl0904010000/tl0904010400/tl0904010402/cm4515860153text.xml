@@ -1,0 +1,204 @@
+<textcomponents>
+<component id="ID_title">
+   <text><![CDATA[<font size="14"><b>Verificação de aprendizagem do protocolo de roteamento</b></font>]]></text>
+</component>
+<component id="ID_inst">
+   <text><![CDATA[<font size="12"><b>Estude a figura e clique no botão de reinicialização para esvaziar a tabela. Arraste as características apropriadas para cada protocolo de roteamento e clique no botão de verificação para verificar as suas respostas. O botão de resposta revelará todas as respostas corretas.</b></font>]]></text>
+</component>
+
+<!-- buttons -->
+<component id="ID_resetBtn">
+   <text><![CDATA[<b>Redefinir</b>]]></text>
+</component>
+<component id="ID_checkBtn">
+   <text><![CDATA[<b>Verificar</b>]]></text>
+</component>
+<component id="ID_answerBtn">
+   <text><![CDATA[<b>Responder</b>]]></text>
+</component>
+
+<!-- popups-->
+<component id="txt_tcorrect">
+   <text><![CDATA[Corrigir]]></text>
+</component>
+<component id="txt_correct">
+   <text><![CDATA[Parabéns! Todos os itens estão corretos.]]></text>
+</component>
+<component id="txt_tincorrect">
+   <text><![CDATA[Incorreto]]></text>
+</component>
+<component id="txt_incorrect">
+   <text><![CDATA[Desculpe, nem todos os itens estão corretos ou você usou o botão de resposta. Pressione Redefinir para recomeçar.]]></text>
+</component>
+
+<!--  drag items-->
+<component id="ID_item01">
+   <text><![CDATA[Lento]]></text>
+</component>
+<component id="ID_item02">
+   <text><![CDATA[Rápido]]></text>
+</component>
+<component id="ID_item03">
+   <text><![CDATA[Não]]></text>
+</component>
+<component id="ID_item04">
+   <text><![CDATA[Sim]]></text>
+</component>
+<component id="ID_item05">
+   <text><![CDATA[Pequeno]]></text>
+</component>
+<component id="ID_item06">
+   <text><![CDATA[Grande]]></text>
+</component>
+<component id="ID_item07">
+   <text><![CDATA[Baixo]]></text>
+</component>
+<component id="ID_item08">
+   <text><![CDATA[Médio]]></text>
+</component>
+<component id="ID_item09">
+   <text><![CDATA[Alto]]></text>
+</component>
+<component id="ID_item10">
+   <text><![CDATA[Simplex]]></text>
+</component>
+<component id="ID_item11">
+   <text><![CDATA[Complexo]]></text>
+</component>
+
+<!--  table header text-->
+<component id="ID_txt01">
+   <text><![CDATA[<b>Vetor de distância</b>]]></text>
+</component>
+<component id="ID_txt02">
+   <text><![CDATA[<b>Link-state</b>]]></text>
+</component>
+<component id="ID_txt03">
+   <text><![CDATA[<b>RIPv1</b>]]></text>
+</component>
+<component id="ID_txt04">
+   <text><![CDATA[<b>RIPv2</b>]]></text>
+</component>
+<component id="ID_txt05">
+   <text><![CDATA[<b>IGRP</b>]]></text>
+</component>
+<component id="ID_txt06">
+   <text><![CDATA[<b>EIGRP</b>]]></text>
+</component>
+<component id="ID_txt07">
+   <text><![CDATA[<b>OSPF</b>]]></text>
+</component>
+<component id="ID_txt08">
+   <text><![CDATA[<b>IS-IS</b>]]></text>
+</component>
+
+<!--table side text-->
+<component id="ID_txt09">
+   <text><![CDATA[Velocidade da convergência]]></text>
+</component>
+<component id="ID_txt10">
+   <text><![CDATA[Escalabilidade – Tamanho da rede]]></text>
+</component>
+<component id="ID_txt11">
+   <text><![CDATA[Uso do VLSM]]></text>
+</component>
+<component id="ID_txt12">
+   <text><![CDATA[Uso de recursos]]></text>
+</component>
+<component id="ID_txt13">
+   <text><![CDATA[Implementação e manutenção]]></text>
+</component>
+
+<!--answer text-->
+<component id="ID_a01">
+<text><![CDATA[Lento]]></text>
+</component>
+<component id="ID_a02">
+<text><![CDATA[Lento]]></text>
+</component>
+<component id="ID_a03">
+<text><![CDATA[Lento]]></text>
+</component>
+<component id="ID_a04">
+<text><![CDATA[Rápido]]></text>
+</component>
+<component id="ID_a05">
+<text><![CDATA[Rápido]]></text>
+</component>
+<component id="ID_a06">
+<text><![CDATA[Rápido]]></text>
+</component>
+<component id="ID_a07">
+<text><![CDATA[Pequeno]]></text>
+</component>
+<component id="ID_a08">
+<text><![CDATA[Pequeno]]></text>
+</component>
+<component id="ID_a09">
+<text><![CDATA[Pequeno]]></text>
+</component>
+<component id="ID_a10">
+<text><![CDATA[Grande]]></text>
+</component>
+<component id="ID_a11">
+<text><![CDATA[Grande]]></text>
+</component>
+<component id="ID_a12">
+<text><![CDATA[Grande]]></text>
+</component>
+<component id="ID_a13">
+<text><![CDATA[Não]]></text>
+</component>
+<component id="ID_a14">
+<text><![CDATA[Sim]]></text>
+</component>
+<component id="ID_a15">
+<text><![CDATA[Não]]></text>
+</component>
+<component id="ID_a16">
+<text><![CDATA[Sim]]></text>
+</component>
+<component id="ID_a17">
+<text><![CDATA[Sim]]></text>
+</component>
+<component id="ID_a18">
+<text><![CDATA[Sim]]></text>
+</component>
+<component id="ID_a19">
+<text><![CDATA[Baixo]]></text>
+</component>
+<component id="ID_a20">
+<text><![CDATA[Baixo]]></text>
+</component>
+<component id="ID_a21">
+<text><![CDATA[Baixo]]></text>
+</component>
+<component id="ID_a22">
+<text><![CDATA[Médio]]></text>
+</component>
+<component id="ID_a23">
+<text><![CDATA[Alto]]></text>
+</component>
+<component id="ID_a24">
+<text><![CDATA[Alto]]></text>
+</component>
+<component id="ID_a25">
+<text><![CDATA[Simplex]]></text>
+</component>
+<component id="ID_a26">
+<text><![CDATA[Simplex]]></text>
+</component>
+<component id="ID_a27">
+<text><![CDATA[Simplex]]></text>
+</component>
+<component id="ID_a28">
+<text><![CDATA[Complexo]]></text>
+</component>
+<component id="ID_a29">
+<text><![CDATA[Complexo]]></text>
+</component>
+<component id="ID_a30">
+<text><![CDATA[Complexo]]></text>
+</component>
+
+</textcomponents>

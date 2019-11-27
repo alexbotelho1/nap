@@ -1,0 +1,145 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Operação de entroncamento</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique no botão Reproduzir para avançar a animação.</b>]]></text>
+</component>
+
+<component id="ID_button_01">
+<text><![CDATA[<b>Broadcasts de rede sem segmentação por VLAN</b>]]></text>
+</component>
+
+<component id="ID_button_02">
+<text><![CDATA[<b>Broadcasts de rede com segmentação por VLAN</b>]]></text>
+</component>
+
+<component id="ID_txt01_3.2.2.1">
+<text><![CDATA[<b>Corpo docente<br/>172.17.10.21</b>]]></text>
+</component>
+
+<component id="ID_txt02_3.2.2.1">
+<text><![CDATA[<b>Aluno<br/>172.17.20.22</b>]]></text>
+</component>
+
+<component id="ID_txt03_3.2.2.1">
+<text><![CDATA[<b>Convidado<br/>172.17.30.23</b>]]></text>
+</component>
+
+<component id="ID_txt04_3.2.2.1">
+<text><![CDATA[<b>Corpo docente<br/>172.17.10.24</b>]]></text>
+</component>
+
+<component id="ID_txt05_3.2.2.1">
+<text><![CDATA[<b>Aluno<br/>172.17.20.25</b>]]></text>
+</component>
+
+<component id="ID_txt06_3.2.2.1">
+<text><![CDATA[<b>Convidado<br/>172.17.30.26</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>PC1 envia uma broadcast na VLAN 10<br/>PC3 envia uma broadcast na VLAN 30</b>]]></text>
+</component>
+
+<component id="ID_txt08_3.2.2.1">
+<text><![CDATA[<b>Troncos VLAN configurados para suporte:<br/>VLAN 10, 20, 30</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Broadcast</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Broadcast</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Quadro com marcação</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>VID =10</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Quadro com marcação</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>VID =30</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Switch S2 marca cada quadro com a ID de VLAN correta.</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Os switches S2 e S1 enviam os quadros com marcação por todas as portas configuradas para as VLANs 10 e 30.</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Quadro sem marcação</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>Quadro sem marcação</b>]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b>O S3 recebe os quadros com marcação, retira amarcação  e roteia os quadros  pelas portas corretas: Porta F0/11 para VLAN 10 em PC4 e Porta F0/6 para VLAN 30 em PC6.</b>]]></text>
+</component>
+
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<component id="play2">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause2">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind2">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward2">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute2">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute2"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous2"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next2">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript2">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+	<component id="ID_cont">
+		<text><![CDATA[Clique em Reproduzir para continuar.]]></text>
+	</component>
+
+</textcomponents>

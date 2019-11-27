@@ -1,0 +1,123 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Clique para exibir as etapas e os comandos para reunir sintomas.]]></text>
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Reunindo sintomas</b>]]></text>
+</component>
+
+
+<component id="ID_button1">
+  <text><![CDATA[<b>Etapas para reunir sintomas</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Comandos</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Analisar<br/>existentes<br/>sintomas</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Contato<br/>external<br/>administrador</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Determinar<br/>propriedade</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Não</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<b>O problema está dentro do sistema autônomo?</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<b>Sim</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<b>Refinar<br/>escopo</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<b>Determinar sintomas</b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+  <text><![CDATA[<b>Documentar sintomas</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+  <text><![CDATA[<b>O problema pode ser resolvido usando os sintomas documentados?</b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+  <text><![CDATA[<b>Não</b>]]></text> 
+</component>
+
+<component id="ID_txt12">
+  <text><![CDATA[<b>Começar<br/>isolando</b>]]></text> 
+</component>
+
+<component id="ID_txt13">
+  <text><![CDATA[<b>Sim</b>]]></text> 
+</component>
+
+<component id="ID_txt14">
+  <text><![CDATA[<b>Resolva o problema e documente a solução</b>]]></text> 
+</component>
+
+
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='200' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Comando</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Descrição</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><b>ping</b> <i>{host | ip-address}</i></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Envia um pacote de solicitação de eco a um endereço, então espera por uma resposta. A variável <font face="_typewriter"><i>host | ip-address</i></font> é o alias de IP ou endereço IP do sistema designado.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><b>traceroute</b> <i>{destination}</i></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Identifica o caminho que um pacote leva pelas redes. A variável destination é o nome do host ou endereço IP do sistema designado.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><b>telnet</b> <i>{host | ip-address}</i></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Conecta a um endereço IP que usa a aplicação de Telnet.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><b>show ip interface brief</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Exibe um resumo do status de todas as interfaces em um dispositivo.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><b>show ip route</b></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Exibe o estado atual da tabela de roteamento IP.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><b>show running-config interface</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Exibe o conteúdo de um arquivo de configuração que esteja atualmente em execução para uma interface específica.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><b>[no] debug ?</b></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Exibe uma lista de opções por habilitar ou desabilitar eventos de depuração em um dispositivo.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><b>show protocols</b></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Exibe os protocolos configurados e mostra o status global e específico da interface de qualquer protocolo de Camada 3 configurado.</td>
+	</tr>
+
+</table>]]></text>
+</component>
+
+
+
+</textcomponents>

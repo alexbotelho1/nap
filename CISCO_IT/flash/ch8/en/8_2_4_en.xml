@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_2_4.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Peer-to-Peer Network</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Peer-to-Peer Network</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_T_3">
+        <source>Workstation C</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_T_4">
+        <source>Workstation B</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_T_1">
+        <source>Workstation A</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_T_2">
+        <source>Workstation D</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TX_1">
+        <source>Backup in progress</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

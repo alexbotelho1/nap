@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:08">
+<title><content-text><![CDATA[7.3.7 - Configuring IPv6 Addresses]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts Cisco I O S IPv6 name resolution. There are two ways to perform name resolution from the Cisco I O S software process:<br><br>Command syntax: RouterX(config)#i pv6 host name [port] ipv6address [{i pv6address} ...]<br>Example: RouterX(config)#i pv6 host router1 3ffe:b00:ffff:b::1<br>Purpose: Define a static name for IPv6 addresses.<br><br>Command syntax: RouterX(config)#i p name-server address<br>Example: RouterX(config)#i p name-server 3ffe:b00:ffff:1::10<br>Purpose: Configure a DNS server or servers to query.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

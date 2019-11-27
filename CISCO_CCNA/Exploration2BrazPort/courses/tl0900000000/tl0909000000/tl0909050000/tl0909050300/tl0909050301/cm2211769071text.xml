@@ -1,0 +1,116 @@
+<textcomponents>
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver a saída do comando.</b>]]></text>
+</component>
+
+<component id="routerIcon">
+<text><![CDATA[<b>Saída do <br>roteador</b>]]></text>
+</component>
+
+<component id="Button01">
+<text><![CDATA[<b>Novas redes locais de R3</b>]]></text>
+</component>
+<component id="Button02">
+<text><![CDATA[<b>Tabelas de roteamento 1</b>]]></text>
+</component>
+<component id="Button03">
+<text><![CDATA[<b>Rota de sumarização de R3</b>]]></text>
+</component>
+<component id="Button04">
+<text><![CDATA[<b>Tabelas de roteamento 2</b>]]></text>
+</component>	
+
+<!-- titles -->
+
+<component id="ID_title01">
+<text><![CDATA[<b>Tabela de topologia de R3</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Rotas de R1 e R2 para 192.168</b>]]></text>
+</component>
+
+<component id="ID_title03">
+<text><![CDATA[<b>Sumarização manual</b>]]></text>
+</component>
+
+<component id="ID_title04">
+<text><![CDATA[<b>Tabelas de roteamento de R1 e R2</b>]]></text>
+</component>
+
+<!-- topology -->
+<component id="ID_txt01">
+<text><![CDATA[<b><i>Este roteador não existe fisicamente</i></b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>64 kbps</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>1024 kbps</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>1544 kbps</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Loopback1</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Loopback 2</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Loopback 3</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[***Saída do comando Limitada para rotas de 192.168***]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[***Saída do comando Limitada para rotas de 192.168***]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[***saída do comando omitida***]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[***saída do comando omitida***]]></text>
+</component>
+
+<!-- Output captions -->
+<component id="ID_caption01">
+<text><![CDATA[<b>São acrescentadas duas redes locais simuladas para R3 utilizando interfaces de loopback.<br>As redes são então configuradas como parte do processo de EIGRP.</b>]]></text>
+</component>
+
+<component id="ID_caption02">
+<text><![CDATA[<b>Configurar a rota de sumarização em todas as interfaces que enviam pacotes de EIGRP.</b>]]></text>
+</component>
+
+<component id="ID_caption03">
+<text><![CDATA[<b>Rotas a partir da Sumarização Manual</b>]]></text>
+</component>
+
+
+</textcomponents>

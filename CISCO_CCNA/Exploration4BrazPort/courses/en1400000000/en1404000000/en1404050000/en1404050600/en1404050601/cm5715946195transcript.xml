@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:44">
+<title><content-text><![CDATA[4.5.6  - Troubleshooting Cisco I O S Configurations]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts a comparison between the Cisco I O S show and debug troubleshooting commands.<br><br>Comparison Criterion: Processing characteristic<br>Show: Static<br>Debug: Dynamic<br><br>Comparison Criterion: Processing load<br>Show: Low overhead<br>Debug: High overhead<br><br>Comparison Criterion: Primary use<br>Show: Gather facts<br>Debug: Observe processes]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

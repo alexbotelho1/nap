@@ -1,0 +1,16 @@
+<textcomponents>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Neste capítulo, você aprendeu:</b></font></td></tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>O padrão Ethernet 802.3 se comunica usando tráfego de unicast, broadcast e multicast. As configurações do modo duplex e a segmentação de rede local melhoraram o desempenho. Domínios de colisão, domínios de broadcast, latência de rede e segmentação de rede local são as principais considerações quanto ao design de rede local.</li><li>Os métodos de encaminhamento do switch influenciam o desempenho da rede local e a latência. O armazenamento em buffer de memória do tráfego da rede permite ao switch armazenar quadros para que um switch possa fornecer recursos de encaminhamento e comutação simétrica, assimétrica e multicamada.</li><li>Usando a CLI do Cisco IOS, é possível configurar rapidamente as funções do switch repetitivas.</li><li>Uma configuração de switch inicial consiste em fornecer conectividade de IP básica, nomes de hosts e banners. Verificando sua configuração usando o comando <font face='_typewriter'><b>show running-config</b></font> do Cisco IOS e sempre fazendo backup das configurações do switch.</li><li>Use a CLI do Cisco IOS para proteger a console e o acesso ao terminal virtual por senha.</li><li>Implemente as senhas para limitar o acesso ao modo EXEC privilegiado e configure a criptografia de senha em todo o sistema.</li><li>Use SSH na configuração do terminal remoto em switches Cisco.</li><li>Habilite a segurança de porta para atenuar os riscos e executar análises de segurança regulares dos switches de rede.</li></ul></td>
+  </tr>
+</table>]]></text>
+</component>
+
+<component id="ID_title"><text><![CDATA[<b></b>]]></text>
+</component>
+</textcomponents>

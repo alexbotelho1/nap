@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="4_2_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1SS">
+        <source>Troubleshooting Process </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_00">
+        <source>Gather Data from the Customer</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_002">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_CONTENT 01">
+        <source>Customer Information
+  •  Company Name
+  •  Contact Name
+  •  Address
+  •  Phone Number
+
+Computer Configuration
+  •  Manufacturer and Model
+  •  Operating System Information
+  •  Network Environment
+  •  Connection Type
+
+ Description of Problem
+  •  Open-Ended Questions
+  •  Closed-Ended Questions
+
+</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TITLE6">
+        <source>What problems are you experiencing with your computer or network?</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TITLE7">
+        <source>What software has been installed on your computer recently?</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TITLE8">
+        <source>What were you doing when the problem was identified?</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TITLE9">
+        <source>What operating system do you have installed on your computer?</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TITLE10">
+        <source>What hardware changes have been made recently to your computer?</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TITLE12">
+        <source>Has anyone else used your computer recently?</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TITLE13">
+        <source>Can you reproduce the problem?</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TITLE14">
+        <source>Have you changed your password recently?</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TITLE15">
+        <source>Have you received any error messages on your computer?</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TITLE16">
+        <source>Are you currently logged into the network?</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TITLE1">
+        <source>Gather Data From the Customer  
+</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TITLE2">
+        <source>Open-Ended Questions
+</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TITLE3">
+        <source>Closed-Ended Questions</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TITLE4">
+        <source>Closed-Ended Questions</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

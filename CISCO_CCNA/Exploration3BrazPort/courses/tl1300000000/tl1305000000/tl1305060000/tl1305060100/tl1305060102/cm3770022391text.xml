@@ -1,0 +1,324 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para visualizar a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para avançar para a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+
+
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1)<TEXTFORMAT BLOCKINDENT='17'> Quais das seguintes afirmações são verdadeiras e quais são falsas?</textformat>]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 5.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' width='70' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>_______</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>A. Os quadros Ethernet não possuem tempo de vida (TTL).</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>_______</td>
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>B. Os quadros de broadcast são encaminhados para todas as portas de switch, exceto a porta de origem.</td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>_______</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>C. Em um design hierárquico, a redundância é obtida nas camadas de distribuição e do núcleo através de hardware adicional e caminhos alternativos pelo hardware adicional.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>_______</td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>D. Os loops de Camada 2 resultam em uma carga de CPU baixa em todos os switches presentes no loop.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>_______</td>
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>E. Uma broadcast storm ocorre quando existem tantos quadros de broadcast presentes em um loop de Camada 2 que toda a largura de banda disponível é consumida.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>_______</td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>F. A maioria dos protocolos de camada superior é criada para reconhecer ou lidar com transmissões duplicadas.</td>
+  </tr>
+  <tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>_______</td>
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>G. Os loops de Camada 2 surgem como resultado de diversos caminhos, e o STP pode ser utilizado para bloquear tais loops.</td>
+  </tr>
+</table>]]></text>
+</component>
+<component id="ID_Q1_txt05b">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' width='70' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  V  </u></b></td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>A. Os quadros Ethernet não possuem tempo de vida (TTL).</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  V  </u></b></td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>B. Os quadros de broadcast são encaminhados para todas as portas de switch, exceto a porta de origem.</td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  V  </u></b></td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>C. Em um design hierárquico, a redundância é obtida nas camadas de distribuição e do núcleo através de hardware adicional e caminhos alternativos pelo hardware adicional.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  F  </u></b></td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>D. Os loops de Camada 2 resultam em uma carga de CPU baixa em todos os switches presentes no loop.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  V  </u></b></td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>E. Uma broadcast storm ocorre quando existem tantos quadros de broadcast capturados em um loop de Camada 2 que toda a largura de banda disponível é consumida.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  F  </u></b></td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>F. A maioria dos protocolos de camada superior é criada para reconhecer ou lidar com transmissões duplicadas.</td>
+  </tr>
+  <tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  V  </u></b></td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>G. Os loops de Camada 2 surgem como resultado de diversos caminhos, e o STP pode ser utilizado para bloquear tais loops.</td>
+  </tr>
+</table>]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Um protocolo de roteamento classless inclui a máscara de sub-rede na atualização de roteamento.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2)<TEXTFORMAT BLOCKINDENT='17'> Imagina-se uma topologia de STP convergida com o switch S1 como a bridge raiz. Complete os quadros com a descrição adequada: porta raiz, porta designada ou porta não-designada.</textformat>]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 5.2)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q2_txt06b">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>comutação de armazenamento e encaminhamento e comutação direta</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>armazenamento em buffer de memória baseado em porta e armazenamento em buffer de memória compartilhado</td>
+_  </tr>
+</table>
+]]></text>
+</component>
+<component id="ID_Q2_txt07">
+<text><![CDATA[<b>Bridge raiz</b>]]></text>
+</component>
+<component id="ID_Q2_txt08">
+<text><![CDATA[<b>Trunk</b>]]></text>
+</component>
+<component id="ID_Q2_txt09">
+<text><![CDATA[<b>Trunk</b>]]></text>
+</component>
+<component id="ID_Q2_txt10">
+<text><![CDATA[<b>Trunk</b>]]></text>
+</component>
+<component id="ID_Q2_txt11">
+<text><![CDATA[<b>Bridge raiz</b>]]></text>
+</component>
+<component id="ID_Q2_txt12">
+<text><![CDATA[<b>Trunk</b>]]></text>
+</component>
+<component id="ID_Q2_txt13">
+<text><![CDATA[<b>Trunk</b>]]></text>
+</component>
+<component id="ID_Q2_txt14">
+<text><![CDATA[<b>Trunk</b>]]></text>
+</component>
+<component id="ID_Q2_txt15">
+<text><![CDATA[<b>Porta raiz</b>]]></text>
+</component>
+<component id="ID_Q2_txt16">
+<text><![CDATA[<b>Porta designada</b>]]></text>
+</component>
+<component id="ID_Q2_txt17">
+<text><![CDATA[<b>Porta<br/>Não-designada</b>]]></text>
+</component>
+<component id="ID_Q2_txt18">
+<text><![CDATA[<b>Porta designada</b>]]></text>
+</component>
+<component id="ID_Q2_txt19">
+<text><![CDATA[<b>Porta designada</b>]]></text>
+</component>
+<component id="ID_Q2_txt20">
+<text><![CDATA[<b>Porta raiz</b>]]></text>
+</component>
+
+
+
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3)<TEXTFORMAT BLOCKINDENT='17'> Consulte a <a href='asfunction:_parent._parent.openPopUp'><font color="#0000FF"><u>exibição.</u></font></a> O que pode ser concluído sobre a interface Fa0/2?</textformat>]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 5.3)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>A) Ela é uma porta designada.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>B) Ela é uma porta não-designada.</td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>C) Ela é uma porta raiz.</td>
+  </tr>
+</table>]]></text>
+</component>
+<component id="ID_Q3_txt05b">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>A) Ela é uma porta designada.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#FF6600" glow='false' glowcolor='#FCA92E' type='dynamic'>B) Ela é uma porta não-designada.</td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>C) Ela é uma porta raiz.</td>
+  </tr>
+</table>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4)<TEXTFORMAT BLOCKINDENT='17'> Faça a correspondência do termo à esquerda com a descrição apropriada.</textformat>]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 5.4)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' width='90' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>___PVST</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>A. STP original.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>___PVST+</td>
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>B. As VLANs são mapeadas para as instâncias.</td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>___RSTP</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>C. Proprietário, mas suporta o entroncamento 802.1Q.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>___MSTP</td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>D. Conta com o entroncamento ISL.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>___802.1D</td>
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>E. Convergência mais rápida depois de uma mudança de topologia.</td>
+  </tr>
+</table>]]></text>
+</component>
+<component id="ID_Q4_txt05b">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' width='90' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+			<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  D  </u></b> PVST</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>A. STP original.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  C  </u></b> PVST+</td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>B. As VLANs são mapeadas para as instâncias.</td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  E  </u></b> RSTP</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>C. Proprietário, mas suporta o entroncamento 802.1Q.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  B  </u></b> MSTP</td>
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>D. Conta com o entroncamento ISL.</td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b><u>  A  </u></b> 802.1D</td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>E. Convergência mais rápida depois de uma mudança de topologia.</td>
+  </tr>
+</table>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Assim são concluídas as perguntas da seção "Problemas e discussão" deste capítulo.</b>]]></text>
+</component>
+
+</textcomponents>

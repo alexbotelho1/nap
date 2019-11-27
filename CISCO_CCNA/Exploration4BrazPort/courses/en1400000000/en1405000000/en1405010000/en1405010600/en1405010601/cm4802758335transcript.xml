@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 07:12:28">
+<title><content-text><![CDATA[5.1.6 - How a Standard ACL Works]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts a flowchart that illustrates how a standard ACL works.<br><br>The decision points along the "YES" path of the flowchart are as follows:<br>- Is this an IP packet?<br>- Is there a standard ACL on this interface?<br>- Does the source address match the ACL list entry?<br>- If yes, permit or deny?<br>- If deny, discard packet.<br>- If permit, is the destination IP address in the routing table?<br>- If no, discard packet.<br>- If yes, send to outgoing interface.<br><br>If the answer to each of the decisions is "Yes" or "Permit," the packet is sent to the outgoing interface.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

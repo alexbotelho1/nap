@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:25">
+<title><content-text><![CDATA[7.3.8 - Configuring RIP n g with IPv6]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts configuration commands for RIP n g with IPv6.<br><br>Command: RouterX(config)#i pv6 router rip name<br>Purpose: Creates and enters RIP router configuration mode.<br><br>Command: RouterX(config-i f)#i pv6 rip name enable<br>Purpose: Configures RIP on an interface.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

@@ -1,0 +1,16 @@
+<textcomponents>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Neste capítulo, você aprenderá a:                                                                      </b></font></td></tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Descrever como uma rede hierárquica suporta as necessidades de voz, de vídeo e de dados de pequenas e médias empresas.                                 </li><li>Descrever as funções dos três níveis do modelo de design de rede hierárquico, os princípios do design de rede hierárquico (conectividade agregada, diâmetro da rede e redundância) e o conceito de uma rede convergida.                                                  </li><li>Fornecer exemplos de como voz e vídeo sobre IP afetam o design de rede. </li><li>Escolher os dispositivos apropriados para operar em cada nível da hierarquia, incluindo os componentes de voz e de vídeo.                                                             </li><li>Comparar o switch Cisco apropriado com cada camada no modelo de design de rede hierárquico.</li>                                                     </ul></td>
+  </tr>
+</table>]]></text>
+</component>
+
+<component id="ID_title"><text><![CDATA[<b></b>]]></text>
+</component>
+</textcomponents>

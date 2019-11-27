@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="6_7_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_1">
+        <source>Bluetooth:  The Bluetooth status LED indicates when the Bluetooth wireless transceiver is enabled. Bluetooth is a wireless industry standard that enables portable devices to communicate over short distances. </source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_2">
+        <source>Battery status:  The battery status LED indicates the condition of the computer battery. A laptop computer can use a battery or an AC power adapter to operate. The type of battery and how the laptop is used affects how long a battery charge will last.  </source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_3">
+        <source>Network LEDs: The two network LEDs are lights that inidcate the status of the network connection. The green link light indicates network connectivity. The other LED light indicates the traffic to and from the laptop.</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_4">
+        <source>Parallel port: The parallel port is a socket that is used to connect a device such as a printer or scanner.  </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_5">
+        <source>AC power connector: The AC power connector is a connector that is used to attach the AC power adapter to the laptop and to charge the battery.
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_6">
+        <source>Battery bay: The battery bay is a connector that is used to attach a laptop battery.    </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_7">
+        <source>Security keyhole: The security keyhole is a hard point in the laptop frame that is used to attach a security cable.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_8">
+        <source>USB ports: The Universal Serial Bus (USB) port is a socket that is used to connect one or more perhipherals.</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_9">
+        <source>S-video port: The S-video port is a four-pin mini-DIN connector that is used to output video signals to a compatible device. S-video separates the brightness and color portions of a video signal.    </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_10">
+        <source>Modem port: The RJ-11 modem port is a device that is used to connect the laptop to a standard telephone line. The modem can be used to connect the computer to the Internet, to fax documents, and to answer incoming calls.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_11">
+        <source>Ethernet port: The ethernet port is an RJ-45 socket that is used to connect the laptop to a cabled local area network. 
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S1_TXT_12">
+        <source>Network LEDs: The two network LEDs are lights that inidcate the status of the network connection. The green link light indicates network connectivity. The other LED light indicates the traffic to and from the laptop.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S1_TXT_13">
+        <source>Headphone jack: The headphone jack is a socket that is used to output audio signals to connected stereo headphones or speakers. </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S1_TXT_14">
+        <source>Microphone jack: The microphone jack is a socket that is used to connect a microphone used for audio input.
+
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_S1_TXT_15">
+        <source>Ventilation: The ventilation grill is a series of vents that allow hot air to be expelled from the interior of the laptop. 
+</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S1_TXT_16">
+        <source>PC combo card slot: The PC combination card slot is an expansion slot that supports the PCExpress expansion cards in the top slot and PC Cards in the bottom slot. 
+</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S1_TXT_17">
+        <source>Ventilation: The ventilation grill is a series of vents that allow hot air to be expelled from the interior of the laptop.</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S1_TXT_18">
+        <source>Battery latches: The battery latches are two security latches that are used to insert, remove, and secure the laptop battery.</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S1_TXT_19">
+        <source>Infrared port: The infrared port is a line-of-site wireless transceiver that is used for data transmission.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S1_TXT_20">
+        <source>Laptop latch:  The laptop latch is a lever that is used to open the laptop lid.  
+</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S1_TXT_21">
+        <source>VGA port: The VGA port is a 15-pin socket that allows output to external displays and projectors.
+</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S1_TXT_23">
+        <source>Optical drive activity indicator: The optical drive activity indicator is an LED that is illuminated to indicate drive activity.</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_S1_TXT_24">
+        <source>Optical drive: The optical drive is a disk drive that is used to read and write to CDs and DVDs.
+</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_S1_TXT_25">
+        <source>Docking connector: The docking connector is a socket that is used to attach a docking station to the laptop.
+</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_S1_TXT_26">
+        <source>Battery latches: The battery latches are two security latches that are used to insert, remove, and secure the laptop battery.</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_S1_TXT_27">
+        <source>RAM access panel: The RAM access panel is a cover that provides access to the expansion memory.</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_S1_TXT_28">
+        <source>Hard disk drive access panel: The hard drive access panel is a cover that provides access to the internal hard drive bay
+
+</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TITLE1">
+        <source>Common Problems and Solutions
+</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TITLE2">
+        <source>Laptop Battery Indicator and AC Power Adapter
+</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TITLE3">
+        <source>Wireless Signal Strength</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TITLE4">
+        <source>Function Keys</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TITLE5">
+        <source>Stylus</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TITLE6">
+        <source>Laptop – Expansion Card Replacement</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TITLE7">
+        <source>Laptop – Bottom View</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_CONTENT 01">
+        <source>Possible Solution</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_STEP 01">
+        <source>LCD laptop screen is not displaying anything
+</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_STEP 02">
+        <source>Disconnect any external monitors and use Fn key sequence to activate the LCD </source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>Problem Symptom</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_STEP 03">
+        <source>Image on the LCD screen is too dim</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_STEP 04">
+        <source>Swap laptop to AC power and adjust brightness controls for the LCD</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_STEP 05">
+        <source>Image on the LCD screen contains a black border</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_STEP 06">
+        <source>Adjust display resolution setting</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

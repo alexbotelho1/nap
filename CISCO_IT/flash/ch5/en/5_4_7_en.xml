@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="5_4_7.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Boot Sequence for Windows XP</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Windows XP Boot Sequence </source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE3">
+        <source>Registry Keys</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_01">
+        <source>Power On Self Test (POST)
+ 
+POST for each adapter card that has a BIOS
+ 
+BIOS reads the MBR
+ 
+MBR takes over control of the boot process and starts NTLDR
+ 
+NTLDR reads the BOOT.INI file to know which OS to load and where to find the OS on the boot partition
+ 
+NTLDR uses NTDETECT.COM to detect any installed hardware 
+
+NTLDR loads the NTOSKRNL.EXE file and HAL.DLL 
+
+NTLDR reads the registry files and loads device drivers
+ 
+NTOSKRNL.EXE starts the WINLOGON.EXE program and displays the Windows login screen
+</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_02">
+        <source>Power-on self test (POST) phase</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_03">
+        <source>Initial startup phase</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_04">
+        <source>Boot loader phase</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_05">
+        <source>Detect and configure hardware phase</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_06">
+        <source>Kernel loading phase </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_07">
+        <source>Logon phase</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_007">
+        <source>Ntldr</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_008">
+        <source>Boot.ini</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_08">
+        <source>1.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_009">
+        <source>Bootsect.dos</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_09">
+        <source>2.</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_010">
+        <source>Ntdetect.com</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_10">
+        <source>3.</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_11">
+        <source>4.</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_011">
+        <source>NTbootdd.sys(for SCSI or direct ATA)</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_012">
+        <source>Ntoskrnl.exe</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_12">
+        <source>5.</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_013">
+        <source>Hal.dll</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_13">
+        <source>6.</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_14">
+        <source>System registry
+file</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_15">
+        <source>Device drivers</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_016">
+        <source>Warm Boot:</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_17">
+        <source>POST is skipped for a warm boot</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_20">
+        <source>Windows Registry Files:</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_21">
+        <source>HKEY</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_22">
+        <source>DESCRIPTION</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_23">
+        <source>HKEY_CLASSES_ROOT</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_24">
+        <source>Information about which file extensions map to a particular 
+application</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_25">
+        <source>HKEY_CURRENT_USER</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_26">
+        <source>Information, such as desktop settings and history, related to the current user of a PC</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_27">
+        <source>HKEY_USERS</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_28">
+        <source>Information about all users who have logged onto a system</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_29">
+        <source>HKEY_LOCAL_MACHINE</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_30">
+        <source>Information relating to the hardware and software</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_31">
+        <source>HKEY_CURRENT_CONFIG</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_32">
+        <source>Information relating to all active devices on a system</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_0161">
+        <source>Cold Boot:</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

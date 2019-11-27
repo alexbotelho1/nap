@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:34">
+<title><content-text><![CDATA[7.1.8 - Troubleshooting DHCP]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts troubleshooting DHCP configuration tasks.<br><br>Task 1. Resolving IP address conflicts.<br><br>Task 2. Verifying physical connectivity.<br><br>Task 3. Testing network connectivity by configuring the client workstation with a static IP address.<br><br>Task 4. Verifying the switch port configuration (STP Port fast and other commands).<br><br>Task 5. Distinguishing whether DHCP clients obtain an IP address on the same subnet or V LAN as the DHCP server.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

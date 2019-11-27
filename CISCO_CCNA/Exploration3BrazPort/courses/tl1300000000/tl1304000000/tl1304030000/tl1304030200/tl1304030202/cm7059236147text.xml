@@ -1,0 +1,88 @@
+<textcomponents>
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Tabela</b>]]></text>
+</component>
+
+<component id="ID_topIcon">
+<text><![CDATA[<b>Solução</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Problemas de versão e senha</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Solução de versão de VTP</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Solução de senha de VTP</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b> </b></font></td></tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Versões incompatíveis do VTP.<ul><li>As versões 1 e 2 do VTP são incompatíveis entre si.</li><li>Certifique-se de que todos os switches estejam executando a mesma versão do VTP.</li></ul></td>
+  </tr>
+  <tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Problemas de senha do VTP.<ul><li>Certifique-se de que as senhas sejam todas iguais em todos os switches habilitados por VTP no domínio VTP.</li><li>Por padrão, um switch da Cisco não utiliza uma senha VTP.</li><li>Quando um anúncio VTP é recebido, os switches da Cisco não definem o parâmetro de senha de VTP automaticamente.</li></ul></td>
+</table>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Redefina a versão do VTP para a versão mais baixa suportada por todos os switches. Utilize estes comandos:</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[
+	   <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td width='350' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Sintaxe de comando do Cisco IOS</b></font></td>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b></b></font></td>
+	   	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Acessar o modo de configuração global</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>#<b>configure terminal</b></font></td>	
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Configurar a versão do VTP</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>(config)#<b>vtp version</b> <i>number</i></font></td>	
+	</tr>
+	</table>
+]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Veja aqui um exemplo que mostra como redefinir a versão do VTP para o switch S3:</b>]]></text>
+</component>
+
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Configurar uma senha de VTP em cada switch habilitado por VTP utilizando estes comandos:</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[
+	   <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr>
+	  	  	<td width='350' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Sintaxe de comando do Cisco IOS</b></font></td>
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b></b></font></td>
+	   	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Acessar o modo de configuração global</td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>#<b>configure terminal</b></font></td>	
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Configurar a senha de VTP</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>(config)#<b>vtp password</b> <i>password</i></font></td>	
+	</tr>
+	</table>
+]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Veja aqui um exemplo que mostra como configurar a senha de VTP para o switch S3:</b>]]></text>
+</component>
+
+</textcomponents>

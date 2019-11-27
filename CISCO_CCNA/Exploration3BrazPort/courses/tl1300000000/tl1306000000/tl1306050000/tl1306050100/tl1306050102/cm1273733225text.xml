@@ -1,0 +1,209 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para visualizar a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para avançar para a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+
+
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1)<TEXTFORMAT BLOCKINDENT='17'> Quantas interfaces físicas são exigidas para executar o roteamento entre VLANs com cada método indicado? </textformat>]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[ (de 6.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	    	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'></td>
+	  	  	<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><u>            </u></td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>A) Roteamento entre VLANs tradicional</td>
+  </tr>
+  <tr bgcolor="#DDDDDD">
+    <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><u>            </u></td>
+    <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>B) Router-on-a-stick</td>
+  </tr>
+  <tr bgcolor="#F2F2F2">
+    <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><u>            </u></td>
+    <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>C) Comutação multicamada</td>
+  </tr>
+</table>
+]]></text>
+</component>
+<component id="ID_Q1_txt05b">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	    	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'></td>
+	  	  	<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><u> uma porta por VLAN </u></td>
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>A) Roteamento entre VLANs tradicional</td>
+  </tr>
+  <tr bgcolor="#DDDDDD">
+    <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><u> uma porta de tronco </u></td>
+    <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>B) Roteador fixo</td>
+  </tr>
+  <tr bgcolor="#F2F2F2">
+    <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><u> nenhuma interface física </u></td>
+    <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>C) Comutação multicamada</td>
+  </tr>
+</table>
+]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Um protocolo de roteamento classless inclui a máscara de sub-rede na atualização de roteamento.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2)<TEXTFORMAT BLOCKINDENT='17'> Consulte a <a href='asfunction:_parent._parent.openPopUp'><font color="#0000FF"><u>figura</u></font>.</a> Suponha que as VLANs 10 e 30 estejam instanciadas no switch S1. Para habilitar o roteamento entre VLANs para as VLANs 10 e 30, liste as configurações apropriadas para a interface F0/0 no roteador R1 e para a interface F0/5 no switch S1.</textformat>]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 6.2)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[           ]]></text>
+</component>
+<component id="ID_Q2_txt06b">
+<text><![CDATA[           ]]></text>
+</component>
+
+<component id="ID_Q2_txt07">
+<text><![CDATA[<u>Subinterfaces</u><br/>F0/0.10: 172.17.10.1<br/>F0/0.30: 172.17.30.1]]></text>
+</component>
+<component id="ID_Q2_txt08">
+<text><![CDATA[Tronco]]></text>
+</component>
+<component id="ID_Q2_txt09">
+<text><![CDATA[VLAN 10]]></text>
+</component>
+<component id="ID_Q2_txt10">
+<text><![CDATA[VLAN 30]]></text>
+</component>
+
+
+
+
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3)<TEXTFORMAT BLOCKINDENT='17'> Consulte a <a href='asfunction:_parent._parent.openPopUp'><font color="#0000FF"><u>figura</u></font>.</a> O PC1 não pode comunicar-se com o PC3. Liste alguns problemas que podem estar causando a falta de comunicação. ]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 6.3)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>1) <u>                    </u></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>2) <u>                    </u></td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>3) <u>                    </u></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>4) <u>                    </u></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>5) <u>                    </u></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>6) <u>                    </u></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>7) <u>                    </u></td>
+  </tr>
+</table>]]></text>
+</component>
+<component id="ID_Q3_txt05b">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	<tr bgcolor="#F2F2F2">
+	  	  	<td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'> </td>
+	  	  	</tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>1) <u>Há uma incompatibilidade de VLAN nativa no link de tronco.</u></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'>2) <u>O endereço IP errado está configurado em uma subinterface específica na interface F0/0 do roteador R1. </u></td>
+  </tr>
+	<tr bgcolor="#F2F2F2">
+	  <td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>3) <u>O entroncamento não está habilitado na interface F0/5 do switch S1. </u></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>4) <u>As configurações de TCP/IP no PC1 ou no PC3 estão erradas. </u></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>5) <u>A interface F0/11 ou F0/6 está atribuída à VLAN errada no switch S1. </u></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#DDDDDD" glow='false' glowcolor='#FCA92E' type='dynamic'>6) <u>Está faltando o comando <font face="_typewriter"><b>encapsulation</b></font> em uma das subinterfaces de F0/0 no roteador R1. </u></td>
+  </tr>
+	<tr bgcolor="#DDDDDD">
+	  <td valign='top' bgcolor="#F2F2F2" glow='false' glowcolor='#FCA92E' type='dynamic'>7) <u>A VLAN 1 da interface não está configurada como uma subinterface na interface F0/0 do roteador R1. </u></td>
+  </tr>
+</table>]]></text>
+</component>
+
+<component id="ID_Q3_txt07">
+<text><![CDATA[<u>Subinterfaces</u><br/>F0/0.10: 172.17.10.1<br/>F0/0.30: 172.17.30.1]]></text>
+</component>
+<component id="ID_Q3_txt08">
+<text><![CDATA[Tronco]]></text>
+</component>
+<component id="ID_Q3_txt09">
+<text><![CDATA[VLAN 10]]></text>
+</component>
+<component id="ID_Q3_txt10">
+<text><![CDATA[VLAN 30]]></text>
+</component>
+
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Assim são concluídas as perguntas da seção "Problemas e discussão" deste capítulo.</b>]]></text>
+</component>
+
+</textcomponents>

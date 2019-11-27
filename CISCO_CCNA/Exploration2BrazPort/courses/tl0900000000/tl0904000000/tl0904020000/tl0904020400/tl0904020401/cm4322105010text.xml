@@ -1,0 +1,79 @@
+<textcomponents>
+   <component id="play">
+      <text>Reproduzir</text>
+</component>
+<component id="pause">
+      <text>Pausar</text>
+</component>
+<component id="rewind">
+      <text>Retroceder</text>
+</component>
+<component id="forward">
+      <text>Avançar</text>
+</component>
+<component id="mute">
+      <text>Sem som</text>
+</component>
+<component id="unmute">
+      <text>Com som</text>
+</component>
+<component id="previous">
+      <text>Reiniciar</text>
+</component>
+<component id="next">
+      <text>Encerrar</text>
+</component>
+<component id="transcript">
+      <text>Transcrição</text>
+</component>
+<component id="ID_txt01">
+   <text><![CDATA[<b>Tempo de convergência</b>]]></text>
+</component>
+<component id="ID_txt02">
+   <text><![CDATA[<b>Região 1</b>]]></text>
+</component>
+<component id="ID_txt03">
+   <text><![CDATA[<b>Região 2</b>]]></text>
+</component>
+<component id="ID_txt04">
+   <text><![CDATA[<b>Região 4</b>]]></text>
+</component>
+<component id="ID_txt05">
+   <text><![CDATA[<b>Região 3</b>]]></text>
+</component>
+<component id="ID_txt06">
+   <text><![CDATA[<b>B2-R4</b>]]></text>
+</component>
+<component id="ID_txt07">
+   <text><![CDATA[<b>B2-R1</b>]]></text>
+</component>
+<component id="ID_txt08">
+   <text><![CDATA[<b>B3-R1</b>]]></text>
+</component>
+<component id="ID_txt09">
+   <text><![CDATA[<b>B3-R2</b>]]></text>
+</component>
+<component id="ID_txt10">
+   <text><![CDATA[<b>B2-R2</b>]]></text>
+</component>
+<component id="ID_txt11">
+   <text><![CDATA[<b>B1-R2</b>]]></text>
+</component>
+<component id="ID_txt12">
+   <text><![CDATA[<b>B1-R3</b>]]></text>
+</component>
+<component id="ID_txt13">
+   <text><![CDATA[<b>B2-R3</b>]]></text>
+</component>
+<component id="ID_txt14">
+   <text><![CDATA[<b>B3-R3</b>]]></text>
+</component>
+<component id="ID_inst">
+   <text><![CDATA[<b>Clique em Reproduzir para exibir a animação.</b>]]></text>
+   </component>
+   
+<component id="ID_subtitle01">
+   <text><![CDATA[<b>Rede convergida</b>]]></text>
+</component>
+   
+</textcomponents>

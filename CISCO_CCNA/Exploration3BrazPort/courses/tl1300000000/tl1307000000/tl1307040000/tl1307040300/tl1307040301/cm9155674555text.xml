@@ -1,0 +1,59 @@
+<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Corrigir problemas de interferência de RF</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Problema</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Motivo</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Solução</b>]]></text>
+</component>
+
+<component id="ID_bubble01">
+<text><![CDATA[<b>Forno micro-ondas e telefone sem fio não estão no ESS. Eles "monopolizam" os canais de 2,4 GHz em vez de disputar por eles.</b>]]></text>
+</component>
+
+<component id="ID_lazyText01">
+<text><![CDATA[<b>WRS3 em Ch. 1</b>]]></text>
+</component>
+
+<component id="ID_lazyText02">
+<text><![CDATA[<b>WRS3 em Ch. 2</b>]]></text>
+</component>
+
+<component id="ID_lazyText03">
+<text><![CDATA[<b>Clientes não conseguem estabelecer link com WRS3</b>]]></text>
+</component>
+
+<component id="ID_lazyText04">
+<text><![CDATA[<b>Outros dispositivos interferentes<br/>em vários canais</b>]]></text>
+</component>
+
+<component id="ID_lazyText05">
+<text><![CDATA[<b>12 MHz</b>]]></text>
+</component>
+
+<component id="ID_lazyText06">
+<text><![CDATA[<b>Sobreposição de canal,<br/>próxima à frequência de centro</b>]]></text>
+</component>
+
+<component id="ID_lazyText07">
+<text><![CDATA[<b>Faixa RF de 2,4 GHz</b>]]></text>
+</component>
+
+<component id="ID_lazyText08">
+<text><![CDATA[<b>Captura de tela 1</b>]]></text>
+</component>
+
+<component id="ID_lazyText09">
+<text><![CDATA[<b>Captura de tela 2</b>]]></text>
+</component>
+
+</textcomponents>

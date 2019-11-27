@@ -1,0 +1,350 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para saber a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para ver a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+
+
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) Descreva o cabeamento usado para conectar dispositivos a uma LAN Ethernet.]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 2.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[Cabos straight-through são usados para conectar PCs e roteadores a hubs e a switches. Cabos crossover são usados para conectar PCs a roteadores, hubs a switches, roteadores a roteadores e switches a switches.]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[(de 2.2)]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2) Liste três comandos usados para exibir informações de configuração da interface.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) Explique a diferença entre conectar uma interface serial a uma operadora em um ambiente de produção e conectar uma interface serial a outro roteador em um ambiente de laboratório.]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 2.2)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[Em um ambiente de produção, as interfaces seriais são conectadas ao equipamento de uma operadora. Normalmente, a operadora define a velocidade de sincronização. Em um ambiente de laboratório, os roteadores são conectados diretamente pela interface serial. Por isso, um dos roteadores deve fornecer a velocidade de sincronização.]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) O que é CDP e por que você deseja desabilitá-lo?]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 2.2)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[CDP ou Cisco Discovery Protocol, é um protocolo próprio para obter informações sobre dispositivos Cisco conectados diretamente. Por exemplo, um roteador Cisco e um switch Cisco enviarão anúncios CDP, por padrão, depois que a camada de enlace de dados do enlace compartilhado estiver ativa. As informações reveladas em anúncios CDP (inclusive endereços IP, plataforma do dispositivo e versões do IOS) apresentam um risco à segurança. CDP pode ser desabilitado interface por interface ou globalmente.]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[5) Qual é a forma mais simples usada para a sintaxe de comando <font face='_typewriter'><b>ip route</b></font> ?]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[(de 2.3)]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[Qualquer roteador com interfaces em mais de uma rede classful principal.]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q5_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[6) O que é uma pesquisa de rota recursiva e quando ela ocorre?]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[(de 2.3)]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[Uma pesquisa de rota recursiva é outra pesquisa da tabela de roteamento para localizar uma interface de saída para um pacote de saída. Uma pesquisa de rota recursiva ocorre quando a pesquisa de rota inicial é resolvida para um endereço IP do próximo salto. Como o IOS precisa de uma interface de saída, ele deve observar a interface de saída em busca do endereço IP do próximo salto.]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q6_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+
+<!-- Question 7 -->
+
+
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[(de 2.4)]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[7) Por que você deve remover uma rota estática da configuração antes de modificá-la?]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[Uma rota estática não pode ser alterada. A rota original também deve ser removida da configuração. Do contrário, a rota original e a nova rota serão armazenadas na configuração.]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 8 -->
+
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q8_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[8) Explique o valor das rotas padrão e de sumarização.]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[(de 2.5)]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[As rotas padrão e de sumarização diminuem o tamanho das tabelas de roteamento. Se um roteador tiver um conjunto grande de rotas estáticas apontando para a mesma interface, às vezes, essas rotas poderão ser sumarizadas em uma entrada da tabela de roteamento. Sem roteamento padrão, todo roteador precisaria de uma rota para todos os locais na rede.]]></text>
+</component>
+<component id="ID_Q8_txt07">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q8_txt08">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 9 -->
+
+
+<component id="ID_Q9_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q9_txt02">
+<text><![CDATA[(de 2.6)]]></text>
+</component>
+<component id="ID_Q9_txt03">
+<text><![CDATA[9) Liste os comandos usados para testar, identificar e solucionar problemas de uma implementação da rede.]]></text>
+</component>
+
+<component id="ID_Q9_txt05">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q9_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 10 -->
+
+<component id="ID_Q10_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q10_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q10_txt03">
+<text><![CDATA[10) Em alguns computadores mais novos, não importa se você conecta um cabo straight-through ou crossover ao dispositivo. O computador se conecta com êxito ao outro dispositivo. Na sua opinião, por que isso acontece?]]></text>
+</component>
+
+<component id="ID_Q10_txt05">
+<text><![CDATA[Em computadores mais antigos, apenas um cabo crossover funcionaria entre dois computadores. No entanto, muitos fabricantes (Dell Computers, por exemplo) estão projetando a placa de rede onboard para detectar automaticamente que tipo de dispositivo está na outra extremidade da conexão e alternar internamente os pinos de transmissão e recepção, se necessário. Por exemplo, conectar dois computadores Dell mais novos diretamente funcionará com um cabo straight-through. Um dos computadores alterna os pinos 1 e 3 para ser o par de recebimento.]]></text>
+</component>
+<component id="ID_Q10_txt07">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q10_txt08">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 11 -->
+
+<component id="ID_Q11_txt1">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q11_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q11_txt03">
+<text><![CDATA[11) Todas as interfaces de rede estão <b>”up”</b> e <b>”up”</b>. PC1, PC2 e PC3 têm conectividade total. Pings de R1 para R2 e R3 são bem-sucedidos. No entanto, embora os pings de R3 para R2 sejam bem-sucedidos, R3 não pode executar ping em nenhum endereço em R1. Identifique o problema, explique por que há falha no ping e sugira uma solução.]]></text>
+</component>
+
+<component id="ID_Q11_txt05">
+<text><![CDATA[R2 e R3 estão compartilhando o mesmo endereço IP na rede 192.168.1.0/24. Quando R1 executa ping R3 em 192.168.1.1, R2 responde – não R3. Para ver isso, o administrador de rede teria que executar traceroute em 192.168.1.1. Quando R3 executa ping em R1, a origem do ping é a interface Serial 0/0/1 com endereço IP 192.168.1.1 como o endereço de origem. R1 recebe a solicitação e as respostas de ping. No entanto, R2 aceita a resposta do ping enviada para 192.168.1.1 como pertencente a R2. Portanto, a resposta de ping não é roteada para R2. Para corrigir o problema, configure R2 com um endereço IP diferente da rede 192.168.1.0/24 (192.168.1.2 é usado no exemplo do capítulo).]]></text>
+</component>
+<component id="ID_Q11_txt07">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q11_txt08">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_hideOutput">
+<text><![CDATA[<b>Ocultar saída</b>]]></text>
+</component>
+<component id="ID_showOutput">
+<text><![CDATA[<b>Mostrar saída</b>]]></text>
+</component>
+
+
+<!-- Question 12 -->
+
+<component id="ID_Q12_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q12_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q12_txt03">
+<text><![CDATA[12) Em um pedaço de papel, use a saída do comando <font face='_typewriter'><b>show cdp neighbors</b></font> para desenhar a topologia. Mostre as conexões entre dispositivos e rotule as interfaces.]]></text>
+</component>
+
+<component id="ID_Q12_txt07">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q12_txt08">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 13 -->
+
+<component id="ID_Q13_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q13_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q13_txt03">
+<text><![CDATA[13) Todos os roteadores de filial precisam ser configurados com uma rota padrão para RegiãoA. RegiãoA precisa de um roteador padrão para HQ e HQ precisa de uma rota padrão para ISP. RegiãoA pode sumarizar cada uma das LANs designadas para cada roteador de filial com uma rota estática apontando para cada um dos roteadores de filial. HQ e ISP podem sumarizar todas as LANs com apenas uma rota estática. Quais são as rotas padrão estáticas para cada roteador de filial, para RegiãoA e para HQ? Quais são as rotas estáticas sumarizadas configuradas em RegiãoA, HQ e ISP? Crie a topologia no Packet Tracer e teste seus comandos de roteamento estático e padrão. O Servidor Web deve ser capaz de executar ping em todas as interfaces de todos os roteadores.]]></text>
+</component>
+<component id="ID_Q13_txt04">
+<text><![CDATA[<b>Filial1, Filial2 e Filial3 têm todos a mesma rota estática padrão:</b>]]></text>
+</component>
+<component id="ID_Q13_txt05">
+<text><![CDATA[<b>RegiãoA tem a seguinte configuração de rota estática:</b>]]></text>
+</component>
+<component id="ID_Q13_txt05a">
+<text><![CDATA[<b>HQ tem a seguinte configuração de rota estática:</b>]]></text>
+</component>
+<component id="ID_Q13_txt05b">
+<text><![CDATA[<b>ISP tem a seguinte configuração de rota estática:</b>]]></text>
+</component>
+<component id="ID_Q13_txt07">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q13_txt08">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q13_txt09">
+<text><![CDATA[<b>Servidor Web<br/>209.165.200.226</b>]]></text>
+</component>
+
+<component id="ID_hideTopology">
+<text><![CDATA[<b>Ocultar topologia</b>]]></text>
+</component>
+<component id="ID_showTopology">
+<text><![CDATA[<b>Mostrar topologia</b>]]></text>
+</component>
+
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Isto conclui as perguntas da seção Problemas e Discussão deste capítulo.</b>]]></text>
+</component>
+
+
+</textcomponents>

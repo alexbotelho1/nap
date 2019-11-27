@@ -1,0 +1,12 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Pontos finais</b>]]></text>
+</component>
+ 
+<component id="ID_txt01">
+<text><![CDATA[<b>Mantenha o STP mesmo se ele for desnecessário</b><ul><li>Não desabilite o STP.</li><li>O STP não utiliza muito o processador.</li><li>As poucas BPDUs enviadas em cada link não reduzem a largura de banda.</li><li>Mas uma rede de comutada sem STP pode ficar inativa em uma fração de segundo.</li></ul><br/><b>Mantenha o tráfego da VLAN Administrativa.</b><ul><li>Uma alta taxa de tráfego de broadcast ou multicast na VLAN administrativa pode afetar negativamente a capacidade da CPU de processar BPDUs essenciais.</li><li>Mantenha o tráfego do usuário fora da VLAN administrativa.</li></ul><br/><b>Não tenha um único span de VLAN em toda a rede.</b><ul><li>A VLAN 1 serve como uma VLAN administrativa, onde todos os switches são acessíveis na mesma sub-rede de IP.</li><li>Um loop de bridging na VLAN 1 afeta todos os trunks e pode deixar a rede inativa.</li><li>Segmente os domínios de bridging utilizando os switches de Camada 3 de alta velocidade.</li></ul>]]></text>
+</component>
+  
+
+</textcomponents>

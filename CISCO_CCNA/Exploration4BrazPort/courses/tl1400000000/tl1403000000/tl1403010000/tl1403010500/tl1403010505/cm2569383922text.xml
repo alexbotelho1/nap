@@ -1,0 +1,384 @@
+<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<b>Atividade 1</b>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<b>Atividade 2</b>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<b>Atividade 3</b>]]></text> 
+</component>
+
+<component id="ID_button_04">
+  <text><![CDATA[<b>Atividade 4</b>]]></text> 
+</component>
+
+
+<!-- slide 1 -->
+<component id="ID_step1">
+  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Arraste e solte a palavra ou expressão apropriada para completar as frases. Nem todas as respostas são utilizadas. Algumas respostas podem ser utilizadas mais de uma vez.]]></text> 
+</component>
+
+<component id="ID_correctTitle1">
+  <text><![CDATA[Corrigir]]></text>
+</component>
+
+<component id="ID_correctText1">
+  <text><![CDATA[Parabéns, você concluiu as sentenças corretamente.]]></text>
+</component>
+
+<component id="ID_incorrectTitle1">
+  <text><![CDATA[Incorreto]]></text>
+</component>
+
+<component id="ID_incorrectText1">
+  <text><![CDATA[Incorreto, tente novamente.]]></text>
+</component>
+
+<component id="ID_check1">
+  <text><![CDATA[<b>Verificar</b>]]></text> 
+</component>
+
+<component id="ID_reset1">
+  <text><![CDATA[<b>Redefinir</b>]]></text> 
+</component>
+
+<component id="ID_txt01_01">
+  <text><![CDATA[<b><font size="10">"O Frame Relay se tornou a tecnologia WAN mais usada no mundo. Os principais motivos são seus _____ e _____.</font>font></b>]]></text> 
+</component>
+
+<component id="ID_txt02_01">
+  <text><![CDATA[<b><font size="10">Frame Relay é uma tecnologia comutada _____ que é uma versão simplificada do antigo padrão _____.</b></font>]]></text> 
+</component>
+
+<component id="ID_txt03_01">
+  <text><![CDATA[<b><font size="10">O Frame Relay usa uma técnica de "melhor-esforço", que significa que ele simplesmente _____ os pacotes quando detecta erros, deixando todas as correções de erros necessárias (como retransmissão de dados) para os pontos de extremidade.</font></b>]]></text> 
+</component>
+
+<component id="ID_txt04_01">
+  <text><![CDATA[<b><font size="10">O Frame Relay transporta dados entre os dispositivos _____ do usuário e os dispositivos _____ na extremidade da WAN.</font></b>]]></text> 
+</component>
+
+<component id="ID_txt05_01">
+  <text><![CDATA[<b><font size="10">A conexão pela rede Frame Relay entre dois DTEs é chamada de _____ virtual (VC).</font></b>]]></text> 
+</component>
+
+<component id="ID_txt06_01">
+  <text><![CDATA[<b><font size="10">Os circuitos virtuais _____ são estabelecidos dinamicamente enviando mensagens de sinalização à rede.</font></b>]]></text> 
+</component>
+
+<component id="ID_txt07_01">
+  <text><![CDATA[<b><font size="10">Os circuitos virtuais _____ são pré-configurados pela operadora e funcionam sempre no modo TRANSFERÊNCIA DE DADOS ou no modo INATIVO.</font></b>]]></text> 
+</component>
+
+<component id="ID_txt08_01">
+  <text><![CDATA[<b><font size="10">Os circuitos virtuais fornecem comunicações bidirecionais e são identificados exclusivamente por um _____, que não tem nenhuma importância além do único link.</font></b>]]></text> 
+</component>
+
+<component id="ID_pri">
+  <text><![CDATA[<b>Preço</b>]]></text> 
+</component>
+
+<component id="ID_dc">
+  <text><![CDATA[<b>DCE</b>]]></text> 
+</component>
+
+<component id="ID_flex">
+  <text><![CDATA[<b>Flexibilidade</b>]]></text> 
+</component>
+
+<component id="ID_bec">
+  <text><![CDATA[<b>BECN</b>]]></text> 
+</component>
+
+<component id="ID_Forw">
+  <text><![CDATA[<b>Encaminhamentos</b>]]></text> 
+</component>
+
+<component id="ID_swit">
+  <text><![CDATA[<b>Comutado</b>]]></text> 
+</component>
+
+<component id="ID_fec">
+  <text><![CDATA[<b>FECN</b>]]></text> 
+</component>
+
+<component id="ID_pac">
+  <text><![CDATA[<b>Pacote</b>]]></text> 
+</component>
+
+<component id="ID_isd">
+  <text><![CDATA[<b>ISDN</b>]]></text> 
+</component>
+
+<component id="ID_const">
+  <text><![CDATA[<b>Constante</b>]]></text> 
+</component>
+
+<component id="ID_x25">
+  <text><![CDATA[<b>X.25</b>]]></text> 
+</component>
+
+<component id="ID_drop">
+  <text><![CDATA[<b>Descartes</b>]]></text> 
+</component>
+
+<component id="ID_dt">
+  <text><![CDATA[<b>DTE</b>]]></text> 
+</component>
+
+<component id="ID_cir">
+  <text><![CDATA[<b>Circuito</b>]]></text> 
+</component>
+
+<component id="ID_per">
+  <text><![CDATA[<b>Permanente</b>]]></text> 
+</component>
+
+<component id="ID_dlci">
+  <text><![CDATA[<b>DLCI</b>]]></text> 
+</component>
+
+
+<!-- slide 2 -->
+<component id="ID_check2">
+  <text><![CDATA[<b>Verificar</b>]]></text> 
+</component>
+<component id="ID_reset2">
+  <text><![CDATA[<b>Redefinir</b>]]></text> 
+</component>
+<component id="ID_correctTitle2">
+  <text><![CDATA[Corrigir]]></text>
+</component>
+
+<component id="ID_correctText2">
+  <text><![CDATA[Parabéns, você identificou os campos corretamente.]]></text>
+</component>
+
+<component id="ID_incorrectTitle2">
+  <text><![CDATA[Incorreto]]></text>
+</component>
+
+<component id="ID_incorrectText2">
+  <text><![CDATA[Incorreto, tente novamente.]]></text>
+</component>
+
+<component id="ID_step2">
+  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Arraste e solte um rótulo de campo no local correto no cabeçalho Frame Relay. Nem todos os rótulos são utilizados. Alguns rótulos podem ser utilizados mais de uma vez.]]></text> 
+</component>
+
+<component id="ID_txt01_02">
+  <text><![CDATA[<b>8 bits</b>]]></text> 
+</component>
+
+<component id="ID_txt02_02">
+  <text><![CDATA[<b>16 bits</b>]]></text> 
+</component>
+
+<component id="ID_txt03_02">
+  <text><![CDATA[<b>Variável</b>]]></text> 
+</component>
+
+<component id="ID_txt04_02">
+  <text><![CDATA[<b>16 bits</b>]]></text> 
+</component>
+
+<component id="ID_txt05_02">
+  <text><![CDATA[<b>8 bits</b>]]></text> 
+</component>
+
+<component id="ID_txt06_02">
+  <text><![CDATA[<b>Flag</b>]]></text> 
+</component>
+
+<component id="ID_txt07_02">
+  <text><![CDATA[<b>Cabeçalho Frame Relay</b>]]></text> 
+</component>
+
+<component id="ID_txt08_02">
+  <text><![CDATA[<b>Dados</b>]]></text> 
+</component>
+
+<component id="ID_txt09_02">
+  <text><![CDATA[<b>Flag</b>]]></text> 
+</component>
+
+<component id="ID_txt10_02">
+  <text><![CDATA[<b>BYTE 1</b>]]></text> 
+</component>
+
+<component id="ID_txt11_02">
+  <text><![CDATA[<b>BYTE 2</b>]]></text> 
+</component>
+
+<component id="ID_add">
+  <text><![CDATA[<b>Endereço</b>]]></text> 
+</component>
+
+<component id="ID_becn">
+  <text><![CDATA[<b>BECN</b>]]></text> 
+</component>
+
+<component id="ID_cont">
+  <text><![CDATA[<b>Controle</b>]]></text> 
+</component>
+
+<component id="ID_de">
+  <text><![CDATA[<b>DE</b>]]></text> 
+</component>
+
+<component id="ID_dlci">
+  <text><![CDATA[<b>DLCI</b>]]></text> 
+</component>
+
+<component id="ID_fecn">
+  <text><![CDATA[<b>FECN</b>]]></text> 
+</component>
+
+
+<!-- slide 3 -->
+<component id="ID_check3">
+  <text><![CDATA[<b>Verificar</b>]]></text> 
+</component>
+<component id="ID_reset3">
+  <text><![CDATA[<b>Redefinir</b>]]></text> 
+</component>
+
+<component id="ID_correctTitle3">
+  <text><![CDATA[Corrigir]]></text>
+</component>
+
+<component id="ID_correctText3">
+  <text><![CDATA[Parabéns, você identificou a topologia corretamente.]]></text>
+</component>
+
+<component id="ID_incorrectTitle3">
+  <text><![CDATA[Incorreto]]></text>
+</component>
+
+<component id="ID_incorrectText3">
+  <text><![CDATA[Incorreto, tente novamente.]]></text>
+</component>
+
+<component id="ID_step3">
+  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Arraste os nomes de cada tipo de topologia até o local correto no gráfico acima. Algumas topologias podem ter mais de um nome. Alguns nomes de topologia podem não ser utilizados.
+]]></text> 
+</component>
+
+<component id="ID_bus">
+  <text><![CDATA[<b>Barramento</b>]]></text> 
+</component>
+
+<component id="ID_hubsp">
+  <text><![CDATA[<b>Hub-and-spoke</b>]]></text> 
+</component>
+
+<component id="ID_mesh">
+  <text><![CDATA[<b>Malha completa</b>]]></text> 
+</component>
+
+<component id="ID_pamesh">
+  <text><![CDATA[<b>Malha parcial</b>]]></text> 
+</component>
+
+<component id="ID_ring">
+  <text><![CDATA[<b>Anel</b>]]></text> 
+</component>
+
+<component id="ID_star">
+  <text><![CDATA[<b>Estrela</b>]]></text> 
+</component>
+
+
+<!-- slide 4 -->
+<component id="ID_check4">
+  <text><![CDATA[<b>Verificar</b>]]></text> 
+</component>
+<component id="ID_reset4">
+  <text><![CDATA[<b>Redefinir</b>]]></text> 
+</component>
+
+<component id="ID_correctTitle4">
+  <text><![CDATA[Corrigir]]></text>
+</component>
+
+<component id="ID_correctText4">
+  <text><![CDATA[Parabéns, você concluiu as sentenças corretamente.]]></text>
+</component>
+
+<component id="ID_incorrectTitle4">
+  <text><![CDATA[Incorreto]]></text>
+</component>
+
+<component id="ID_incorrectText4">
+  <text><![CDATA[Incorreto, tente novamente.]]></text>
+</component>
+
+<component id="ID_step4">
+  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Arraste e solte a palavra ou expressão apropriada para completar as frases. Nem todas as respostas são utilizadas. Algumas respostas podem ser utilizadas mais de uma vez.]]></text> 
+</component>
+
+<component id="ID_txt01_04">
+  <text><![CDATA[<b>O mapeamento de endereço dinâmico depende do _____ de Frame Relay para determinar um endereço de protocolo de rede de próximo salto para um valor de DLCI local.</b>]]></text> 
+</component>
+
+<component id="ID_txt02_04">
+  <text><![CDATA[<b>Para configurar o mapeamento de endereço estático, use o comando _____ no modo de configuração de interface.</b>]]></text> 
+</component>
+
+<component id="ID_txt03_04">
+  <text><![CDATA[<b>As extensões _____ para o protocolo Frame Relay fornecem recursos adicionais para ambientes de rede complexos.</b>]]></text> 
+</component>
+
+<component id="ID_txt04_04">
+  <text><![CDATA[<b>Os tipos de LMI incluem cisco, _____ e _____.</b>]]></text> 
+</component>
+
+<component id="ID_txt05_04">
+  <text><![CDATA[<b>_____, combinadas com as mensagens de _____, permitem que um roteador associe endereços da camada de rede e da camada de enlace.</b>]]></text> 
+</component>
+
+<component id="ID_inverse">
+  <text><![CDATA[<b>ARP inverso</b>]]></text> 
+</component>
+
+<component id="ID_frame">
+  <text><![CDATA[<b>frame-relay map</b>]]></text> 
+</component>
+
+<component id="ID_framelmi">
+  <text><![CDATA[<b>frame-relay lmi</b>]]></text> 
+</component>
+
+<component id="ID_local">
+  <text><![CDATA[<b>Local Management Interface, interface de gerenciamento local</b>]]></text> 
+</component>
+
+<component id="ID_ansi">
+  <text><![CDATA[<b>ansi</b>]]></text> 
+</component>
+
+<component id="ID_LMI">
+  <text><![CDATA[<b>Mensagens de status de LMI</b>]]></text> 
+</component>
+
+<component id="ID_ietf">
+  <text><![CDATA[<b>ietf</b>]]></text> 
+</component>
+
+<component id="ID_isd">
+  <text><![CDATA[<b>ISDN</b>]]></text> 
+</component>
+
+<component id="ID_q93">
+  <text><![CDATA[<b>q933a</b>]]></text> 
+</component>
+
+<component id="ID_dlc">
+  <text><![CDATA[<b>DLCI</b>]]></text> 
+</component>
+
+</textcomponents>

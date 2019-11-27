@@ -1,0 +1,48 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Requisitos de conectividade de funcionário remoto</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Roteador de<br/>VPN<br/>Remoto</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Modem<br/>Banda Larga</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Funcionário remoto</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Túnel de VPN criptografado</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Roteador de<br/>VPN<br/>de Headend</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Sede</b>]]></text>
+</component>
+
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Componentes da solução de funcionário remoto</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Componentes de escritório em casa</li><li>Componentes corporativos</li><li>Componentes opcionais corporativos de telefonia IP</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

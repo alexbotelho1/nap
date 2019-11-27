@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>A correspondência mais longa é a Rota Preferida</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Destino do Pacote IP</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Rota 1</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Rota 2</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Rota 3</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Correspondência mais longa para o destino do pacote IP</b>]]></text> 
+</component>
+
+</textcomponents>

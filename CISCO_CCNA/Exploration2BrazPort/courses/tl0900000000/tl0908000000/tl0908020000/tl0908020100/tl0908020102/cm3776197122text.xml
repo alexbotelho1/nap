@@ -1,0 +1,192 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Processo de Procura na Tabela de Roteamento</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver as etapas.</b>]]></text> 
+</component>
+
+<component id="ID_step">
+<text><![CDATA[<b>Etapa:</b>]]></text> 
+</component>
+
+<component id="btnOne">
+<text><![CDATA[<b>1</b>]]></text> 
+</component>
+<component id="btnTwo">
+<text><![CDATA[<b>1a</b>]]></text> 
+</component>
+<component id="btnThree">
+<text><![CDATA[<b>1b</b>]]></text> 
+</component>
+<component id="btnFour">
+<text><![CDATA[<b>2</b>]]></text> 
+</component>
+<component id="btnFive">
+<text><![CDATA[<b>2a</b>]]></text> 
+</component>
+<component id="btnSix">
+<text><![CDATA[<b>2b</b>]]></text> 
+</component>
+<component id="btnSeven">
+<text><![CDATA[<b>3</b>]]></text> 
+</component>
+<component id="btnEight">
+<text><![CDATA[<b>3a</b>]]></text> 
+</component>
+<component id="btnNine">
+<text><![CDATA[<b>3b</b>]]></text> 
+</component>
+<component id="btnTen">
+<text><![CDATA[<b>4</b>]]></text> 
+</component>
+<component id="btnEleven">
+<text><![CDATA[<b>5</b>]]></text> 
+</component>
+
+<component id="ID_R1">
+<text><![CDATA[<b><i>Rota definitiva</i></b>]]></text> 
+</component>
+
+<component id="ID_R2">
+<text><![CDATA[<b>R2</b>]]></text> 
+</component>
+
+<component id="ID_R3">
+<text><![CDATA[<b>Sub-rede</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>CORRESPONDÊNCIA</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Endereço IP de próximo salto e/ou Interface de saída</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Rotas de Nível 1</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b><i>Rota definitiva</i></b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Super-rede</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Caminho/ Interface</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Rota Primária</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Rota Secundária</b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Padrão</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b><i>Rota definitiva</i></b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Sub-rede</b>]]></text> 
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Rede</b>]]></text> 
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>.1</b>]]></text> 
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Caminho/ Interface</b>]]></text> 
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Caminho/ Interface</b>]]></text> 
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b><i>Rota definitiva</i></b>]]></text> 
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Caminho/ Interface</b>]]></text> 
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>Rotas de Nível 2</b>]]></text> 
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b>Rede</b>]]></text> 
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[<b><i>Rota definitiva</i></b>]]></text> 
+</component>
+
+<component id="ID_txt22">
+<text><![CDATA[<b>Caminho/ Interface</b>]]></text> 
+</component>
+<component id="ID_txt0023">
+<text><![CDATA[<b>NENHUMA CORRESPONDÊNCIA</b>]]></text> 
+</component>
+
+<component id="ID_txt0024">
+<text><![CDATA[<b>Classful ou classless?</b>]]></text> 
+</component>
+<component id="ID_txt0025">
+<text><![CDATA[<b>Descartar pacote</b>]]></text> 
+</component>
+<component id="ID_txt0025a">
+<text><![CDATA[<b>Descartar pacote</b>]]></text> 
+</component>
+<component id="ID_txt03aa">
+<text><![CDATA[<b>NENHUMA CORRESPONDÊNCIA</b>]]></text> 
+</component>
+<component id="ID_title12">
+<text><![CDATA[<b>Etapa 5: Nenhuma correspondência. Nenhum Padrão. Descartar o pacote.</b>]]></text> 
+</component>
+<component id="ID_title12a">
+<text><![CDATA[<b>Etapa 1: Verifique as rotas de nível 1 para obter a melhor correspondência com o endereço de destino do pacote.</b>]]></text> 
+</component>
+<component id="ID_title11">
+<text><![CDATA[<b>Etapa 1a: Se a melhor correspondência for uma rota definitiva de nível 1, utilize-a para encaminhar o pacote.</b>]]></text> 
+</component>
+<component id="ID_title10">
+<text><![CDATA[<b>Etapa 1b: Se a melhor correspondência for uma rota primária de nível 1, vá para a Etapa 2.</b>]]></text> 
+</component>
+<component id="ID_title09">
+<text><![CDATA[<b>Etapa 2: As rotas secundárias são verificadas para ver se há uma melhor correspondência.</b>]]></text> 
+</component>
+<component id="ID_title08">
+<text><![CDATA[<b>Etapa 2a: Correspondência! Utilize esta sub-rede para encaminhar o pacote.</b>]]></text> 
+</component>
+<component id="ID_title07">
+<text><![CDATA[<b>Etapa 2b: Nenhuma correspondência. Vá para a Etapa 3.</b>]]></text> 
+</component>
+<component id="ID_title06">
+<text><![CDATA[<b>Etapa 3: Comportamento de roteamento de classful ou classless?</b>]]></text> 
+</component>
+<component id="ID_title05">
+<text><![CDATA[<b>Etapa 3a: Comportamento de roteamento classful: Descartar o pacote</b>]]></text> 
+</component>
+<component id="ID_title04">
+<text><![CDATA[<b>Etapa 3b: Comportamento de roteamento classless: Buscar rotas de nível 1</b>]]></text> 
+</component>
+<component id="ID_title03">
+<text><![CDATA[<b>Etapa 4: Correspondência com Super-rede ou Padrão. Utilize- a para encaminhar o pacote. Primeiro são verificadas as Super-redes, depois a Padrão, se necessário.</b>]]></text> 
+</component>
+</textcomponents>

@@ -1,0 +1,36 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Arquiteturas corporativas Cisco</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>WAN</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Campus</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Central de dados</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>WAN</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Locais das filiais</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>BANDA LARGA</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Funcionário remoto</b>]]></text>
+</component>
+
+
+</textcomponents>

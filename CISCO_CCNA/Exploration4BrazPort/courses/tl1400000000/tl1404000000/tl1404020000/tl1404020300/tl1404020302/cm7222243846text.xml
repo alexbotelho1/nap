@@ -1,0 +1,117 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Configurando senhas do roteador</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique nos botões para ver as etapas de configuração da senha.</b>]]></text>
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[Configurar senha]]></text>
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[Criptografar senha]]></text>
+</component>
+
+<component id="ID_button3">
+<text><![CDATA[Tamanho da senha]]></text>
+</component>
+
+<!-- slide 1-->
+<component id="ID_S1_config">
+<text><![CDATA[<b>Config</b>]]></text>
+</component>
+
+<component id="ID_S1_top01">
+<text><![CDATA[<b>Administração<br />Host</b>]]></text>
+</component>
+
+<component id="ID_S1_top02">
+<text><![CDATA[<b>Rede local de gerenciamento</b>]]></text>
+</component>
+
+<component id="ID_S1_top03">
+<text><![CDATA[O administrador configura uma senha tipo 5 (hash MD5) e desabilita a senha tipo 7.]]></text>
+</component>
+
+<component id="ID_S1_top04">
+<text><![CDATA[<font face="_typewriter">R1(config)#<b>enable secret 2-mAny-rOUtEs</b></font>]]></text>
+</component>
+
+<component id="ID_S1_output01">
+<text><![CDATA[<b>Etapa 1: Configurar as senhas do roteador</b>]]></text>
+</component>
+
+<!-- slide 2-->
+<component id="ID_S2_config">
+<text><![CDATA[<b>Config</b>]]></text>
+</component>
+
+<component id="ID_S2_top01">
+<text><![CDATA[<b>Administração<br />Host</b>]]></text>
+</component>
+
+<component id="ID_S2_top02">
+<text><![CDATA[<b>Rede local de gerenciamento</b>]]></text>
+</component>
+
+<component id="ID_S2_top03">
+<text><![CDATA[O administrador criptografa todas as senhas no arquivo de configuração.]]></text>
+</component>
+
+<component id="ID_S2_top04">
+<text><![CDATA[<font face="_typewriter">R1(config)#<b>service password-encryption</b></font>]]></text>
+</component>
+
+<component id="ID_S2_output01">
+<text><![CDATA[<b>Etapa 2: Criptografar senhas</b>]]></text>
+</component>
+
+<!-- slide 3-->
+<component id="ID_S3_config">
+<text><![CDATA[<b>Config</b>]]></text>
+</component>
+
+<component id="ID_S3_top01">
+<text><![CDATA[<b>Administração<br />Host</b>]]></text>
+</component>
+
+<component id="ID_S3_top02">
+<text><![CDATA[<b>Rede local de gerenciamento</b>]]></text>
+</component>
+
+<component id="ID_S3_top03">
+<text><![CDATA[O administrador define no arquivo de configuração do roteador para exigir 10 caracteres em todas as senhas.]]></text>
+</component>
+
+<component id="ID_S3_top04">
+<text><![CDATA[<font face="_typewriter">R1(config)#<b>security passwords min-length 10</b></font>]]></text>
+</component>
+
+<component id="ID_S3_output01">
+<text><![CDATA[<b>Etapa 3: Aplicação do tamanho mínimo da senha</b>]]></text>
+</component>
+
+<component id="ID_s1_1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_2">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_3">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_isp1">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+<component id="ID_isp2">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+<component id="ID_isp3">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+</textcomponents>

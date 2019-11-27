@@ -1,0 +1,87 @@
+<textcomponents>
+
+
+
+
+<component id='ID_title1'>
+  <text><![CDATA[<b>Fazer backup e restaurar configurações de switch</b>]]></text> 
+  </component>
+
+
+
+<component id='ID_title2'>
+  <text><![CDATA[<b>Fazer backup e restaurar configurações de switch</b>]]></text> 
+  </component>
+
+
+
+<component id='ID_txt1'>
+  <text><![CDATA[<b>Fazer backup de configurações</b>]]></text> 
+</component>
+
+
+  
+<component id='ID_txt2'>
+  <text><![CDATA[<b>Restaurar configurações</b>]]></text> 
+</component>
+  
+ 
+
+
+
+
+
+
+
+<component id='tableHTML'><text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' width='240' type='dynamic'><font  color='#FFFFFF'><b>
+Sintaxe de comando da CLI do Cisco IOS</b></font></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'></td>
+</tr>
+
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Versão formal do comando copy do Cisco IOS. <br/>Confirme o nome do arquivo de destino. Pressione a tecla Enter para aceitar e usar a combinação de teclas Ctrl+C para cancelar.</b></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>S1#<b>copy system:running-config flash:startup-config</b><br/> Destination filename [startup-config]?</font></td>
+</tr>
+
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Versão informal do comando copy. As premissas são de que o running-config está em execução no sistema e que o arquivo startup-config será armazenado na NVRAM. Pressione a tecla Enter para aceitar e usar a combinação de teclas Ctrl+C para cancelar.</b></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>S1#<b>copy running-config startup-config</b><br/> Destination filename [startup-config]?</font></td>
+</tr>
+
+<tr> 			
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Faça backup do startup-config em um arquivo armazenado na NVRAM. Confirme o nome do arquivo de destino. Pressione a tecla Enter para aceitar e usar a combinação de teclas Ctrl+C para cancelar.</b></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>S1#<b>copy startup-config flash:config.bak1</b><br/>  Destination filename [config.bak1]?</font></td>
+</tr>
+
+</table>]]></text></component>
+
+
+
+  
+<component id='tableHTML1'><text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color='#FFFFFF'><b>
+Sintaxe de comando da CLI do Cisco IOS</b></font></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'></td>
+</tr>
+
+	
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Copie o arquivo config.bak1 armazenado na memória flash no startup-configuration que deve estar armazenado na memória flash. Pressione a tecla Enter para aceitar e usar a combinação de teclas Ctrl+C para cancelar.</b>
+</td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>S1#<b>copy flash:config.bak1 startup-config</b><br/> Destination filename [startup-config]?</font></td>
+</tr>
+
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>O Cisco IOS realiza a reinicialização do switch. Se modificou o arquivo de configuração de execução que você pediu para salvá-lo. Confirme com 'y' ou 'n'. Para confirmar o recarregamento, pressione a tecla Enter para aceitar e usar a combinação de teclas Ctrl+C para cancelar.</b></td>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'>S1#<b>reload</b></font><br/><br/><font face='_typewriter'>System configuration has been modified. Save? [yes/no]: n<br/>proceed with reload? [confirm]?</font></td>
+</table>]]></text></component>
+
+
+
+
+</textcomponents>

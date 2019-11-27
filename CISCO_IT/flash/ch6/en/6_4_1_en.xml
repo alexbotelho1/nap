@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="6_4_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>The computer is on and the CPU is running.</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CONTENT 02">
+        <source>ACPI Standard</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CONTENT 03">
+        <source>Power Management State:</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_CONTENT 04">
+        <source>The computer is not running. However the CPU and RAM are still receiving power.</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_CONTENT 05">
+        <source>The CPU is off, but the RAM is refreshed. The system is in a lower mode than S1.</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_CONTENT 06">
+        <source>The CPU is off, and the RAM is set to a slow refresh rate. This mode is often called &quot;Save to RAM&quot;. In Windows XP, this state is known as the Standby mode.</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_CONTENT 07">
+        <source>The CPU and RAM are off. The contents of RAM have been saved to a temporary file on the hard disk. This mode is also called &quot;Saved to Disk&quot;.    In Windows XP, this state is known as the Hibernate mode.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_CONTENT 08">
+        <source>The computer is off and nothing has been saved.</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_STEP 01">
+        <source>S0</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_STEP 02">
+        <source>S1</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_STEP 03">
+        <source>S2</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_STEP 04">
+        <source>S3</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_STEP 05">
+        <source>S4</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_STEP 06">
+        <source>S5</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TITLE1">
+        <source>Power Management States
+</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TITLE2">
+        <source>BIOS Settings
+</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TITLE3">
+        <source>Power Option Properties</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TITLE4">
+        <source>Power Scheme – Research Settings</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TITLE5">
+        <source>Hibernate Options</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TITLE6">
+        <source>Critical Battery Alarm Actions</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>ACPI Standards Define the Power Management States</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

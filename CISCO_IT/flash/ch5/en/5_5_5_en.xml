@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="5_5_5.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Operating System Upgrades</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_000">
+        <source>Desktops upgrade path: 
+Windows 3.1 &gt;&gt; Windows 95\98 &gt;&gt; Windows 2000 Pro &gt;&gt; Windows XP
+
+Server upgrade path: 
+Windows NT 3.5 &gt;&gt;Windows NT 3.5.1 or 4.0 &gt;&gt; Windows 2000 Server &gt;&gt; Windows 2003 Server 
+
+</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_01">
+        <source>Windows VISTA Editions</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_02">
+        <source>N/A</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_03">
+        <source>OS can upgrade to:</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_04">
+        <source>Server Upgrades</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_05">
+        <source>Windows 95\98 
+</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_06">
+        <source>Windows 2000 Pro </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_08">
+        <source>Windows NT 3.5
+</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_09">
+        <source>Windows NT 3.5.1 or 4.0</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_10">
+        <source>Windows 2000 Server
+</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_11">
+        <source>Windows 2003 Server
+</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

@@ -1,0 +1,40 @@
+<textcomponents>
+
+  <component id="ID_title1">
+  <text><![CDATA[<b>Cisco e as variantes de STP</b>]]></text> 
+  </component>
+
+
+<component id="tableHTML">
+	    <text><![CDATA[
+	   <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	
+	    	<tr>
+	  	  		
+	  	  	<td colspan="2" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b> </b></font><font  color="#FFFFFF"><b> </b></font></td>
+  	  	</tr>
+	<tr>
+		<td width="120" rowspan="3" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><b>Propriedade da Cisco</b>  </td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>PVST<ul><li>Utiliza o protocolo de entroncamento ISL de propriedade da Cisco</li><li>Cada VLAN tem uma instância de spanning tree</li><li>Capacidade de balancear a carga do tráfego na camada 2</li><li>Inclui as extensões BackboneFast, UplinkFast e PortFast</li></ul></td>
+	</tr>
+	
+	<tr>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>PVST+<ul><li>Suporta o entroncamento de ISL e IEEE 802.1Q</li><li>Suporta as extensões de STP de propriedade da Cisco</li><li>Adiciona os aprimoramentos da proteção de BPDU e de raiz</li></ul></td>
+	</tr>
+	<tr>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>rapid-PVST+<ul><li>Baseado no IEEE802.1w padrão</li><li>Possui uma convergência mais rápida que 802.1D</li></ul></td>
+	</tr>
+	
+	<tr>
+		<td rowspan="2" valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><b>IEEE padrão</b> </td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>RSTP<ul><li>Introduzido em 1982, fornece convergência mais rápida do que o 802.1D</li><li>Implementa versões genéricas das extensões de STP de propriedade da Cisco</li><li>O IEEE incorporou o RSTP no 802.1D, identificando a especificação como IEEE 802.1D-2004</li></ul></td>
+	</tr>
+	<tr>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>MSTP<ul><li>Podem ser mapeadas diversas VLANs para a mesma instância de spanning tree</li><li>Inspirado pelo Cisco Multiple Instances Spanning Tree Protocol (Protocolo Spanning Tree de Múltiplas Instâncias da Cisco, MISTP)</li><li>O IEEE 802.1Q-2003 inclui agora o MSTP</li></ul></td>
+	</tr>
+</table>
+]]></text> 
+  </component>
+
+
+</textcomponents>

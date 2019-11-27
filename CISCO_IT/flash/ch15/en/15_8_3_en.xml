@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="15_8_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>Check the external cables for loose connections that could cause a restart
+
+Check the internal data and power cables for loose connections
+
+Ensure adapter cards and RAM for properly secured
+
+Verify all cooling fans are operating properly 
+
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_STEP 03  ">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TITLE1">
+        <source>Remote Technician</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TITLE1SS">
+        <source>Troubleshooting Process </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TITLE2">
+        <source>Updated Work Order </source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_00">
+        <source>Gather Data from the Customer</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_01">
+        <source>Try Quick Solutions First </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_002">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_02">
+        <source>Check that all cables are connected to the proper locations</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_03">
+        <source>Unseat and then reconnect cables and connectors</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_04">
+        <source>Reboot the computer or network device </source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_05">
+        <source>Login as a different user </source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_06">
+        <source>Check that the anti-virus and spyware signature files are up-to-date</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_07">
+        <source>Scan computer with protection software</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_08">
+        <source>Check computer for the latest OS patches and updates</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_09">
+        <source>Cisco Systems, Inc.</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_10">
+        <source>Office Manager</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_11">
+        <source>170 West Tasman Drive, San Jose, CA 95134</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_12">
+        <source>408-526-4000</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_13">
+        <source>HW</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_14">
+        <source>System</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_15 ">
+        <source>System</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_16">
+        <source>N</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_016">
+        <source>Client unable to fully start computer </source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_17">
+        <source>Won&apos;t Boot</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_18">
+        <source>CLOSED</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_19">
+        <source>Cisco001</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_20">
+        <source>Medium</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_21">
+        <source>Windows XP</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_22">
+        <source>Wireless network connection</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_23">
+        <source>Mobile</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_24">
+        <source>•  The customer powers on the computer and it starts to boot, then suddenly starts over again. 
+•  The computer never opens Windows.
+•  There are no beep code errors during startup. All goes well until Windows starts  
+•  The customer says the computer “pops” and flashes when it restarts.
+•  The problem has existed for three days. “Worked one day, broken the next”</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_25">
+        <source>Repairs attempted:</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_26">
+        <source>•  All internal and external connections, fans, plugs, cables appear normal 
+•  No loose metal in case to cause shorts.</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TXT_36">
+        <source>•</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TXT_045">
+        <source>defrag </source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TXT_046">
+        <source>scandisk</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TXT_047">
+        <source>cleanmgr</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

@@ -1,0 +1,114 @@
+<textcomponents>
+
+<component id="ID_inst01">
+<text><![CDATA[Based on the figure in the previous page, drag the module names to the correct location in the Enterprise Architecture.]]></text>
+</component>
+
+<component id="ID_activity">
+<text><![CDATA[<b>Activity</b>]]></text>
+</component>
+
+<component id="ID_heading">
+<text><![CDATA[<b>The Enterprise Architecture</b>]]></text>
+</component>
+
+<component id="ID_txt03_01">
+<text><![CDATA[WAN and Internet]]></text>
+</component>
+
+<component id="ID_txt05_01">
+<text><![CDATA[<b>E-Commerce</b>]]></text>
+</component>
+
+<component id="ID_txt06_01">
+<text><![CDATA[<b>ISP A</b>]]></text>
+</component>
+
+<component id="ID_txt10_01">
+<text><![CDATA[<b>ISP B</b>]]></text>
+</component>
+
+<component id="ID_txt12_01">
+<text><![CDATA[<b>WAN and MAN Site-to-site VPN</b>]]></text>
+</component>
+
+<component id="ID_txt13_01">
+<text><![CDATA[<b>Frame Relay, ATM, MAN, ...</b>]]></text>
+</component>
+
+<component id="ID_txt17_01">
+<text><![CDATA[<b>PSTN</b>]]></text>
+</component>
+
+<component id="ID_txt18_01">
+<text><![CDATA[<b>Network Management</b>]]></text>
+</component>
+
+<component id="element1text">
+<text><![CDATA[<font size="11"><b>Campus Core</b></font>]]></text>
+</component>
+
+<component id="element2text">
+<text><![CDATA[<font size="11"><b>Server Farm and Data Center</b></font>]]></text>
+</component>
+
+<component id="element3text">
+<text><![CDATA[<font size="11"><b>Building Distribution</b></font>]]></text>
+</component>
+
+<component id="element4text">
+<text><![CDATA[<font size="11"><b>Enterprise Teleworker</b></font>]]></text>
+</component>
+
+<component id="element5text">
+<text><![CDATA[<font size="11"><b>Building Access</b></font>]]></text>
+</component>
+
+<component id="element6text">
+<text><![CDATA[<font size="11"><b>Remote and Access VPN</b></font>]]></text>
+</component>
+
+<component id="element7text">
+<text><![CDATA[<font size="11"><b>Enterprise Campus</b></font>]]></text>
+</component>
+
+<component id="element8text">
+<text><![CDATA[<font size="11"><b>Internet Connectivity</b></font>]]></text>
+</component>
+
+<component id="element9text">
+<text><![CDATA[<font size="11"><b>Enterprise <br/>Edge</b></font>]]></text>
+</component>
+
+<component id="element10text">
+<text><![CDATA[<font size="11"><b>Enterprise Data Center</b></font>]]></text>
+</component>
+
+<component id="element11text">
+<text><![CDATA[<font size="11"><b>Enterprise Branch</b></font>]]></text>
+</component>
+
+<component id="ID_check1">
+  <text><![CDATA[<b>Check</b>]]></text> 
+</component>
+<component id="ID_reset1">
+  <text><![CDATA[<b>Reset</b>]]></text> 
+</component>
+
+<component id="ID_correctTitle">
+<text><![CDATA[Correct]]></text>
+</component>
+
+<component id="ID_correctText">
+<text><![CDATA[Correct, you indentified the modules of the Enterprise Architecture.]]></text>
+</component>
+
+<component id="ID_incorrectTitle">
+<text><![CDATA[Incorrect]]></text>
+</component>
+
+<component id="ID_incorrectText">
+<text><![CDATA[Incorrect, please try again.]]></text>
+</component>
+
+</textcomponents>

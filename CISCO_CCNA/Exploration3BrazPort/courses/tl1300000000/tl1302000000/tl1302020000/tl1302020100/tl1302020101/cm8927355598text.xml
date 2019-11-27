@@ -1,0 +1,151 @@
+﻿<textcomponents>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Métodos de encaminhamento de switch</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Comutação “armazenar e encaminhar”</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Comutação direta</B>]]></text> 
+</component>
+
+<component id="ID_title">
+  <text><![CDATA[<B>Métodos de encaminhamento de pacotes do switch</B>]]></text> 
+</component>
+
+
+<component id="ID_txt_WindowTitle01">
+  <text><![CDATA[<B>Comutação armazenar e encaminhar (store-and-forward)</B>]]></text> 
+</component>
+
+
+<component id="ID_txt01">
+  <text><![CDATA[<B>Direta</B>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<B>Armazenar e encaminhar</B>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<B>O quadro é encaminhado pelo switch antes do recebimento de todo o quadro.</B>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<B>O quadro completo é recebido antes do encaminhamento.</B>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<B>Origem</B>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<B>Destino</B>]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<B>A comutação armazenar e encaminhar (store-and-forward) recebe todo o quadro, computa a CRC e verifica o tamanho do quadro. Se o tamanho da CRC e do quadro forem válidos, o switch procurará o endereço de destino, que determina a interface de saída. Em seguida, o quadro é encaminhado pela porta correta.</B>]]></text> 
+</component>
+
+<component id="ID_txt09">
+  <text><![CDATA[<B>Origem</B>]]></text> 
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<B>Destino</B>]]></text> 
+</component>
+
+<component id="ID_txt10">
+  <text><![CDATA[<B>A comutação direta (cut-through) encaminha o quadro antes de ser totalmente recebido. No mínimo, o endereço de destino do quadro deve ser lido antes do quadro ser encaminhado.</B>]]></text> 
+</component>
+
+<component id="ID_txt11">
+  <text><![CDATA[<B>Uma comutação direta</B>]]></text> 
+</component>
+
+<component id="ID_txt12">
+  <text><![CDATA[<B>Tabela de comutação</B>]]></text> 
+</component>
+
+<component id="ID_txt13">
+  <text><![CDATA[<B>Endereço de destino</B>]]></text> 
+</component>
+
+
+<component id="ID_txt14">
+  <text><![CDATA[<B>Endereço de origem</B>]]></text> 
+</component>
+
+
+<component id="ID_txt15">
+  <text><![CDATA[<B>Dados</B>]]></text> 
+</component>
+
+
+<component id="ID_txt16">
+  <text><![CDATA[<B>CRC</B>]]></text> 
+</component>
+
+<component id="ID_txt17">
+  <text><![CDATA[<B>O quadro está bom!</B>]]></text> 
+</component>
+
+
+<component id="ID_slide2_txt01">
+  <text><![CDATA[<B>Origem</B>]]></text> 
+</component>
+
+<component id="ID_slide2_txt02">
+  <text><![CDATA[<B>Destino</B>]]></text> 
+</component>
+
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<component id="play2">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause2">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind2">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward2">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute2">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute2"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous2"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next2">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript2">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+</textcomponents>

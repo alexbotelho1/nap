@@ -1,0 +1,37 @@
+<textcomponents>
+
+    <component id="ID_text01">
+		<text><![CDATA[<b>Interface FastEthernet 0/1</b>]]></text>
+	</component>
+    <component id="ID_text02">
+		<text><![CDATA[<b>Interface FastEthernet 0/0</b>]]></text>
+	</component>
+    <component id="ID_text03">
+		<text><![CDATA[<b>Interface serial 0/1</b>]]></text>
+	</component>
+    <component id="ID_text04">
+		<text><![CDATA[<b>Interface serial 0/0</b>]]></text>
+	</component>
+    <component id="ID_text05">
+		<text><![CDATA[<b>Interfaces LAN</b>]]></text>
+	</component>
+    <component id="ID_text06">
+		<text><![CDATA[<b>Interfaces WAN</b>]]></text>
+	</component>
+    <component id="ID_text07">
+		<text><![CDATA[<b>LAN</b>]]></text>
+	</component>
+    <component id="ID_text08">
+		<text><![CDATA[<b>WAN</b>]]></text>
+	</component>
+    <component id="ID_title">
+		<text><![CDATA[<b>Interfaces do Roteador – representação física</b>]]></text>
+	</component>	
+    <component id="ID_text09">
+		<text><![CDATA[<b>Cada interface individual se conecta a uma rede diferente. Dessa forma, cada interface tem um endereço IP/máscara nessa rede.</b>]]></text>
+	</component>
+    <component id="ID_inst">
+		<text><![CDATA[<b>Clique no botão para obter agrupamentos de interface. Passe o mouse sobre as interfaces para obter mais informações.</b>]]></text>
+	</component>
+
+</textcomponents>

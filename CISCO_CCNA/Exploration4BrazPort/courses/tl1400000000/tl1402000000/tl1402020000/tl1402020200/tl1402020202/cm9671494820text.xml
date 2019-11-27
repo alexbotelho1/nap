@@ -1,0 +1,38 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Arquitetura em camadas PPP: camada LCP</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Camada 3]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[Protocolos]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[Muitos outros]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[Protocolo de controle de rede]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[Autenticação, outras opções<BR/><FONT COLOR="#FF0000">Protocolo de controle de link</FONT>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[Síncrono ou assíncrono <BR/>Meio físico]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[Camada de rede]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[Camada de enlace de dados]]></text> 
+  </component>
+<component id="ID_txt09">
+<text><![CDATA[Camada física]]></text>
+</component>
+<component id="table1">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"> </font></td></tr><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>PPP oferece opções de serviço em LCP, sendo principalmente utilizado para negociação e verificação de quadros durante a implementação dos controles ponto-a-ponto especificados por um administrador. 
+</td></tr></table>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,302 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para saber a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para ver a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+
+
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) Qual é o intervalo de endereços dos endereços de Classe A, Classe B e Classe C?]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 6.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>de 0.0.0.0 a 127.255.255.255<br/>de 128.0.0.0 a 191.255.255.255<br/>de 192.0.0.0 a 223.255.255.255</b>]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Um protocolo de roteamento classless inclui a máscara de sub-rede na atualização de roteamento.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2) O que distingue um protocolo de roteamento classless de um protocolo de roteamento classful?]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 6.1)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) Quais são as vantagens de usar um protocolo de roteamento classless?]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 6.1)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[Permite o uso do VLSM e do CIDR dentro do domínio de roteamento.]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) Como um protocolo de roteamento classful determina a máscara de sub-rede de uma atualização de roteamento?]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 6.1)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[Se o endereço de rede na atualização de roteamento estiver na mesma rede classful principal que a interface receptora, o protocolo de roteamento classful usará a mesma máscara que a interface.  Caso contrário, ele usará a máscara classful padrão.]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[5) Por que o IETF introduziu o endereço IP classless, o CIDR?]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[(de 6.1)]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[As tabelas de roteamento dos roteadores de Internet estavam crescendo bastante.  Era necessário desenvolver um modo de sumarizar as rotas na tabela de roteamento. Como o endereço classful só fornecia máscaras /8, /16 ou /24, o espaço de endereço IPv4 estava acabando.]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q5_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[6) Além do CIDR, o que mais ajudou a solucionar o problema do esgotamento de endereços IPv4 e também reduziu a necessidade de ir para o IPv6?]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[(de 6.1)]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<b>NAT (Network Address Translation, Tradução de Endereço de Rede)</b>]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q6_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+
+<!-- Question 7 -->
+
+
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[(de 6.2)]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[7) Que termo é usado para definir o processo de criação de sub-redes de uma sub-rede?]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[<b>VLSM (Variable Length Subnet Masking, Máscara de sub-rede de tamanho variável)</b>]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+
+<!-- Question 8 -->
+
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q8_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[8) A rede 172.16.0.0/16 é dividida em sub-redes usando uma máscara de sub-rede /24. O que poderíamos fazer se precisássemos dividir a sub-rede 172.16.10.0/24 em três sub-redes de igual tamanho com o número máximo de hosts por sub-rede?]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[(de 6.2)]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[A rede 172.16.10.0/24 poderia ser dividida em sub-redes usando a máscara de sub-rede /26.]]></text>
+</component>
+<component id="ID_Q8_txt05a">
+<text><![CDATA[<b>&lt;-Rede-&gt;</b>]]></text>
+</component>
+<component id="ID_Q8_txt05b">
+<text><![CDATA[<b>&lt;-Host-&gt;</b>]]></text>
+</component>
+<component id="ID_Q8_txt06">
+<text><![CDATA[Isso resultaria em quatro sub-redes com o número máximo de hosts. Não podemos criar três sub-redes. O próximo número inferior de sub-redes seria dois.]]></text>
+</component>
+<component id="ID_Q8_txt07">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q8_txt08">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 9 -->
+
+
+<component id="ID_Q9_txt01b">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q9_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q9_txt03">
+<text><![CDATA[9) A rede 172.16.10.0/24 está usando as seguintes sub-redes /28 para redes locais:]]></text>
+</component>
+<component id="ID_Q9_txt03a">
+<text><![CDATA[O administrador de rede deseja alocar uma sub-rede /28 e dividi-la em sub-redes com uma máscara /30 para todos os links seriais ponto-a-ponto da rede. Quais sub-redes /28 estão disponíveis para serem usadas?]]></text>
+</component>
+<component id="ID_Q9_txt04">
+<text><![CDATA[(de 6.2)]]></text>
+</component>
+<component id="ID_Q9_txt05">
+<text><![CDATA[<b>NAT (Network Address Translation, Tradução de Endereço de Rede)</b>]]></text>
+</component>
+<component id="ID_Q9_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q9_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 10 -->
+
+
+
+<component id="ID_Q10_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q10_txt02">
+<text><![CDATA[(de 6.2)]]></text>
+</component>
+<component id="ID_Q10_txt03">
+<text><![CDATA[10) O que é criação de super-redes? O que é necessário para propagar rotas de super-rede?]]></text>
+</component>
+<component id="ID_Q10_txt04">
+<text><![CDATA[A criação de super-redes é a capacidade de sumarizar redes menores do que a máscara classful padrão. Os protocolos de roteamento classless são necessários para propagar uma rota de super-rede porque a máscara de sub-rede deve ser incluída com o endereço de rede sumarizado.]]></text>
+</component>
+<component id="ID_Q10_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 11 -->
+
+
+<component id="ID_Q11_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q11_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q11_txt03">
+<text><![CDATA[11) Sumarize as seguintes redes]]></text>
+</component>
+<component id="ID_Q11_txt04">
+<text><![CDATA[(de 6.3)]]></text>
+</component>
+<component id="ID_Q11_txt05">
+<text><![CDATA[(18 bits correspondentes da extremidade esquerda)]]></text>
+</component>
+<component id="ID_Q11_txt06">
+<text><![CDATA[<b>Anterior<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_Q11_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Isto conclui as perguntas da seção Problemas e Discussão deste capítulo.</b>]]></text>
+</component>
+
+
+</textcomponents>

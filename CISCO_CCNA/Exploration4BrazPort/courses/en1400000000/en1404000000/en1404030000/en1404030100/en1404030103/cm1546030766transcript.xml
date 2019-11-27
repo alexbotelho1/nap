@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:02">
+<title><content-text><![CDATA[4.3.1  - Vulnerable Router Services and Interfaces]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts SNMP, NTP, and DNS vulnerabilities.<br><br>SNMP: Versions 1 and 2 pass management information and community strings (passwords) in clear text.<br><br>NTP: NTP leaves listening ports open and vulnerable.<br><br>DNS: Can help attackers connect IP addresses to domain names.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

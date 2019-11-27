@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 08:12:21">
+<title><content-text><![CDATA[5.2.3 - ACL Wildcard Masking]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts wildcard bit mask keyword abbreviations and examples.<br><br>Example 1: Wildcard Masking Process with a Single IP Address<br>Instead of entering 192.168.10.10 0.0.0.0, you can use host 192.168.10.10. <br>- 192.168.10.10 0.0.0.0 matches all the address bits.<br>- Abbreviate this wildcard mask using the IP address preceded by the keyword host (host 192.168.10.10).<br><br>Example 2: Wildcard Masking Process with a Match Any IP Address<br>Instead of entering 0.0.0.0 255.255.255.255, you can use the keyword any by itself.<br>- 0.0.0.0 255.255.255.255 ignores all address bits.<br>- Abbreviate expression with the keyword any.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

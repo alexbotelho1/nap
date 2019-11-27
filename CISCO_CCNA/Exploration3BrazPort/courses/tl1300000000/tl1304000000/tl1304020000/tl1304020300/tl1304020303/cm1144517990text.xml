@@ -1,0 +1,164 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Anúncios de VTP</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em Reproduzir para ver cada animação.</b>]]></text>
+</component>
+
+<component id="ID_button_01">
+<text><![CDATA[<b>Resumo</b>]]></text>
+</component>
+
+<component id="ID_button_02">
+<text><![CDATA[<b>Subconjunto</b>]]></text>
+</component>
+
+<component id="ID_button_03">
+<text><![CDATA[<b>Solicitação</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Servidor</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Cliente</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Resumo</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Anúncios sumarizados:</b><ul><li>São enviados a cada 5 minutos por um Servidor VTP</li><li>Informa aos switches habilitados para VTP sobre o número de revisão de configuração VTP atual</li><li>São enviados imediatamente após uma alteração de configuração </li></ul>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Alterações que disparam o anúncio de subconjunto incluem:<ul><li>Criação ou exclusão de uma VLAN</li><li>Suspensão ou ativação de uma VLAN</li><li>Alteração do nome de uma VLAN</li><li>Alteração do MTU de uma VLAN</li></ul></b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Servidor</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Cliente</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Resumo</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Subconjunto</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Quando um anúncio de solicitação é enviado ao Servidor VTP:</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Servidor</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Cliente</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Resumo</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Subconjunto</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Solicitação</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Quando um anúncio de solicitação é enviado ao Servidor VTP:<ul><li>o servidor VTP envia um anúncio sumarizado</li></ul></b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Quando um anúncio de solicitação é enviado ao Servidor VTP:<ul><li>o servidor VTP envia um anúncio sumarizado</li><li>e o servidor VTP envia um anúncio de subconjunto</li></ul></b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>Anúncios de solicitação são enviados se:<ul><li>O nome de domínio VTP foi alterado</li><li>Um anúncio sumarizado chega com um número de revisão de configuração mais alto</li><li>Uma mensagem de anúncio de subconjunto é perdida</li><li>O switch foi redefinido.</li></ul></b>]]></text>
+</component>
+
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<component id="play2">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause2">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind2">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward2">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute2">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute2"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous2"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next2">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript2">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+<component id="play3">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause3">
+<text><![CDATA[Pausar]]></text>
+</component>
+<component id="rewind3">
+<text><![CDATA[Retroceder]]></text>
+</component><component id="forward3">
+<text><![CDATA[Avançar]]></text></component>
+<component id="mute3">
+<text><![CDATA[Sem som]]></text></component>
+<component id="unmute3"><text><![CDATA[Com som]]></text>
+</component>
+<component id="previous3"><text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next3">
+<text><![CDATA[Encerrar]]></text>
+</component>
+<component id="transcript3">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+</textcomponents>

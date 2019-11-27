@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Protegendo a sua rede</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Servidor TFTP</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Roteadores internos</b>]]></text>
+</component>
+
+<component id="ID_bubble01">
+<text><![CDATA[R2 se conecta à Internet, estando vulnerável a ataques. Aplique os recursos de segurança do roteador aqui.]]></text>
+</component>
+
+<component id="ID_isp">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+</textcomponents>

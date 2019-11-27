@@ -1,0 +1,147 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Formato de mensagem RIPv1</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique em reproduzir para exibir a animação</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Cabeçalho do Quadro de Enlace de Dados</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Cabeçalho do Pacote IP</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Cabeçalho do segmento UDP</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Mensagem RIP <br>(512 Bytes; até 25 rotas)</br></b>]]></text>
+</component>
+
+<component id="ID_txt05a">
+<text><![CDATA[<b>Bit:</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>0</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>7</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>8</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>15</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>16</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>23</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>24</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>31</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Comando = 1 ou 2</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Versão = 1</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Deve ser zero</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Identificador da família de endereços (2 = IP)</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>Deve ser zero</b>]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b>Endereço IP (Endereço de Rede)</b>]]></text>
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[<b>Deve ser zero</b>]]></text>
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[<b>Deve ser zero</b>]]></text>
+</component>
+
+<component id="ID_txt22">
+<text><![CDATA[<b>Métrica (saltos)</b>]]></text>
+</component>
+
+<component id="ID_txt23">
+<text><![CDATA[<b>Diversas entradas de rota, até um máximo de 25</b>]]></text>
+</component>
+
+<component id="ID_txt24">
+<text><![CDATA[<b>Entrada de rota</b>]]></text>
+</component>
+
+<component id="ID_table01">
+<text><![CDATA[<b>Comando</b>]]></text>
+</component>
+
+<component id="ID_table01b">
+<text><![CDATA[1 para uma Solicitação ou 2 para uma Resposta.]]></text>
+</component>
+
+<component id="ID_table02">
+<text><![CDATA[<b>Versão</b>]]></text>
+</component>
+
+<component id="ID_table02b">
+<text><![CDATA[1 para RIP v 1 ou 2 para RIP v 2.]]></text>
+</component>
+
+<component id="ID_table03">
+<text><![CDATA[<b>Identificador da família de endereços</b>]]></text>
+</component>
+
+<component id="ID_table03b">
+<text><![CDATA[2 para IP, a menos que uma Solicitação seja para a tabela de roteamento completa em cada caso, definido em 0.]]></text>
+</component>
+
+<component id="ID_table04">
+<text><![CDATA[<b>Endereço IP</b>]]></text>
+</component>
+
+<component id="ID_table04b">
+<text><![CDATA[O endereço para a rota de destino, que pode ser uma rede, sub-rede ou um endereço de host.]]></text>
+</component>
+
+<component id="ID_table05">
+<text><![CDATA[<b>Métrica</b>]]></text>
+</component>
+
+<component id="ID_table05b">
+<text><![CDATA[Contagem de saltos entre 1 e 16. O roteador de origem aumenta a métrica antes de enviar uma mensagem.]]></text>
+</component>  
+
+</textcomponents>

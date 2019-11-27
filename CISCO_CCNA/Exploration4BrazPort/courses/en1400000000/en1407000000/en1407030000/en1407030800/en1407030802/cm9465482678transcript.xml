@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 12:12:39">
+<title><content-text><![CDATA[7.3.8 - Configuring RIP n g with IPv6]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts RIP n g with an IPv6 configuration. Router R1 interface Ethernet0 is connected to LAN1, :2001:db8:1:1::/64. Router R2 interface Ethernet0 is also connected to LAN1, :2001:db8:1:1::/64. Router R2 interface Ethernet1 is connected to LAN2, :2001:db8:1:2::/64.<br><br>Commands to configure RIP n g for IPv6 are as follows: <br><br>Router R1 config:<br>i pv6 unicast-routing<br>i pv6 router rip RT0<br><br>interface Ethernet0<br>i pv6 address 2001:db8:1:1:/64 e u i-64<br>i pv6 rip RT0 enable<br><br>Router R2 config:<br>i pv6 unicast-routing<br>i pv6 router rip RT0<br><br>interface Ethernet0<br>i pv6 address 2001:db8:1:1::/64 e u i-64<br>i pv6 rip RT0 enable<br><br>interface Ethernet1<br>i pv6 address 2001:db8:1:2::/64 e u i-64<br>i pv6 rip RT0 enable]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

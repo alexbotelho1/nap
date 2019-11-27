@@ -1,0 +1,5 @@
+<transcript lastedited="11.25.08 19:11:47">
+<title><content-text><![CDATA[4.5.1  - Maintaining Cisco I O S Software Images]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts a system administrator maintaining the most recent versions of Cisco I O S software. The following recommendations are provided.<br><br>First, do this:<br>- Confirm size of update.<br>- Test terminal to router communication.<br>- Plan update for quiet time.<br><br>Next, do this:<br>- Shut down unused interfaces.<br>- Back up running configuration and Cisco I O S image to TFTP.<br>- Execute file transfers.<br>- Test update function and bring up shutdown interfaces.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

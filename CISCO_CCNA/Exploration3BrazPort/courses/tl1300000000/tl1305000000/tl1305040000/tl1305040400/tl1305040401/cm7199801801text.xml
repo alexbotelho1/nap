@@ -1,0 +1,36 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Portas de extremidade</b>]]></text>
+</component>
+
+
+  <component id="ID_txt10">
+  <text><![CDATA[Bridge raiz]]></text> 
+  </component>
+  <component id="ID_txt12">
+  <text><![CDATA[Banco de dados]]></text> 
+  </component>
+ 
+ <component id="ID_box1_title">
+  <text><![CDATA[<b>Porta de extremidade</b>]]></text> 
+  </component>
+  
+  <component id="ID_box1_body">
+  <text><![CDATA[<ul><li>Nunca haverá um switch conectado a ela</li><li>Faz a transição imediatamente para o encaminhamento</li><li>Funciona do mesmo modo que uma porta configurada com o Cisco PortFast</li><li>Em um switch da Cisco configurado utilizando o comando <font face='_typewriter'>spanning-tree portfast</font></li></ul>]]></text> 
+  </component>
+  
+  <component id="ID_box2_title">
+  <text><![CDATA[<b>Porta de não-extremidade</b>]]></text> 
+  </component>
+  
+  <component id="ID_box2_body">
+  <text><![CDATA[Sempre será anexado a outra porta de switch.]]></text> 
+  </component>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Passe o mouse sobre as portas de switch para ver se elas são portas de extremidade.<b>]]></text> 
+  </component>
+
+
+
+</textcomponents>

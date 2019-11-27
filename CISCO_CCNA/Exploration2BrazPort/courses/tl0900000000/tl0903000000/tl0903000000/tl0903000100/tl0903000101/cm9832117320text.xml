@@ -1,0 +1,21 @@
+<textcomponents><component id="ID_txt01">
+<text><![CDATA[<b>Escalando roteamento dinâmico para redes maiores</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Roteamento Estático</b>]]></text> 
+  </component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Roteamento Dinâmico</b>]]></text>
+</component>
+
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Nesse capítulo, você aprenderá a:</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<ul><li>Descrever a função de protocolos de roteamento dinâmico e colocar esses protocolos no contexto do design de rede moderno.</li><li>Identificar vários modos de classificar protocolos de roteamento.</li><li>Descrever como as métricas são usadas pelos protocolos de roteamento e identificar os tipos d métrica usados por protocolos de roteamento dinâmico.</li><li>Determinar a distância administrativa de uma rota e descrever a sua importância no processo de roteamento.</li><li>Identificar os diversos elementos na tabela de roteamento.</li><li>Dadas as restrições realistas, elaborar e aplicar esquemas de criação de sub-redes.</li></ul>]]></text>
+</component>
+
+</textcomponents>

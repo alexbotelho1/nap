@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="9_2_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_1">
+        <source>Trojan</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_2">
+        <source>worm</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_3">
+        <source>virus</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_4">
+        <source>Virus</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S2_TXT_1">
+        <source>Loss of productivity</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S2_TXT_2">
+        <source>Loss of data</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S2_TXT_3">
+        <source>Damage to the reputation of an organization</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S2_TXT_4">
+        <source>Cost related to the repair of computers</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S3_TXT_01">
+        <source>dollar values of a virus/ trojan horse attack</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S3_TXT_02">
+        <source>Value of data to competitors</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S3_TXT_03">
+        <source>Value of data to company</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S3_TXT_04">
+        <source>Cost of repairing equipment</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S3_TXT_05">
+        <source>Productivity loss</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S3_TXT_06">
+        <source>Loss of credibility/reputation</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TITLE1">
+        <source>Computer Attack 
+</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TITLE2">
+        <source>Losses Due to Security Attacks</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TITLE3">
+        <source>Possible Losses due to a Virus, Worm, or Trojan Attack
+</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

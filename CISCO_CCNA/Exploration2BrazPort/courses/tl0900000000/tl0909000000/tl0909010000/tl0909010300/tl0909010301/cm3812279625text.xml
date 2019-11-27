@@ -1,0 +1,81 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Módulos dependentes de protocolo (PDM) do EIGRP</b>]]></text> 
+</component>
+  
+<component id="ID_txt01">
+<text><![CDATA[<b>3 tabelas de vizinho</b>]]></text> 
+</component>  
+
+<component id="ID_txt02">
+<text><![CDATA[<b>3 tabelas de topologia</b>]]></text> 
+</component>  
+
+<component id="ID_txt03">
+<text><![CDATA[<b>3 tabelas de roteamento</b>]]></text> 
+</component>  
+  
+<component id="ID_Table01_Header">
+<text><![CDATA[Tabela de vizinho-Apple Talk]]></text>
+</component>
+
+<component id="ID_Table02_Header">
+<text><![CDATA[Tabela de vizinho-IPX]]></text>
+</component>
+
+<component id="ID_Table03_Header">
+<text><![CDATA[Tabela de vizinho-IP]]></text>
+</component>
+<component id="ID_Table03_Cell01">
+<text><![CDATA[Roteador de próximo salto]]></text>
+</component>
+<component id="ID_Table03_Cell02">
+<text><![CDATA[Interface]]></text>
+</component>
+
+
+<component id="ID_Table04_Header">
+<text><![CDATA[Tabela de topologia-Apple Talk]]></text>
+</component>
+
+<component id="ID_Table05_Header">
+<text><![CDATA[Tabela de topologia-IPX]]></text>
+</component>
+
+<component id="ID_Table06_Header">
+<text><![CDATA[Tabela de topologia-IP]]></text>
+</component>
+<component id="ID_Table06_Cell01">
+<text><![CDATA[Destino1]]></text>
+</component>
+<component id="ID_Table06_Cell02">
+<text><![CDATA[Sucessor]]></text>
+</component>
+<component id="ID_Table06_Cell03">
+<text><![CDATA[Destino2]]></text>
+</component>
+<component id="ID_Table06_Cell04">
+<text><![CDATA[Sucessor viável]]></text>
+</component>
+
+
+<component id="ID_Table07_Header">
+<text><![CDATA[Tabela de roteamento-Apple Talk]]></text>
+</component>
+
+<component id="ID_Table08_Header">
+<text><![CDATA[Tabela de roteamento-IPX]]></text>
+</component>
+
+<component id="ID_Table09_Header">
+<text><![CDATA[Tabela de roteamento-IP]]></text>
+</component>
+<component id="ID_Table09_Cell01">
+<text><![CDATA[Destino1]]></text>
+</component>
+<component id="ID_Table09_Cell02">
+<text><![CDATA[Sucessor]]></text>
+</component>
+
+</textcomponents>

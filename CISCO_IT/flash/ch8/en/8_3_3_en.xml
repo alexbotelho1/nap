@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_3_3.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_IPTEXT3">
+        <source>Default Gateway:</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE1">
+        <source>TCP/IP Properties </source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TITLE2">
+        <source>Obtaining an IP Address Automatically</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TITLE3">
+        <source>Obtaining an IP Address Automatically</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_01">
+        <source> Microsoft ITCP/IP Properties 
+</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_02">
+        <source>IP Address</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_03">
+        <source>An IP address can be automatically assigned to this network card by a DHCP server. If your network does not have a DHCP server, ask your network administartor for an address, and then type it in the space below. </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_03_01">
+        <source>Max. Number of Clients </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_04">
+        <source>Adapter:</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_05">
+        <source>(1) 3Com Etherlink 101SA (3C509) Adapter:</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_06">
+        <source>IP address:</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_07">
+        <source>IP address:</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_08">
+        <source>Subnet mask:</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_09">
+        <source>Subnet mask:</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_10">
+        <source>Default gateway:</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_11">
+        <source>Default gateway:</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_12">
+        <source>Obtain DNS Server address automatically</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_13">
+        <source>Obtain an IP address from a DHCP server</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_14">
+        <source>Specify on IP address</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_15">
+        <source>IP Address:</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_16">
+        <source>IP Address:</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_17">
+        <source>Subnet Mask:</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_18">
+        <source>Subnet mask:</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_19">
+        <source>Advanced...</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TXT_20">
+        <source>OK</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TXT_21">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_TXT_22">
+        <source>Apply</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_TXT_23">
+        <source>X</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TXT_24">
+        <source>Host A</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TXT_25">
+        <source>Host B</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TXT_26">
+        <source>CentralDHCPServer</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_TXT_27">
+        <source>DHCP Request</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_TXT_00028">
+        <source>MAC to IP Table</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_TXT_0028">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_TXT_28">
+        <source>&quot;Your IP address is 10.0.0.1&quot;</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_TXT_0029">
+        <source>IP Address Pool Table</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_TXT_0041">
+        <source>Internet Protocol (TCP/IP) Properties</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_TXT_0042">
+        <source>General</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_TXT_0043">
+        <source>You can get IP settings assigned automatically if your network supports  this capability.  Otherwise, you need to ask your network administrator for the appropriate IP settings.</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_TXT_0044">
+        <source>Obtain an IP address automatically</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_TXT_0045">
+        <source>Use the following IP address:</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_TXT_0046">
+        <source>IP address:</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TXT_0047">
+        <source>Subnet Mask:</source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TXT_0048">
+        <source>Default Gateway:</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TXT_0049">
+        <source>Obtain DNS Server address automatically</source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TXT_0050">
+        <source>Use the following DNS Server addresses:</source>
+      </trans-unit>
+      <trans-unit id="047" resname="IDS_TXT_0051">
+        <source>Preferred DNS server:</source>
+      </trans-unit>
+      <trans-unit id="048" resname="IDS_TXT_0052">
+        <source>Alternate DNS server:</source>
+      </trans-unit>
+      <trans-unit id="049" resname="IDS_TXT_0053">
+        <source>Advanced...</source>
+      </trans-unit>
+      <trans-unit id="050" resname="IDS_TXT_0054">
+        <source>OK</source>
+      </trans-unit>
+      <trans-unit id="051" resname="IDS_TXT_0055">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit id="052" resname="IDS_TXT_0056">
+        <source>?</source>
+      </trans-unit>
+      <trans-unit id="053" resname="IDS_TXT_0057">
+        <source>X</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

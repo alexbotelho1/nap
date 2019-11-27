@@ -1,0 +1,12 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Neste capítulo você aprendeu a:</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Identificar um roteador como um computador usando um SO (Operating System, sistema operacional) e um hardware projetados para o processo de roteamento.</li><li>Demonstrar a capacidade de configurar dispositivos e aplicar endereços.</li><li>Descrever a estrutura de uma tabela de roteamento.</li><li>Descrever como um roteador determina um caminho e comuta pacotes.</li></ul>]]></text> 
+  </component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Roteador de serviços integrados 1841</b>]]></text>
+</component>
+</textcomponents>

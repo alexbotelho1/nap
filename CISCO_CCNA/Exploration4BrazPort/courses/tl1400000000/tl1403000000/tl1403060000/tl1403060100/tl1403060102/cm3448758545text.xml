@@ -1,0 +1,94 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para visualizar a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para avançar para a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+<!-- Question 1 -->
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você acertou.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) Compare os seguintes termos: DLCI, LMI e ARP inverso.]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 3.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>DLCI – Identificador de conexão de enlace de dados</b><ul><li>Os VCs são identificados pelos DLCIs, e os valores de DLCI são atribuídos pela operadora de Frame Relay.</li><li>Os DLCIs do Frame Relay têm importância local e nenhuma importância além do único link.</li><li>Um DLCI identifica um VC para o equipamento em um ponto de extremidade.</li></ul><b>LMI - Interface de gerenciamento local</b><ul><li>A LMI é um mecanismo de keepalive que fornece informações de status sobre conexões Frame Relay entre o roteador (DTE) e o switch Frame Relay (DCE).</li><li>Três tipos de LMIs são suportados pelos roteadores Cisco: Cisco, ANSI e q933a.</li></ul><b>ARP inverso</b><ul><li>O Address Resolution Protocol (ARP) inverso obtém endereços da Camada 3 de outras estações de endereços da Camada 2, como o DLCI em redes Frame Relay (que é o inverso do que o ARP faz).</li><li>Ele é usado principalmente em redes Frame Relay e ATM, nas quais os endereços da Camada 2 de VCs são ocasionalmente obtidos da sinalização da Camada 2, e os endereços correspondentes da Camada 3 devem estar disponíveis para que esses VCs possam ser usados.</li></ul>]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2) Consulte a exibição. A configuração é para o roteador R1. Qual comando em R1 é exigido para configurar estaticamente uma conexão de Frame Relay para R2? O tráfego entre os locais também deve suportar OSPF.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 3.2)]]></text>
+</component>
+<component id="ID_topology01">
+<text><![CDATA[<b>Switch FR</b>]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<font face="_sans">frame-relay map ip 10.1.1.2 102 broadcast</font>]]></text>
+</component>
+<component id="ID_Q2_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) Compare os seguintes termos: taxa de acesso, CIR, CBIR e BE.]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 3.3)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Taxa de acesso (ou velocidade da porta)</b><ul><li>A capacidade do loop local.</li><li>Essa linha é cobrada com base na velocidade da porta entre o DTE e o DCE (cliente para operadora).</li></ul><b>CIR - Taxa de informações garantida</b><ul><li>A capacidade por meio do loop local garantida pela operadora.</li><li>Os clientes normalmente escolhem uma CIR inferior à taxa de acesso para que possam tirar proveito das rajadas.</li></ul><b>CBIR - Taxa de informações de rajada garantida</b><ul><li>Máximo negociado que um quadro pode estourar acima da CIR.</li><li>Os quadros são marcados como qualificados para descarte (DE).</li><li>Eles não podem exceder a taxa de acesso do link.</li></ul><b>BE – Rajada em excesso</b><ul><li>Quantidade de dados acima da CBIR até a taxa de acesso que os quadros podem usar para estourar sem garantia.</li><li>Os quadros também são marcados como qualificados para descarte (DE) e não podem exceder a taxa de acesso do link.</li></ul>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- LAST QUESTION -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) Consulte a exibição. O roteador R1 não pode estabelecer conexões Frame Relay ponto-a-ponto com os roteadores R2 e R3. Com base nas informações apresentadas, quais alterações na configuração do roteador R1 corrigiriam o problema?]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 3.4)]]></text>
+</component>
+<component id="ID_topologyQ4">
+<text><![CDATA[<b>Frame Relay</b>]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>No roteador R1</b><ul><li>A interface serial principal e as subinterfaces devem ser Serial 0/0/0, Serial 0/0/0.102 e Serial 0/0/0.103, respectivamente.</li><li>Uma máscara de sub-rede incorreta foi aplicada às subinterfaces. A máscara de sub-rede deve ser 255.255.255.252.</li><li>Os DLCIs no comando frame-relay interface-dlci devem ser 102 e 103, respectivamente.</li></ul>]]></text>
+</component>
+<component id="ID_conclusion">
+<text><![CDATA[<b>Assim são concluídas as perguntas da seção “Verifique a sua compreensão” deste capítulo.</b>]]></text>
+</component>
+</textcomponents>

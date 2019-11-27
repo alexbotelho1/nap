@@ -1,0 +1,99 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Enviando dados por cabo</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Servidores (Aprovisionamento, Cache, Web, Email)</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Headend</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>CMTS</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Fibra</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Nó</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>CM</b>]]></text>
+</component>
+
+
+
+
+<component id="ID_txtTitle1">
+<text><![CDATA[<b>CMTS:</b>]]></text>
+</component>
+
+<component id="ID_txtBody1">
+<text><![CDATA[Um sistema de terminação de modem a cabo (CMTS) é um componente que troca sinais digitais com modems a cabo em uma rede a cabo. Um CMTS de headend comunica-se com os CMs localizados nas casas dos assinantes.]]></text>
+</component>
+
+<component id="ID_txtTitle2">
+<text><![CDATA[<b>Fibra:</b>]]></text>
+</component>
+
+<component id="ID_txtBody2">
+<text><![CDATA[A parte de tronco da rede de cabo é geralmente um cabo de fibra ótica.]]></text>
+</component>
+
+<component id="ID_txtTitle3">
+<text><![CDATA[<b>Nó:</b>]]></text>
+</component>
+
+<component id="ID_txtBody3">
+<text><![CDATA[Os nós convertem os sinais óticos em sinais de RF.]]></text>
+</component>
+
+<component id="ID_txtTitle4">
+<text><![CDATA[<b>Área de distribuição:</b>]]></text>
+</component>
+
+<component id="ID_txtBody4">
+<text><![CDATA[Um segmento de rede de distribuição (segmento alimentador) tem de 500 a 2000 assinantes.]]></text>
+</component>
+
+<component id="ID_txtTitle5">
+<text><![CDATA[<b>Cabo coaxial:</b>]]></text>
+</component>
+
+<component id="ID_txtBody5">
+<text><![CDATA[Os cabos alimentadores coaxiais são originados do nó e levam os sinais de RF aos assinantes.]]></text>
+</component>
+
+<component id="ID_txtTitle6">
+<text><![CDATA[<b>Modem a cabo:</b>]]></text>
+</component>
+
+<component id="ID_txtBody6">
+<text><![CDATA[Um modem a cabo permite que você receba dados em velocidades altas. Geralmente, o modem a cabo conecta-se a uma placa 10BASE-T Ethernet padrão no computador.]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Passe o mouse sobre os componentes no diagrama para obter mais informações.</b>]]></text>
+</component>
+
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>O serviço de dados é executado entre o modem a cabo e o CMTS.</li><li>Os usuários em um segmento compartilham a largura de banda de upstream e downstream.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

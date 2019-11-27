@@ -1,0 +1,192 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Clique para exibir as três etapas para planejar a linha de base inicial.]]></text>
+</component>
+
+<component id="ID_inst02">
+<text><![CDATA[Role sobre a lista "Dispositivos e Portas de Interesse" para realçar os componentes relacionados.]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Selecione os dados que deseja medir</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Dispositivos e portas de interesse</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Determine a duração da linha de base</b>]]></text>
+</component>
+
+
+<component id="ID_title01">
+<text><![CDATA[<b>Planejando a primeira linha de base</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>Servidor WEB/TFTP</b><br/>192.168.20.254 /24]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>Frame Relay</b>]]></text>
+</component>
+
+<component id="ID_txt03_02">
+<text><![CDATA[<b>Edifício B</b>]]></text>
+</component>
+
+<component id="ID_txt04_02">
+<text><![CDATA[<b>Escritório de vendas<br/>(Londres)</b>]]></text>
+</component>
+
+<component id="ID_txt05_02">
+<text><![CDATA[<b>Servidor WEB/TFTP</b><br/>209.165.201.30 /27]]></text>
+</component>
+
+<component id="ID_txt06_02">
+<text><![CDATA[198.168.10.10 /24<br/><b>Usuário Admin</b>]]></text>
+</component>
+
+<component id="ID_txt07_02">
+<text><![CDATA[<b>Dispositivos e Portas de Interesse:</b><br/><ul><li>Portas roteador a roteador</li><li>Portas roteador a switch</li><li>Porta do roteador para servidor Web/TFTP</li><li>PC1 (Usuário Admin)</li><li>SRV1 (Web/TFTP Server)</li>]]></text>
+</component>
+
+
+<component id="ID_txt01_03">
+<text><![CDATA[<b>Gráfico 'diário" (média de 5 minutos)</b>]]></text>
+</component>
+
+<component id="ID_txt02_03">
+<text><![CDATA[<b>Gráfico 'mensal" (média de 2 horas)</b>]]></text>
+</component>
+
+<component id="ID_txt03_03">
+<text><![CDATA[<b>Utilização de CPU</b>]]></text>
+</component>
+
+<component id="ID_txt04_03">
+<text><![CDATA[<b>Utilização de CPU</b>]]></text>
+</component>
+
+<component id="ID_txt05_03">
+<text><![CDATA[Carga máxima: <b>46%</b> Carga média: <b>3%</b> Carga atual: <b>1%</b>]]></text>
+</component>
+
+<component id="ID_txt06_03">
+<text><![CDATA[Carga máxima: <b>43%</b> Carga média: <b>2%</b> Carga atual: <b>1%</b>]]></text>
+</component>
+
+<component id="ID_txt07_03">
+<text><![CDATA[<b>Gráfico 'semanal" (média de 30 minutos)</b>]]></text>
+</component>
+
+<component id="ID_txt08_03">
+<text><![CDATA[<b>Gráfico 'anual" (média de 1 dia)</b>]]></text>
+</component>
+
+<component id="ID_txt09_03">
+<text><![CDATA[<b>Utilização de CPU</b>]]></text>
+</component>
+
+<component id="ID_txt10_03">
+<text><![CDATA[<b>Utilização de CPU</b>]]></text>
+</component>
+
+<component id="ID_txt11_03">
+<text><![CDATA[Carga máxima: <b>43%</b> Carga média: <b>2%</b> Carga atual: <b>1%</b>]]></text>
+</component>
+
+<component id="ID_txt12_03">
+<text><![CDATA[Carga máxima: <b>43%</b> Carga média: <b>0%</b> Carga atual: <b>1%</b>]]></text>
+</component>
+<component id="inst2">
+<text><![CDATA[<b>Clique e arraste a imagem para ver detalhes.</b>]]></text>
+</component>
+
+<component id="ID_txtDay1">
+<text><![CDATA[<b>Dom</b>]]></text>
+</component>
+<component id="ID_txtDay2">
+<text><![CDATA[<b>Sáb</b>]]></text>
+</component>
+<component id="ID_txtDay3">
+<text><![CDATA[<b>Sex</b>]]></text>
+</component>
+<component id="ID_txtDay4">
+<text><![CDATA[<b>Qui</b>]]></text>
+</component>
+<component id="ID_txtDay5">
+<text><![CDATA[<b>Qua</b>]]></text>
+</component>
+<component id="ID_txtDay6">
+<text><![CDATA[<b>Ter</b>]]></text>
+</component>
+<component id="ID_txtDay7">
+<text><![CDATA[<b>Seg</b>]]></text>
+</component>
+<component id="ID_txtDay8">
+<text><![CDATA[<b>Dom</b>]]></text>
+</component>
+<component id="ID_txtDay9">
+<text><![CDATA[<b>Sáb</b>]]></text>
+</component>
+
+<component id="Id_Week1">
+<text><![CDATA[<b>Semana 09</b>]]></text>
+</component>
+<component id="Id_Week2">
+<text><![CDATA[<b>Semana 08</b>]]></text>
+</component>
+<component id="Id_Week3">
+<text><![CDATA[<b>Semana 07</b>]]></text>
+</component>
+<component id="Id_Week4">
+<text><![CDATA[<b>Semana 06</b>]]></text>
+</component>
+<component id="Id_Week5">
+<text><![CDATA[<b>Semana 05</b>]]></text>
+</component>
+
+<component id="Id_M1">
+<text><![CDATA[<b>Fev</b>]]></text>
+</component>
+<component id="Id_M2">
+<text><![CDATA[<b>Jan</b>]]></text>
+</component>
+<component id="Id_M3">
+<text><![CDATA[<b>Dez</b>]]></text>
+</component>
+<component id="Id_M4">
+<text><![CDATA[<b>Nov</b>]]></text>
+</component>
+<component id="Id_M5">
+<text><![CDATA[<b>Out</b>]]></text>
+</component>
+<component id="Id_M6">
+<text><![CDATA[<b>Set</b>]]></text>
+</component>
+<component id="Id_M7">
+<text><![CDATA[<b>Ago</b>]]></text>
+</component>
+<component id="Id_M8">
+<text><![CDATA[<b>Jul</b>]]></text>
+</component>
+<component id="Id_M9">
+<text><![CDATA[<b>Jun</b>]]></text>
+</component>
+<component id="Id_M10">
+<text><![CDATA[<b>Mai</b>]]></text>
+</component>
+<component id="Id_M11">
+<text><![CDATA[<b>Abr</b>]]></text>
+</component>
+<component id="Id_M12">
+<text><![CDATA[<b>Mar</b>]]></text>
+</component>
+<component id="Id_M13">
+<text><![CDATA[<b>Fev</b>]]></text>
+</component>
+</textcomponents>

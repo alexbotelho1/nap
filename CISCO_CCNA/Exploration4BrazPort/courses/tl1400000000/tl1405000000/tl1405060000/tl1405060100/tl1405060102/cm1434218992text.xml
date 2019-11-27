@@ -1,0 +1,105 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Utilize esta atividade para verificar se você compreendeu os pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Este não é um teste e as suas respostas não serão gravadas.</li><li>Clique em <b>Responder</b> para visualizar a resposta.</li><li>Clique em <b>Próxima pergunta</b> para avançar para a próxima pergunta da série.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique aqui<br/>para começar</b>]]></text>
+</component>
+
+
+
+<!-- Question 1 -->
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você pode responder a esta pergunta mentalmente?<br/>Clique em <b>Responder</b> para saber se você está correto.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1) <block indent="20">Liste a regra dos três "Ps" associadas a listas de controle de acesso.</block>]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[(de 5.1)]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Uma ACL por protocolo</b><ul><li>Para controlar o fluxo de tráfego em uma interface, uma ACL deve ser definida para cada protocolo habilitado na interface.</li></ul><b>Uma ACL por direção</b><ul><li>As ACLs controlam o tráfego em uma direção por vez em uma interface. Duas ACLs separadas devem ser criadas para controlar os tráfegos de entrada e de saída.</li></ul><b>Uma ACL por interface</b><ul><li>As ACLs controlam o tráfego de uma interface, por exemplo, Fast Ethernet 0/0.</li></ul>]]></text>
+</component>
+<component id="ID_Q1_txt06">
+<text><![CDATA[<b>Próxima<br/>pergunta</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2) <block indent="20">Liste as duas regras básicas associadas ao local de ACLs padrão e estendidas.</block>]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[(de 5.1)]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>ACLs padrão</b><ul><li>Como as ACLs padrão não especificam endereços de destino, coloque-as o mais próximo possível do destino.</li></ul><b>ACLs estendidas</b><ul><li>Localize as ACLs estendidas mais próximas da origem do tráfego negado. Dessa forma, o tráfego indesejável é filtrado sem atravessar a infraestrutura de rede.</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt07">
+<text><![CDATA[<b>Próxima<br/>pergunta</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3) <block indent="20">Consulte a figura. A ACL 10 configurada em R1 foi projetada para bloquear o host em 192.168.10.10 no acesso à rede 192.168.11.0, mas todos os outros hosts na rede 192.168.10.0 devem ter acesso permitido. No entanto, a ACL não faz isso. Quais alterações corrigiriam este problema?</block>]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[(de 5.2)]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Em roteador R1</b><ul><li>O endereço de host foi especificado incorretamente. Ele deveria ser especificado como <b>192.168.10.10</b>.</li><li>Por conta da instrução implicit deny, o resto da sub-rede não teve permissão para continuar. O restante da sub-rede deveria ter sido permitido utilizando-se o comando <b><font face="_typewriter">access-list 10 permit any</font></b>.</li><li>A ACL 10 deveria ter sido aplicada para estar em uma direção de saída na interface Fa0/1.</li></ul>]]></text>
+</component>
+<component id="ID_Q3_txt07">
+<text><![CDATA[<b>Próxima<br/>pergunta</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4) <block indent="20">Consulte a figura. A ACL SURFING deveria permitir apenas aos hosts na rede 192.168.10.0 ter acesso à Web e seguro. Os hosts na 192.168.11.0 não deveriam ter nenhum acesso permitido. A ACL BROWSING só deveria permitir o acesso de retorno ao tráfego com origem na rede 192.168.10.0. No entanto, as ACLs não fazem isso. Quais alterações corrigiriam este problema?</block>]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[(de 5.3)]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Em roteador R1</b><ul><li>A primeira instrução permit da ACL SURFING é permitir o acesso Telnet (23). Ela deve permitir acesso à Web (80).</li><li>A ACL BROWSING exige a palavra-chave <b><font face="_typewriter">established</font></b> ao final.</li><li>As ACLs foram aplicadas à interface errada. Elas deveriam ter sido aplicadas à interface 0/0/0 Serial.</li><li>As direções das ACLs SURFING e BROWSING deveriam ter sido revertidas.</li></ul>]]></text>
+</component>
+<component id="ID_Q4_txt07">
+<text><![CDATA[<b>Próxima<br/>pergunta</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Responder</b>]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[5) Descreva os três tipos de ACLs complexas e suas funções.]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[(de 5.4)]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Dinâmica (Lock and Key):</b><ul><li>As ACLs utilizam uma ACL estendida para impedir usuários de atravessar um roteador até utilizarem Telnet ou SSH para se conectar ao roteador e serem autenticados.</li><li>Depois de autenticadas, as entradas na ACL dinâmica específicas são ativadas na ACL aplicada à interface.</li><li>Essas entradas permanecem ativas por um período específico e expiram em seguida.</li><li>Isso permite a um usuário autenticar e acessar recursos que normalmente seriam negados. As ACLs dinâmicas podem ser combinadas a outros tipos de ACLs, como ACLs estendidas.</li></ul><b>Reflexiva:</b><ul><li>As ACLs reflexivas criam entradas temporárias automaticamente com base nas informações da sessão de camada superior.</li><li>As entradas são excluídas automaticamente quando a sessão termina.</li></ul><b>Baseada em tempo:</b><ul><li>As ACLs baseadas em tempo são semelhantes a ACLs estendidas em termos de função, mas permitem o controle de acesso com base na hora.</li><li>Um intervalo define horas específicas do dia e da semana nas quais as ACLs são implementadas.</li></ul>]]></text>
+</component>
+<component id="ID_conclusion">
+<text><![CDATA[<b>Assim são concluídas as perguntas da seção “Verifique a sua compreensão” deste capítulo.</b>]]></text>
+</component>
+
+</textcomponents>

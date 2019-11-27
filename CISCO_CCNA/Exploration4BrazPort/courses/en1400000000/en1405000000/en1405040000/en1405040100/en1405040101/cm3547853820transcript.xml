@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 08:12:01">
+<title><content-text><![CDATA[5.4.1 - What Are Complex ACL's]]></content-text></title>
+<brief><content-text><![CDATA[The diagram lists the types of complex ACL's.<br><br>Complex ACL: Dynamic ACL (lock-and-key)<br>Description: Users that want to traverse the router are blocked until they use Telnet to connect to the router and are authenticated.<br><br>Complex ACL: Reflexive ACL<br>Description: Allows outbound traffic and limits inbound traffic in response to sessions that originate inside the router.<br><br>Complex ACL: Time-based ACL<br>Description: Allows for access control based on the time of day and week.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

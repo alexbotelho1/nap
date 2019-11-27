@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="4_2_6.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_CONTENT 01">
+        <source>Problem Solving Experience
+
+Other Technicians
+
+Internet Search
+
+News Groups  
+ 
+Manufacturer FAQs
+ 
+Computer Manuals
+  
+Device Manuals 
+ 
+Online Forums 
+
+Technical Websites
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_1">
+        <source>Evaluate the Problem and Implement the Solution </source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_2">
+        <source>Is the
+Problem
+Solved?
+                                                                               </source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_3">
+        <source>Close with
+ the Customer                                                                       </source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_4">
+        <source>Previous computer problem solving experience
+Other technicians
+Internet search engine
+News groups
+Manufacturer FAQs
+Computer manuals
+Device manuals
+Online forums and chat
+Technical websites</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_5">
+        <source>• 
+
+•
+•
+•
+•
+•
+•
+•
+•                                                                         </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_6">
+        <source>No                                                                       </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_7">
+        <source>Yes                                                                            </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_8">
+        <source>2.5 mW                                                                           </source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_9">
+        <source>~33 feet (10 m)                                                                             </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_10">
+        <source>Class 3                                                                           </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S1_TXT_11">
+        <source>1 mW                                                                              </source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S1_TXT_12">
+        <source>~3 feet (1 m)                                                                          </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S2_TXT1">
+        <source>Cisco Systems, Inc.</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_S2_TXT2">
+        <source>Office Manager</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S2_TXT3">
+        <source>170 West Tasman Drive, San Jose, CA 95134</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S2_TXT4">
+        <source>408-526-4000</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S2_TXT5">
+        <source>HW</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S2_TXT6">
+        <source>Laptop</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S2_TXT7">
+        <source>Laptop</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S2_TXT8">
+        <source>N</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S2_TXT9">
+        <source>CLOSED</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_S2_TXT10">
+        <source>Won&apos;t Boot</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_S2_TXT11">
+        <source>Cisco001</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_S2_TXT12">
+        <source>Medium</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_S2_TXT13">
+        <source>Wireless network connection</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_S2_TXT14">
+        <source>Windows XP</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_S2_TXT15">
+        <source>Mobile</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_S2_TXT16">
+        <source>User complains that the laptop won’t boot up.
+No software was added recently. No operating system changes have been made. No peripherals have been added.</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_S2_TXT17">
+        <source>The existing battery is three years old. The exisiting battery does not boot the laptop even when the AC adapter is connected. A known good battery was installed and the laptop booted and passed all POST tests. The old battery appears to have a short in it that is causing the problem. The customer was advised that the old battery will need to be replaced, preferable with a new one. Time to complete repairs: 30 minutes.
+
+
+</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_STEP 01">
+        <source>Gather Data from the Customer </source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_STEP 02">
+        <source>Verify the Obvious Issues</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_STEP 03">
+        <source>Try Quick Solutions First</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_STEP 04">
+        <source>Gather Data from the Computer </source>
+      </trans-unit>
+      <trans-unit id="035" resname="IDS_STEP 05">
+        <source>Evaluate the Problem and
+Implement the Solution</source>
+      </trans-unit>
+      <trans-unit id="036" resname="IDS_STEP 06">
+        <source>Close with the Customer</source>
+      </trans-unit>
+      <trans-unit id="037" resname="IDS_STEP NUMBER 01">
+        <source>Step 1</source>
+      </trans-unit>
+      <trans-unit id="038" resname="IDS_STEP NUMBER 02">
+        <source>Step 2</source>
+      </trans-unit>
+      <trans-unit id="039" resname="IDS_STEP NUMBER 03">
+        <source>Step 3</source>
+      </trans-unit>
+      <trans-unit id="040" resname="IDS_STEP NUMBER 04">
+        <source>Step 4</source>
+      </trans-unit>
+      <trans-unit id="041" resname="IDS_STEP NUMBER 05">
+        <source>Step 5</source>
+      </trans-unit>
+      <trans-unit id="042" resname="IDS_STEP NUMBER 06">
+        <source>Step 6</source>
+      </trans-unit>
+      <trans-unit id="043" resname="IDS_TITLE1">
+        <source>Evaluate the Problem and Implement the Solution </source>
+      </trans-unit>
+      <trans-unit id="044" resname="IDS_TITLE2">
+        <source>Problem Solving Flow Chart</source>
+      </trans-unit>
+      <trans-unit id="045" resname="IDS_TROUBLESHOOTING PROCESS  ">
+        <source>Troubleshooting Process </source>
+      </trans-unit>
+      <trans-unit id="046" resname="IDS_TXT_22">
+        <source>•</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

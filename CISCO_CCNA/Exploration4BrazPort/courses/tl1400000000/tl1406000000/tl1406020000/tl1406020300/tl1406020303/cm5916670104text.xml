@@ -1,0 +1,206 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Separando os dados da voz em conexões ADSL</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Microfiltros EZ-DSL da Cisco</b>]]></text>
+</component>
+
+<component id="ID_title03">
+<text><![CDATA[<b>Caixa de separador DSL</b>]]></text>
+</component>
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Um recurso essencial do ADSL que coexiste com o POTS.</li><li>A transmissão de voz e sinais de dados é realizada no mesmo par de fios.</li><li>Os circuitos de dados são descarregados a partir do switch de voz.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Equipamento do cliente</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Telefone analógico</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Microfiltro</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>PC</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>ADSL CPE</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>NID</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>POTS+ADSL</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Separador de POTS</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>ADSL</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>DSLAM</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Voz analógica</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Escritório central</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Switch de classe 5</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>NID de telefone</b>]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>Microfiltro</b>]]></text>
+</component>
+
+<component id="ID_txt03_02">
+<text><![CDATA[<b>Microfiltro</b>]]></text>
+</component>
+
+<component id="ID_txt04_02">
+<text><![CDATA[<b>Linha de telefone</b>]]></text>
+</component>
+
+<component id="ID_txt05_02">
+<text><![CDATA[<b>Microfiltro</b>]]></text>
+</component>
+
+<component id="ID_txt06_02">
+<text><![CDATA[<b>Microfiltro</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_03">
+<text><![CDATA[<b>Caixa de separador</b>]]></text>
+</component>
+
+<component id="ID_txt02_03">
+<text><![CDATA[<b>Linha de telefone</b>]]></text>
+</component>
+
+<component id="ID_txt03_03">
+<text><![CDATA[<b>Linha de dados</b>]]></text>
+</component>
+
+<component id="ID_txt03_04">
+<text><![CDATA[<b>NID</b>]]></text>
+</component>
+
+<component id="ID_txt03_05">
+<text><![CDATA[<b>SEPARADOR DSL</b>]]></text>
+</component>
+
+<component id="ID_txt03_06">
+<text><![CDATA[<b>LINHA</b>]]></text>
+</component>
+
+<component id="ID_txt03_07">
+<text><![CDATA[<b>GRN</b>]]></text>
+</component>
+
+<component id="ID_txt03_08">
+<text><![CDATA[<b>RED</b>]]></text>
+</component>
+
+<component id="ID_txt03_09">
+<text><![CDATA[<b>REDE</b>]]></text>
+</component>
+
+<component id="ID_txt03_10">
+<text><![CDATA[<b>WHT/<br/>GRN</b>]]></text>
+</component>
+
+<component id="ID_txt03_11">
+<text><![CDATA[<b>WHT/<br/>RED</b>]]></text>
+</component>
+
+<component id="ID_txt03_12">
+<text><![CDATA[<b>VOZ</b>]]></text>
+</component>
+
+<component id="ID_txt03_13">
+<text><![CDATA[<b>GRN</b>]]></text>
+</component>
+
+<component id="ID_txt03_14">
+<text><![CDATA[<b>RED</b>]]></text>
+</component>
+
+<component id="ID_txt03_15">
+<text><![CDATA[<b>DADOS (DSL)</b>]]></text>
+</component>
+<component id="ID_txt03_16">
+<text><![CDATA[<b>BLK</b>]]></text>
+</component>
+<component id="ID_txt03_17">
+<text><![CDATA[<b>YLW</b>]]></text>
+</component>
+
+<component id="ID_txt03_18">
+<text><![CDATA[<b>UTILIZANDO UM SEPARADOR DSL PARA SEPARAR VOZ E DADOS (DSL)</b>]]></text>
+</component>
+<component id="ID_txt03_19">
+<text><![CDATA[<b>PARA CONECTORES TELEFÔNICOS</b>]]></text>
+</component>
+<component id="ID_txt03_20">
+<text><![CDATA[<b>PARA CONECTOR DE DADOS DSL</b>]]></text>
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[<b>ADSL</b>]]></text>
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[<b>Microfiltros</b>]]></text>
+</component>
+
+<component id="ID_button3">
+<text><![CDATA[<b>Separador</b>]]></text>
+</component>
+
+<component id="ID_inst01">
+<text><![CDATA[<b>Clique nos botões para obter mais informações.</b>]]></text>
+</component>
+
+<component id="ID_inst02">
+<text><![CDATA[<b>Passe o mouse sobre os microfiltros para obter exemplos dos microfiltros montados na parede e de linha.</b>]]></text>
+</component>
+
+<component id="ID_inst03">
+<text><![CDATA[<b>Passe o mouse sobre a caixa de separador para ver o diagrama de cabeamento.</b>]]></text>
+</component>
+
+</textcomponents>

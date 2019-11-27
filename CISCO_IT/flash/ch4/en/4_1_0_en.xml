@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="4_1_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TITLE_1">
+        <source>Hardware Maintenance</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_1">
+        <source>Remove dust from fan intakes</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_2">
+        <source>Remove dust from power supply</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_3">
+        <source>Remove dust from components inside the computer</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_4">
+        <source>Clean mouse and keyboard</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_5">
+        <source>Check and secure any loose cables</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S2_TITLE_1">
+        <source>Software Maintenance</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S2_TXT_1">
+        <source>Review security updates</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S2_TXT_2">
+        <source>Review software updates</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S2_TXT_3">
+        <source>Review driver updates</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S2_TXT_4">
+        <source>Update virus definition files</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S2_TXT_5">
+        <source>Scan for viruses and spyware</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S2_TXT_6">
+        <source>Remove unwanted programs </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S2_TXT_7">
+        <source>Scan hard drives for errors</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_S2_TXT_8">
+        <source>Defragment hard drives</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S3_TITLE_1">
+        <source>Preventive Maintenance Benefits</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S3_TXT_1">
+        <source>Increases data protection</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S3_TXT_2">
+        <source>Extends the life of the components</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S3_TXT_3">
+        <source>Increases equipment stability</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S3_TXT_4">
+        <source>Reduces repair costs</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S3_TXT_5">
+        <source>Reduces the number of equipment failures</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S3_TXT_6">
+        <source>Maintain computer security</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TITLE1">
+        <source>Hardware Maintenance
+</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TITLE2">
+        <source>Software Maintenance</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TITLE3">
+        <source>Preventive Maintenance Benefits</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TITLE4">
+        <source>Preventive Maintenance Activity </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

@@ -1,0 +1,73 @@
+<textcomponents>
+
+  <component id="ID_title1">
+  <text><![CDATA[<b>Comparando uma WLAN com uma rede local</b>]]></text> 
+  </component>
+
+
+<component id="tableHTML">
+	    <text><![CDATA[
+	   <table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	    	
+	    	<tr>
+	  	  		
+	  	  	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Característica</b></font></td>
+	  	  	<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>Rede local sem fio 802.11</b></font></td>
+			<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>Redes locais Ethernet 802.3</b></font></td>
+	   	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Camada física                      </td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Radiofrequência (RF)                      </td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Cabo                                   </td>
+	                                                 </tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Acesso à mídia                          </td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Evitar colisão                        </td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Detecção de colisões                      </td>
+	                                                     </tr>
+	
+	<tr>
+			
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Disponibilidade                           </td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Qualquer um com uma placa de rede de rádio no intervalo de um ponto de acesso                                                                                           </td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Conexão de cabo requerida                               </td>
+	                                                             </tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Interferência de sinal                      </td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Sim                    </td>
+		<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>Sem consequências                          </td>
+	                                                                </tr>
+	
+	<tr>
+			
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Regulamentação              </td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Regulamentações adicionais por autoridades locais                                                                                         </td>
+		<td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>Definidas pelo padrão IEEE                                        </td>
+	                                                                   </tr>
+</table>
+]]></text> 
+  </component>
+
+  <component id="ID_box">
+  <text><![CDATA[<b>Switch S1:<br>VLAN 20 <br>"aluno"</b>]]></text> 
+  </component>
+
+  <component id="ID_box2">
+  <text><![CDATA[<font face="_typewriter">S1#<b>configurar terminal</b><br>S1(config)#<b>vlan 20</b><br>S1(config-vlan)#<b>nome do aluno</b><br>S1(config-vlan)#<b>fim</b></font>]]></text> 
+  </component>
+
+  <component id="ID_box3">
+  <text><![CDATA[<b>PC do aluno<br>172.17.20.22</b>]]></text> 
+  </component>
+
+  <component id="ID_CS">
+  <text><![CDATA[<b>Sintaxe de comando</b>]]></text> 
+  </component>
+  <component id="ID_example">
+  <text><![CDATA[<b>Exemplo</b>]]></text> 
+  </component>
+  <component id="ID_Gateway">
+  <text><![CDATA[<b>Verificação</b>]]></text> 
+  </component>
+
+</textcomponents>

@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 11:11:40">
+<title><content-text><![CDATA[2.3.4 - Troubleshooting P P P Encapsulation ]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts two routers, R1 and R3, connected through a service provider cloud using P P P serial WAN links. Router output for the debug p p p packet command displays packet exchanges between routers R1 and R3 during normal P P P operation. <br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

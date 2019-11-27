@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="8_6_0.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Standards Organizations
+</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TXT_01">
+        <source>CCITT</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_02">
+        <source>                        – This committee defines international communications standards. The CCITT defined the standard for sending fax documents and the standards that define data transmission over telephone lines such as V.90 that allows transmissions up to 56000 bps. After 1992, this organization became the ITU Telecommunication Standardization Sector (ITU-T).</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_03">
+        <source>IEEE</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_04">
+        <source>The IEEE is a non-profit, technical professional association of more than 377,000 individual members in 150 countries. Founded in 1884, the organization is composed of engineers, scientists, and students. Through its members, the IEEE is a leading authority in technical areas ranging from computer engineering, biomedical technology, and telecommunications to electric power, aerospace, and consumer electronics. 
+
+IEEE has more than 860 active standards with 700 under development. The IEEE is best known for developing standards for the computer and electronics industry. In particular, the IEEE 802 standards for local-area networks are widely followed. </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_05">
+        <source>ISO</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_06">
+        <source>International Organization for Standardization (ISO) is an international organization composed of national standards bodies from over 140 countries. American National Standards Institute (ANSI), for example, is a member of ISO. ISO is a non-governmental organization established to promote the development of standardization and related activities. ISO&apos;s work results in international agreements, which are published as International Standards. 
+
+ISO has defined a number of important computer standards, the most significant of which is perhaps the Open Systems Interconnection (OSI) model, a standardized architecture for designing networks. 
+
+ISO together with International Electrotechnical Commission (IEC) and International Telecommunication Union (ITU) have built a strategic partnership with World Trade Organization (WTO). </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_07">
+        <source>IAB</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_08">
+        <source>The Internet Architecture Board (IAB) is committee that oversees the technical and engineering development of the Internet by the Internet Society (ISOC). This committee oversees the Internet Engineering Task Force (IETF) and the Internet Research Task Force (IRTF). When the internet transitioned to a public entity in 1992, the name was changed to what it is today from the Internet Architecture Board, originally formed by the US Department of Defense.</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_09">
+        <source>IEC</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_10">
+        <source>Founded in 1906, the International Electrotechnical Commission (IEC) is the global organization that prepares and publishes international standards for all electrical, electronic, and related technologies. The IEC was founded because of a resolution passed at the International Electrical Congress held in St. Louis (USA) in 1904. The membership consists of more than 60 participating countries, including all the world&apos;s major trading nations and a growing number of industrialized countries. 
+The IEC&apos;s mission is to promote, through its members, international cooperation on all questions related to electrotechnologies including electronics, magnetics and electromagnetics, electroacoustics, multimedia, telecommunication, and energy production and distribution, as well as associated general disciplines such as terminology and symbols, electromagnetic compatibility, measurement and performance, dependability, design and development, safety, and the environment. 
+
+The IEC is one of the bodies recognized by the World Trade Organization (WTO) and entrusted by it for monitoring the national and regional organizations agreeing to use the IEC&apos;s international standards as the basis for national or regional standards as part of the WTO&apos;s Technical Barriers to Trade Agreement. </source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_11">
+        <source>ANSI</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_12">
+        <source>American National Standards Institute (ANSI) is a private, non-profit organization that administers and coordinates the U.S. voluntary standardization and conformity assessment system. ANSI identifies industrial and public requirements for national consensus standards and coordinates and manages their development, resolves national standards problems, and ensures effective participation in international standardization. Since 1918, the Institute&apos;s mission is to enhance both the global competitiveness of U.S. business and quality of life by promoting and facilitating voluntary consensus standards and conformity assessment systems and safeguarding their integrity. 
+
+ANSI does not develop standards itself. Rather it facilitates development by establishing consensus processes among qualified groups. This is why their acronym is seen on many standards. </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_13">
+        <source>TIA/EIA</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_14">
+        <source>Telecommunications Industry Association (TIA) and Electronic Industries Alliance (EIA) are trade associations that jointly develop and publish a series of standards covering 
+
+structured voice and data wiring for LANs. These industry standards evolved after the U.S. telephone industry deregulation in 1984, which transferred responsibility for on premises cabling to the building owner. Prior to that, AT&amp;T used proprietary cables and systems.</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_15">
+        <source>Standards Organizations </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_16">
+        <source>Comité Consultatif International Téléphonique et Télégraphique</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

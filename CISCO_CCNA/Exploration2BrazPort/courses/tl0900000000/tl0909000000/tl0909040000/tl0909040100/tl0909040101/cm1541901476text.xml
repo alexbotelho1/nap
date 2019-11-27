@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Conceitos do DUAL</b>]]></text>
+</component>
+
+<component id="ID_tableTitle">
+<text><![CDATA[<b>O DUAL fornece:</b>]]></text>
+</component>
+
+<component id="ID_bulletList">
+<text><![CDATA[<li>Caminhos sem loop</li><li>Caminhos de backup sem loop que podem ser utilizados imediatamente</li><li>Convergência rápida</li><li>Uso mínimo de largura de banda com atualizações associadas</li>]]></text>
+</component>
+
+</textcomponents>

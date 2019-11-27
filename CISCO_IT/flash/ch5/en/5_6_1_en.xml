@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="5_6_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Maintenance Planning</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Maintenance Schedule</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_01">
+        <source>PM To do List:</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_02">
+        <source>Virus scans and adware clean-up:
+Russ
+Pam
+Jana
+
+Defrag:
+Rick
+Kyle
+
+More RAM:
+Kathy
+
+Keyboards to:
+Allan
+Will
+
+Major Backup:
+This Weekend! (cancel yoga)
+</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_03">
+        <source>Preventative maintenance program should aim to problem before they happen.</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_04">
+        <source>Creating a  </source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_05">
+        <source>for regular maintenance will help keep  </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_06">
+        <source>computer devices  running at an optimal level.</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_07">
+        <source>Every time a computer maintenance  task is performed it should be
+</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_08">
+        <source> noted in a </source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_09">
+        <source>The best source for maintenance information is the</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_10">
+        <source>manufacturers</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_12">
+        <source>documentation</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_13">
+        <source> schedule </source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_14">
+        <source>prevent </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

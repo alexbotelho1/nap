@@ -1,0 +1,13 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Requisitos de Protocolos de Roteamento Link-State</b>]]></text>
+</component>
+
+<component id="TableTitle">
+  <text><![CDATA[<b>Requisitos de Protocolos de Roteamento Link-State</b>]]></text> 
+  </component>
+
+<component id="myTable">
+  <text><![CDATA[<li>Requisitos de memória para o banco de dados link-state.</li><li>Processamento de CPU do algoritmo SPF.</li><li>Requisitos de largura de banda para inundação link-state.</li>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,11 @@
+<textcomponents>
+
+<component id="ID_header1">
+<text><![CDATA[<b>Neste capítulo, você aprenderá a:</b>]]></text>
+</component>
+
+<component id="myTable">
+<text><![CDATA[<li>Comparar e contrastar endereços IPclassless e classful.</li><li>Revisar o VLSM e explicar os benefícios do endereço IP classless.</li><li>Descrever a função do CIDR (Classless Inter-Domain Routing, Roteamento entre domínios classless) padrão no uso eficiente de endereços IPv4 escassos.</li>]]></text> 
+</component>
+  
+</textcomponents>

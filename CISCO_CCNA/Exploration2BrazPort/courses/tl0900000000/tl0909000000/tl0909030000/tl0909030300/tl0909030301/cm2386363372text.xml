@@ -1,0 +1,78 @@
+<textcomponents>
+
+<component id="ID_routerIcon">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver a saída do comando.</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Topologia</b>]]></text>
+</component>
+
+<component id="ID_Title02">
+<text><![CDATA[<b>O Comando bandwidth</b>]]></text>
+</component>
+
+<component id="ID_Title03">
+<text><![CDATA[<b>Verificando o valor de largura de banda</b>]]></text>
+</component>
+
+<component id="button01">
+<text><![CDATA[<b>Configurar largura de banda</b>]]></text>
+</component>
+
+<component id="button02">
+<text><![CDATA[<b>Verificar largura de banda</b>]]></text>
+</component>
+
+<!-- topology -->
+<component id="ID_txt01">
+<text><![CDATA[<b><i>Este roteador não existe fisicamente</i></b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>64 kbps</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>1024 kbps</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>1544 kbps</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>R3</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+<!-- output -->
+<component id="ID_txt09">
+<text><![CDATA[<b>Nota: A largura de banda real do link entre R1 e R3 corresponde ao valor padrão para interfaces seriais (1544 kbps).</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[***saída do comando omitida***]]></text>
+</component>
+
+
+<component id="Loopback1">
+<text><![CDATA[Loopback1]]></text>
+</component>
+
+</textcomponents>

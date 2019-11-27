@@ -1,0 +1,102 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Impedindo logins em linhas não utilizadas</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Controle de entrada de Acesso VTY</b>]]></text>
+</component>
+
+<component id="ID_title03">
+<text><![CDATA[<b>Configurações de segurança VTY adicionais</b>]]></text>
+</component>
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>Dá suporte a sessões Telnet e SSH de entrada.</b>]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>Dá suporte apenas a sessões SSH de entrada.</b>]]></text>
+</component>
+
+
+
+<component id="ID_inst">
+<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[Impedir logins]]></text>
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[Acesso VTY]]></text>
+</component>
+
+<component id="ID_button3">
+<text><![CDATA[VTY protegido]]></text>
+</component>
+
+<component id="ID_S1_config">
+<text><![CDATA[<b>Config</b>]]></text>
+</component>
+
+<component id="ID_S2_config">
+<text><![CDATA[<b>Config</b>]]></text>
+</component>
+
+<component id="ID_S1_top01">
+<text><![CDATA[<b>Administração<br />Host</b>]]></text>
+</component>
+
+<component id="ID_S1_top04">
+<text><![CDATA[Administrador protege linhas AUX e VTY]]></text>
+</component>
+
+<component id="ID_S2_top01">
+<text><![CDATA[<b>Administração<br />Host</b>]]></text>
+</component>
+
+
+<component id="ID_S2_top04">
+<text><![CDATA[Administrador protege linhas AUX e VTY]]></text>
+</component>
+
+<component id="ID_S2_output01">
+<text><![CDATA[<b>Etapa 2: Criptografar senhas</b>]]></text>
+</component>
+
+<!-- slide 3-->
+<component id="ID_S3_config">
+<text><![CDATA[<b>Config</b>]]></text>
+</component>
+
+<component id="ID_S3_top01">
+<text><![CDATA[<b>Administração<br />Host</b>]]></text>
+</component>
+
+<component id="ID_S3_top04">
+<text><![CDATA[Administrador protege linhas AUX e VTY]]></text>
+</component>
+
+<component id="ID_s1_1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_2">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_3">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_isp1">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+<component id="ID_isp2">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+<component id="ID_isp3">
+<text><![CDATA[<b>ISP</b>]]></text>
+</component>
+
+</textcomponents>

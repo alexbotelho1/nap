@@ -1,0 +1,950 @@
+<glossary>
+<content-glossary id="cg8055369278" index="A">
+<term><content-text>Abrir caminho mais curto primeiro (OSPF)</content-text></term>
+<definition><content-text><p>Abrir caminho mais curtoprimeiro (OSPF, Open Shortest Path First). Algoritmo de roteamento IGP hierárquico link-state criado para substituir o protocolo RIP na comunidade da Internet. Os recursos do OSPF incluem roteamento de menor custo, roteamento de vários caminhos e balanceamento de carga. O OSPF foi derivado de uma versão anterior do protocolo IS-IS.</p></content-text></definition>
+<variations><content-text>OSPF</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3416376132" index="A">
+<term><content-text>AD</content-text></term>
+<definition><content-text><p>Consulte distância administrativa (AD, administrative distance)</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>distância administrativa</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3325821460" index="A">
+<term><content-text>adjacência</content-text></term>
+<definition><content-text><p>Uma relação formada entre os roteadores vizinhos selecionados e os nós finais com o objetivo de trocar informações de roteamento. A adjacência se baseia no uso de um segmento de meio comum.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4993475144" index="A">
+<term><content-text>agregação de prefixos</content-text></term>
+<definition><content-text><p>Também conhecida como sumarização de rede. Vários endereços IP e prefixos IP podem ser sumarizados em um único prefixo IP, sendo anunciado aos outros roteadores somente o prefixo menos específico resultante (prefixo agregado), em vez dos endereços e prefixos IP mais específicos que ele abrange.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>sumarização de rota</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3377826329" index="A">
+<term><content-text>Algoritmo</content-text></term>
+<definition><content-text><p>Regra bem definida ou processo para chegar à solução de um problema. Em rede, algoritmos são usados geralmente para determinar a melhor rota para o tráfego de uma origem para um destino específico.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5832746935" index="A">
+<term><content-text>Algoritmo de atualização por broadcast (DUAL)</content-text></term>
+<definition><content-text><p>Algoritmo de atualização por difusão. Algoritmo de convergência usado no EIGRP que proporciona operação sem loop para toda a rede a todo momento e em cada computação de rota. Permite que roteadores envolvidos em uma alteração de topologia sincronizem ao mesmo tempo, sem envolver os roteadores que não são afetados por esta alteração.</p></content-text></definition>
+<variations><content-text>DUAL</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4679715108" index="A">
+<term><content-text>ALLSPFRouters</content-text></term>
+<definition><content-text><p>Um grupo multicast usado no protocolo de roteamento OSPF. O endereço ALLSPFRouters é 224.0.0.5.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7038442778" index="A">
+<term><content-text>Anúncio link-state (LSA)</content-text></term>
+<definition><content-text><p>Anúncio link-state (LSA, Link-State Advertisement). Pacote de broadcast usado por protocolos link-state que contém informações sobre vizinhos e custo de caminho. LSAs são usados pelos roteadores de destino para manter as tabelas de roteamento.</p></content-text></definition>
+<variations><content-text>LSA</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4387624266" index="A">
+<term><content-text>ARP</content-text></term>
+<definition><content-text><p>Protocolo de resolução de endereços (ARP, Address Resolution Protocol) Protocolo da Internet usado para mapear um endereço IP para um endereço MAC. Definido na RFC 826</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1735291339" index="A">
+<term><content-text>Atraso de programação SPF</content-text></term>
+<definition><content-text><p>Depois de entrar o comando show ip ospf, você verá o parâmetro atraso de programação SPF X segundos (o X significa o número de segundos). Este é o tempo de atraso dos cálculos de SPF. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7730322559" index="A">
+<term><content-text>atribuição de endereço descontígua</content-text></term>
+<definition><content-text><p>Uma atribuição de rede fragmentada que não segue um padrão consistente.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7301905064" index="A">
+<term><content-text>atualização disparada</content-text></term>
+<definition><content-text><p>Uma atualização de roteamento que é disparada por um evento na rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1133628043" index="A">
+<term><content-text>Atualização Link-State (LSU)</content-text></term>
+<definition><content-text><p>Os pacotes de Atualização Link-State (LSU, Link-State Update) são pacotes OSPF tipo 4. Eles transportam um conjunto de anúncios link-state um salto além de sua origem.</p></content-text></definition>
+<variations><content-text>LSU</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4471473624" index="A">
+<term><content-text>atualizações associadas</content-text></term>
+<definition><content-text><p>Atualizações que são enviadas apenas aos roteadores que precisam das informações atualizadas. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1953373827" index="A">
+<term><content-text>Auto-teste de inicialização (POST)</content-text></term>
+<definition><content-text><p>Conjunto de diagnósticos de hardware executado em um dispositivo de hardware quando esse dispositivo é ligado.</p></content-text></definition>
+<variations><content-text>POST</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9327612657" index="B">
+<term><content-text>balanceamento de carga</content-text></term>
+<definition><content-text><p>No roteamento, é o recurso de um roteador para distribuir tráfego em todas as portas de rede que estão na mesma distância do endereço de destino. Algoritmos de balanceamento de carga bons usam velocidade de linha e informações de confiabilidade. O balanceamento de carga aumenta o uso dos segmentos de rede, aumentando assim a largura de banda de rede efetiva.</p></content-text></definition>
+<variations><content-text>balanceamentos de carga</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2256393806" index="B">
+<term><content-text>balanceamento de carga de custo desigual</content-text></term>
+<definition><content-text><p>Balanceamento de carga que usa vários caminhos para o mesmo destino que têm despesas ou métricas diferentes. O EIGRP usa balanceamento de carga desigual com o comando "variance".</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3369030743" index="B">
+<term><content-text>balanceamento de carga de mesmo custo</content-text></term>
+<definition><content-text><p>Quando um roteador utiliza vários caminhos com a mesma distância administrativa e custo para um destino.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6545469832" index="B">
+<term><content-text>banco de dados de topologia</content-text></term>
+<definition><content-text><p>Também conhecido como tabela de topologia, o banco de dados de topologia armazena informações sobre o sucessor, a distância viável e qualquer sucessor viável com suas distâncias reportadas. Usado no roteamento EIGRP.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6326428498" index="B">
+<term><content-text>banco de dados link-state</content-text></term>
+<definition><content-text><p>Uma tabela usada no OSPF que é uma representação da topologia do sistema autônomo. É o método pelo qual roteadores consultam o estado dos links no sistema autônomo.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2541561647" index="B">
+<term><content-text>Bellman-Ford (algoritmo)</content-text></term>
+<definition><content-text><p>Classe de algoritmos de roteamento que iteram um número determinado de saltos em uma rota a fim de localizar uma spanning tree com o caminho mais curto. Algoritmos de roteamento do vetor de distância pedem que cada roteador envie sua tabela de roteamento inteira em cada atualização, mas somente para seus vizinhos. Algoritmos de roteamento do vetor de distância estão sujeitos a loops de roteamento, mas são tecnicamente mais simples do que algoritmos de roteamento link-state.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8501917748" index="B">
+<term><content-text>bits mais altos</content-text></term>
+<definition><content-text><p>O 'bit mais alto' de um número binário é o que leva a maioria do peso, o que está escrito mais à esquerda. Bits mais altos são os 1s na máscara de rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3853080056" index="C">
+<term><content-text>cabo</content-text></term>
+<definition><content-text><p>Meio de transmissão de fio de cobre ou fibra ótica envolvido por uma capa protetora.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5198283076" index="C">
+<term><content-text>caminho mais curto primeiro (SPF)</content-text></term>
+<definition><content-text><p>Algoritmo de roteamento que itera em comprimento de caminho para determinar uma spanning tree de caminho mais curto. Geralmente usado em algoritmos de roteamento link-state. Às vezes chamado de algoritmo de Dijkstra.</p></content-text></definition>
+<variations><content-text>SPF</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2491080382" index="C">
+<term><content-text>caminhos redundantes</content-text></term>
+<definition><content-text><p>Vários caminhos para um destino que são utilizáveis em caso de falha de um caminho primário. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9491525380" index="C">
+<term><content-text>comunicações unificadas</content-text></term>
+<definition><content-text><p>Um sistema de comunicação para obter voz, vídeo e dados. O sistema integra dispositivos conectados por fios, sem fios e móveis para criar uma solução segura para redes empresariais. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2454214713" index="C">
+<term><content-text>Condição de viabilidade (FC)</content-text></term>
+<definition><content-text><p>Se o roteador de destino tiver uma Distância Viável para uma rede específica e receber uma atualização de um vizinho com uma distância anunciada inferior (Distância Reportada) para aquela rede, então haverá uma Condição de Viabilidade. Usado em roteamento EIGRP.</p></content-text></definition>
+<variations><content-text>FC</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9223787049" index="C">
+<term><content-text>contagem até o infinito</content-text></term>
+<definition><content-text><p>Problema que pode ocorrer em algoritmos de roteamento que estão lentos para convergir, onde roteadores incrementam continuamente a contagem de saltos a redes específicas. Normalmente, algum limite arbitrário de contagem de saltos é imposto para evitar esse problema.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4791660266" index="C">
+<term><content-text>contíguo</content-text></term>
+<definition><content-text><p>Consistente ou adjacente. No contexto de redes contíguas, a palavra contíguo significa blocos de rede que são hierárquicos por natureza. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4721536573" index="C">
+<term><content-text>convergido</content-text></term>
+<definition><content-text><p>O passado de convergir. Quando todos os dispositivos intermediários têm a mesma topologia de rede consistente nas tabelas de roteamento. Isso significa que eles convergiram.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8488982897" index="C">
+<term><content-text>convergência</content-text></term>
+<definition><content-text><p>Velocidade e capacidade de um grupo de dispositivos de inter-redes de executar um protocolo de roteamento específico para definir a topologia de uma rede interconectada depois de uma alteração em sua topologia.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9816153432" index="C">
+<term><content-text>criação de super-redes</content-text></term>
+<definition><content-text><p>Combinação de vários endereços de rede IP em um único endereço IP. A criação de super-redes (supernetting) reduz o número de entradas em uma tabela de roteamento e é feito em endereçamento CIDR assim como em redes internas.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2024046045" index="C">
+<term><content-text>custo</content-text></term>
+<definition><content-text><p>Um valor arbitrário, normalmente baseado em contagem de saltos, largura de banda do meio ou outras métricas, que é atribuído por um administrador de rede e usado para comparar vários caminhos em um ambiente de redes interconectadas. Os protocolos de roteamento usam valores de custo para determinar o caminho mais favorável para um destino específico: quanto menor o custo, melhor o caminho.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>métrica</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2992967514" index="D">
+<term><content-text>datagramas</content-text></term>
+<definition><content-text><p>Agrupamento lógico de informações enviado como uma unidade de camada de rede usando um meio de transmissão sem estabelecimento prévio de um circuito virtual. Datagramas de IP são as unidades de informações primárias na Internet. Os termos célula, quadro, mensagem, pacote e segmento também são usados para descrever agrupamentos lógicos de informações em várias camadas do modelo de referência OSI e em vários círculos de tecnologia.</p></content-text></definition>
+<variations><content-text>datagrama</content-text></variations>
+<seealso><content-text>pacote</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8784536802" index="D">
+<term><content-text>descontíguo</content-text></term>
+<definition><content-text><p>Componentes que são fragmentados. Por exemplo, uma rede descontígua é composta de uma rede principal que separa outra rede principal. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9049355325" index="D">
+<term><content-text>Descrição de banco de dados (DBD)</content-text></term>
+<definition><content-text><p>Um pacote que contém um resumo do banco de dados link-state dos roteadores de origem e que é usado por esses roteadores para comparar com o banco de dados link-state local. Roteadores trocam DBDs durante a fase de Troca da criação de adjacências.</p></content-text></definition>
+<variations><content-text>DBD</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6883346210" index="D">
+<term><content-text>Designação de endereço contíguo</content-text></term>
+<definition><content-text><p>Endereçamento que não é fragmentado e segue um formato hierárquico que permite a sumarização de rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5039223251" index="D">
+<term><content-text>distância administrativa</content-text></term>
+<definition><content-text><p>Classificação da confiabilidade de uma origem de informações de roteamento. A distância administrativa (AD, administrative distance) é expressada frequentemente como um valor numérico entre 0 e 255. Quanto mais alto o valor, menor a classificação de confiabilidade. Se um roteador tiver vários protocolos de roteamento na sua tabela de roteamento, ele selecionará a rota com a distância administrativa mais baixa. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1726875050" index="D">
+<term><content-text>distância reportada (RD)</content-text></term>
+<definition><content-text><p>A distância reportada (RD, Reported Distance) é a métrica total ao longo de um caminho para uma rede de destino conforme anunciado por um vizinho de cima (upstream) no EIGRP.</p></content-text></definition>
+<variations><content-text>Distância reportada (RD),RD</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3609572796" index="D">
+<term><content-text>Distância viável (FD)</content-text></term>
+<definition><content-text><p>A Distância Viável (FD, Feasible Distance) é a métrica de uma rede anunciada pelo vizinho conectado somada ao seu custo de alcançar aquele vizinho. O caminho com a métrica mais baixa é adicionado à tabela de roteamento e é chamado FD ou distância viável. Usado em roteamento EIGRP.</p></content-text></definition>
+<variations><content-text>FD</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3893889738" index="D">
+<term><content-text>domínio</content-text></term>
+<definition><content-text><p>Uma parte da árvore hierárquica de nomenclatura que se refere a agrupamentos geográficos gerais de redes com base em tipo de organização.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7298380285" index="D">
+<term><content-text>DROthers</content-text></term>
+<definition><content-text><p>DROthers são roteadores que não são DR ou BDR. Eles são os outros roteadores na rede OSPF. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5636558179" index="D">
+<term><content-text>DSL</content-text></term>
+<definition><content-text><p>Linha digital do assinante (DSL, Digital Subscriber Line). Tecnologia de rede pública que distribui alta largura de banda por cabeamento de cobre convencional em distâncias limitadas. Há quatro tipos de DSL: ADSL, HDSL, SDSL e VDSL. Todos são provisionados por pares de modem, com um modem localizado em um escritório central e o outro no local do cliente. Como a maioria das tecnologias de DSL, não usa a largura de banda do par trançado por completo, sobra espaço para um canal de voz.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8098921953" index="E">
+<term><content-text>EIGRP</content-text></term>
+<definition><content-text><p>Protocolo de Roteamento de Gateway Interior Aprimorado. Versão avançada do IGRP desenvolvida pela Cisco. Fornece propriedades superiores de convergência e eficiência operacional, além de combinar as vantagens de protocolos link-state com as de protocolos de vetor de distância.</p></content-text></definition>
+<variations><content-text>EIGRP</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5511746298" index="E">
+<term><content-text>endereçamento IP classful</content-text></term>
+<definition><content-text><p>No início de IPv4, os endereços IP eram divididos em 5 classes, ou seja, Classe A, Classe B, Classe C, Classe D e Classe E.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2133939773" index="E">
+<term><content-text>endereçamento privado</content-text></term>
+<definition><content-text><p>Endereço usado para redes internas. O endereço obedece à RFC 1918 e não é roteável na Internet.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8751073854" index="E">
+<term><content-text>endereço de loopback</content-text></term>
+<definition><content-text><p>127.0.0.1 é um endereço IP disponível em todos os dispositivos para testar se a placa de rede daquele dispositivo está funcionando. Se você enviar dados para 127.0.0.1, eles retornarão, enviando os dados para a placa de rede daquele dispositivo. Se tiver uma resposta positiva a um ping 127.0.0.1, você saberá que sua placa de rede está funcionando.</p></content-text></definition>
+<variations><content-text>Endereço de loopback</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4560460940" index="E">
+<term><content-text>endereço MAC</content-text></term>
+<definition><content-text><p>Endereço padronizado de camada de enlace de dados exigido para cada porta ou dispositivo que se conecta a uma rede local. Outros dispositivos na rede usam esses endereços para localizar portas específicas na rede, além de criar e atualizar tabelas de roteamento e estruturas de dados. Os endereços MAC têm 6 bytes de comprimento e são controlados pelo IEEE.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>endereço físico</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1266966127" index="E">
+<term><content-text>enlace de dados</content-text></term>
+<definition><content-text><p>Camada 2 do modelo de referência OSI. Fornece trânsito confiável dos dados por meio de um link físico. A camada de enlace de dados trata de endereçamento físico, topologia de rede, disciplina de linha, notificação de erros, entrega ordenada de quadros e controle de fluxo. O IEEE dividiu esta camada em duas subcamadas: a subcamada de MAC e a subcamada de LLC. Algumas vezes, ela é chamada simplesmente de camada de enlace. Corresponde, de maneira geral, à camada de controle de enlace de dados do modelo SNA.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4562564002" index="E">
+<term><content-text>escala</content-text></term>
+<definition><content-text><p>Para alterar para um certo tamanho de acordo com a necessidade. Por exemplo, um protocolo de roteamento é escalável quando a tabela de roteamento do roteador cresce com a adição de novas redes. </p></content-text></definition>
+<variations><content-text>Escala</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9615848253" index="E">
+<term><content-text>estado ativo</content-text></term>
+<definition><content-text><p>Estado no qual não existe Sucessor Viável na tabela de topologia e em que o roteador local vai para o estado ativo, solicitando a seus vizinhos as informações de roteamento.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6028464901" index="E">
+<term><content-text>estado passivo</content-text></term>
+<definition><content-text><p>Um estado passivo é quando o roteador identificou o sucessor para um destino específico e fica estável. Um termo usado em conjunto com o EIGRP.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1794827428" index="E">
+<term><content-text>Ethernet</content-text></term>
+<definition><content-text><p>Especificação de rede local de banda base criada pela Xerox Corporation e desenvolvida em conjunto por Xerox, Intel e Digital Equipment Corporation. As redes Ethernet usam o CSMA/CD e são executadas por uma variedade de tipos de cabos a 10 Mbps. A Ethernet é semelhante à série de padrões IEEE 802.3.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4929417584" index="F">
+<term><content-text>Frame Relay</content-text></term>
+<definition><content-text><p>Um protocolo de camada de enlace de dados comutado de pacotes que gerencia vários circuitos virtuais entre dispositivos conectados. Frame Relay é mais eficiente que o X.25, o protocolo para o qual é geralmente considerado uma substituição.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9103484865" index="G">
+<term><content-text>gateways</content-text></term>
+<definition><content-text><p>Dispositivos em uma rede que servem de ponto de acesso para outra rede. Um host usa um gateway padrão quando o endereço de destino de um pacote IP pertence a um local fora da sub-rede local. Um roteador é um bom exemplo de um gateway padrão.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>Roteador</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2311059411" index="H">
+<term><content-text>hosts</content-text></term>
+<definition><content-text><p>Sistema de computador em uma rede. Semelhante ao nó, exceto pelo fato de que o host normalmente pressupõe um sistema de computador; o nó geralmente aplica-se a qualquer sistema de rede, incluindo servidores de acesso e roteadores.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3878387383" index="H">
+<term><content-text>hub-and-spoke</content-text></term>
+<definition><content-text><p>Uma topologia WAN em que são conectados vários escritórios filiais a um hub central ou sede da corporação. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6990448592" index="I">
+<term><content-text>ICMP</content-text></term>
+<definition><content-text><p>Protocolo de Mensagem de Controle da Internet (ICMP, Internet Control Message Protocol). Protocolo de Internet de camada de rede que relata erros e fornece outras informações relevantes para o processamento de pacotes IP. Documentado na RFC 792.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4423637020" index="I">
+<term><content-text>IGRP</content-text></term>
+<definition><content-text><p>Protocolo de Roteamento de Gateway Interior (IGRP, Interior Gateway Routing Protocol). O IGP desenvolvido pela Cisco para gerenciar os problemas associados com roteamento em redes grandes e heterogêneas.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3121928983" index="I">
+<term><content-text>Interface de dados distribuídos em fibra ótica (FDDI)</content-text></term>
+<definition><content-text><p>Interface de dados distribuídos em fibra ótica (FDDI, Fiber Distributed Data Interface). Padrão de rede local, definido na ANSI X3T9.5, especificando uma rede de passagem de token de 100 Mbps usando cabo de fibra ótica, com distâncias de transmissão de até 2 km. O FDDI usa uma arquitetura de anel duplo que proporciona redundância.</p></content-text></definition>
+<variations><content-text>FDDI</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9480679254" index="I">
+<term><content-text>interface de loopback</content-text></term>
+<definition><content-text><p>Uma interface virtual usada para fins de gerenciamento. Diferentemente da própria interface de loopback, este dispositivo de loopback não é usado para falar com si mesmo.</p></content-text></definition>
+<variations><content-text>Interface de loopback</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7693750233" index="I">
+<term><content-text>interface nula</content-text></term>
+<definition><content-text><p>A interface nula fornece um método alternativo de filtragem de tráfego. Você pode evitar a sobrecarga envolvida com o uso de listas de acesso, direcionando o tráfego indesejado da rede para a interface nula. Esta interface está sempre funcionando e nunca pode encaminhar ou receber tráfego. Pense nela como um buraco negro.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9625811609" index="I">
+<term><content-text>IP</content-text></term>
+<definition><content-text><p>Protocolo de Internet (IP, Internet Protocol). Protocolo de camada de rede na pilha TCP/IP que oferece um serviço de redes interconectadas sem conexão. O IP tem características que permitem endereçamento, especificação do tipo de serviço, fragmentação e remontagem, além de garantir a segurança. Definido na RFC 791.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8872612645" index="I">
+<term><content-text>IPv6</content-text></term>
+<definition><content-text><p>Protocolo de interconexão da camada de rede que utiliza pacotes comutados. O sucessor do IPv4 para uso geral na Internet.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7950820394" index="I">
+<term><content-text>IPX</content-text></term>
+<definition><content-text><p>Troca de Pacotes de Internet (IPX, Internetwork Packet Exchange). Protocolo de camada de rede NetWare (Camada 3) usado para transferir dados de servidores para estações de trabalho. IPX é semelhante ao IP e ao XNS.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5216639655" index="I">
+<term><content-text>ISDN</content-text></term>
+<definition><content-text><p>Rede Digital de Serviços Integrados (ISDN, Integrated Services Digital Network). Protocolo de comunicação oferecido por companhias Telefônicas, que permite que as redes telefônicas transportem dados, voz e outros tipos de tráfego.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2185396118" index="L">
+<term><content-text>largura de banda de referência</content-text></term>
+<definition><content-text><p>A largura de banda referenciada pelo algoritmo SPF ao calcular o caminho mais curto. No OSPF, a largura de banda de referência é 10 elevado à 8ª potência dividido pela largura de banda real da interface. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9608982985" index="L">
+<term><content-text>LED</content-text></term>
+<definition><content-text><p>Diodo emissor de luz (LED, Light Emitting Diode). Dispositivo semicondutor que emite luz gerada através de conversão de energia elétrica.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4689628855" index="L">
+<term><content-text>link flapping</content-text></term>
+<definition><content-text><p>Problema de roteamento em que uma rota anunciada entre dois nós (pontas) alterna de ativa para inativa entre dois caminhos devido a uma problema de rede que causa falhas intermitentes na interface.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4835762248" index="L">
+<term><content-text>Link-state</content-text></term>
+<definition><content-text><p>Link-state refere-se ao status de um link incluindo o endereço IP da interface/máscara de sub-rede, tipo de rede, custo do link e qualquer roteador vizinho naquele link.</p></content-text></definition>
+<variations><content-text>link-state</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8742800150" index="L">
+<term><content-text>Link-state acknowledgement (LSAck)</content-text></term>
+<definition><content-text><p>Pacotes Link-State Acknowledgement são pacotes OSPF tipo 5. Os LSAcks acusam o recebimento dos pacotes LSA (Anúncio Link-State).</p></content-text></definition>
+<variations><content-text>LSAck</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6552304928" index="L">
+<term><content-text>loopback</content-text></term>
+<definition><content-text><p>127.0.0.1 é um endereço IP disponível em todos os dispositivos para testar se a placa de rede daquele dispositivo está funcionando. Se você enviar dados para 127.0.0.1, eles retornarão, enviando os dados para a placa de rede daquele dispositivo. Se tiver uma resposta positiva a um ping 127.0.0.1, você saberá que sua placa de rede está funcionando.</p></content-text></definition>
+<variations><content-text>Loopback</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4379391683" index="M">
+<term><content-text>meios</content-text></term>
+<definition><content-text><p>Plural de meio. Os vários ambientes físicos pelos quais passam os sinais de transmissão. O meio de rede comumente usado inclui cabos de par trançado, coaxial e de fibra ótica e a atmosfera (por onde ocorrem as transmissões de microondas, laser e infravermelho). Às vezes chamada de meio físico.</p></content-text></definition>
+<variations><content-text>Meio</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6489003437" index="M">
+<term><content-text>melhor caminho</content-text></term>
+<definition><content-text><p>O caminho mais rápido para um certo destino, com base na métrica do protocolo de roteamento.</p></content-text></definition>
+<variations><content-text>Caminho mais curto</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6483133606" index="M">
+<term><content-text>Memória de acesso aleatório (RAM)</content-text></term>
+<definition><content-text><p>Memória volátil que pode ser lida e gravada por um microprocessador.</p></content-text></definition>
+<variations><content-text>RAM</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2090906049" index="M">
+<term><content-text>memória flash</content-text></term>
+<definition><content-text><p>Tecnologia desenvolvida pela Intel e licenciada a outras empresas de semicondutores. Memória flash é o armazenamento não volátil que pode ser apagado e reprogramado eletricamente. Permite armazenar, inicializar e regravar imagens de software conforme o necessário.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8286776423" index="M">
+<term><content-text>Memória somente-leitura (ROM)</content-text></term>
+<definition><content-text><p>Memória não volátil que pode ser lida, mas não gravada pelo microprocessador.</p></content-text></definition>
+<variations><content-text>ROM</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2894784407" index="M">
+<term><content-text>Modo de configuração</content-text></term>
+<definition><content-text><p>Quando um roteador Cisco inicializa mas não localiza um arquivo de configuração na NVRAM, ele entra em Modo de configuração (setup mode). Modo de configuração é um assistente para configurações básicas com perguntas que o administrador deve responder para definir uma configuração inicial de funcionamento para o roteador. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7863235272" index="M">
+<term><content-text>Modo de transferência assíncrona (ATM)</content-text></term>
+<definition><content-text><p>Modo de Transferência Assíncrona (ATM, Asynchronous Transfer Mode). O padrão internacional para retransmissão de célula no qual são carregados vários tipos de serviço (voz, vídeo ou dados) em células de comprimento fixo (53 bytes). As células de comprimento fixo permitem que o processamento de célula ocorra no hardware, o que reduz atrasos de trânsito. O ATM foi criado para tirar proveito de meios de transmissão de alta velocidade, como E3, SONET e T3.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2124003203" index="M">
+<term><content-text>modo EXEC privilegiado</content-text></term>
+<definition><content-text><p>O modo EXEC privilegiado é o modo de administração para um roteador ou switch. Esse modo permite que você exiba as configurações do roteador que só são consideradas acessíveis para o administrador. Esse modo também permite que você entre no modo de configuração global. Para entrar no modo exec privilegiado, você precisa usar o comando enable.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>enable mode (modo de habilitar)</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7157518994" index="M">
+<term><content-text>máscara curinga</content-text></term>
+<definition><content-text><p>Uma quantidade de 32 bits usada em conjunto com um endereço IP para determinar quais bits em um endereço IP devem ser ignorados ao se comparar esse endereço com outro endereço IP. Uma máscara curinga é especificada durante a configuração de listas de acesso.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>máscara de sub-rede</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6461978161" index="M">
+<term><content-text>Máscara de sub-rede de tamanho variável (VLSM)</content-text></term>
+<definition><content-text><p>Máscara de sub-rede de tamanho variável (VLSM, Variable Length Subnet Mask). É a capacidade de especificar uma máscara de sub-rede diferente para o mesmo número de rede em diferentes sub-redes. O VLSM pode ajudar a otimizar o espaço de endereços disponível.</p></content-text></definition>
+<variations><content-text>VLSM</content-text></variations>
+<seealso><content-text>Endereçamento classless</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5601796963" index="M">
+<term><content-text>métrica</content-text></term>
+<definition><content-text><p>Método pelo qual um algoritmo de roteamento determina que uma rota é melhor que outra. Essas informações são armazenadas em tabelas de roteamento. As métricas incluem largura de banda, custo de comunicação, atraso, contagem de saltos, carga, MTU, custo de caminho e confiabilidade. Às vezes chamado simplesmente de métrica.</p></content-text></definition>
+<variations><content-text>Métrica,métrico,Métrico</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1940253388" index="M">
+<term><content-text>métrica de mesmo custo</content-text></term>
+<definition><content-text><p>Uma métrica que possui o mesmo valor em vários caminhos para o mesmo destino. Quando vários caminhos têm métricas de custo iguais, um roteador pode executar balanceamento de carga de mesmo custo entre esses caminhos.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3598225736" index="M">
+<term><content-text>módulo dependente do protocolo</content-text></term>
+<definition><content-text><p>Um componente que é dependente de um protocolo roteado específico. Por exemplo, módulos dependentes de protocolo no EIGRP permitem que ele funcione com vários protocolos roteados. Os PDMs permitem que o EIGRP mantenha uma tabela de topologia para cada protocolo roteado, como IP, IPX RIP, AppleTalk RTMP (Routing Table Maintenance Protocol) e IGRP.</p></content-text></definition>
+<variations><content-text>PDM</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2207688691" index="P">
+<term><content-text>pacote</content-text></term>
+<definition><content-text><p>Agrupamento lógico de informações que inclui um cabeçalho com informações de controle e (normalmente) dados de usuário. Os pacotes em geral são usados para indicar unidades de dados na camada de rede. Os termos datagrama, quadro, mensagem e segmento também são usados para descrever os agrupamentos de informações lógicas em várias camadas do modelo de referência OSI e em vários círculos de tecnologia.</p></content-text></definition>
+<variations><content-text>pacotes,Pacote</content-text></variations>
+<seealso><content-text>datagramas</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6424944186" index="P">
+<term><content-text>pacote de atualização parcial</content-text></term>
+<definition><content-text><p>Quando um roteador detecta uma alteração na métrica, ele envia uma atualização parcial sobre aquela alteração específica para roteadores associados em vez de enviar atualizações periódicas. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1882735968" index="P">
+<term><content-text>Pacote link-state (LSP)</content-text></term>
+<definition><content-text><p>Pacote de broadcast usado por protocolos link-state que contém informações sobre vizinhos e custo de caminho. Pacotes Link-State (LSP, Link-State Packet) são usados pelos roteadores de destino para manter as tabelas de roteamento.</p></content-text></definition>
+<variations><content-text>LSP</content-text></variations>
+<seealso><content-text>LSA</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9580134935" index="P">
+<term><content-text>Placa de interface de rede (NIC)</content-text></term>
+<definition><content-text><p>Hardware projetado para permitir que os computadores comuniquem-se em uma rede de computadores.</p></content-text></definition>
+<variations><content-text>NIC</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8124883934" index="P">
+<term><content-text>poison reverse</content-text></term>
+<definition><content-text><p>Atualizações de roteamento que indicam explicitamente que uma rede ou sub-rede é inalcançável, em vez de supor que uma rede seja inalcançável não a incluindo nas atualizações. Atualizações de poison reverse são enviadas para resolver grandes loops de roteamento.</p></content-text></definition>
+<variations><content-text>route poisoning</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8473764376" index="P">
+<term><content-text>porta console</content-text></term>
+<definition><content-text><p>DTE pelos quais os comandos são inseridos em um host.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3376952186" index="P">
+<term><content-text>PPP</content-text></term>
+<definition><content-text><p>Protocolo Ponto-a-ponto (PPP, Point-to-Point Protocol). Sucessor do SLIP. O PPP fornece conexões de roteador a roteador e de host a rede sobre circuitos síncronos e assíncronos. Enquanto o SLIP foi criado para funcionar com IP, o PPP foi criado para funcionar com vários protocolos de camada de rede, como IP, IPX e ARA. O PPP também tem mecanismos de segurança internos, como CHAP e PAP. O PPP possui dois protocolos: LCP e NCP.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7813269836" index="P">
+<term><content-text>prefixo de rede</content-text></term>
+<definition><content-text><p>Número de bits usado para definir a máscara de sub-rede. Por exemplo, a máscara da sub-rede 255.255.0.0 tem um prefixo /16.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9697708987" index="P">
+<term><content-text>Protocolo de informações de roteamento (RIP)</content-text></term>
+<definition><content-text><p>Protocolo de Informações de Roteamento (RIP, Routing Information Protocol). IGP fornecido com sistemas UNIX BSD. O IGP mais comum da Internet. O RIP usa a contagem de saltos como métrica de roteamento.</p></content-text></definition>
+<variations><content-text>RIP</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9025310553" index="P">
+<term><content-text>Protocolo de manutenção de tabela de roteamento (RMTP)</content-text></term>
+<definition><content-text><p>Protocolo de manutenção de tabela de roteamento (RTMP, Routing Table Maintenance Protocol). Protocolo de roteamento proprietário da Apple Computer. O RTMP foi derivado do RIP.</p></content-text></definition>
+<variations><content-text>RTMP</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3032423004" index="P">
+<term><content-text>protocolo de roteamento link-state</content-text></term>
+<definition><content-text><p>Um protocolo de roteamento no qual roteadores trocam informações sobre acessibilidade a outras redes e o custo ou a métrica para chegar nelas. Roteadores link-state usam o algoritmo Dijkstra para calcular os caminhos mais curtos para um destino, e atualizar seus vizinhos somente quando ocorre alteração em suas próprias tabelas de roteamento.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6390648569" index="P">
+<term><content-text>protocolo de vetor de caminho</content-text></term>
+<definition><content-text><p>Um protocolo de vetor de caminho é um protocolo de roteamento que marca e mostra o caminho que as informações de atualização fazem quando são propagadas pela rede. O protocolo BGP (protocolo de roteamento de borda) faz uso desse tipo de protocolo verificando por quais sistemas autônomos a atualização passou para verificar loops.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6436131893" index="P">
+<term><content-text>Protocolos de gateway Interior</content-text></term>
+<definition><content-text><p>Protocolo de Internet usado para trocar informações de roteamento dentro de um sistema autônomo. Exemplos de IGPs comuns na Internet são IGRP, OSPF e RIP.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3951938013" index="P">
+<term><content-text>protocolos de roteamento classful</content-text></term>
+<definition><content-text><p>Protocolos de roteamento que usam o endereçamento ip classful. Eles não usam informações de máscara de sub-rede nas operações de roteamento. Eles assumem automaticamente as máscaras classful.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2512579249" index="P">
+<term><content-text>protocolos de roteamento dinâmico</content-text></term>
+<definition><content-text><p>Permitem que os dispositivos de rede conheçam as rotas dinamicamente. RIP e EIGRP são exemplos de protocolos de roteamento dinâmico.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6625915036" index="P">
+<term><content-text>Provedor de internet (ISP)</content-text></term>
+<definition><content-text><p>Um Provedor de Internet (ISP, Internet Service Provider) é uma companhia que dá acesso à Internet para pessoas físicas ou jurídicas.</p></content-text></definition>
+<variations><content-text>ISP</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1289899180" index="P">
+<term><content-text>próximo salto</content-text></term>
+<definition><content-text><p>Próximo ponto de roteamento. Quando os roteadores não estão diretamente conectados à rede de destino, eles têm um roteador vizinho que fornece a próximo etapa no roteamento de dados até seu destino.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8292361929" index="Q">
+<term><content-text>Qualidade de serviço (QoS)</content-text></term>
+<definition><content-text><p>Qualidade de serviço (QoS, Quality of Service). Medida de desempenho para um sistema de transmissão que reflete sua qualidade de transmissão e disponibilidade de serviço.</p></content-text></definition>
+<variations><content-text>QoS</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7005529787" index="R">
+<term><content-text>RAM não volátil (NVRAM)</content-text></term>
+<definition><content-text><p>Memória Não-Volátil de Acesso Aleatório (NVRAM, Non-Volatile RAM). Memória RAM que, quando o computador é desligado, não apaga seu conteúdo.</p></content-text></definition>
+<variations><content-text>NVRAM</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4461611920" index="R">
+<term><content-text>rede descontígua</content-text></term>
+<definition><content-text><p>Endereçamento de rede fragmentado. Redes que não têm um esquema hierárquico. É impossível sumarizar redes descontíguas. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1420035058" index="R">
+<term><content-text>rede multiacesso</content-text></term>
+<definition><content-text><p>Rede que permite que vários dispositivos conectem-se e comuniquem-se simultaneamente.</p></content-text></definition>
+<variations><content-text>Rede multiacesso</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9847456962" index="R">
+<term><content-text>rede ponto-a-multiponto (NBMA)</content-text></term>
+<definition><content-text><p>Termo que descreve uma rede multiacesso que não suporta broadcast (como X.25) ou na qual não é viável a transmissão por broadcast (por exemplo, um grupo de broadcast SMDS ou um Ethernet estendido muito grande).</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2442783702" index="R">
+<term><content-text>Redes locais (LANs)</content-text></term>
+<definition><content-text><p>O termo Rede local (LAN, Local Area Network) refere-se a uma rede local ou um grupo de redes locais interconectadas que estão sob o mesmo controle administrativo. No início das redes de computadores, as redes locais eram definidas como pequenas redes que existiam em uma única localização física. Embora as redes locais possam ser uma única rede local instalada em uma casa ou pequeno escritório, a definição de rede local evoluiu para incluir redes locais interconectadas, consistindo em muitas centenas de hosts, instalados em vários prédios e locais.</p></content-text></definition>
+<variations><content-text>rede local</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2413697728" index="R">
+<term><content-text>Redes remotas (WANs)</content-text></term>
+<definition><content-text><p>Rede de comunicação de dados que abrange uma ampla área geográfica e que, frequentemente, usa dispositivos de transmissão fornecidos por transportadores comuns. Frame Relay, SMDS e X.25 são exemplos de WANs.</p></content-text></definition>
+<variations><content-text>WAN</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6329240526" index="R">
+<term><content-text>redistribuição</content-text></term>
+<definition><content-text><p>Permite que informações de roteamento aprendidas por um protocolo de roteamento sejam distribuídas nas mensagens de atualização de outro protocolo de roteamento. Também chamada de redistribuição de rota.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7438722925" index="R">
+<term><content-text>Requisição Link-State</content-text></term>
+<definition><content-text><p>Pacotes de requisição link-state são pacotes OSPF tipo 3. Eles são usados para solicitar as partes mais atualizadas do banco de dados do vizinho.</p></content-text></definition>
+<variations><content-text>LSR</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4754811668" index="R">
+<term><content-text>Rota de nível 1</content-text></term>
+<definition><content-text><p>Uma rota com uma máscara de sub-rede igual a ou menor que a máscara classful do endereço de rede.</p></content-text></definition>
+<variations><content-text>rota nível 1</content-text></variations>
+<seealso><content-text>Rota primária de nível 1</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4122837635" index="R">
+<term><content-text>Rota de nível 2</content-text></term>
+<definition><content-text><p>Uma sub-rede é a rota de Nível 2 da rota primária.</p></content-text></definition>
+<variations><content-text>rotas de nível 2,rota de nível 2</content-text></variations>
+<seealso><content-text>Rota de nível 1</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7394034673" index="R">
+<term><content-text>Rota de sumarização</content-text></term>
+<definition><content-text><p>A sumarização de rota reduz o número de rotas que um roteador deve manter. É um método de representar uma série de números de rede em um único endereço sumarizado.</p></content-text></definition>
+<variations><content-text>rota de sumarização</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5428356456" index="R">
+<term><content-text>Rota de super-rede</content-text></term>
+<definition><content-text><p>Uma rota que usa uma máscara de endereço arbitrária que é menor que a máscara classful padrão. Usada para representar várias sub-redes.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1597835227" index="R">
+<term><content-text>Rota definitiva</content-text></term>
+<definition><content-text><p>Também conhecida como rota de nível 1, a rota definitiva é uma rota na tabela de roteamento que inclui um endereço do próximo salto e uma interface de saída. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2235534953" index="R">
+<term><content-text>Rota primária de nível 1</content-text></term>
+<definition><content-text><p>Uma rota de primeiro nível na tabela de roteamento que tem sub-redes "catalogadas". Uma rota primária de Nível 1 não contém nenhum endereço IP do próximo salto ou informações de interface de saída. </p></content-text></definition>
+<variations><content-text>rota primária de nível 1</content-text></variations>
+<seealso><content-text>Rota de nível 1</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3250817569" index="R">
+<term><content-text>Rota secundária de nível 2</content-text></term>
+<definition><content-text><p>As sub-redes que pertencem à rota primária. </p></content-text></definition>
+<variations><content-text>rota secundária nível 2</content-text></variations>
+<seealso><content-text>Rota de nível 1,Rota primária de nível 1</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2370190715" index="R">
+<term><content-text>Rotas de sumarização Null0</content-text></term>
+<definition><content-text><p>Outro mecanismo para impedir loops de roteamento. O EIGRP sempre cria uma rota para a interface Null0 quando sumariza um grupo de rotas. Isto acontece porque, sempre que um protocolo de roteamento é sumarizado, o roteador pode receber tráfego para qualquer endereço IP dentro daquele sumário. Como nem todos os endereços IP estão sempre em uso, há um risco de pacotes entrarem em loop no caso de rotas padrão serem usadas no roteador que recebe o tráfego para a rota de sumarização.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>interface nula</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4650099337" index="R">
+<term><content-text>Roteador</content-text></term>
+<definition><content-text><p>Dispositivo de camada de rede que usa uma ou mais métricas para determinar o melhor caminho pelo qual enviar o tráfego de rede. Os roteadores enviam pacotes de uma rede para outra, com base em informações de camada de rede. Algumas vezes é chamado de gateway (embora essa definição de gateway esteja se tornando cada vez mais ultrapassada).</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>gateway</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8932544635" index="R">
+<term><content-text>roteador de borda</content-text></term>
+<definition><content-text><p>Um roteador localizado na borda de duas redes classful descontíguas. Um roteador de borda também pode ser conhecido como um roteador que se localiza na extremidade de duas redes com protocolos de roteamento diferentes. Muitas vezes, a expressão roteador de borda é usada livremente no contexto do OSPF e dos Roteadores de Borda de Sistema Autônomo.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8572378873" index="R">
+<term><content-text>Roteador de borda de sistema autônomo (ASBR)</content-text></term>
+<definition><content-text><p>Roteador de borda de sistema autônomo (ASBR, Autonomous System Boundary Router). Um ASBR se localiza entre um sistema autônomo OSPF e uma rede não-OSPF. ASBRs executam o OSPF e outro protocolo de roteamento, como o RIP. ASBRs devem residir em uma área OSPF que não seja stub.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9839475267" index="R">
+<term><content-text>Roteador designado (DR)</content-text></term>
+<definition><content-text><p>Roteador OSPF que gera LSAs para uma rede multiacesso e tem outras responsabilidades especiais na execução do OSPF. Cada rede multiacesso OSPF que tem pelo menos dois roteadores anexados possui um roteador designado que é eleito pelo protocolo OSPF Hello. O roteador designado permite uma redução no número total de adjacências necessário em uma rede multiacesso, o que, por sua vez, reduz a quantidade de tráfego de protocolo de roteamento e o tamanho do banco de dados topológico.</p></content-text></definition>
+<variations><content-text>DR</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4534692650" index="R">
+<term><content-text>Roteador designado de backup (BDR)</content-text></term>
+<definition><content-text><p>Um roteador que se torna o roteador designado se o roteador designado atual falhar. O BDR é o roteador OSPF com segunda prioridade mais alta no momento da última eleição de DR.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3766747133" index="R">
+<term><content-text>roteador link-state</content-text></term>
+<definition><content-text><p>Um roteador que usa um protocolo de roteamento link-state.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6775430194" index="R">
+<term><content-text>roteamento assimétrico</content-text></term>
+<definition><content-text><p>Roteamento assimétrico é quando um caminho da rede 1 para a rede 2 é diferente do caminho da rede 2 para a rede 1. Caminhos para a Rede e são diferentes do caminho de retorno da rede 2 para a rede 1.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8359071964" index="R">
+<term><content-text>Roteamento de gateway de borda (BGP)</content-text></term>
+<definition><content-text><p>Protocolo de Gateway de Borda (BGP, Border Gateway Protocol). Protocolo de roteamento entre redes que substitui o EGP. O BGP troca informações de acessibilidade com outros sistemas BGP. Ele é definido na RFC 1163.</p></content-text></definition>
+<variations><content-text>BGP</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8753322308" index="R">
+<term><content-text>roteamento dinâmico</content-text></term>
+<definition><content-text><p>Roteamento que ajusta automaticamente a topologia de rede ou as alterações de tráfego. Também chamado de roteamento adaptativo.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9690551937" index="R">
+<term><content-text>Roteamento entre domínios com endereços classless (CIDR)</content-text></term>
+<definition><content-text><p>Técnica suportada pelo BGP4 e baseada em agregação de rota. O CIDR permite que os roteadores agrupem rotas a fim de reduzir a quantidade de informações de roteamento transportadas pelos roteadores centrais. Com o CIDR, várias redes IP aparecem para redes fora do grupo como uma entrada única e maior. Com o CIDR, endereços IP e as máscaras de sub-rede são escritos como quatro octetos, separados por pontos, seguidos por uma barra e um número de dois dígitos que representa a máscara de sub-rede.</p></content-text></definition>
+<variations><content-text>CIDR</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8507263429" index="R">
+<term><content-text>roteamento estático</content-text></term>
+<definition><content-text><p>Roteamento que depende de rotas digitadas manualmente na tabela de roteamento.</p></content-text></definition>
+<variations><content-text>Roteamento estático</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5926288786" index="R">
+<term><content-text>Route poisoning</content-text></term>
+<definition><content-text><p>Atualizações de roteamento que indicam explicitamente que uma rede ou sub-rede é inalcançável, em vez de supor que uma rede seja inalcançável não a incluindo nas atualizações. Atualizações de poison reverse são enviadas para resolver grandes loops de roteamento. A implementação do Cisco IGRP usa atualizações de poison reverse.</p></content-text></definition>
+<variations><content-text>poison reverse</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1421657329" index="S">
+<term><content-text>sem loop</content-text></term>
+<definition><content-text><p>Não possui loops. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6273327444" index="S">
+<term><content-text>serial</content-text></term>
+<definition><content-text><p>Método de transmissão de dados no qual os bits de um caractere de dados são transmitidos sequencialmente através de um único canal.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7371777223" index="S">
+<term><content-text>Servidor TFTP</content-text></term>
+<definition><content-text><p>Um servidor que hospeda o protocolo TFTP que permite transferir arquivos de um computador a outro pela rede, normalmente sem o uso de autenticação de cliente (por exemplo, nome de usuário e senha).</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6494076566" index="S">
+<term><content-text>Sistema autônomo (AS)</content-text></term>
+<definition><content-text><p>Um conjunto de redes sob uma administração comum que compartilha uma estratégia de roteamento comum. Os sistemas autônomos (AS, Autonomous System) são subdivididos por áreas. Um sistema autônomo deve receber um número de 16 bits exclusivo determinado pela IANA. Muitas vezes abreviado como AS.</p></content-text></definition>
+<variations><content-text>AS,sistema autônomo</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4278616182" index="S">
+<term><content-text>Sistema intermediário para sistema intermediário (IS-IS)</content-text></term>
+<definition><content-text><p>O protocolo de Sistema Intermediário para Sistema Intermediário (IS-IS, Intermediate-System-to-Intermediate-System) é baseado em um método conhecido como roteamento DECnet Phase V, no qual roteadores conhecidos como sistemas intermediários trocam dados usando uma métrica única para determinar a topologia de rede. IS-IS foi desenvolvido pela ISO, Organização Internacional para Padronização, como parte do modelo de referência da Interconexão de Sistemas Abertos (OSI, Open Systemas Interconnection).</p></content-text></definition>
+<variations><content-text>IS-IS</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9072288158" index="S">
+<term><content-text>Sistema operacional</content-text></term>
+<definition><content-text><p>Software que executa tarefas básicas, como controlar e alocar memória, priorizar as solicitações do sistema, controlar os dispositivos de entrada e saída, facilitar a operação em rede e gerenciar sistemas de arquivos.</p></content-text></definition>
+<variations><content-text>OS</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2676207273" index="S">
+<term><content-text>Smart Serial</content-text></term>
+<definition><content-text><p>As interfaces Cisco Smart Serial têm conectores de 26 pinos e podem detectar automaticamente conectores RS-232, RS-449, RS-530, X.21 ou V.35.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3251675130" index="S">
+<term><content-text>split horizon</content-text></term>
+<definition><content-text><p>Técnica de roteamento na qual informações sobre rotas são impedidas de sair pela mesma interface do roteador pela qual aquelas informações foram recebidas. Atualizações de split horizon são úteis para impedir loops de roteamento.</p></content-text></definition>
+<variations><content-text>Split Horizon,Split horizon</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8388310335" index="S">
+<term><content-text>sucessor</content-text></term>
+<definition><content-text><p>O caminho para um destino. Usando o algoritimo DUAL dentre todos os caminhos conhecidos ou possíveis sucessores para o destino. Usado em roteamento EIGRP.</p></content-text></definition>
+<variations><content-text>Sucessor</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9630550867" index="S">
+<term><content-text>Sucessor viável (FS)</content-text></term>
+<definition><content-text><p>Um roteador de próximo salto que leva a uma rede de destino específica. O sucessor viável (FS, Feasible Successor) é uma espécie de próximo salto de backup no caso de o próximo salto primário (sucessor) parar de funcionar. Usado em roteamento EIGRP.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3567348536" index="S">
+<term><content-text>sumarização automática</content-text></term>
+<definition><content-text><p>Consolidação de redes, divulgada em anúncios de rede classful. No RIP, isto faz uma única rota de sumarização ser anunciada para outros roteadores.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3862210443" index="S">
+<term><content-text>sumarização de rota</content-text></term>
+<definition><content-text><p>Consolidação de endereços anunciados no OSPF e no IS-IS. No OSPF, isto faz uma única rota de sumarização ser divulgada para outras áreas por um roteador de borda de área.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>agregação de rota, agregação de prefixo</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3607780675" index="S">
+<term><content-text>super-rede</content-text></term>
+<definition><content-text><p>Agregação de endereços de rede IP anunciada como um único endereço de rede classless. Por exemplo, considerando quatro redes IP de Classe C - 192.0.8.0, 192.0.9.0, 192.0.10.0 e 192.0.11.0 - cada uma com a máscara de rede padrão (255.255.255.0), é possível anunciar o endereço 192.0.8.0 com uma máscara de sub-rede 255.255.252.0.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>Rota de sumarização</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5779791933" index="T">
+<term><content-text>tabela de roteamento</content-text></term>
+<definition><content-text><p>Tabela armazenada na memória de um roteador ou em outro dispositivo de inter-rede que mantém informações de roteamento para destinos de rede específicos. O roteador usa essa informação para determinar para onde enviar os dados.</p></content-text></definition>
+<variations><content-text>Tabela de roteamento</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4943667766" index="T">
+<term><content-text>tabela de topologia</content-text></term>
+<definition><content-text><p>Contém informações sobre rotas de EIGRP recebidas em atualizações e rotas que são originadas localmente. O EIGRP envia e recebe atualizações de roteamento de roteadores adjacentes para os quais relações de mesmo nível (adjacências) foram formadas. Os objetos nessa tabela são populados por entrada (rota) de tabela em cada topologia.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>banco de dados de topologia</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4751811026" index="T">
+<term><content-text>Telnet</content-text></term>
+<definition><content-text><p>Protocolo de emulação terminal padrão na pilha de protocolo TCP/IP. O Telnet é usado para conexão terminal remota, permitindo que os usuários registrem-se em sistemas remotos e usem recursos como se eles estivessem conectados a um sistema local. Telnet é definido na RFC 854.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6535488659" index="T">
+<term><content-text>tempo de espera</content-text></term>
+<definition><content-text><p>O tempo máximo que um roteador espera para receber o próximo pacote hello ou a próxima atualização de roteamento. Quando o contador do tempo de espera expira, aquela rota fica inalcançável.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3331630841" index="T">
+<term><content-text>temporizadores de hold-down</content-text></term>
+<definition><content-text><p>Temporizadores colocados em uma rota de modo que os roteadores não possam anunciar a rota nem aceitar anúncios sobre esta rota por um período de tempo específico (o período de hold-down). Hold-down é usado para descarregar informações incorretas sobre uma rota em todos os roteadores na rede. Uma rota é geralmente colocada em hold-down quando um link daquela rota falha.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8523161899" index="T">
+<term><content-text>Tipo/tamanho/valor (TLV)</content-text></term>
+<definition><content-text><p>A parte de dados do pacote EIGRP. Todos os TLVs começam com campo Tipo de 16 bits e um campo Tamanho de 16 bits. Existem diferentes valores TLV de acordo com o protocolo roteado. Porém, existe um TLV geral que descreve parâmetros EIGRP genéricos como Seqüência (usado pelo Multicast Confiável da Cisco) e a versão do software EIGRP.</p></content-text></definition>
+<variations><content-text>TLV</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7272453178" index="T">
+<term><content-text>Token Ring</content-text></term>
+<definition><content-text><p>Rede local de passagem de token desenvolvida e suportada pela IBM. A Token Ring é executada a 4 ou 16 Mbps em uma topologia em anel. Semelhante a IEEE 802.5. </p></content-text></definition>
+<variations><content-text>token ring</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3847540083" index="T">
+<term><content-text>Tradutor de endereços de rede (NAT)</content-text></term>
+<definition><content-text><p>Mecanismo para reduzir a necessidade de uso de endereços IP exclusivos globais. A Tradução de Endereços de Rede (NAT, Network Address Translator) permite que uma organização com endereços privados conecte-se à Internet traduzindo esses endereços para o espaço de endereços públicos globalmente roteáveis.</p></content-text></definition>
+<variations><content-text>NAT</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3832693226" index="T">
+<term><content-text>TTL</content-text></term>
+<definition><content-text><p>Tempo de vida (TTL, Time to Live). Campo em um cabeçalho IP que indica por quanto tempo um pacote é considerado válido.</p></content-text></definition>
+<variations><content-text>(TTL),Tempo de vida,Tempo de vida,tempo de vida</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4993906116" index="V">
+<term><content-text>vetor</content-text></term>
+<definition><content-text><p>Um vetor é uma quantidade caracterizada por uma magnitude (por exemplo saltos em um caminho) e uma direção.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2616638345" index="V">
+<term><content-text>vetor de distância</content-text></term>
+<definition><content-text><p>Consulte Bellman-Ford (algoritmo)</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>Bellman-Ford (algoritmo)</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5460413738" index="V">
+<term><content-text>vizinho</content-text></term>
+<definition><content-text><p>No OSPF, dois roteadores que possuem  interfaces ligadas a uma rede em comum. Em redes multiacesso, os vizinhos são detectados dinamicamente pelo protocolo OSPF.</p></content-text></definition>
+<variations><content-text>Vizinho</content-text></variations>
+<seealso><content-text>adjacência</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4132971760" index="X">
+<term><content-text>XNS</content-text></term>
+<definition><content-text><p>Xerox Network Systems. Uma pilha de protocolos desenvolvida pela Xerox que contém protocolos de rede semelhantes ao IP e TCP. XNS foi uma das primeiras pilhas de protocolos usadas nas implementações de rede local. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9789079661" index="A">
+<term><content-text>Área OSPF</content-text></term>
+<definition><content-text><p>Um conjunto lógico de segmentos de rede (baseados em CLNS, DECnet ou OSPF) e de seus dispositivos conectados. Normalmente, as áreas são conectadas a outras áreas por meio de roteadores, criando um único sistema autônomo.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+</glossary>

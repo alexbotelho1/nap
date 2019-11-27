@@ -1,0 +1,25 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Processo de notificação de mudança na topologia de STP</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[Mudança de topologia]]></text>
+</component>
+<component id="ID_button02">
+<text><![CDATA[Notificação de broadcast]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Este switch passa por uma mudança de topologia]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[Bridge raiz]]></text>
+</component>
+<component id="ID_txt03">
+  <text><![CDATA[Bridge raiz]]></text> 
+  </component>
+  
+
+</textcomponents>

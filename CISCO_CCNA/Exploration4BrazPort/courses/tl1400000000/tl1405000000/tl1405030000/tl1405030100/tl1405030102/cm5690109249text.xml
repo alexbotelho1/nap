@@ -1,0 +1,30 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Exemplos de ACL estendida</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Gerando números da porta</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Exemplos</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Portas</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_01">
+<text><![CDATA[<b>Utilizando números da porta</b>]]></text>
+</component>
+
+<component id="ID_txt02_01">
+<text><![CDATA[<b>Utilizando palavras-chave</b>]]></text>
+</component>
+
+
+
+</textcomponents>

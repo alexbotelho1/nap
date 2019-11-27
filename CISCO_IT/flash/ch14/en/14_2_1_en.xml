@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="14_2_1.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_TITLE1">
+        <source>Computer Ports</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_TITLE2">
+        <source>Types of Batteries</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_TXT_01">
+        <source>Computer Ports</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_TXT_02">
+        <source>Serial</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_TXT_03">
+        <source>Parallel</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_TXT_04">
+        <source>SCSI</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_TXT_05">
+        <source>USB</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TXT_06">
+        <source>FireWire</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_TXT_07">
+        <source>Ethernet</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_TXT_08">
+        <source>DHCP</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TXT_09">
+        <source>Serial data transfer is the movement of single bits of information in a single cycle. A serial connection can be used for dot matrix printers because the printers do not require high-speed data transfer.</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TXT_10">
+        <source>Parallel data transfer is faster than serial data transfer. Parallel data transfer is the movement of multiple bits of information in a single cycle. The path is wider for information to move to or from the printer. 
+
+IEEE 1284 is the current standard for parallel printer ports. Enhanced Parallel Port (EPP) and Enhanced Capabilities Port (ECP) are two modes of operation that allow bi-directional communication. </source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_11">
+        <source>There are several types of SCSI, including these common types:
+•SCSI 1 – 50-pin connector 
+•SCSI 2 (fast SCSI) – 50-pin connector
+•SCSI 2 (wide SCSI) – 68-pin connector
+•SCSI 3 (fast/wide SCSI) – 68-pin connector 
+SCSI printers and computers require the proper cabling for the ports. These ports can be DB 50, Mini DB 50, and DB 68. All of these ports may be male or female. 
+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_12">
+        <source>USB is a common interface for printers and other devices. The speed and simple setup has made USB very practical. Newer operating systems offer PnP USB support. When a USB device is added to a computer system supporting PnP, the device is automatically detected, and the computer starts the driver installation process. </source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_13">
+        <source>FireWire, also known as i.LINK or IEEE 1394, is a high-speed communication bus that interconnects digital devices such as printers, scanners, cameras, and hard drives, among others. FireWire provides a single plug-and-socket connection on which up to 63 devices can be attached with data transfer speeds up to 400 Mbps.</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_14">
+        <source>Printers can be shared over a network. Connecting a printer to the network requires cabling that is compatible with both the existing network and the network port installed in the printer. Most network printers use an RJ-45 interface to connect to a network. </source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_15">
+        <source>Dynamic Host Configuration Protocol administrates a pool of IP addresses on a network and automatically assigns them to users computers.</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

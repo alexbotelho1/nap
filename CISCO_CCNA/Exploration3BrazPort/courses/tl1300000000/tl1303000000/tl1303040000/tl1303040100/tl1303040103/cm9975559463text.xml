@@ -1,0 +1,63 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>Erros de configuração do modo de tronco</B>]]></text> 
+</component>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Cenário</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Configurações</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Solução</B>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<B>Servidor WEB/TFTP<br/>VLAN 10 - 172.17.10.30</B>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<B>Corpo docente<br/>VLAN 10 - 172.17.10.24</B>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<B>Troncos VLAN<br/>Permitidos – 10,99<br/>VLAN nativa – 99</B>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<B>"Não consigo me conectar ao servidor Web"</B>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<B>Switch S3:<br/>  - Porta F0/3<br/>  - Modo de tronco - ativado</B>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<B>Switch S1:<br/>  - Porta F0/3<br/>  - Modo de tronco - ativado</B>]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<B>Saída do comando do switch S1</B>]]></text> 
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<B>Saída do comando do switch S3</B>]]></text> 
+</component>
+
+<component id="ID_txt09">
+  <text><![CDATA[<B>Saída do comando do switch S1</B>]]></text> 
+</component>
+
+<component id="ID_txt10">
+  <text><![CDATA[<B>Saída do comando do computador PC4</B>]]></text> 
+</component>
+
+<component id="ID_txt11">
+  <text><![CDATA[<B>Saída do comando do switch S3</B>]]></text> 
+</component>
+
+</textcomponents>

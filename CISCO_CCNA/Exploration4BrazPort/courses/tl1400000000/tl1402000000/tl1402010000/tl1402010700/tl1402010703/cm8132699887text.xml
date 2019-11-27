@@ -1,0 +1,381 @@
+<textcomponents>
+
+<!-- slide buttons-->
+<component id="ID_button_01">
+  <text><![CDATA[<b>Atividade 1</b>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<b>Atividade 2</b>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<b>Atividade 3</b>]]></text> 
+</component>
+
+<component id="ID_button_04">
+  <text><![CDATA[<b>Atividade 4</b>]]></text> 
+</component>
+
+<!-- slide1 -->
+	<component id="ID_check1">
+	  <text><![CDATA[<b>Verificar</b>]]></text> 
+	</component>
+	
+	<component id="ID_reset1">
+	  <text><![CDATA[<b>Redefinir</b>]]></text> 
+	</component>
+	
+	<component id="ID_instructions01">
+	  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Clique na coluna apropriada na tabela para identificar, pelas características, a descrição de uma comunicação serial ou paralela.]]></text> 
+	</component>
+	
+	<!--Number of rows in the table-->
+	<component id="txt_numrows">
+		<text><![CDATA[7]]></text>
+	</component>
+	
+	<!--Number of columns for the answers in the table. Do not count the question column-->
+	<component id="txt_numcols">
+		<text><![CDATA[2]]></text>
+	</component>
+	
+	<!--Answer column headers-->
+	<component id="txt_col1">
+		<text><![CDATA[<b>Serial</b>]]></text>
+	</component>
+	
+	<component id="txt_col2">
+		<text><![CDATA[<b>Paralela</b>]]></text>
+	</component>
+	
+	<!--Question text - blockindent code moves the text away from the left edge a bit-->
+	<!--Question text - If questions are numbered, use blockindent for hanging indents-->
+	<component id="txt_q1">
+		<text><![CDATA[1. <textformat blockindent='13'>Utilizado na maioria das comunicações externas</textformat>]]></text>
+	</component>
+	
+	<component id="txt_q2">
+		<text><![CDATA[2. <textformat blockindent='13'>Utilizado na maioria das comunicações entre componentes internos</textformat>]]></text>
+	</component>
+	
+	<component id="txt_q3">
+		<text><![CDATA[3. <textformat blockindent='13'>Envia informações por um fio, um bit por vez</textformat>]]></text>
+	</component>
+	
+	<component id="txt_q4">
+		<text><![CDATA[4. <textformat blockindent='13'>Envia em vários fios simultaneamente</textformat>]]></text>
+	</component>
+	
+	<component id="txt_q5">
+		<text><![CDATA[5. <textformat blockindent='13'>Suscetível à diferença de clock e à linha cruzada</textformat>]]></text>
+	</component>
+	
+	<component id="txt_q6">
+		<text><![CDATA[6. <textformat blockindent='13'>Implementação mais barata</textformat>]]></text>
+	</component>
+
+	<component id="txt_q7">
+		<text><![CDATA[7. <textformat blockindent='13'>Utiliza padrões RS-232, V.35 e HSSI</textformat>]]></text>
+	</component>
+	
+	<!--Answers - Give the column number(s), column numbering start with 1 not 0-->
+	<!--Answers - For MCMA separate the correct answers with commas [2, 4, 5] -->
+	<component id="txt_a1">
+		<text><![CDATA[1]]></text>
+	</component>
+	
+	<component id="txt_a2">
+		<text><![CDATA[2]]></text>
+	</component>
+	
+	<component id="txt_a3">
+		<text><![CDATA[1]]></text>
+	</component>
+	
+	<component id="txt_a4">
+		<text><![CDATA[2]]></text>
+	</component>
+	
+	<component id="txt_a5">
+		<text><![CDATA[2]]></text>
+	</component>
+	
+	<component id="txt_a6">
+		<text><![CDATA[1]]></text>
+	</component>
+	
+	<component id="txt_a7">
+		<text><![CDATA[2]]></text>
+	</component>
+	
+	<!-- Correct Feedback -->
+	<component id="ID_correctTitle01">
+		<text><![CDATA[Corrigir]]></text>
+	</component>
+	
+	<component id="ID_correctText01">
+		<text><![CDATA[Você identificou as características das comunicações serial e em paralelo corretamente.]]></text>
+	</component>
+	
+	<!-- Incorrect Feedback -->
+	<component id="ID_incorrectTitle01">
+		<text><![CDATA[Incorreto]]></text>
+	</component>
+	
+	<component id="ID_incorrectText01">
+		<text><![CDATA[Incorreto, tente novamente.]]></text>
+	</component>
+
+
+<!-- slide2 -->
+	<component id="ID_check2">
+	  <text><![CDATA[<b>Verificar</b>]]></text> 
+	</component>
+	
+	<component id="ID_reset2">
+	  <text><![CDATA[<b>Redefinir</b>]]></text> 
+	</component>
+	
+	<component id="ID_instructions02">
+	  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Arraste e solte os rótulos do componente WAN até os locais apropriados no diagrama. Nem todas as respostas são usadas. Alguns itens no diagrama podem ter mais de uma resposta correta.]]></text> 
+	</component>
+	
+	<component id="ID_txt01_02">
+	  <text><![CDATA[<b>DCE</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt02_02">
+	  <text><![CDATA[<b>DTE</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt03_02">
+	  <text><![CDATA[<b>Loop local</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt04_02">
+	  <text><![CDATA[<b>Milha local</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt05_02">
+	  <text><![CDATA[<b>Demarc</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt06_02">
+	  <text><![CDATA[<b>Última milha</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt07_02">
+	  <text><![CDATA[<b>Último loop</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt08_02">
+	  <text><![CDATA[<b>Demarcação</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt09_02">
+	  <text><![CDATA[<b>DEC</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt10_02">
+	  <text><![CDATA[<b>CPE</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt11_02">
+	  <text><![CDATA[<b>Switch CO (central office) </b>]]></text> 
+	</component>
+	
+	<component id="ID_txt12_02">
+	  <text><![CDATA[<b>Operadora</b>]]></text> 
+	</component>
+
+	<!-- Correct Feedback -->
+	<component id="ID_correctTitle02">
+		<text><![CDATA[Corrigir]]></text>
+	</component>
+	
+	<component id="ID_correctText02">
+		<text><![CDATA[Você identificou os componentes WAN corretamente.]]></text>
+	</component>
+	
+	<!-- Incorrect Feedback -->
+	<component id="ID_incorrectTitle02">
+		<text><![CDATA[Incorreto]]></text>
+	</component>
+	
+	<component id="ID_incorrectText02">
+		<text><![CDATA[Incorreto, tente novamente.]]></text>
+	</component>
+
+<!-- slide3 -->
+	<component id="ID_check3">
+	  <text><![CDATA[<b>Verificar</b>]]></text> 
+	</component>
+	
+	<component id="ID_reset3">
+	  <text><![CDATA[<b>Redefinir</b>]]></text> 
+	</component>
+	
+	<component id="ID_instructions03">
+	  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Arraste e solte as palavras apropriada para concluir as frases. Nem todas as respostas são usadas. Algumas orações podem ter mais de uma resposta correta.]]></text> 
+	</component>
+	
+	<component id="ID_txt01_03">
+	  <text><![CDATA[<b>Time Division Multiplexing é um conceito ______  de camada; ele não tem nada a ver com a natureza dos dados enviados pelo canal.</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt02_03">
+	  <text><![CDATA[<b>Statistical Time Division Multiplexing utiliza um o tamanho de um slot de tempo ______.</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt03_03">
+	  <text><![CDATA[<b> ______ é um exemplo de TDM.</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt04_03">
+	  <text><![CDATA[<b>______ é o ponto da rede em que cessa a responsabilidade da operadora.</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt05_03">
+	  <text><![CDATA[<b>______ é o equipamento local do cliente e fornece a extremidade ______ de uma conexão WAN serial.</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt06_03">
+	  <text><![CDATA[<b> ______ é o tipo de encapsulamento padrão em conexões ponto-a-ponto, links dedicados e conexões de circuito comutado quando o link utiliza dois dispositivos Cisco.</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt07_03">
+	  <text><![CDATA[<b> ______ fornece conexões roteador-a-roteador e host-a-rede em circuitos síncronos e assíncronos.</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt08_03">
+	  <text><![CDATA[<b> ______ é um protocolo da camada de enlace, padrão, comutado, que lida com vários circuitos virtuais. Este é um protocolo da geração seguinte a ______ .</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt09_03">
+	  <text><![CDATA[<b>física</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt10_03">
+	  <text><![CDATA[<b>variável</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt11_03">
+	  <text><![CDATA[<b>ISDN</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt12_03">
+	  <text><![CDATA[<b>demarc</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt13_03">
+	  <text><![CDATA[<b>CPE</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt14_03">
+	  <text><![CDATA[<b>DTE</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt15_03">
+	  <text><![CDATA[<b>HDLC</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt16_03">
+	  <text><![CDATA[<b>PPP</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt17_03">
+	  <text><![CDATA[<b>Frame Relay</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt18_03">
+	  <text><![CDATA[<b>X.25</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt19_03">
+	  <text><![CDATA[<b>SLIP</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt20_03">
+	  <text><![CDATA[<b>DCE</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt21_03">
+	  <text><![CDATA[<b>ATM</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt22_03">
+	  <text><![CDATA[<b>SONET</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt23_03">
+	  <text><![CDATA[<b>V.35</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt24_03">
+	  <text><![CDATA[<b>dial-up</b>]]></text> 
+	</component>
+
+	<!-- Correct Feedback -->
+	<component id="ID_correctTitle03">
+		<text><![CDATA[Corrigir]]></text>
+	</component>
+	
+	<component id="ID_correctText03">
+		<text><![CDATA[Você completou todas as sentenças corretamente.]]></text>
+	</component>
+	
+	<!-- Incorrect Feedback -->
+	<component id="ID_incorrectTitle03">
+		<text><![CDATA[Incorreto]]></text>
+	</component>
+	
+	<component id="ID_incorrectText03">
+		<text><![CDATA[Incorreto, tente novamente.]]></text>
+	</component>
+
+<!-- slide4 -->
+	<component id="ID_check4">
+	  <text><![CDATA[<b>Verificar</b>]]></text> 
+	</component>
+	
+	<component id="ID_reset4">
+	  <text><![CDATA[<b>Redefinir</b>]]></text> 
+	</component>
+	
+	<component id="ID_instructions04">
+	  <text><![CDATA[<font size="14"><b>Atividade</b></font><br/><br/>Digite o comando completo para responder a pergunta. Não abrevie.]]></text> 
+	</component>
+	
+	<component id="ID_txt01_04">
+	  <text><![CDATA[<b>Qual é o comando que verifica se um cabo está conectado à serial 0/0/0 e se ele é DTE ou DCE?</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt02_04">
+	  <text><![CDATA[<b>Qual é o comando que verifica o tipo de encapsulamento utilizado em serial 0/0/0?</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt03_04">
+	  <text><![CDATA[<b>Qual é o comando que redefine o encapsulamento em uma interface Serial para o padrão Cisco?</b>]]></text> 
+	</component>
+	
+	
+	<!-- Correct Feedback -->
+	<component id="ID_correctTitle04">
+		<text><![CDATA[Corrigir]]></text>
+	</component>
+	
+	<component id="ID_correctText04">
+		<text><![CDATA[Você identificou as características das comunicações serial e em paralelo corretamente.]]></text>
+	</component>
+	
+	<!-- Incorrect Feedback -->
+	<component id="ID_incorrectTitle04">
+		<text><![CDATA[Incorreto]]></text>
+	</component>
+	
+	<component id="ID_incorrectText04">
+		<text><![CDATA[Incorreto, tente novamente.]]></text>
+	</component>
+
+</textcomponents>

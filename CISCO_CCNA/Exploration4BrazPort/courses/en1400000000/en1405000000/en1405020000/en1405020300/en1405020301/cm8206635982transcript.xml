@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 08:12:43">
+<title><content-text><![CDATA[5.2.3 - ACL Wildcard Masking]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts examples of wildcard masking for the bits in the fourth octet of an IP address.<br><br>Wildcard mask bit 0 - Match the corresponding bit value in the address. <br>Wildcard mask bit 1 - Ignore the corresponding bit value in the address.<br><br>The following examples are shown:<br><br>Wildcard mask bits: 00000000<br>Result: Match all address bits (match all).<br><br>Wildcard mask bits: 00111111<br>Result: Match the first two address bits, and ignore the last six.<br><br>Wildcard mask bits: 00001111<br>Result: Match the first four address bits, and ignore the last four.<br><br>Wildcard mask bits: 11111100<br>Result: Ignore the first six address bits, and match the last two.<br><br>Wildcard mask bits: 11111111<br>Result: Do not check address bits. Ignore all eight bits in octet.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

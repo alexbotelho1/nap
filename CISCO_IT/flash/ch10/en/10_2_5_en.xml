@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="10_2_5.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_S1_TXT_1">
+        <source>Do:</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_S1_TXT_2">
+        <source>Don&apos;t:</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_S1_TXT_3">
+        <source>Let them finish their statement.</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_S1_TXT_4">
+        <source>Explain that you will have to put them on hold and why.</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_S1_TXT_5">
+        <source>Ask if it is alright to put them on hold.</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_S1_TXT_6">
+        <source>Once given consent, tell them you will be just a minute.</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_S1_TXT_7">
+        <source>Interupt.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_S1_TXT_8">
+        <source>Abruptly put them on hold.</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_S1_TXT_9">
+        <source>Put them on hold without an explanation and their consent.</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_S1_TXT_10">
+        <source>Let them finish their statement.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_S1_TXT_11">
+        <source>Explain that you will have to transfer their call, tell them to whom, and why.</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_S1_TXT_12">
+        <source>Tell them the number you are transferring them to. (e.g. 142)</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_S1_TXT_13">
+        <source>Ask if it is alright to transfer their call now.</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_S1_TXT_14">
+        <source>Once given consent, begin the transfer.</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_S1_TXT_15">
+        <source>Tell the new tech who you are, the ticket number and the name of the customer.</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_S1_TXT_16">
+        <source>Interupt.</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_S1_TXT_17">
+        <source>Abruptly transfer the call.</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_S1_TXT_18">
+        <source>Transfer without an explanation and their consent.</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_S1_TXT_19">
+        <source>Transfer without informing the new tech.</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_S1_TXT_20">
+        <source>Ways to relax</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_S1_TXT_21">
+        <source>Practice relaxed breathing: inhale-hold-exhale-repeat.</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_S1_TXT_22">
+        <source>Listen to soothing sounds.</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_S1_TXT_23">
+        <source>Massage your temples.</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_S1_TXT_24">
+        <source>Take a break - go for a quick walk, or climb a flight of stairs.</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_S1_TXT_25">
+        <source>Eat something small - a snack with protein is best.</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_S1_TXT_26">
+        <source>Plan your weekend.</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_S1_TXT_27">
+        <source>Avoid stimulants like coffee, fizzy drinks and chocolate. All contain caffeine and can add to stress.</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_S1_TXT_28">
+        <source>Negative remarks</source>
+      </trans-unit>
+      <trans-unit id="029" resname="IDS_TITLE1">
+        <source>Workstation Ergonomics    
+</source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_TITLE2">
+        <source>Call Board  </source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_TITLE3">
+        <source>Ways to Relax  </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

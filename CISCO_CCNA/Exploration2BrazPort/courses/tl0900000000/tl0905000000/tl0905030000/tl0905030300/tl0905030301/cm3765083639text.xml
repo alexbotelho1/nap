@@ -1,0 +1,43 @@
+<textcomponents>
+
+<component id="routerIcon">
+<text><![CDATA[<b>Saída do<br>roteador</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Interpretando a saída de<font face="_typewriter"> debug ip rip </font></b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>- Interpretando a saída de<font face="_typewriter"> debug ip rip </font></b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>- R2 recebe uma atualização de R1 que anuncia a LAN diretamente conectada do R1.</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>- R2 recebe uma atualização de R3 que anuncia a LAN diretamente conectada do R3.</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>- R2 envia uma atualização pela Fa0/0 para todas as redes na tabela de roteamento, menos para a rede conectada à Fa0/0.</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>- R2 envia uma atualização pela S0/0/1 para o R3. Incluídos na atualização estão a LAN de R1, a WAN entre R1 e R2 e <br>  a LAN de R2.<br>- Observe que o split horizon está em vigor. R2 não anuncia a LAN do R3 novamente ao R3.</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>- R2 envia uma atualização pela S0/0/0 para o R1. Incluídos na atualização estão a LAN da R3, a WAN entre R2 e R3 e <br>  a LAN de R2.<br>- Observe que o split horizon está em vigor. R2 não anuncia a LAN do R1 novamente ao R1.</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>- Desabilite a depuração com o comando<font face='_typewriter'> undebug all </font>ao concluir.</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Clique para ver uma explicação da saída de comando.</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,47 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<B>Problema comuns em configurações de VLAN</B>]]></text> 
+</component>
+
+<component id="ID_button_01">
+  <text><![CDATA[<B>Cenário</B>]]></text> 
+</component>
+
+<component id="ID_button_02">
+  <text><![CDATA[<B>Configurações</B>]]></text> 
+</component>
+
+<component id="ID_button_03">
+  <text><![CDATA[<B>Solução</B>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<B>Servidor WEB/TFTP<br/>VLAN 10 - 172.17.10.30</B>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<B>Corpo docente<br/>VLAN 10 - 172.17.10.24</B>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<B>Troncos VLAN<br/>Permitidos – 10,99<br/>VLAN nativa – 99</B>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<B>"Não consigo me conectar ao servidor Web"</B>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<B>Corpo docente<br/>VLAN 10 -172.172.10.21</B>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<B>Saída do comando de PC1</B>]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<B>Saída do comando do computador PC1</B>]]></text> 
+</component>
+
+</textcomponents>

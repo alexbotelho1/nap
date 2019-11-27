@@ -1,0 +1,72 @@
+<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Associação entre cliente e ponto de acesso</b>]]></text>
+</component>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Beacon</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Investigação</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Autenticação</b>]]></text>
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<b>Associação</b>]]></text>
+</component>
+
+<component id="ID_bubble01">
+<text><![CDATA[<b>Cliente 802.11b força clientes mais rápidos que disputam pelo canal a aguardar mais.</b>]]></text>
+</component>
+
+<component id="ID_bubble02">
+<text><![CDATA[<b>Ponto de acesso</b>]]></text>
+</component>
+
+<component id="ID_lazyText01">
+<text><![CDATA[<b>O ponto de acesso emite beacons periodicamente:<br/><ul><li>SSID</li><li>Taxas suportadas</li><li>Implementação de segurança (por exemplo, WPA2)</li><br/>Clientes com placas de rede de rádio "ouvem" o beacon</b>]]></text>
+</component>
+
+<component id="ID_lazyText02">
+<text><![CDATA[<b><font size='14'>Etapa 1 – 802.11 – Investigação</font></b>]]></text>
+</component>
+
+<component id="ID_lazyText03">
+<text><![CDATA[<b>O cliente envia investigação:<ul><li>SSID</li><li>Taxas suportadas</li></ul></b>]]></text>
+</component>
+
+<component id="ID_lazyText04">
+<text><![CDATA[<b>O ponto de acesso envia resposta à probe:<ul><li>SSID</li><li>Taxas suportadas</li><li>Implementação de segurança</li></ul></b>]]></text>
+</component>
+
+<component id="ID_lazyText05">
+<text><![CDATA[<b><font size='14'>Etapa 2 – 802.11 – Autenticação</font></b>]]></text>
+</component>
+
+<component id="ID_lazyText06">
+<text><![CDATA[<b>Solicitação de autenticação aberta:<ul><li>Tipo (Aberta, chave compartilhada)</li><li>Chave (se o tipo é chave compartilhada)</li></ul></b>]]></text>
+</component>
+
+<component id="ID_lazyText07">
+<text><![CDATA[<b>Resposta de autenticação:<ul><li>Tipo</li><li>Chave</li><li>"Com sucesso" ou "Sem sucesso"</li></ul></b>]]></text>
+</component>
+
+<component id="ID_lazyText08">
+<text><![CDATA[<b><font size='14'>Etapa 3 – 802.11 – Associação</font></b>]]></text>
+</component>
+
+<component id="ID_lazyText09">
+<text><![CDATA[<b>Solicitação de associação:<ul><li>Endereço MAC do cliente</li><li>Endereço MAC do ponto de acesso (BSSID)</li><li>Identificador ESS (ESSID)</li></ul></b>]]></text>
+</component>
+
+<component id="ID_lazyText10">
+<text><![CDATA[<b>Resposta de associação:<ul><li>"Com sucesso" ou "Sem sucesso"</li><li>Identificador de associação (AID) se a associação é efetuada com sucesso</li></ul></b>]]></text>
+</component>
+
+
+</textcomponents>

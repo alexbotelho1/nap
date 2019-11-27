@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en">
+
+  <file datatype="plaintext" original="16_2_2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ISLQ3-QCORRECT_TEXT">
+        <source>&lt;b&gt;Correto!&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ISLQ3-QOPTION_TEXT1">
+        <source>Usa um chip de circuito integrado incorporado para armazenar os dados com segurança</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ISLQ3-QOPTION_TEXT2">
+        <source>Protege um computador de usuários não-autorizados</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ISLQ3-QOPTION_TEXT3">
+        <source>Use as características físicas do usuário como um auxílio para uma identificação positiva</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ISLQ3-QQUESTION_TEXT">
+        <source>&lt;b&gt;Selecione sua resposta arrastando as opções para a posição desejada e clique em Verificar.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ISLQ3-QSLOTLABEL_TEXT1">
+        <source>&lt;b&gt;Cartão inteligente&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_ISLQ3-QSLOTLABEL_TEXT2">
+        <source>&lt;b&gt;Chaveiro&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_ISLQ3-QSLOTLABEL_TEXT3">
+        <source>&lt;b&gt;Dispositivos biométricos&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_ISLQ3-QTITLE_TEXT">
+        <source>Atividade de segurança física</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_ISLQ3-QTRYAGAIN_TEXT">
+        <source>&lt;b&gt;Tente novamente.&lt;/b&gt;</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_TITLE1">
+        <source>Técnica de segurança de dois fatores</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_TITLE2">
+        <source>Identificar dispositivos de segurança de dados </source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_TXT_001">
+        <source>+</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_TXT_02">
+        <source>Senha (proteção adequada)</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_TXT_002">
+        <source>=</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_TXT_03">
+        <source>Biometria ou cartão inteligente (proteção adequada)</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TXT_04">
+        <source>Segurança de dois fatores (proteção muito melhor)          </source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TXT_05">
+        <source>Senha</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TXT_11">
+        <source>Cartão inteligente</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TXT_12">
+        <source>Chaveiro</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TXT_13">
+        <source>Dispositivo biométrico</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TXT_14">
+        <source>Um dispositivo com um chip de circuito integrado incorporado que armazena grandes quantidades de dados com segurança
+</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TXT_15">
+        <source>A presença desse dispositivo assegura que o usuário correto está próximo do computador
+</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TXT_16">
+        <source>Use as características físicas do usuário como um auxílio para uma identificação positiva</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

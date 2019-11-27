@@ -1,0 +1,45 @@
+<textcomponents>
+
+<component id="ID_capt01">
+  <text><![CDATA[<B>WAN do Frame Relay</B>]]></text> 
+</component>
+
+
+<component id="ID_txt01">
+  <text><![CDATA[<B>Terminal</B>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<B>PC</B>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<B>Servidor de arquivos</B>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<B>O Frame Relay especifica como os dados se movem entre o DTE e o DCE nos loops locais.</B>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<B>WAN Frame Relay é uma malha de switches interconectados por linhas de tronco.</B>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<B>O Frame Relay não especifica como os quadros se movem entre os DCEs na WAN.</B>]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<B>ETTD</B>]]></text> 
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<B>ETTD</B>]]></text> 
+</component>
+
+<component id="ID_txt09">
+  <text><![CDATA[<B>ETTD</B>]]></text> 
+</component>
+
+
+</textcomponents>

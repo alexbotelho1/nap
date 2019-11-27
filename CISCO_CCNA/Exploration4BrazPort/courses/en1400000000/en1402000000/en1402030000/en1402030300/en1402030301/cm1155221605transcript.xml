@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 11:11:57">
+<title><content-text><![CDATA[2.3.3 - Verifying a Serial P P P Encapsulation Configuration]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts commands used to verify a serial P P P encapsulation configuration as follows: <br><br>In the terminal window, output from the show interfaces serial 0/0/0 command is displayed. The following lines are highlighted:<br>- Serial 0/0/0 is up, line protocol is up.<br>- Encapsulation P P P, LCP Open.<br><br>P P P Verification and Debug Commands:<br><br>Command: show interfaces.<br>Description: Displays statistics for all interfaces configured on the router or access server.<br><br>Command: show interfaces serial.<br>Description: Displays information about a serial interface.<br><br>Command: debug p p p.<br>Description: Debugs P P P.<br><br>Command: undebug all.<br>Description: Turns off all debugging displays.]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

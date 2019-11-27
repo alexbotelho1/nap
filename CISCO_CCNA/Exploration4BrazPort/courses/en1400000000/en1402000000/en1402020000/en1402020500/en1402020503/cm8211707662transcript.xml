@@ -1,0 +1,5 @@
+<transcript lastedited="11.17.08 11:11:06">
+<title><content-text><![CDATA[2.2.5  - Establishing a Link with LCP]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts P P P configuration options. P P P can be configured to support various functions including:<br>- Authentication using either PAP or CHAP.<br>- Compression using either Stacker or Predictor.<br>- Multilink, which combines two or more channels to increase the WAN bandwidth.<br><br>LCP Option Field:<br>To negotiate the use of these P P P options, the LCP link-establishment frame contains option information in the Data field of the LCP frame.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>

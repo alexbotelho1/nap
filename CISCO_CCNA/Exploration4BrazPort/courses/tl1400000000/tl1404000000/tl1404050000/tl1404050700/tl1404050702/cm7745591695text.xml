@@ -1,0 +1,92 @@
+<textcomponents>
+<component id="ID_Title01">
+<text><![CDATA[<b>Procedimento de recuperação de senha do roteador</b>]]></text>
+</component>
+<component id="ID_inst">
+  <text><![CDATA[<b>Prepare R1 para recuperação de senha, iniciando-o no modo ROMmon.</b>]]></text> 
+  </component>
+<component id="ID_inst2">
+  <text><![CDATA[<b>Habilite a configuração do roteador, mas ignore a configuração de inicialização existente.</b>]]></text>
+  </component>
+<component id="ID_inst3">
+  <text><![CDATA[<b>Disponibilize a configuração de inicialização para exibição.</b>]]></text> 
+  </component>
+<component id="ID_inst4">
+  <text><![CDATA[<b>Redefina as senhas.</b>]]></text>
+  </component>
+<component id="ID1_txt01">
+  <text><![CDATA[Conexão de console]]></text> 
+  </component>
+<component id="ID1_txt02">
+  <text><![CDATA[Administrador de sistema]]></text> 
+  </component>
+<component id="ID1_txt01_2">
+  <text><![CDATA[Conexão de console]]></text> 
+  </component>
+<component id="ID1_txt02_2">
+  <text><![CDATA[Administrador de sistema]]></text> 
+  </component>
+<component id="ID1_txt01_3">
+  <text><![CDATA[Conexão de console]]></text> 
+  </component>
+<component id="ID1_txt02_3">
+  <text><![CDATA[Administrador de sistema]]></text> 
+  </component>
+<component id="ID1_txt01_4">
+  <text><![CDATA[Conexão de console]]></text> 
+  </component>
+<component id="ID1_txt02_4
+">
+  <text><![CDATA[Administrador de sistema]]></text> 
+  </component>
+<component id="ID_button1">
+  <text><![CDATA[<b>Preparar o dispositivo</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Ignorar inicialização</b>]]></text> 
+</component>
+<component id="ID_button3">
+  <text><![CDATA[<b>Acessar NVRAM</b>]]></text> 
+</component>
+<component id="ID_button4">
+  <text><![CDATA[<b>Redefinir senhas</b>]]></text> 
+</component>
+<component id="ID_routerIcon">
+  <text><![CDATA[<b>Config</b>]]></text> 
+</component>
+<component id="ID_routerIcon1">
+  <text><![CDATA[<b>Config</b>]]></text> 
+</component>
+<component id="ID_routerIcon2">
+  <text><![CDATA[<b>Config</b>]]></text> 
+</component>
+<component id="ID_routerIcon3">
+  <text><![CDATA[<b>Config</b>]]></text> 
+</component>
+<component id="ID_bubble1">
+  <text><![CDATA[1) <textformat blockindent="17">O administrador define parâmetros de conexão da console.</textformat><br/>2) <textformat blockindent="17">Registre o valor de registro de configuração.</textformat><br/>3) <textformat blockindent="17">Desliga e liga o roteador.</textformat><br/>4) <textformat blockindent="17">Pressiona “Break” no terminal em 60 segundos após a inicialização para colocar o roteador em ROMmon.</textformat>]]></text>
+</component>
+<component id="ID_bubble2">
+<text><![CDATA[5) <textformat blockindent="17">Altere a configuração do registro de configuração.</textformat><br/>6) <textformat blockindent="17">Reinicie. Ignore a configuração salva.</textformat><br/>7) <textformat blockindent="17">Passe ao procedimento de instalação inicial.</textformat><br/>8) <textformat blockindent="17">Digite <font face='_typewriter'><b>enable </b></font>para chegar ao prompt de configuração.</textformat>]]></text>
+</component>
+<component id="ID_bubble3">
+<text><![CDATA[9) <textformat blockindent="17">Copie a configuração de inicialização da NVRAM para a configuração em execução na RAM.</textformat><br/>10) <textformat blockindent="23">Exiba as senhas, executando <font face='_typewriter'><b>show running-config </b></font>.</textformat>]]></text>
+</component>
+<component id="ID_bubble4">
+<text><![CDATA[11) <textformat blockindent="23">Habilite o modo de configuração global.</textformat><br/>12) <textformat blockindent="23">Defina uma nova senha secreta.</textformat><br/>13) <textformat blockindent="23">Emita <font face="_typewriter">no shutdown</font> em todas as interfaces operacionais no roteador.</textformat><br/>14) <textformat blockindent="237">Defina o local do registro de configuração.</textformat><br/>15) <textformat blockindent="23">Saia do modo de configuração.</textformat><br/>16) <textformat blockindent="23">Confirme as alterações.</textformat>]]></text>
+</component>
+
+<component id="ID_s1_1">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_2">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_3">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+<component id="ID_s1_4">
+<text><![CDATA[<b>S1</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,36 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Identificação e solução de problemas de ACL comuns</b>]]></text>
+</component>
+<component id="ID_btn1">
+  <text><![CDATA[Erro nº 1]]></text> 
+  </component>
+<component id="ID_btn2">
+  <text><![CDATA[Erro nº 2]]></text> 
+  </component>
+<component id="ID_btn3">
+  <text><![CDATA[Erro nº 3]]></text> 
+  </component>
+<component id="ID_btn4">
+  <text><![CDATA[Erro nº 4]]></text> 
+  </component>
+<component id="ID_btn5">
+  <text><![CDATA[Erro nº 5]]></text> 
+  </component>
+<component id="ID_txt01">
+  <text><![CDATA[<b>Erro n° 1:<BR/>O host 192.168.10.10 não tem nenhuma conectividade com 192.168.30.12</b>]]></text> 
+  </component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Erro n° 2:<BR/>A rede 192.168.10.0 /24 não pode utilizar TFTP para se conectar à 192.168.30.0 /24.</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Erro n° 3:<BR/>A rede 192.168.10.0 /24 pode utilizar Telnet para se conectar a 192.168.30.0 /24, mas essa conexão não deve ser permitida.</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+    <text><![CDATA[<b>Erro n° 4:<BR/>O host 192.168.10.10 pode utilizar Telnet para se conectar a 192.168.30.12, mas essa conexão não deve ser permitida.</b>]]></text> 
+  </component>
+ <component id="ID_txt05">
+      <text><![CDATA[<b>Erro n° 5:<BR/>O host 192.168.30.12 pode utilizar Telnet para se conectar a 192.168.10.10, mas essa conexão não deve ser permitida.</b>]]></text> 
+  </component>
+
+</textcomponents>

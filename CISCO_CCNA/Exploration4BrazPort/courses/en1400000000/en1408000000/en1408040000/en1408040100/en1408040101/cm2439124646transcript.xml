@@ -1,0 +1,5 @@
+<transcript lastedited="12.03.08 13:12:51">
+<title><content-text><![CDATA[8.4.1 - Interpreting Network Diagrams to Identify Problems]]></content-text></title>
+<brief><content-text><![CDATA[The diagram depicts a physical network diagram and a logical network diagram. The diagram shows a network with PC's, switches, routers, servers, network clouds, and connection links.<br><br>Physical Network Diagram:<br>Equipment locations are identified based on building, room number, wiring closet, rack, and shelf. Physical device names are listed as well as the name and type of WAN circuits.<br><br>Logical Network Diagram:<br>The same equipment is shown but the focus is on logical IP addressing and the interfaces used, not on physical location.<br>]]></content-text></brief>
+<full><content-text><![CDATA[FULL - NOT FOR PRODUCTION]]></content-text></full>
+</transcript>
